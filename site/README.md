@@ -14,3 +14,6 @@
 4. 같은 아티팩트 주소로 다시 게시한다: 진입 페이지는 `site/dist/artifact_index.html`, 아티클 페이지는 `site/dist/manifest.json`의 `pages` 목록을 같은 경로로 함께 올린다.
 
 `site/dist/index.html`은 완전한 HTML 문서라 GitHub Pages 같은 정적 호스팅에도 그대로 쓸 수 있다.
+
+## AI Chat
+`site/chat.html`이 포털과 모든 아티클·변경 이력 페이지에 들어간다(`build_site.py`가 페이지 끝에 삽입). 아티클 페이지에서는 현재 페이지의 질문 번호를 질문 맥락으로 넘기고 추천 질문을 바꾼다. 답변은 보는 사람의 Claude 로그인(`sample` 기능)으로 처리되어, Claude 아티팩트 밖에서는 버튼이 보이지 않는다.

@@ -101,6 +101,14 @@ exec(compile((SITE / "changes.py").read_text(encoding="utf-8"), "changes.py", "e
 exec(compile((SITE / "portal.py").read_text(encoding="utf-8"), "portal.py", "exec"))
 exec(compile((SITE / "menu.py").read_text(encoding="utf-8"), "menu.py", "exec"))
 
+# ---------------------------------------------------------------- 모든 페이지에 AI Chat
+for _x in pages + ["changes.html"]:
+    _f = DIST / _x
+    _depth = _x.count("/")
+    _here = _x.split("/")[1].upper() if _depth == 2 else ""
+    _s = _f.read_text(encoding="utf-8")
+    _f.write_text(_s.replace("</body>", chat_for("../" * _depth, _here) + "</body>", 1), encoding="utf-8")
+
 # ---------------------------------------------------------------- 점검
 bad = []
 for p in [DIST / "index.html", DIST / "changes.html"] + [DIST / x for x in pages]:

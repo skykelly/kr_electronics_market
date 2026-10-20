@@ -183,7 +183,16 @@ CHAT_DATA = {"generated": str(TODAY), "categories": [f"{c['no']:02d} {c['name']}
              "forecasts": [{"due": r["due"], "id": r["id"], "text": r["statement"]} for r in due_soon]}
 CHAT_HTML = ((SITE / "chat.html").read_text(encoding="utf-8")
              .replace("%%ICON%%", (SITE / "ai_icon.txt").read_text(encoding="utf-8").strip())
-             .replace("%%DATA%%", json.dumps(CHAT_DATA, ensure_ascii=False).replace("</", "<\\/")))
+             .replace("%%DATA%%", json.dumps(CHAT_DATA, ensure_ascii=False).replace("</", "<\\/"))
+             .replace("%%HERE%%", '""'))
+
+def chat_for(prefix, here):
+    """하위 페이지용 채팅: 아티클 경로에 상대 접두를 붙이고 현재 페이지 질문 번호를 알려 준다."""
+    d = dict(CHAT_DATA, questions=[dict(q, path=prefix + q["path"]) for q in CHAT_DATA["questions"]])
+    return ((SITE / "chat.html").read_text(encoding="utf-8")
+            .replace("%%ICON%%", (SITE / "ai_icon.txt").read_text(encoding="utf-8").strip())
+            .replace("%%DATA%%", json.dumps(d, ensure_ascii=False).replace("</", "<\\/"))
+            .replace("%%HERE%%", json.dumps(here, ensure_ascii=False)))
 
 CSS = (ROOT / "lib" / "article.css").read_text(encoding="utf-8").split("/* 한 줄 답 */")[0]
 PORTAL_CSS = (SITE / "portal.css").read_text(encoding="utf-8")
