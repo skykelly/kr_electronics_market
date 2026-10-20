@@ -249,3 +249,6 @@ table.crit .pips { white-space: nowrap; }
 table.ledger td.tgt{white-space:nowrap;font-weight:600}
 table.ledger td{vertical-align:top;font-size:.92rem;line-height:1.55}
 @media (max-width:640px){table.ledger td.tgt{white-space:normal}}
+.reasons .frs{margin:0;padding-left:1.2em;display:grid;gap:18px}
+.reasons .fq{margin:0 0 6px;font-weight:600;line-height:1.6}
+.reasons .evd dd{line-height:1.7}

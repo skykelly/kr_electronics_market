@@ -101,7 +101,19 @@ def main(qdir, rnd=None):
         f'<td>{E(r["statement"])}</td><td>{tags(r["basis"])}</td><td class="idc"><code>{E(r["id"])}</code></td></tr>' for r in interps)
 
     # 5. 회사 공식 계획(전망)
-    plans = sorted([r for r in live if r["type"] == "전망"], key=lambda r: (r["due"], r["id"]))
+    allf = sorted([r for r in live if r["type"] == "전망"], key=lambda r: (r["due"], r["id"]))
+    plans = [r for r in allf if r.get("forecast_kind", "회사 계획") == "회사 계획"]
+    afc = [r for r in allf if r.get("forecast_kind") == "분석 전망"]
+    frows, freas = "", ""
+    for r in afc:
+        res = f'<small>판정: {E(r["result"])}</small>' if r.get("result") else ""
+        frows += (f'<tr id="{E(r["id"])}"><td class="stmt"><b>{E(r["statement"])}</b><small>조건: {E(r["condition"])}</small><small>판정 방법: {E(r["method"])}</small>{res}</td>'
+                  f'<td class="asof">{E(r["due"])}</td><td><span class="fstat">{E(r.get("forecast_status", "진행 중"))}</span></td>'
+                  f'<td>{tags(r.get("basis", []))}</td><td class="idc"><code>{E(r["id"])}</code></td></tr>')
+        hist = f'<dt>과거 반복</dt><dd>{E(r["history"])}</dd>' if r.get("history") else ""
+        freas += (f'<li><p class="fq"><code>{E(r["id"])}</code> {E(r["statement"])} <span class="bdg per">마감 {E(r["due"])}</span></p>'
+                  f'<dl class="evd"><dt>예측 근거</dt><dd>{E(r["reasoning"])} {tags(r.get("basis", []))}</dd>{hist}'
+                  f'<dt>틀릴 수 있는 이유</dt><dd>{E(r["counter"])}</dd></dl></li>')
     prows = ""
     for r in plans:
         ab = r["announced_by"]
@@ -156,6 +168,10 @@ def main(qdir, rnd=None):
     if interps:
         sec.append(f'<section><h2>해석 기록 <small>사실 기록 2건 이상을 근거로 연결한 것만</small></h2>'
                    f'<div class="tablewrap"><table><thead><tr><th>방향</th><th>대상</th><th>해석</th><th>근거</th><th>기록</th></tr></thead><tbody>{irows}</tbody></table></div></section>')
+    if afc:
+        sec.append(f'<section><h2>분석 전망 <small>판정 가능한 문장만 · 작성일로부터 6~18개월 · 맞음/틀림을 기록</small></h2>'
+                   f'<div class="tablewrap"><table><thead><tr><th>전망</th><th>마감</th><th>상태</th><th>근거</th><th>기록</th></tr></thead><tbody>{frows}</tbody></table></div></section>')
+        sec.append(f'<section class="reasons"><h2>예측 근거 <small>근거 기록 · 과거 반복 · 반대 근거</small></h2><ol class="frs narrow">{freas}</ol></section>')
     if plans:
         sec.append(f'<section><h2>회사 공식 계획 <small>발표된 목표·계획만, 이행 여부를 추적</small></h2>'
                    f'<div class="tablewrap"><table><thead><tr><th>계획</th><th>확인 시점</th><th>발표 출처</th><th>상태</th><th>근거</th></tr></thead><tbody>{prows}</tbody></table></div></section>')
@@ -187,7 +203,7 @@ def main(qdir, rnd=None):
     bad = sorted({i for i in re.findall(r'href="#(%s-[A-Z]-\d{3})"' % qno, page) if i not in anchors})
     last = events[0]["date"] if events else "—"
     signal = {"question": qno, "round": rnd, "kind": "text",
-              "chip": f"최근 사건 {last}", "text": f"사건 {len(events)} · 지표 {len(metrics)} · 해석 {len(interps)} · 계획 {len(plans)}"}
+              "chip": f"최근 사건 {last}", "text": f"사건 {len(events)} · 지표 {len(metrics)} · 해석 {len(interps)} · 전망 {len(afc)} · 계획 {len(plans)}"}
     (qdir / f"signal_r{rnd}.json").write_text(json.dumps(signal, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{qdir}/article_r{rnd}.html 생성 ({len(page)} bytes); 앵커 없는 근거 링크: {bad or '없음'}")
     return 1 if bad else 0

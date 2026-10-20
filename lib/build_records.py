@@ -19,7 +19,8 @@ CLAIMS = ("자사 집계", "외부 검증", "공시", "해당 없음")
 EVENT_TYPES = ("전략·조직", "제품 출시", "AI·연결", "마케팅", "채널·매장", "판촉", "구독·케어·AS", "제휴·협업", "실적·시장", "인증·규제", "기타")
 RECUR = ("정기", "비정기", "해당 없음")
 DIRS = ("강화", "약화", "중립")
-FSTAT = ("진행 중", "이행", "미이행", "변경", "만료")
+FSTAT = ("진행 중", "이행", "미이행", "변경", "만료", "맞음", "틀림", "판정 불가")
+FKIND = ("회사 계획", "분석 전망")
 DATE_RE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 
 
@@ -108,14 +109,35 @@ def validate(recs, qno):
             if r.get("direction") not in DIRS or not r.get("target"):
                 errs.append(f"{rid}: direction/target 오류")
         if t == "전망":
-            for k in ("due", "method", "announced_by"):
-                if not r.get(k):
-                    errs.append(f"{rid}: 전망에 {k} 없음 (회사 공식 발표 계획만 기록)")
+            kind = r.get("forecast_kind", "회사 계획")
+            if kind not in FKIND:
+                errs.append(f"{rid}: forecast_kind는 {FKIND}")
             if not DATE_RE.match(r.get("due") or ""):
                 errs.append(f"{rid}: due 날짜 형식 오류")
-            ab = r.get("announced_by")
-            if isinstance(ab, dict) and not ab.get("url"):
-                errs.append(f"{rid}: announced_by에 url 필요")
+            if kind == "회사 계획":
+                for k in ("due", "method", "announced_by"):
+                    if not r.get(k):
+                        errs.append(f"{rid}: 회사 계획에 {k} 없음 (회사 공식 발표 계획만 기록)")
+                ab = r.get("announced_by")
+                if isinstance(ab, dict) and not ab.get("url"):
+                    errs.append(f"{rid}: announced_by에 url 필요")
+            else:
+                for k in ("due", "condition", "method", "reasoning", "counter"):
+                    if not (r.get(k) or "").strip():
+                        errs.append(f"{rid}: 분석 전망에 {k} 없음")
+                b = r.get("basis") or []
+                facts = [x for x in b if ids.get(x, {}).get("type") in ("지표", "사건")]
+                inter = [x for x in b if ids.get(x, {}).get("type") == "해석"]
+                if len(facts) < 2 or len(inter) < 1:
+                    errs.append(f"{rid}: 분석 전망은 사실 기록 2건 이상 + 해석 1건 이상을 basis로 연결")
+                made = r.get("made_on") or r.get("added_on")
+                if made and DATE_RE.match(r.get("due") or "") and len(r["due"]) >= 7:
+                    def ym(d): return int(d[:4]) * 12 + int(d[5:7])
+                    gap = ym(r["due"]) - ym(made)
+                    if not (6 <= gap <= 18):
+                        errs.append(f"{rid}: 분석 전망 마감은 작성일로부터 6~18개월 (현재 {gap}개월)")
+                if r.get("forecast_status", "진행 중") in ("이행", "미이행") :
+                    errs.append(f"{rid}: 분석 전망 판정은 맞음/틀림/판정 불가로 기록")
             for x in r.get("basis") or []:
                 if x not in ids:
                     errs.append(f"{rid}: basis {x} 없음")
