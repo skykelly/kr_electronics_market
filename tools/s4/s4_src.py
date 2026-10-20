@@ -1,0 +1,53 @@
+# S4 출처 사전: 이번 세션에서 직접 연 페이지만. S3 사전(S1·S2 포함)을 이어받는다.
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "s3"))
+from s3_src import SRC as BASE
+NR="삼성전자 뉴스룸"
+E4={
+ "etoday_2009":("B","이투데이","https://www.etoday.co.kr/news/view/205941","2009-02-02"),
+ "sat_muphoong":("B","토요경제","https://www.sateconomy.co.kr/news/view/179587241603522","2016-01-25"),
+ "sat_song":("B","토요경제","https://www.sateconomy.co.kr/news/view/179587140266202","2016-04-03"),
+ "sat_song10m":("B","토요경제","https://www.sateconomy.co.kr/news/view/179587435573548","2016-04-18"),
+ "nr_care2017":("A",NR,"https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%ac%b4%ed%92%8d%ec%97%90%ec%96%b4%ec%bb%a8-%ec%86%8c%eb%b9%84%ec%9e%90-%ec%b2%b4%ed%97%98-%ec%98%81%ec%83%81-15%ec%9d%bc-%eb%a7%8c%ec%97%90-350","2017-04-16"),
+ "daum_bespoke19":("C","웨딩21뉴스(다음 게재)","https://v.daum.net/v/20190615120002409","2019-06-15"),
+ "etoday_bespoke19":("B","이투데이","https://www.etoday.co.kr/news/view/1770530","2019-06-26"),
+ "dailian_grande20":("B","데일리안","https://www.dailian.co.kr/news/view/864513","2020-01-29"),
+ "inews_slogan":("B","아이뉴스24","https://www.inews24.com/view/1274023","2020-06-17"),
+ "kg_slogan":("B","경기일보","https://kyeonggi.com/article/202006171129456","2020-06-17"),
+ "ekn_bts":("B","EKN","https://m.ekn.kr/view.php?key=530139","2020-10-23"),
+ "kg_bts":("B","경기일보","https://kyeonggi.com/article/202010251142796","2020-10-25"),
+ "kg_studio":("B","경기일보","https://kyeonggi.com/article/202011151145501","2020-11-15"),
+ "inews_bh21":("B","아이뉴스24","https://www.inews24.com/view/1348422","2021-03-09"),
+ "inews_bh21g":("B","아이뉴스24","https://www.inews24.com/view/1366175","2021-05-11"),
+ "aju_comebh":("B","아주경제","https://www.ajunews.com/view/20210607084047296","2021-06-07"),
+ "munhwa_wed21":("B","문화일보","https://www.munhwa.com/article/11253753","2021-08-01"),
+ "dailian_bh22":("B","데일리안","https://www.dailian.co.kr/news/view/1084097/","2022-02-17"),
+ "nr_grande22":("A",NR,"https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%B9%84%EC%8A%A4%ED%8F%AC%ED%81%AC-%EA%B7%B8%EB%9E%91%EB%8D%B0-ai-%EA%B7%B8%EB%9E%91%EB%8D%B0ai%EC%99%80-%EC%82%AC%EB%8A%94-%EC%84%B8%EC%83%81-%ED%8A%B9","2022-06-01"),
+ "inews_fan":("B","아이뉴스24","https://www.inews24.com/view/1491366","2022-06-20"),
+ "st_ildo":("B","스마트투데이","https://www.smarttoday.co.kr/ko-kr/articles/23632","2022-06-27"),
+ "dd_heyy":("B","디지털데일리","https://www.ddaily.co.kr/page/view/2022110711300876609","2022-11-07"),
+ "econ_award22":("B","이코노미스트","https://economist.co.kr/article/view/ecn202212170022","2022-12-17"),
+ "nr_goeson":("A",NR,"https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%b9%84%ec%8a%a4%ed%8f%ac%ed%81%ac-%ea%b3%a0%ec%a6%88-%ec%98%a8-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%98%81%ec%83%81-2000%eb%a7%8c-%eb%b7%b0-%eb%8f%8c%ed%8c%8c","2023-07-11"),
+ "nd_gangnam":("B","뉴데일리","https://biz.newdaily.co.kr/site/data/html/2023/06/28/2023062800110.html","2023-06-28"),
+ "munhwa_rug":("B","문화일보","https://www.munhwa.com/article/11378596","2023-08-17"),
+ "metro_rug":("B","메트로신문","https://www.metroseoul.co.kr/article/20240307500510","2024-03-07"),
+ "st_outdoor24":("B","스마트투데이","https://www.smarttoday.co.kr/ko-kr/articles/46266","2024-03-24"),
+ "sat_wtb":("B","시사경제신문","https://www.sateconomy.co.kr/news/view/1065580436772968","2024-04-03"),
+ "st_teamai":("B","스마트투데이","https://www.smarttoday.co.kr/ko-kr/articles/49121","2024-04-26"),
+ "nr_io2":("A",NR,"https://news.samsung.com/kr/%eb%b9%84%ec%8a%a4%ed%8f%ac%ed%81%ac-ai-%ec%bd%a4%eb%b3%b4%ec%99%80-%ec%98%81%ed%99%94-%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-%ec%95%84%ec%9b%83-2%ec%9d%98-%ed%8a%b9","2024-05-28"),
+ "metro_io2":("B","메트로신문","https://www.metroseoul.co.kr/article/20240630500193","2024-06-30"),
+ "st_award25":("B","스마트투데이","https://www.smarttoday.co.kr/ko-kr/articles/75099","2025-03-13"),
+ "sidae_award25":("B","시사오늘","https://www.sidae.com/article/2025031311072266130","2025-03-13"),
+ "tf_award25":("B","더팩트 계열 TF미디어","https://tfmedia.co.kr/news/article.html?no=181363","2025-03-13"),
+ "herald_trio":("B","헤럴드경제","https://mbiz.heraldcorp.com/article/10475195","2025-04-28"),
+ "segye_trio":("B","세계일보","https://www.segye.com/newsView/20250506505378","2025-05-06"),
+ "st_festa":("B","스마트투데이","https://www.smarttoday.co.kr/ko-kr/articles/82283","2025-06-01"),
+ "sat_festa":("B","시사경제신문","https://sateconomy.co.kr/news/view/1065572564507985","2025-06-02"),
+ "hk_trio_jul":("B","한국경제","https://www.hankyung.com/article/202507300580g","2025-07-30"),
+ "inews_trio_view":("B","아이뉴스24","https://www.inews24.com/view/1872122","2025-08-01"),
+ "heraldk_ac26":("B","헤럴드경제","https://www.heraldk.com/article/2026020418000216090","2026-02-04"),
+ "hk_comb26":("B","한국경제","https://www.hankyung.com/amp/202603268956i","2026-03-26"),
+ "nocut_kes26":("B","노컷뉴스","https://www.nocutnews.co.kr/news/6590426","2026-10-13"),
+}
+SRC=dict(BASE); SRC.update(E4)
