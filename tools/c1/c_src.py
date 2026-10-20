@@ -177,3 +177,7 @@ SRC.update({
 "sq26q1":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2026년-1분기-실적-발표","2026-04-30"),
 "sq26q2":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2026년-2분기-실적-발표","2026-07-30"),
 })
+SRC.update({
+"wd_ns2505":S("B","뉴시스","https://www.newsis.com/view/NISX20250522_0003186593","2025-05-22"),
+"wd_dd2505":S("B","디지털데일리","https://www.ddaily.co.kr/page/view/2025052212155760312","2025-05-22"),
+})
