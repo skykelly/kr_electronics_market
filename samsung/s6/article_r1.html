@@ -242,10 +242,20 @@ table.crit .pips { white-space: nowrap; }
 .ext { font-size: 12px; color: var(--muted); margin-top: 6px; }
 .ext.warnline { color: var(--amber); }
 @media (max-width: 640px) { .evd { grid-template-columns: 1fr; } .timeline li { grid-template-columns: 1fr; gap: 4px; } }
+/* 인사이트 요약 · 서술형 해석 · 원장 */
+.insights .ins{margin:0;padding-left:1.4em;display:grid;gap:14px}
+.insights .ins li{padding-left:4px}
+.insights .ins b{display:block;font-size:1.02rem;color:var(--signal-ink);margin-bottom:4px}
+.insights .ins p{margin:0;line-height:1.7}
+.narrative .prose h3{font-size:1.02rem;margin:22px 0 6px;color:var(--signal-ink)}
+.narrative .prose p{line-height:1.8;margin:0 0 12px}
+table.ledger td.tgt{white-space:nowrap;font-weight:600}
+table.ledger td{vertical-align:top;font-size:.92rem;line-height:1.55}
+@media (max-width:640px){table.ledger td.tgt{white-space:normal}}
 </style>
 <main>
   <header class="narrow">
-    <div class="eyebrow"><span>Samsung Korea Appliances</span><span>S6 · 판촉 프로그램</span><span>R1 R1 기준 회차(백필) · 2026-10-20</span></div>
+    <div class="eyebrow"><span>Samsung Korea Appliances</span><span>S6 · 판촉 프로그램</span><span>R1 시범 회차(R0) · 재조사 예정 · 2026-10-20</span></div>
     <h1>삼성 판촉: 정기 세일 페스타와 비정기 행사</h1>
     <p class="question">고정 질문 v1.0 — 판촉 프로그램은 정기·비정기로 어떻게 운영되고, 무엇이 바뀌고 있는가?</p>
   </header>

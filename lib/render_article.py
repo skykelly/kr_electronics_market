@@ -118,11 +118,35 @@ def main(qdir, rnd=None):
         f'<tr><td><code>{E(r["id"])}</code></td><td><span class="wk">{"원문 미확인" if not r.get("verified") else "주의"}</span></td>'
         f'<td>{E(r["statement"])}</td><td class="muted">{E("; ".join(r.get("check_flags", [])))}</td></tr>' for r in warns)
 
+    # 7. 인사이트 요약 · 서술형 해석 · 원장 (meta.json 의 insights / narrative / ledger)
+    ins = meta.get("insights", [])
+    insh = "".join(
+        f'<li><b>{E(x["title"])}</b><p>{E(x["text"])} {tags(x.get("basis", []))}</p></li>' for x in ins)
+    narr = ""
+    for blk in meta.get("narrative", []):
+        narr += f'<h3>{E(blk["heading"])}</h3>' if blk.get("heading") else ""
+        for para in blk.get("paras", []):
+            narr += f'<p>{E(para["text"])} {tags(para.get("basis", []))}</p>'
+    led = meta.get("ledger")
+    ledh = ""
+    if led:
+        th = "".join(f"<th>{E(c)}</th>" for c in led["columns"]) + "<th>근거</th>"
+        tb = "".join("<tr>" + "".join(f'<td{" class=stmt" if i else " class=tgt"}>{E(c)}</td>' for i, c in enumerate(row["cells"]))
+                     + f'<td>{tags(row.get("basis", []))}</td></tr>' for row in led["rows"])
+        ledh = (f'<section><h2>{E(led.get("title", "원장"))} <small>{E(led.get("note", ""))}</small></h2>'
+                f'<div class="tablewrap"><table class="ledger"><thead><tr>{th}</tr></thead><tbody>{tb}</tbody></table></div></section>')
+
     counts = {t: sum(1 for r in recs if r["type"] == t) for t in ("지표", "사건", "해석", "전망")}
     n_ind = len(names)
     sec = []
     sec.append(f'<section class="answer-box"><h2>한 줄 답</h2><p class="answer narrow">{E(meta["one_line"])} {tags(meta.get("one_line_basis", []))}</p>'
                f'<dl class="arows">{arows}</dl></section>')
+    if insh:
+        sec.append(f'<section class="insights"><h2>인사이트 요약 <small>기록 2건 이상을 근거로 묶은 정리</small></h2><ol class="ins">{insh}</ol></section>')
+    if narr:
+        sec.append(f'<section class="narrative"><h2>해석 <small>시기별 서술 · 문단 끝 번호가 근거 기록</small></h2><div class="narrow prose">{narr}</div></section>')
+    if ledh:
+        sec.append(ledh)
     sec.append(f'<section><h2>연표 <small>최신순 · 사건 {len(events)}건</small></h2>'
                f'{"<p class=lead>" + E(meta["events_lead"]) + "</p>" if meta.get("events_lead") else ""}'
                f'<ul class="timeline evtl">{erows or "<li><p class=muted>기록된 사건이 없습니다.</p></li>"}</ul></section>')
@@ -130,7 +154,7 @@ def main(qdir, rnd=None):
         sec.append(f'<section><h2>핵심 지표 <small>추적 지표 {len(filled)}/{n_ind}개 값 확보</small></h2>'
                    f'<div class="tablewrap"><table><thead><tr><th>추적 지표</th><th>내용 · 출처</th><th style="text-align:right">값</th><th>기준 시점</th><th>기록</th></tr></thead><tbody>{mrows}</tbody></table></div></section>')
     if interps:
-        sec.append(f'<section><h2>해석 <small>사실 기록 2건 이상을 근거로 연결한 것만</small></h2>'
+        sec.append(f'<section><h2>해석 기록 <small>사실 기록 2건 이상을 근거로 연결한 것만</small></h2>'
                    f'<div class="tablewrap"><table><thead><tr><th>방향</th><th>대상</th><th>해석</th><th>근거</th><th>기록</th></tr></thead><tbody>{irows}</tbody></table></div></section>')
     if plans:
         sec.append(f'<section><h2>회사 공식 계획 <small>발표된 목표·계획만, 이행 여부를 추적</small></h2>'
