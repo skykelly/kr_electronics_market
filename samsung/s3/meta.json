@@ -1,0 +1,54 @@
+{
+ "category": "Samsung Korea Appliances",
+ "area": "AI 가전·SmartThings",
+ "no": "S3",
+ "title": "삼성 AI 가전·SmartThings: 수치와 메시지 이력",
+ "question": "AI 가전과 SmartThings는 실제 제품 차별점과 마케팅 메시지가 어떻게 달라지고 있는가?",
+ "one_line": "AI 가전 판매량, SmartThings 규모, 보안 인증이 모두 삼성 집계이며 독립 검증은 확보하지 못했다. 2024-12 '이용 고객 2,000만 명'과 2026-03 '등록 기기 2,000만 대'는 표현 단위가 다르다.",
+ "one_line_basis": [
+  "S3-E-001",
+  "S3-E-004"
+ ],
+ "rows": [
+  {
+   "label": "AI 가전",
+   "text": "2024년 1~7월 국내 누적 150만 대(삼성 집계).",
+   "basis": [
+    "S3-M-001"
+   ]
+  },
+  {
+   "label": "SmartThings",
+   "text": "등록 기기 2,000만 대(2025-12).",
+   "basis": [
+    "S3-M-002"
+   ]
+  },
+  {
+   "label": "보안",
+   "text": "AI 스팀: Knox Matrix·Vault, IoT 보안인증 최고 등급 주장.",
+   "basis": [
+    "S3-E-005"
+   ]
+  }
+ ],
+ "events_lead": "",
+ "indicators": {
+  "S3-T1": "AI 가전 판매량·비중",
+  "S3-T2": "SmartThings 등록 고객·연결률",
+  "S3-T3": "AI 라인업 규모"
+ },
+ "unknowns": [
+  {
+   "item": "AI 가전 판매 비중의 독립 검증",
+   "why": "삼성 집계 외 수치가 없다."
+  },
+  {
+   "item": "SmartThings 이용 고객 수 최신값",
+   "why": "2024-12 이후 '고객' 기준 발표를 확인하지 못했다."
+  }
+ ],
+ "round": 1,
+ "date": "2026-10-20",
+ "round_label": "R1 기준 회차(백필)"
+}
