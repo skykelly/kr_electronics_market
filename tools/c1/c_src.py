@@ -143,3 +143,37 @@ SRC.update({
 "hs_ec2606":S("B","이코노미스트","https://economist.co.kr/article/view/ecn202606220055","2026-06-29"),
 })
 SRC["hm_bt2610"]=S("B","비즈트리뷴","https://www.biztribune.co.kr/news/articleView.html?idxno=360673","2026-10-15")
+
+# ===== X1 시장 조건·성과 =====
+SRC.update({
+"gk19":S("B","데일리안(GfK 발표)","https://m.dailian.co.kr/news/view/823303","2019-09-04"),
+"gk20m":S("B","데일리안(GfK 발표)","https://www.dailian.co.kr/news/view/877166/","2020-03-19"),
+"gk20":S("B","아이뉴스24(GfK 발표)","https://www.inews24.com/view/1347395","2021-03-04"),
+"gk22q":S("A","GfK(뉴스와이어 보도자료)","https://www.newswire.co.kr/newsRead.php?no=942632","2022-04-13"),
+"gk22":S("A","NIQ·GfK 보고서","https://nielseniq.com/global/kr/insights/report/2023/gfk-2022%EB%85%84-%EA%B5%AD%EB%82%B4-%EA%B0%80%EC%A0%84-%EC%8B%9C%EC%9E%A5-%EC%84%B1%EC%9E%A5%EB%A5%A0-%EB%B0%9C%ED%91%9C","2023-03-14"),
+"gk22r":S("A","NIQ·GfK 보고서","https://nielseniq.com/global/kr/insights/report/2023/gfk-2022년-국내-로봇-청소기-시장-성장률-발표-2021년-대비-41/","2023-03-20"),
+"gk23h":S("A","GfK(뉴스와이어 보도자료)","https://www.newswire.co.kr/newsRead.php?no=973227","2023-08-31"),
+"gk23":S("A","NIQ·GfK 보고서","https://nielseniq.com/global/kr/insights/report/2024/gfk-2023%EB%85%84-%EA%B5%AD%EB%82%B4-%EA%B0%80%EC%A0%84-%EC%8B%9C%EC%9E%A5-%EC%84%B1%EC%9E%A5%EB%A5%A0-%EB%B0%9C%ED%91%9C","2024-03-21"),
+"niq24":S("A","NIQ 한국 리테일 파노라마 리포트","https://nielseniq.com/global/kr/insights/report/2025/panorama-report-korea/","2025-04-04"),
+"rv_cs2408":S("B","CEO스코어데일리","https://www.ceoscoredaily.com/page/view/2024081217021627588","2024-08-12"),
+"rv_hk2504":S("B","한국경제","https://www.hankyung.com/article/202504164762g","2025-04-17"),
+"rv_km2506":S("B","국민일보","https://www.kmib.co.kr/article/view.asp?arcid=0028225677","2025-06-10"),
+"rv_sed2510":S("B","서울경제","https://www.sedaily.com/article/14127044","2025-10-05"),
+"rv_dt2512":S("B","디지털타임스","https://www.dt.co.kr/article/12036153","2025-12-18"),
+"rv_in2602":S("B","인사이트","https://www.insight.co.kr/news/544773","2026-02-27"),
+"rv_cs2604":S("B","CEO스코어데일리","https://www.ceoscoredaily.com/page/view/2026042214165398786","2026-04-22"),
+"rv_nc2610":S("B","노컷뉴스","https://www.nocutnews.co.kr/news/6590108","2026-10-13"),
+"ac_nd2305":S("B","뉴데일리","https://biz.newdaily.co.kr/site/data/html/2023/05/16/2023051600063.html","2023-05-16"),
+"ac_kh2504":S("B","칸(KHARN)","https://www.kharn.kr/news/article.html?no=27520","2025-04-13"),
+"ac_nt1902":S("B","뉴스토마토","https://newstomato.com/ReadNews.aspx?no=875469","2019-02-12"),
+"sq24q1":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2024년-1분기-실적-발표","2024-04-30"),
+"sq24q2":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2024년-2분기-실적-발표","2024-07-31"),
+"sq24q3":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2024년-3분기-실적-발표","2024-10-31"),
+"sq24q4":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2024년-4분기-실적-발표","2025-01-31"),
+"sq25q1":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2025년-1분기-실적-발표","2025-04-30"),
+"sq25q2":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2025년-2분기-실적-발표","2025-07-31"),
+"sq25q3":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2025년-3분기-실적-발표","2025-10-30"),
+"sq25q4":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2025년-4분기-실적-발표","2026-01-29"),
+"sq26q1":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2026년-1분기-실적-발표","2026-04-30"),
+"sq26q2":S("A","삼성전자 뉴스룸","https://news.samsung.com/kr/삼성전자-2026년-2분기-실적-발표","2026-07-30"),
+})
