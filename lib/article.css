@@ -263,3 +263,12 @@ table.ledger td{vertical-align:top;font-size:.92rem;line-height:1.55}
 .stg.prov { border-style: dashed; }
 section.judge details.criteria { margin-top: 10px; }
 section.judge details.criteria summary { cursor: pointer; font: 500 13px var(--body); color: var(--muted); }
+@media (max-width: 640px) {
+  section.judge table.ledger { min-width: 0; width: 100%; }
+  section.judge table.ledger thead { display: none; }
+  section.judge table.ledger, section.judge table.ledger tbody, section.judge table.ledger tr, section.judge table.ledger td { display: block; width: auto; }
+  section.judge table.ledger tr { padding: 10px 0; border-bottom: 1px solid var(--rule); }
+  section.judge table.ledger td { border: 0; padding: 3px 0; }
+  section.judge table.ledger td.tgt { display: inline-block; margin-right: 8px; }
+  section.judge table.ledger td:nth-child(2) { display: inline-block; }
+}

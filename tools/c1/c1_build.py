@@ -124,6 +124,9 @@ for k, ids in FC.items():
 # ===================== 보강(독립 조사 대조 후) =====================
 exec(open(Path(__file__).with_name("c1_add.py"), encoding="utf-8").read()) if Path(__file__).with_name("c1_add.py").exists() else None
 
+# ===================== 해석·분석 전망(새 질문 기준으로 새로 작성) =====================
+exec(open(Path(__file__).with_name("c1_interp.py"), encoding="utf-8").read()) if Path(__file__).with_name("c1_interp.py").exists() else None
+
 # ---------- ID 부여(키 고정) ----------
 L = {"사건": "E", "지표": "M", "해석": "I", "전망": "F"}
 used = set(AMAP.values())
@@ -137,12 +140,19 @@ zmap = {}
 for k, r in R:
     for z in r.get("moved_from", []):
         zmap.setdefault(z, AMAP[k])
-def fix(x): return AMAP.get(x, zmap.get(x, x))
+ZFIX = {"Z1-M-001": "C1-M-021", "Z1-M-002": "C1-M-022", "Z3-M-015": "C1-M-024", "Z3-M-017": "C1-M-026",
+        "Z1-I-003": "C1-I-004", "Z2-I-001": "C1-I-002", "Z2-I-002": "C1-I-002", "Z3-I-001": "C1-I-004", "Z5-I-002": "C1-I-009"}
+def fix(x): return ZFIX.get(x) or AMAP.get(x, zmap.get(x, x))
 out = []
 for k, r in R:
     r = dict(r)
     r.update(id=AMAP[k], question="C1", question_version="v2.0", first_seen="R1", added_on=ON, status=r.get("status", "유효"), replaces=None)
-    if r.get("basis"): r["basis"] = [fix(x) for x in r["basis"]]
+    if r.get("basis"):
+        b = []
+        for x in r["basis"]:
+            y = fix(x)
+            if y not in b: b.append(y)
+        r["basis"] = b
     r.setdefault("importance", 2); r.setdefault("check_flags", []); r.setdefault("sources", [])
     if "why" in r: r["moved_why"] = r.pop("why")
     out.append(r)
