@@ -53,5 +53,18 @@
 "p_m26wall": "C6-E-032",
 "p_m26wash": "C6-E-033",
 "mk_m26hm": "C6-E-034",
-"m_m_px": "C6-M-009"
+"m_m_px": "C6-M-009",
+"org_h05b": "C6-E-035",
+"org_h12": "C6-E-036",
+"pf_h12": "C6-E-037",
+"pf_h22": "C6-E-038",
+"org_h24": "C6-E-039",
+"as_h24": "C6-E-040",
+"ch_h26": "C6-E-041",
+"pf_h26": "C6-E-042",
+"org_mova_hk": "C6-E-043",
+"org_mova_bw": "C6-E-044",
+"as_mova26": "C6-E-045",
+"ch_mova_nv": "C6-E-046",
+"or_mova_dd": "C6-E-047"
 }
