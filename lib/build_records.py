@@ -2,7 +2,8 @@
 
 사용: python3 lib/build_records.py <질문 폴더>   예) python3 lib/build_records.py samsung/s1
 - records_base.jsonl : 조사 회차(딥리서치·일간 간단 조사)가 쌓는 기록 원본. 한 줄 = 한 기록.
-- patches.jsonl      : 수동 입력분(tools/intake.py). lib/records.py 의 apply_patches 가 적용.
+- patches.jsonl      : 수동 입력분(tools/intake.py)과 회차 build 스크립트의 보정. lib/records.py 의 apply_patches 가 적용.
+- daily.jsonl        : 일간·주간 배치분(tools/daily.py). patches.jsonl 다음에 적용.
 - records.jsonl      : 위 둘을 합쳐 검증한 결과물. 아티클·Diff·포털은 이 파일만 읽는다.
 
 기록 형식은 README.md '기록 형식'을 본다. 규칙을 어기면 종료 코드 1로 끝난다.
@@ -169,6 +170,7 @@ def main(qdir):
         r.setdefault("sources", [])
         r.setdefault("verified", any(s.get("grade") in ("A", "B") for s in r["sources"]) if r["type"] in ("지표", "사건") else None)
     n = apply_patches(recs, qdir / "patches.jsonl")
+    n += apply_patches(recs, qdir / "daily.jsonl")   # 일간 배치분(tools/daily.py). 질문별 build 스크립트가 덮어쓰지 않는다
     errs = validate(recs, qno)
     if errs:
         print(f"{qdir}: 규칙 위반 {len(errs)}건")

@@ -1,4 +1,4 @@
-"""수동 지식 입력 도구. 채팅으로 받은 자료를 기록(patches.jsonl)으로 옮긴다.
+"""수동 지식 입력 도구. 채팅으로 받은 자료를 기록(daily.jsonl, 회차 build 스크립트가 덮어쓰지 않는 파일)으로 옮긴다.
 
 흐름 (기본: 검토 후 반영)
   1. stage    원본 보관 + 접수 메타 생성
@@ -6,7 +6,7 @@
   2. (Claude) 주장 추출 → 질문 매핑 → 기존 기록 대조 → 원문 확인 → intake/<ID>.proposal.json 작성
   3. preview  검토 카드(마크다운 표) 출력 → 채팅에 그대로 붙인다
        python3 tools/intake.py preview <ID>
-  4. apply    승인한 항목만 질문별 patches.jsonl에 쓰고 build_records.py를 돌린다
+  4. apply    승인한 항목만 질문별 daily.jsonl에 쓰고 build_records.py를 돌린다
        python3 tools/intake.py apply <ID> [--only 1,2,5 | --skip 3,4]
   5. (Claude) meta.json 문장 손보기(apply가 손볼 위치를 알려줌) → lib/render_article.py <질문 폴더> → site/build_site.py → 점검 → 커밋 → 게시
   기타: list (접수 목록), leads [질문] (미확인 단서 목록)
@@ -177,7 +177,7 @@ def cmd_apply(a):
         else:
             p = {"op": "add", "record": it["record"], **base}
             rid = it["record"]["id"]
-        with open(QDIR[it["q"]] / "patches.jsonl", "a", encoding="utf-8") as f:
+        with open(QDIR[it["q"]] / "daily.jsonl", "a", encoding="utf-8") as f:
             f.write(json.dumps(p, ensure_ascii=False) + "\n")
         touched.setdefault(it["q"], []).append(rid)
         m["items"][str(it["n"])] = {"result": "반영", "q": it["q"], "id": rid, "op": it["op"]}
