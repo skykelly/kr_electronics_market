@@ -197,3 +197,35 @@ SRC.update({
 "x3_ce2606":S("B","CEO스코어데일리","https://m.ceoscoredaily.com/page/view/2026061109260094507","2026-06-11"),
 "x3_in2606":S("B","아이뉴스24","https://www.inews24.com/view/1975664","2026-06-11"),
 })
+# ===== X4 선택 조건 =====
+SRC.update({
+"x4_et2504":S("B","전자신문","https://www.etnews.com/20250411000238","2025-04-13"),
+"x4_hk2604":S("B","한국경제","https://www.hankyung.com/amp/202604140080g","2026-04-14"),
+"x4_ey2507":S("A","EY한영 보도자료","https://www.ey.com/ko_kr/newsroom/2025/07/ey-korea-news-release-2025-07-03","2025-07-03"),
+"x4_di2610":S("B","디지털 인사이트","https://ditoday.com/%EC%86%8C%EB%B9%84%EC%9E%90-77-%EA%B0%80%EC%A0%84%C2%B7%EC%A0%84%EC%9E%90%EC%A0%9C%ED%92%88-%EA%B5%AC%EB%A7%A4%EA%B9%8C%EC%A7%80-1%EC%A3%BC-%EC%93%B4%EB%8B%A4-%EB%8B%B9%EC%9D%BC-%EA%B5%AC%EB%A7%A4/","2026-10-08"),
+"x4_tw2610":S("B","테크월드","https://www.epnc.co.kr/news/articleView.html?idxno=407948","2026-10-08"),
+"x4_gl2511":S("A","한국갤럽","https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1597","2025-11-20"),
+"x4_sbs2508":S("B","SBS Biz(한국소비자원 자료)","https://biz.sbs.co.kr/amp/article/20000252700","2025-08-12"),
+"x4_nsp2508":S("B","뉴스스페이스(한국소비자원 자료)","https://newsspace.kr/news/article.html?no=8562","2025-08-12"),
+"x4_sg2609":S("B","세계일보(다음 전재)","https://v.daum.net/v/20260915050845520","2026-09-15"),
+"x4_bt2607":S("B","블로터","https://www.bloter.net/news/articleView.html?idxno=668917","2026-07-25"),
+"x4_ak2602":S("B","아시아경제","https://core.asiae.co.kr/article/2026021017524319571","2026-02-11"),
+"x4_bn2609":S("B","바이라인네트워크","https://byline.network/2026/09/9-509/","2026-09-09"),
+})
+# ===== X2 규제·정책 =====
+SRC.update({
+"x2_fn2405":S("B","파이낸셜뉴스","https://www.fnnews.com/news/202405200856267094","2024-05-20"),
+"x2_bn2502":S("B","바이라인네트워크","https://byline.network/2025/02/25-378/","2025-02-25"),
+"x2_fn2508":S("B","파이낸셜뉴스(뉴스1)","https://www.fnnews.com/news/202508121101137869","2025-08-12"),
+"x2_se2512":S("B","토요경제","https://www.sateconomy.co.kr/news/view/1065593016293510","2025-12-30"),
+"x2_sa26":S("A","삼성닷컴 이벤트 페이지","https://www.samsung.com/sec/event/2026energy2","2026-10-21"),
+"x2_hk2511":S("B","한국경제","https://www.hankyung.com/article/202511079523i","2025-11-07"),
+"x2_hd2604":S("B","헤럴드경제","https://www.heraldk.com/article/2026040718380145675","2026-04-08"),
+"x2_di2606":S("B","디지털 인사이트","https://ditoday.com/?p=146111","2026-06-04"),
+})
+SRC.update({
+"x2_ns2504":S("B","뉴시스","https://www.newsis.com/view/NISX20250401_0003122037","2025-04-01"),
+"x2_nsl2404":S("B","뉴스서울(개인정보위 자료)","https://newsseoul.co.kr/news/view/1065605410380093","2024-04-21"),
+"x2_st2509":S("B","스마트투데이","https://www.smarttoday.co.kr/ko-kr/articles/90079","2025-09-02"),
+"x2_kh2101":S("B","칸(KHARN)","https://www.kharn.kr/mobile/article.html?no=14849","2021-01-03"),
+})

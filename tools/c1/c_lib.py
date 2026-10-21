@@ -5,7 +5,7 @@ ROOT=Path(__file__).resolve().parents[2]
 NOEXT="미확보(독립 기관 수치 확인 못 함)"
 class B:
     def __init__(s,Q,outdir,here):
-        s.Q=Q; s.out=ROOT/outdir; s.here=Path(here); s.R=[]
+        s.Q=Q; s.out=ROOT/outdir; s.here=Path(here); s.R=[]; s.ON="2026-10-20"
     def src(s,ks): return [{"grade":SRC[k][0],"publisher":SRC[k][1],"url":SRC[k][2],"date":SRC[k][3]} for k in ks]
     def ev(s,k,date,actor,et,stmt,ks,**kw):
         r=dict(k=k,type="사건",date=date,actor=actor,event_type=et,statement=stmt,sources=s.src(ks),recurrence=kw.pop("rec","비정기"),claim_type=kw.pop("claim","해당 없음"),importance=kw.pop("imp",2)); r.update(kw); s.R.append(r)
@@ -13,7 +13,7 @@ class B:
         r=dict(k=k,type="지표",indicator=ind,unit=unit,as_of=asof,region="한국",value=val,statement=stmt,sources=s.src(ks),claim_type=claim,importance=kw.pop("imp",2)); r.update(kw); s.R.append(r)
     def it(s,k,basis,dirn,target,stmt,imp=3): s.R.append(dict(k=k,type="해석",basis=basis,direction=dirn,target=target,statement=stmt,importance=imp,claim_type="해당 없음"))
     def af(s,k,due,stmt,cond,method,reasoning,counter,basis,history=None,imp=2):
-        r=dict(k=k,type="전망",forecast_kind="분석 전망",made_on="2026-10-20",due=due,statement=stmt,condition=cond,method=method,reasoning=reasoning,counter=counter,basis=basis,forecast_status="진행 중",importance=imp,claim_type="해당 없음")
+        r=dict(k=k,type="전망",forecast_kind="분석 전망",made_on=s.ON,due=due,statement=stmt,condition=cond,method=method,reasoning=reasoning,counter=counter,basis=basis,forecast_status="진행 중",importance=imp,claim_type="해당 없음")
         if history: r["history"]=history
         s.R.append(r)
     def cp(s,k,due,stmt,method,by,basis=None,imp=2,flags=None):
@@ -29,14 +29,14 @@ class B:
             cnt[r["type"]]+=1; r["id"]=f"{Q}-{L[r['type']]}-{cnt[r['type']]:03d}"; amap[r["k"]]=r["id"]
         for r in order:
             if "basis" in r: r["basis"]=[amap.get(b,b) for b in r["basis"]]  # 다른 질문 기록 ID는 그대로 인용
-            r.pop("k"); r["added_on"]="2026-10-20"; r["first_seen"]="R1"; r["question"]=Q
+            r.pop("k"); r["added_on"]=s.ON; r["first_seen"]="R1"; r["question"]=Q
             if r["claim_type"]=="자사 집계" and not r.get("external_check"): r["external_check"]=NOEXT
             if "flags" in r: r["check_flags"]=r.pop("flags")
         json.dump(amap,open(s.here.with_name(Q.lower()+"_amap.json"),"w"),ensure_ascii=False,indent=0)
         (s.out/"records_base.jsonl").write_text("".join(json.dumps(r,ensure_ascii=False)+"\n" for r in sorted(order,key=lambda r:r["id"])),encoding="utf-8")
         pt=[]
         for p in patches:
-            p=dict(p); p["id"]=amap[p["id"]]; p.setdefault("op","revise"); p.setdefault("on","2026-10-20"); p.setdefault("kind","갱신")
+            p=dict(p); p["id"]=amap[p["id"]]; p.setdefault("op","revise"); p.setdefault("on",s.ON); p.setdefault("kind","갱신")
             if "add_basis" in p: p["add_basis"]=[amap.get(x,x) for x in p["add_basis"]]
             pt.append(p)
         (s.out/"patches.jsonl").write_text("".join(json.dumps(p,ensure_ascii=False)+"\n" for p in pt),encoding="utf-8")

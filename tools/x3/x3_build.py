@@ -2,7 +2,7 @@ import sys, json
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]/"c1"))
 from c_lib import B
-b=B("X3","market/x3",__file__)
+b=B("X3","market/x3",__file__); b.ON="2026-10-21"
 ev,me,it,af,cp=b.ev,b.me,b.it,b.af,b.cp
 X1=json.load(open(Path(__file__).resolve().parents[1]/"x1"/"x1_amap.json"))
 def x1(*ks): return [X1[k] for k in ks]
