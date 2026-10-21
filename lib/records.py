@@ -10,7 +10,7 @@ patches.jsonl 한 줄 형식
    "add_flags": ["..."], "add_basis": ["I3-M-010"]}
   {"op": "add", "on": "2026-10-12", "intake": "<접수 ID>", "record": {"id": "I3-E-009", "type": "사건", ...}}
 """
-import json
+import json, re
 from pathlib import Path
 
 KIND_ORDER = ["누락정정", "단정반증", "전망 교체", "판정 기준 보완", "상충", "전망 점검", "갱신", "신규"]
@@ -70,3 +70,30 @@ def apply_patches(records, path):
             raise ValueError(f"patches.jsonl {ln}행: 알 수 없는 op {p['op']}")
         n += 1
     return n
+
+
+ROOT = Path(__file__).resolve().parent.parent
+
+
+def load_external(qno):
+    """다른 질문의 기록(records.jsonl)을 읽어 {ID: (기록, 포털 경로)}로 돌려준다.
+
+    통합 질문(X3 등)이 다른 질문의 사실 기록을 복사하지 않고 basis로 인용할 때 쓴다.
+    포털 경로는 site/dist 기준 '<카테고리>/<질문>/r<최신 회차>.html'.
+    """
+    out = {}
+    for f in sorted(ROOT.glob("*/*/records.jsonl")):
+        qdir = f.parent
+        rounds = sorted(int(m.group(1)) for m in (re.match(r"article_r(\d+)\.html$", x.name) for x in qdir.iterdir()) if m)
+        if not rounds:
+            continue
+        path = f"{qdir.parent.name}/{qdir.name}/r{rounds[-1]}.html"
+        for line in f.read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            r = json.loads(line)
+            if r.get("question") == qno:
+                break
+            if r.get("status") in (None, "유효", "미확인"):
+                out[r["id"]] = (r, path)
+    return out

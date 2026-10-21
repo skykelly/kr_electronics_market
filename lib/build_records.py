@@ -12,7 +12,7 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from records import apply_patches, GRADES
+from records import apply_patches, GRADES, load_external
 
 TYPE_OF = {"M": "지표", "E": "사건", "I": "해석", "F": "전망"}
 CLAIMS = ("자사 집계", "외부 검증", "공시", "해당 없음")
@@ -94,6 +94,14 @@ def validate(recs, qno):
                     errs.append(f"{rid}: 지표에 {k} 없음")
             if r.get("value") is None:
                 errs.append(f"{rid}: 지표에 value 없음 (값이 없으면 기록하지 않고 meta unknowns에 적는다)")
+    ext = None
+    for r in recs:
+        for x in r.get("basis") or []:
+            if x not in ids:
+                if ext is None:
+                    ext = load_external(qno)   # 다른 질문 기록 인용(통합 질문)
+                if x in ext:
+                    ids[x] = ext[x][0]
     for r in recs:
         rid = r.get("id", "?")
         t = r.get("type")

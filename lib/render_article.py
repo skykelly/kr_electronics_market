@@ -32,8 +32,27 @@ def main(qdir, rnd=None):
     by = {r["id"]: r for r in recs}
     qno = meta["no"]
 
+    sys.path.insert(0, str(ROOT / "lib"))
+    from records import load_external
+    XT = {}            # 다른 질문에서 인용한 기록 {ID: (기록, 포털 경로)}
+    _ext = [None]
+
+    def ext_of(i):
+        if _ext[0] is None:
+            _ext[0] = load_external(qno)
+        return _ext[0].get(i)
+
     def tags(ids):
-        return "".join(f'<a class="rid" href="#{E(i)}" title="{E(by[i]["statement"])}">{E(i)}</a>' for i in ids if i in by)
+        out = []
+        for i in ids:
+            if i in by:
+                out.append(f'<a class="rid" href="#{E(i)}" title="{E(by[i]["statement"])}">{E(i)}</a>')
+            else:
+                x = ext_of(i)
+                if x:
+                    XT[i] = x
+                    out.append(f'<a class="rid xq" href="../../{E(x[1])}#{E(i)}" title="{E(i.split("-")[0])} 기록: {E(x[0]["statement"])}">{E(i)}</a>')
+        return "".join(out)
 
     def src_links(r):
         return " · ".join(
@@ -175,6 +194,13 @@ def main(qdir, rnd=None):
     if plans:
         sec.append(f'<section><h2>회사 공식 계획 <small>발표된 목표·계획만, 이행 여부를 추적</small></h2>'
                    f'<div class="tablewrap"><table><thead><tr><th>계획</th><th>확인 시점</th><th>발표 출처</th><th>상태</th><th>근거</th></tr></thead><tbody>{prows}</tbody></table></div></section>')
+    if XT:
+        xrows = "".join(
+            f'<tr id="x-{E(i)}"><td><a class="rid xq" href="../../{E(p)}#{E(i)}">{E(i)}</a></td><td>{E(r.get("date") or r.get("as_of") or "")}</td>'
+            f'<td class="stmt">{E(r["statement"])} {claim_badge(r)}<div class="src">{src_links(r)}</div></td></tr>'
+            for i, (r, p) in sorted(XT.items(), key=lambda kv: kv[0]))
+        sec.append(f'<section><h2>다른 질문에서 인용한 기록 <small>{len(XT)}건 · 번호를 누르면 원래 질문의 기록으로 이동</small></h2>'
+                   f'<div class="tablewrap"><table><thead><tr><th>기록</th><th>시점</th><th>내용 · 출처</th></tr></thead><tbody>{xrows}</tbody></table></div></section>')
     if unk:
         sec.append(f'<section><h2>공개 자료로 확인되지 않은 것</h2><div class="tablewrap"><table><thead><tr><th>항목</th><th>왜 필요한가</th></tr></thead><tbody>{unk}</tbody></table></div></section>')
     if wrows:

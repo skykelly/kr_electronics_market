@@ -28,7 +28,7 @@ class B:
         for r in order:
             cnt[r["type"]]+=1; r["id"]=f"{Q}-{L[r['type']]}-{cnt[r['type']]:03d}"; amap[r["k"]]=r["id"]
         for r in order:
-            if "basis" in r: r["basis"]=[amap[b] for b in r["basis"]]
+            if "basis" in r: r["basis"]=[amap.get(b,b) for b in r["basis"]]  # 다른 질문 기록 ID는 그대로 인용
             r.pop("k"); r["added_on"]="2026-10-20"; r["first_seen"]="R1"; r["question"]=Q
             if r["claim_type"]=="자사 집계" and not r.get("external_check"): r["external_check"]=NOEXT
             if "flags" in r: r["check_flags"]=r.pop("flags")
@@ -37,7 +37,7 @@ class B:
         pt=[]
         for p in patches:
             p=dict(p); p["id"]=amap[p["id"]]; p.setdefault("op","revise"); p.setdefault("on","2026-10-20"); p.setdefault("kind","갱신")
-            if "add_basis" in p: p["add_basis"]=[amap[x] for x in p["add_basis"]]
+            if "add_basis" in p: p["add_basis"]=[amap.get(x,x) for x in p["add_basis"]]
             pt.append(p)
         (s.out/"patches.jsonl").write_text("".join(json.dumps(p,ensure_ascii=False)+"\n" for p in pt),encoding="utf-8")
         print(cnt,"sources:",len({x["url"] for r in order for x in r.get("sources",[])}))

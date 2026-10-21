@@ -181,3 +181,19 @@ SRC.update({
 "wd_ns2505":S("B","뉴시스","https://www.newsis.com/view/NISX20250522_0003186593","2025-05-22"),
 "wd_dd2505":S("B","디지털데일리","https://www.ddaily.co.kr/page/view/2025052212155760312","2025-05-22"),
 })
+# ===== X3 경쟁 구도 전환 =====
+SRC.update({
+"x3_lgw2403":S("A","LG전자 보도자료","https://www.lg.co.kr/media/release/27438","2024-03-13"),
+"x3_ds2404":S("B","딜사이트","https://dealsite.co.kr/articles/120724","2024-04-04"),
+"x3_knn2404":S("B","KNN 뉴스","https://news.knn.co.kr/news/article/155596","2024-04-11"),
+"x3_dl2402":S("B","데일리안","https://www.dailian.co.kr/news/view/1325917/","2024-02-08"),
+"x3_fn2408":S("B","파이낸셜뉴스","https://www.fnnews.com/news/202408110930497662","2024-08-11"),
+"x3_lg2408":S("A","LG전자 보도자료","https://www.lg.co.kr/media/release/27984","2024-08-12"),
+"x3_bw2408":S("B","비즈니스워치","https://news.bizwatch.co.kr/article/industry/2024/08/12/0009","2024-08-12"),
+"x3_bw2502":S("B","비즈니스워치","https://news.bizwatch.co.kr/article/industry/2025/02/05/0037","2025-02-06"),
+"x3_hd2505":S("B","헤럴드경제(다음 전재)","https://v.daum.net/v/20250511070019219?f=p","2025-05-11"),
+"x3_sbs2505":S("B","SBS Biz","https://biz.sbs.co.kr/amp/article/20000236276","2025-05-22"),
+"x3_hk2507":S("B","한국경제","https://www.hankyung.com/article/2025070245821","2025-07-02"),
+"x3_ce2606":S("B","CEO스코어데일리","https://m.ceoscoredaily.com/page/view/2026061109260094507","2026-06-11"),
+"x3_in2606":S("B","아이뉴스24","https://www.inews24.com/view/1975664","2026-06-11"),
+})
