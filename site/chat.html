@@ -166,7 +166,7 @@
   if (HERE && BY_NO[HERE]) SUGG = ["이 페이지의 핵심을 세 줄로 요약해 주세요", "이 질문에서 확인되지 않은 항목은 무엇인가요?", "이 질문의 분석 전망과 근거를 알려 주세요"].concat(SUGG.slice(0, 1));
   function intro() {
     $("chat-log").innerHTML = "";
-    var d = add("a", '<div class="chat-note">질문별 아티클과 근거 기록을 바탕으로 답합니다. 답변은 위쪽 '포털 기록'과 아래쪽 '종합 답변'(일반 지식 포함) 두 부분으로 나뉩니다. 답변은 보는 사람의 Claude 로그인으로 처리되며, 처음 질문할 때 사용 동의를 묻습니다.</div><div class="chat-sugg"></div>');
+    var d = add("a", '<div class="chat-note">질문별 아티클과 근거 기록을 바탕으로 답합니다. 답변은 위쪽 “포털 기록”과 아래쪽 “종합 답변”(일반 지식 포함) 두 부분으로 나뉩니다. 답변은 보는 사람의 Claude 로그인으로 처리되며, 처음 질문할 때 사용 동의를 묻습니다.</div><div class="chat-sugg"></div>');
     var box = d.querySelector(".chat-sugg");
     SUGG.forEach(function (t) { var b = document.createElement("button"); b.type = "button"; b.textContent = t; b.onclick = function () { if (!CHAT.busy) send(t); }; box.appendChild(b); });
   }
