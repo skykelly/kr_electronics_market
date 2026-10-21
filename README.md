@@ -8,7 +8,6 @@
 |---|---|---|
 | 1. Samsung Korea Appliances | [`samsung/`](samsung/) | S1~S7 |
 | 2. China Brands in Korea | [`china-brands/`](china-brands/) | C1~C6(브랜드별, 재조사 중) |
-| (이전 구조) China Brands 기능별 | [`china-legacy/`](china-legacy/) | Z1~Z5(브랜드별 이관 후 정리) |
 | 3. Korea Market Facts | [`market/`](market/) | X1 시장 조건·성과, X2 규제·정책, X3 경쟁 구도 전환, X4 선택 조건 |
 
 질문 전문과 추적 지표는 각 카테고리 README, 질문별 `request_r1.md`에 있다. 질문 번호 규칙: `S1~` · `C1~` · `X1~` · 기록 `<질문>-M/E/I/F-001` · 추적 지표 `<질문>-T1~`.

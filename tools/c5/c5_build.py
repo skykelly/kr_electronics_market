@@ -6,6 +6,11 @@
 2단계(보강): 독립 조사 대조로 찾은 빈칸을 원문 확인 후 ADD로 더한다.
 실행: python3 tools/c1/c1_build.py  → china-brands/c5/records_base.jsonl, c5_amap.json(키→ID 고정)
 """
+import json as _j, re, glob as _g
+_GZ = {}
+_ZI = {'Z1-I-005': 'C5-I-003', 'Z2-I-003': 'C5-I-002'}
+for _f in sorted(_g.glob(str(__import__('pathlib').Path(__file__).resolve().parents[1] / 'c*' / 'c*_zmap.json'))):
+    _GZ.update(_j.load(open(_f, encoding='utf-8')))
 import json, glob
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
@@ -109,6 +114,9 @@ for k, r in R:
         b = []
         for x in r["basis"]:
             y = fix(x)
+            y = _ZI.get(y, y)  # Z 해석은 이 질문의 같은 주제 해석으로 바꾼다
+            y = _GZ.get(y, y)  # 다른 브랜드로 옮겨진 Z 기록은 새 번호로
+            if re.fullmatch(r'Z\d-[EMFI]-\d+', y): continue  # Z 구조 삭제(옮겨지지 않은 기록은 근거에서 뺀다)
             if y not in b: b.append(y)
         r["basis"] = b
     r.setdefault("importance", 2); r.setdefault("check_flags", []); r.setdefault("sources", [])
