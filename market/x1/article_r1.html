@@ -256,6 +256,25 @@ table.ledger td{vertical-align:top;font-size:.92rem;line-height:1.55}
 .reasons .frs{margin:0;padding-left:1.2em;display:grid;gap:18px}
 .reasons .fq{margin:0 0 6px;font-weight:600;line-height:1.6}
 .reasons .evd dd{line-height:1.7}
+
+/* 축별 판정: 단계 배지(진할수록 앞선 단계, 빗금 = 잠정) */
+.stg { display: inline-block; font: 600 12px/1.6 var(--mono); padding: 1px 8px; border-radius: 3px; white-space: nowrap; border: 1px solid var(--rule); }
+.stg.s0 { background: var(--panel); color: var(--muted); }
+.stg.s1 { background: var(--accent-soft, var(--panel)); color: var(--ink); }
+.stg.s2 { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+.stg.s3 { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.stg.prov { border-style: dashed; }
+section.judge details.criteria { margin-top: 10px; }
+section.judge details.criteria summary { cursor: pointer; font: 500 13px var(--body); color: var(--muted); }
+@media (max-width: 640px) {
+  section.judge table.ledger { min-width: 0; width: 100%; }
+  section.judge table.ledger thead { display: none; }
+  section.judge table.ledger, section.judge table.ledger tbody, section.judge table.ledger tr, section.judge table.ledger td { display: block; width: auto; }
+  section.judge table.ledger tr { padding: 10px 0; border-bottom: 1px solid var(--rule); }
+  section.judge table.ledger td { border: 0; padding: 3px 0; }
+  section.judge table.ledger td.tgt { display: inline-block; margin-right: 8px; }
+  section.judge table.ledger td:nth-child(2) { display: inline-block; }
+}
 </style>
 <main>
   <header class="narrow">
