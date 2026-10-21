@@ -112,7 +112,7 @@ N.append(addp("X1-E-033",ext({"type":"사건","date":"2025-05-22","actor":"삼�
 N.append(addp("X1-E-034",ext({"type":"사건","date":"2026-07-10","actor":"뉴데일리",
  "event_type":MR,"statement":"뉴데일리는 업계 추정으로 로보락 국내 로봇청소기 점유율을 대수 기준 40%대 후반, 금액 기준 50% 초과로 적었다.","sources":src(["rb_nd2607"]),"recurrence":"비정기","claim_type":"해당 없음","importance":2,"check_flags":["업계 추정, 기관 미명시"]}),"Z3-E-053과 같은 원문. 2026년 점유율 누락분"))
 N.append(addp("X1-E-035",ext({"type":"사건","date":"2026-09-06","actor":"로보락",
- "event_type":MR,"statement":"로보락 글로벌 본사의 2026년 상반기 보고에는 한국 프리미엄 로봇청소기 점유율 70% 이상 유지가 적혔다. 프리미엄의 가격 기준과 집계 기관은 없다.","sources":src(["rb_ns2609"]),"recurrence":"비정기","claim_type":"자사 집계","importance":2,"check_flags":["프리미엄 가격 기준·집계 기관 미명시","전체 시장 점유율이 아님"]}),"Z1-E-046과 같은 원문. 프리미엄 구간 점유율 누락분"))
+ "event_type":MR,"statement":"로보락 글로벌 본사의 2026년 상반기 보고에는 한국 프리미엄 로봇청소기 점유율 70% 이상 유지가 적혔다. 프리미엄의 가격 기준과 집계 기관은 없다.","sources":src(["rb_ns2609"]),"recurrence":"비정기","claim_type":"자사 집계","importance":2,"check_flags":["프리미엄 가격 기준·집계 기관 미명시","전체 시장 점유율이 아님"]}),"C1-E-003과 같은 원문. 프리미엄 구간 점유율 누락분"))
 N.append(addp("X1-E-036",ext({"type":"사건","date":"2026-09","actor":"아이뉴스24",
  "event_type":MR,"statement":"아이뉴스24는 로보락 자료를 인용해 2025년 판매액 기준 점유율 50% 이상을 전했고, 2026년 6~7월 점유율은 업계가 30%대로 추정한다고 적었다.","sources":src(["rb_i26"]),"recurrence":"비정기","claim_type":"자사 집계","importance":3,"check_flags":["원문 게재일은 월(2026-09)까지만 확인","같은 시기 뉴데일리 40%대 후반·50% 초과와 기준이 달라 확인 필요"]}),"Z3-E-053과 같은 원문. 2026년 30%대 추정 누락분"))
 M=lambda rid,ind,unit,asof,val,st,ks,claim,flags,imp,why: addp(rid,ext({"type":"지표","indicator":ind,"unit":unit,"as_of":asof,"region":"한국","value":val,"statement":st,"sources":src(ks),"claim_type":claim,"importance":imp,"check_flags":flags}),why)

@@ -167,11 +167,27 @@ def main(qdir, rnd=None):
         ledh = (f'<section><h2>{E(led.get("title", "원장"))} <small>{E(led.get("note", ""))}</small></h2>'
                 f'<div class="tablewrap"><table class="ledger"><thead><tr>{th}</tr></thead><tbody>{tb}</tbody></table></div></section>')
 
+    # 8. 축별 판정 (meta.judge 가 있을 때만)
+    jd = meta.get("judge")
+    judh = ""
+    if jd:
+        lv = jd["levels"]
+        jrows = "".join(
+            f'<tr><td class="tgt">{E(x["axis"])}</td><td><span class="stg s{x["stage"]}{" prov" if x.get("prov") else ""}">{E(lv[x["stage"]])}{"(잠정)" if x.get("prov") else ""}</span></td>'
+            f'<td class="stmt">{E(x["text"])} {tags(x.get("basis", []))}</td></tr>' for x in jd["items"])
+        crit = "".join(f'<tr><td class="tgt">{E(c["level"])}</td><td class="stmt">{E(c["text"])}</td></tr>' for c in jd.get("criteria", []))
+        judh = (f'<section class="judge"><h2>{E(jd.get("title", "판정"))} <small>{E(jd.get("note", ""))}</small></h2>'
+                f'<div class="tablewrap"><table class="ledger"><thead><tr><th>축</th><th>단계</th><th>판정 근거</th></tr></thead><tbody>{jrows}</tbody></table></div>'
+                + (f'<details class="criteria"><summary>판정 기준표</summary><div class="tablewrap"><table><thead><tr><th>단계</th><th>기준</th></tr></thead><tbody>{crit}</tbody></table></div></details>' if crit else "")
+                + '</section>')
+
     counts = {t: sum(1 for r in recs if r["type"] == t) for t in ("지표", "사건", "해석", "전망")}
     n_ind = len(names)
     sec = []
     sec.append(f'<section class="answer-box"><h2>한 줄 답</h2><p class="answer narrow">{E(meta["one_line"])} {tags(meta.get("one_line_basis", []))}</p>'
                f'<dl class="arows">{arows}</dl></section>')
+    if judh:
+        sec.append(judh)
     if insh:
         sec.append(f'<section class="insights"><h2>인사이트 요약 <small>기록 2건 이상을 근거로 묶은 정리</small></h2><ol class="ins">{insh}</ol></section>')
     if narr:
@@ -230,6 +246,11 @@ def main(qdir, rnd=None):
     last = events[0]["date"] if events else "—"
     signal = {"question": qno, "round": rnd, "kind": "text",
               "chip": f"최근 사건 {last}", "text": f"사건 {len(events)} · 지표 {len(metrics)} · 해석 {len(interps)} · 전망 {len(afc)} · 계획 {len(plans)}"}
+    if jd:
+        thr = jd.get("on_from", 2)
+        signal = {"question": qno, "round": rnd, "kind": "band", "levels": lv, "chip": jd.get("chip", f"최근 사건 {last}"),
+                  "gauge": jd.get("gauge", ""), "items": [[x["axis"], x["stage"], bool(x.get("prov"))] for x in jd["items"]],
+                  "on": sum(1 for x in jd["items"] if x["stage"] >= thr), "of": len(jd["items"])}
     (qdir / f"signal_r{rnd}.json").write_text(json.dumps(signal, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{qdir}/article_r{rnd}.html 생성 ({len(page)} bytes); 앵커 없는 근거 링크: {bad or '없음'}")
     return 1 if bad else 0

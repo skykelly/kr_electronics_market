@@ -253,3 +253,13 @@ table.ledger td{vertical-align:top;font-size:.92rem;line-height:1.55}
 .reasons .frs{margin:0;padding-left:1.2em;display:grid;gap:18px}
 .reasons .fq{margin:0 0 6px;font-weight:600;line-height:1.6}
 .reasons .evd dd{line-height:1.7}
+
+/* 축별 판정: 단계 배지(진할수록 앞선 단계, 빗금 = 잠정) */
+.stg { display: inline-block; font: 600 12px/1.6 var(--mono); padding: 1px 8px; border-radius: 3px; white-space: nowrap; border: 1px solid var(--rule); }
+.stg.s0 { background: var(--panel); color: var(--muted); }
+.stg.s1 { background: var(--accent-soft, var(--panel)); color: var(--ink); }
+.stg.s2 { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+.stg.s3 { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.stg.prov { border-style: dashed; }
+section.judge details.criteria { margin-top: 10px; }
+section.judge details.criteria summary { cursor: pointer; font: 500 13px var(--body); color: var(--muted); }
