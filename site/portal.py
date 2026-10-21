@@ -56,33 +56,7 @@ def score_of(sg):
     top = len(sg["levels"]) - 1
     return round(sum(st / top * 100 for _, st, _ in sg["items"]) / len(sg["items"]))
 
-# ---------- 레이더 (사분면 = 카테고리, 점 = 질문, 바깥일수록 게이지가 많이 찬 질문)
-import math as _m
-radar_dots = []
-quad_names = []
-for ci, (c, items) in enumerate(sections):
-    live = [it for it in items if it["status"] == "live"]
-    a0 = -90 + ci * (360 / len(sections))
-    quad_names.append((a0 + 180 / len(sections), c))
-    for k, it in enumerate(live):
-        sg = it["cur"].get("signal", {})
-        sc = score_of(sg)
-        ratio = sc / 100 if sc is not None else min(1.0, int(it["cur"]["records"] or 0) / 60)
-        ang = _m.radians(a0 + (360 / len(sections)) * (k + 1) / (len(live) + 1))
-        rad = 18 + ratio * 70
-        radar_dots.append((round(100 + rad * _m.cos(ang), 1), round(100 + rad * _m.sin(ang), 1), it["q"]["no"], it["cur"]["title"], c["id"]))
-radar_svg = ['<svg class="radar" viewBox="-14 -14 228 228" role="img" aria-label="질문별 신호 위치. 구역은 카테고리, 바깥쪽일수록 근거 기록이 많은 질문">']
-for rr in (30, 55, 80):
-    radar_svg.append(f'<circle cx="100" cy="100" r="{rr}" class="ring"/>')
-radar_svg.append('<line x1="100" y1="12" x2="100" y2="188" class="axis"/><line x1="12" y1="100" x2="188" y2="100" class="axis"/>')
-radar_svg.append('<g class="sweep"><path d="M100 100 L100 12 A88 88 0 0 1 162.2 37.8 Z" class="beam"/></g>')
-for i, (x, y, no, title, cid) in enumerate(radar_dots):
-    radar_svg.append(f'<a href="#{E(cid)}" class="dot" data-q="{E(no)}"><circle cx="{x}" cy="{y}" r="3.6" style="--i:{i}"/><title>{E(no)} {E(title)}</title></a>')
-for ang, c in quad_names:
-    x = 100 + 100 * _m.cos(_m.radians(ang)); y = 100 + 100 * _m.sin(_m.radians(ang))
-    radar_svg.append(f'<text x="{x:.0f}" y="{y + 4:.0f}" text-anchor="middle" class="ql">{E(c.get("short", c["name"]))}</text>')
-radar_svg.append("</svg>")
-radar_svg = "".join(radar_svg)
+
 
 # ---------- 타일
 def pips(on, of):
@@ -205,7 +179,7 @@ portal = f"""<!doctype html>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+KR:wght@400;500;600&family=Noto+Serif+KR:wght@600;800&display=swap">
 <style>{CSS}{PORTAL_CSS}</style></head>
 <body><main class="portal">
-  <header class="masthead">
+  <header class="masthead" aria-label="KR Appliance Signals 개요">
     <div class="mh-text">
       <h1>{E(cat['site']['title'])}</h1>
       <p class="tag">{E(cat['site']['tagline'])}</p>
@@ -218,7 +192,6 @@ portal = f"""<!doctype html>
         <div><dt>최근 업데이트</dt><dd>{E(last_date)}</dd></div>
       </dl>
     </div>
-    <div class="mh-radar">{radar_svg}</div>
   </header>
 
   <section class="signals" aria-labelledby="h-signals">

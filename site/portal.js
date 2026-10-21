@@ -58,21 +58,12 @@
       if (j !== null) { e.preventDefault(); select(tabs[j].dataset.cat, true, true); }
     });
   });
-  // 레이더 점·해시 링크로 카테고리 열기
+  // 해시 링크로 카테고리 열기
   function fromHash() {
     var h = (location.hash || '').slice(1);
     if (h && tabs.some(function (t) { return t.dataset.cat === h; })) { select(h, false, false); return true; }
     return false;
   }
-  document.querySelectorAll('.radar .dot').forEach(function (d) {
-    d.addEventListener('click', function (e) {
-      e.preventDefault();
-      var cat = d.getAttribute('href').slice(1), q = d.getAttribute('data-q');
-      select(cat, false, true);
-      var tile = board.querySelector('.tile[data-q="' + q + '"] .tlink');
-      if (tile) { tile.scrollIntoView({ block: 'center', behavior: reduce ? 'auto' : 'smooth' }); tile.focus({ preventScroll: true }); }
-    });
-  });
   window.addEventListener('hashchange', fromHash);
   window.addEventListener('resize', function () { moveInk(tabs.filter(function (t) { return t.getAttribute('aria-selected') === 'true'; })[0]); });
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { moveInk(tabs.filter(function (t) { return t.getAttribute('aria-selected') === 'true'; })[0]); });
