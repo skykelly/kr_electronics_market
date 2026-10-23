@@ -1,0 +1,220 @@
+{
+ "C1": {
+  "queries_run": 12,
+  "queries_planned": 12,
+  "opened": 2,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "글로벌 점유율 제외",
+   "기존 기록과 중복"
+  ],
+  "leads": [
+   "S10 맥스V 출시일 가격 원문 미확인"
+  ]
+ },
+ "C2": {
+  "queries_run": 12,
+  "queries_planned": 12,
+  "opened": 0,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "무관 결과",
+   "기존 기록 반영"
+  ],
+  "leads": [
+   "2026-03-25 ddaily 기사 대조 필요"
+  ]
+ },
+ "C3": {
+  "queries_run": 12,
+  "queries_planned": 12,
+  "opened": 3,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "무관 결과(에코백·EcoFlow)",
+   "기존 기록과 동일"
+  ],
+  "leads": [
+   "inews24 1462639 날짜 미확인"
+  ]
+ },
+ "S5": {
+  "queries_run": 5,
+  "queries_planned": 5,
+  "opened": 3,
+  "candidates": 1,
+  "added": 1,
+  "skipped": [],
+  "leads": [
+   "삼성위크 한국 11월 조건",
+   "웨딩& 공식 기획전"
+  ]
+ },
+ "S6": {
+  "queries_run": 5,
+  "queries_planned": 5,
+  "opened": 5,
+  "candidates": 1,
+  "added": 1,
+  "skipped": [],
+  "leads": [
+   "코리아세일페스타 삼성 참여 발표 여부"
+  ]
+ },
+ "S7": {
+  "queries_run": 5,
+  "queries_planned": 5,
+  "opened": 6,
+  "candidates": 3,
+  "added": 2,
+  "skipped": [
+   "KES 전시 기사는 삼성 공식 미확인으로 제외"
+  ],
+  "leads": [
+   "방문케어 라이트 요금표"
+  ]
+ },
+ "X1": {
+  "queries_run": 5,
+  "queries_planned": 5,
+  "opened": 3,
+  "candidates": 2,
+  "added": 1,
+  "skipped": [
+   "MTN 로보락 절반 점유율은 조사기관 없고 기존 값과 상충 가능해 보류"
+  ],
+  "leads": [
+   "그랜드뷰리서치 원문",
+   "유로모니터 정의"
+  ]
+ },
+ "X2": {
+  "queries_run": 5,
+  "queries_planned": 5,
+  "opened": 1,
+  "candidates": 1,
+  "added": 1,
+  "skipped": [],
+  "leads": [
+   "개인정보위 보도자료 원문"
+  ]
+ },
+ "X3": {
+  "queries_run": 5,
+  "queries_planned": 5,
+  "opened": 3,
+  "candidates": 4,
+  "added": 1,
+  "skipped": [
+   "드리미·TCL·마이디어 항목은 C 질문 기존 기록과 중복 가능해 보류"
+  ],
+  "leads": []
+ },
+ "X4": {
+  "queries_run": 4,
+  "queries_planned": 4,
+  "opened": 2,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "크리테오 기사는 기존 X4-E-010과 동일"
+  ],
+  "leads": [
+   "크리테오 표본 수"
+  ]
+ },
+ "C4": {
+  "queries_run": 12,
+  "queries_planned": 12,
+  "opened": 4,
+  "candidates": 1,
+  "added": 0,
+  "skipped": [
+   "2026-07 AIoT 소형 신제품은 가전 판정 축과 거리가 멀어 보류"
+  ],
+  "leads": [
+   "샤오미 대형가전 출시 계획 이행 확인"
+  ]
+ },
+ "C5": {
+  "queries_run": 12,
+  "queries_planned": 12,
+  "opened": 1,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "조회 기간 내 한국 사건 없음"
+  ],
+  "leads": []
+ },
+ "C6": {
+  "queries_run": 27,
+  "queries_planned": 40,
+  "opened": 3,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "검색 한도로 40건 중 27건 실행(모바 1건 직접 재실행: 2025-08~09 기사만 확인, 신규 없음)"
+  ],
+  "leads": [
+   "모바·하이얼 질의 후속 실행 필요"
+  ]
+ },
+ "O1": {
+  "queries_run": 13,
+  "queries_planned": 13,
+  "opened": 6,
+  "candidates": 4,
+  "added": 1,
+  "skipped": [
+   "772만 개 공시는 기존 기록 있음",
+   "팝업·신제품은 미열람 단서"
+  ],
+  "leads": [
+   "카페 얼음정수기 출시 시점",
+   "정관 로봇 사업목적 공시"
+  ]
+ },
+ "O2": {
+  "queries_run": 22,
+  "queries_planned": 22,
+  "opened": 1,
+  "candidates": 1,
+  "added": 0,
+  "skipped": [
+   "대구 팝업은 기간 불명이라 보류"
+  ],
+  "leads": [
+   "쿠쿠홈시스 2분기 렌탈 계정"
+  ]
+ },
+ "O3": {
+  "queries_run": 22,
+  "queries_planned": 22,
+  "opened": 3,
+  "candidates": 3,
+  "added": 1,
+  "skipped": [
+   "실증사업 선정은 단일 보도·월 단위라 보류"
+  ],
+  "leads": [
+   "SK네트웍스 2분기 국내 렌탈 계정"
+  ]
+ },
+ "O4": {
+  "queries_run": 4,
+  "queries_planned": 12,
+  "opened": 2,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "직접 재실행: 조회 기간 내 신규 없음, 2026-05 라인업과 2025 감사보고서는 기존 기록 있음"
+  ],
+  "leads": [
+   "다이슨 질의 8건 미실행"
+  ]
+ }
+}
