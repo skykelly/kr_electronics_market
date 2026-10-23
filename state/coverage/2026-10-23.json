@@ -56,9 +56,9 @@
  "S6": {
   "queries_run": 5,
   "queries_planned": 5,
-  "opened": 5,
-  "candidates": 1,
-  "added": 1,
+  "opened": 6,
+  "candidates": 2,
+  "added": 2,
   "skipped": [],
   "leads": [
    "코리아세일페스타 삼성 참여 발표 여부"
@@ -215,6 +215,62 @@
   ],
   "leads": [
    "다이슨 질의 8건 미실행"
+  ]
+ },
+ "S1": {
+  "queries_run": 9,
+  "queries_planned": 13,
+  "opened": 5,
+  "candidates": 1,
+  "added": 0,
+  "skipped": [
+   "삼성위크는 S6에 배정",
+   "해외·비가전 보도자료 제외"
+  ],
+  "leads": [
+   "삼성전자서비스 AS 수상 4건 원문 미열람",
+   "가전 사업 철수 검토 단독보도 미확인"
+  ]
+ },
+ "S2": {
+  "queries_run": 8,
+  "queries_planned": 14,
+  "opened": 3,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "2026년형 AI 콤보·AI 스팀은 기존 S2-E-037·039에 있음"
+  ],
+  "leads": [
+   "질의 6건 미실행"
+  ]
+ },
+ "S3": {
+  "queries_run": 3,
+  "queries_planned": 4,
+  "opened": 0,
+  "candidates": 0,
+  "added": 0,
+  "skipped": [
+   "조회 기간 내 신규 없음"
+  ],
+  "leads": [
+   "AI 가전 리뷰 수 증가 보도 미열람",
+   "질의 1건 미실행"
+  ]
+ },
+ "S4": {
+  "queries_run": 3,
+  "queries_planned": 4,
+  "opened": 2,
+  "candidates": 1,
+  "added": 0,
+  "skipped": [
+   "서울디자인위크 TV 전시는 비스포크 가전이 아니라 보류"
+  ],
+  "leads": [
+   "광고상 기사 미열람",
+   "질의 1건 미실행"
   ]
  }
 }
