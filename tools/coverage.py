@@ -15,7 +15,7 @@ def load(d):
     p = path(d)
     return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
 DAILY_CAP = 8
-CAP_OVERRIDE = {"C6": 12}
+CAP_OVERRIDE = {"S1": 6, "S2": 6, "S4": 10, "S5": 10, "S6": 10, "S7": 10}
 def day_index():
     return (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)).toordinal()
 def plan(qs, Q):
