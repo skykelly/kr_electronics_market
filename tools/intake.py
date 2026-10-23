@@ -33,7 +33,7 @@ from records import KIND_ORDER, GRADES  # noqa: E402
 INBOX, INTAKE = ROOT / "inbox", ROOT / "intake"
 CAT = json.loads((ROOT / "site" / "catalog.json").read_text(encoding="utf-8"))
 QDIR = {q["no"]: ROOT / c["id"] / q["id"] for c in CAT["categories"] for q in c.get("questions", [])}
-TODAY = datetime.date.today().isoformat()
+TODAY = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).date().isoformat()
 
 
 def _slug(t):

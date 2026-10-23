@@ -53,7 +53,7 @@
 - 요청 시 진행한다. 질문 build 스크립트로 `records_base.jsonl`을 다시 만든 뒤 `python3 lib/diff_day.py --round <질문>`으로 회차 1줄만 이력에 남긴다.
 
 ## 포털 게시
-- 아티팩트 https://claude.ai/artifact/XKKnhH2SFLjhcxBi5PBxpn 에 `site/dist/artifact_index.html`을 진입 페이지로, `site/dist/manifest.json`의 `pages`를 같은 경로의 파일로 올린다. 게시 전 아티팩트를 read로 열어 최신 판을 기준으로 삼는다.
+- 아티팩트 https://claude.ai/artifact/XKKnhH2SFLjhcxBi5PBxpn 에 `site/dist/artifact_index.html`을 진입 페이지로, `site/dist/manifest.json`의 `pages`를 같은 경로의 파일로 올린다. 게시 전 아티팩트를 read로 열어 최신 판을 기준으로 삼는다. `capabilities`는 생략해 저장된 선언(sample, db, user)을 유지한다. 챗봇 이전 대화는 db의 `data/users/<id>/chats`에 본인 계정 전용으로 저장된다.
 
 ## 수동 지식 입력 (채팅으로 받은 자료)
 기본 모드는 **검토 후 반영**. 사용자가 "바로 반영"이라고 할 때만 검토 카드를 건너뛴다.

@@ -1,7 +1,7 @@
 # build_site.py 안에서 실행되는 포털 조립부. cat, sections, latest, E, ROOT, SITE, DIST 를 그대로 쓴다.
 import datetime as _dt
 
-TODAY = _dt.date.today()
+TODAY = _dt.datetime.now(_dt.timezone(_dt.timedelta(hours=9))).date()
 
 # ---------- 기록에서 '이번 달 신호'와 '판정 임박 전망' 뽑기
 q_path, q_meta = {}, {}

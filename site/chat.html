@@ -40,7 +40,7 @@
 </style>
 <button class="chat-fab" id="chat-fab" type="button" hidden aria-controls="chat" aria-expanded="false"><img class="ai-ico" src="%%ICON%%" alt="" width="24" height="24">AI Chat</button>
 <section class="chat" id="chat" hidden aria-label="AI Chat">
-  <div class="chat-h"><img class="ai-ico" src="%%ICON%%" alt="" width="22" height="22"><b>AI Chat</b><button type="button" id="chat-new">새 대화</button><button type="button" id="chat-close" aria-label="닫기">닫기</button></div>
+  <div class="chat-h"><img class="ai-ico" src="%%ICON%%" alt="" width="22" height="22"><b>AI Chat</b><button type="button" id="chat-hist" hidden>이전 대화</button><button type="button" id="chat-new">새 대화</button><button type="button" id="chat-close" aria-label="닫기">닫기</button></div>
   <div class="chat-log" id="chat-log" aria-live="polite"></div>
   <form class="chat-f" id="chat-form"><textarea id="chat-in" rows="1" placeholder="KR Appliance Signals 내용에 대해 질문하세요" aria-label="질문 입력"></textarea><button type="submit" id="chat-send">보내기</button></form>
 </section>
@@ -154,7 +154,47 @@
       "[카테고리] " + DATA.categories.join(" / ") + "\n\n[질문 현재 상태]\n" + qs + "\n\n[최근 주요 사건]\n" + ev + "\n\n[90일 안에 이행을 확인할 회사 공식 계획]\n" + fc;
   }
 
-  var CHAT = { sample: null, tools: false, turns: [], busy: false, ctl: null };
+  var CHAT = { sample: null, tools: false, turns: [], busy: false, ctl: null, sid: null, col: null };
+  function newSid() { return "c" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
+  function save() {
+    if (!CHAT.col || !CHAT.turns.length) return;
+    if (!CHAT.sid) CHAT.sid = newSid();
+    var first = CHAT.turns[0].content || "";
+    CHAT.col.doc(CHAT.sid).set({ title: first.slice(0, 60), updated: Date.now(), page: HERE || "", turns: CHAT.turns.slice(-16) }).catch(function () {});
+  }
+  function showHist() {
+    if (!CHAT.col) return;
+    $("chat-log").innerHTML = "";
+    var d = add("a", '<div class="chat-note">이전 대화는 본인 계정에만 저장됩니다. 최근 20개를 보여줍니다.</div><div class="chat-sugg"></div>');
+    var box = d.querySelector(".chat-sugg");
+    CHAT.col.orderBy("updated", "desc").limit(20).get().then(function (snap) {
+      if (snap.empty) { box.textContent = "저장된 대화가 없습니다."; return; }
+      snap.docs.forEach(function (doc) {
+        var v = doc.data() || {}, row = document.createElement("div"), b = document.createElement("button"), x = document.createElement("button");
+        b.type = "button"; b.textContent = new Date(v.updated || 0).toLocaleDateString("ko-KR") + " " + (v.title || "대화");
+        b.onclick = function () { restore(doc.id, v); };
+        x.type = "button"; x.textContent = "삭제"; x.onclick = function () { CHAT.col.doc(doc.id).delete().then(function () { row.remove(); }).catch(function () {}); };
+        row.appendChild(b); row.appendChild(x); box.appendChild(row);
+      });
+    }).catch(function () { box.textContent = "이전 대화를 불러오지 못했습니다."; });
+  }
+  function restore(id, v) {
+    if (CHAT.ctl) CHAT.ctl.abort();
+    CHAT.sid = id; CHAT.turns = (v.turns || []).filter(function (t) { return t && typeof t.content === "string"; });
+    $("chat-log").innerHTML = "";
+    CHAT.turns.forEach(function (t) { add(t.role === "user" ? "u" : "a", t.role === "user" ? esc(t.content) : md(t.content)); });
+    $("chat-in").focus();
+  }
+  function initStore() {
+    if (!window.claude || typeof window.claude.use !== "function") return;
+    Promise.all([window.claude.use("db"), window.claude.use("user")]).then(function (r) {
+      if (!r[0] || !r[1] || typeof r[1].id !== "function") return;
+      return r[1].id().then(function (id) {
+        CHAT.col = r[0].collection("data/users/" + id + "/chats");
+        $("chat-hist").hidden = false; $("chat-hist").onclick = showHist;
+      });
+    }).catch(function () {});
+  }
   var ERR = { rate_limited: "요청이 많아 잠시 멈췄습니다. 조금 뒤 다시 질문해 주세요.", session_expired: "Claude 로그인이 만료되었습니다. 다시 로그인한 뒤 질문해 주세요.",
               refused: "이 질문에는 답할 수 없습니다. 질문을 바꿔 주세요.", empty_completion: "답변이 비어 있습니다. 질문을 조금 바꿔 다시 시도해 주세요.",
               prompt_too_large: "대화가 너무 길어졌습니다. 새 대화로 시작해 주세요.", upstream_error: "연결이 끊겼습니다. 다시 보내 주세요." };
@@ -181,7 +221,7 @@
     if (CHAT.tools) opts.tools = TOOLS;
     CHAT.sample([{ role: "user", content: context() }].concat(CHAT.turns), opts).then(function (r) {
       bub.innerHTML = md(r.text) + (r.truncated ? '<div class="err">답변이 길이 제한으로 잘렸습니다. 범위를 좁혀 다시 질문해 주세요.</div>' : "");
-      CHAT.turns.push({ role: "assistant", content: r.text });
+      CHAT.turns.push({ role: "assistant", content: r.text }); save();
     }).catch(function (e) {
       CHAT.turns.pop();
       var kept = e && e.text && e.code !== "refused" ? md(e.text) : "";
@@ -209,7 +249,7 @@
       $("chat-fab").hidden = false;
       $("chat-fab").onclick = function () { open(true); };
       $("chat-close").onclick = function () { open(false); };
-      $("chat-new").onclick = function () { if (CHAT.ctl) CHAT.ctl.abort(); CHAT.turns = []; intro(); $("chat-in").focus(); };
+      $("chat-new").onclick = function () { if (CHAT.ctl) CHAT.ctl.abort(); CHAT.turns = []; CHAT.sid = null; intro(); $("chat-in").focus(); };
       var ta = $("chat-in");
       ta.addEventListener("input", function () { ta.style.height = "auto"; ta.style.height = Math.min(ta.scrollHeight, 140) + "px"; });
       ta.addEventListener("keydown", function (e) { if (e.key === "Enter" && !e.shiftKey && !e.isComposing) { e.preventDefault(); $("chat-form").requestSubmit(); } });
@@ -221,6 +261,6 @@
       document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !$("chat").hidden) open(false); });
     }).catch(function () {});
   }
-  init();
+  init(); initStore();
 })();
 </script>
