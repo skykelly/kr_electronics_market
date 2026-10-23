@@ -15,15 +15,17 @@ def load(d):
     p = path(d)
     return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
 DAILY_CAP = 8
+CAP_OVERRIDE = {"C6": 12}
 def day_index():
     return (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)).toordinal()
 def plan(qs, Q):
     out = {}
     for k in qs:
         L = Q[k]["queries"]
-        if len(L) <= DAILY_CAP: out[k] = L; continue
-        st = (day_index() * DAILY_CAP) % len(L)
-        out[k] = [L[(st + i) % len(L)] for i in range(DAILY_CAP)]
+        cap = CAP_OVERRIDE.get(k, DAILY_CAP)
+        if len(L) <= cap: out[k] = L; continue
+        st = (day_index() * cap) % len(L)
+        out[k] = [L[(st + i) % len(L)] for i in range(cap)]
     return out
 def main():
     a = sys.argv[1:]
