@@ -1,0 +1,57 @@
+name: collect-news
+
+# 매일 06:30 KST(= 21:30 UTC 전날)에 네이버 뉴스 후보를 모아 state/candidates/ 에 커밋한다.
+# 07:23 KST 일간 배치가 이 파일을 읽어 후보를 검증·반영한다.
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+    inputs:
+      questions:
+        description: "질문 번호 목록(쉼표). 비우면 전체"
+        required: false
+        default: ""
+      lookback:
+        description: "조회 기간(일). 비우면 queries.json 의 값"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 수집
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          Q: ${{ github.event.inputs.questions }}
+          LB: ${{ github.event.inputs.lookback }}
+        run: |
+          args=""
+          [ -n "$Q" ] && args="$args --questions $Q"
+          [ -n "$LB" ] && args="$args --lookback $LB"
+          python3 tools/collect_news.py $args | tee collect.log
+      - name: 후보 파일 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/candidates
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -m "수집: 네이버 뉴스 후보 $(date -u -d '+9 hours' +%F)"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          exit 1
