@@ -1,0 +1,156 @@
+{
+ "date": "2026-10-25",
+ "collected_at": "2026-10-25T08:34+09:00",
+ "lookback_days": 14,
+ "count": 0,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 13
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 14
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 4
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 10
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 11
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 11
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 11
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 12
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 12
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 12
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 12
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 12
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 40
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 13
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 22
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 22
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 12
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 5
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 5
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 5
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 0,
+   "in_window": 0,
+   "kept": 0,
+   "errors": 4
+  }
+ },
+ "items": []
+}
