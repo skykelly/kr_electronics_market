@@ -11,7 +11,7 @@
   python3 tools/collect_news.py --fixture tests/fixtures/naver_sample.json --questions C1,O1 --out /tmp/x   (시험)
   옵션: --questions S1,C1  --lookback 14  --out <폴더>  --dry (파일을 쓰지 않고 요약만)
 """
-import argparse, datetime as dt, email.utils, html, json, os, re, sys, time, urllib.parse, urllib.request
+import argparse, datetime as dt, email.utils, html, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -55,7 +55,21 @@ def fetch(query, start, display, cid, sec, fixture=None):
         try:
             with urllib.request.urlopen(req, timeout=20) as r:
                 return json.load(r)
-        except Exception as e:
+        except urllib.error.HTTPError as e:
+            body = ""
+            try:
+                body = e.read().decode("utf-8", "replace")[:300]
+            except Exception:
+                pass
+            if e.code in (401, 403):
+                # 인증·권한 오류는 재시도해도 같다. 응답 본문의 errorCode/errorMessage 를 그대로 보여 주고 바로 멈춘다.
+                sys.exit(f"네이버 API 인증 실패 HTTP {e.code}: {body}\n"
+                         f"  확인: (1) 비밀값 이름 NAVER_CLIENT_ID / NAVER_CLIENT_SECRET (2) 두 값이 바뀌지 않았는지 "
+                         f"(3) 앞뒤 공백·줄바꿈 (4) 애플리케이션의 사용 API 에 '검색'이 선택됐는지")
+            if attempt == 2:
+                raise
+            time.sleep(1.5 * (attempt + 1))
+        except Exception:
             if attempt == 2:
                 raise
             time.sleep(1.5 * (attempt + 1))
@@ -89,11 +103,14 @@ def main():
     cfg = json.loads((ROOT / "tools/news_keywords.json").read_text(encoding="utf-8"))
     lookback = a.lookback or qj.get("lookback_days", 14)
     qs = [x.strip() for x in a.questions.split(",")] if a.questions else list(qj["questions"])
-    cid, sec = os.environ.get("NAVER_CLIENT_ID"), os.environ.get("NAVER_CLIENT_SECRET")
+    cid, sec = (os.environ.get("NAVER_CLIENT_ID") or "").strip(), (os.environ.get("NAVER_CLIENT_SECRET") or "").strip()
     fixture = json.loads(Path(a.fixture).read_text(encoding="utf-8")) if a.fixture else None
     if fixture is None and not (cid and sec):
         sys.exit("NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 환경변수가 없습니다.")
 
+    if fixture is None:
+        # 값 자체는 출력하지 않고 길이만 보여 준다(보통 아이디 20자 안팎, 시크릿 10자)
+        print(f"인증값 길이: 아이디 {len(cid)}자 · 시크릿 {len(sec)}자")
     now = dt.datetime.now(KST)
     cutoff = now - dt.timedelta(days=lookback)
     outdir = Path(a.out) if a.out else ROOT / "state/candidates"
