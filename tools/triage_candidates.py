@@ -4,7 +4,8 @@
 입력: state/candidates/<날짜>.json   (collect_news.py 결과)
 추가: 항목마다
   cues        제목에 든 사건 단서어(출시, 발표, 개최, 할인 등)
-  tier        A 사건 가능성 높음 / B 보통 / C 낮음(체험기·인터뷰·포토·광고성 연재)
+  q_title     제목에 브랜드·주제어가 있는 질문(주 질문). 비면 요약에만 언급된 기사
+  tier        A 사건 단서어 + 제목에 브랜드 / B 보통 / C 낮음(체험기·인터뷰·포토·광고성 연재)
   similar     같은 사건일 가능성이 있는 기존 기록 [{id, score}] (점수 0.35 이상, 최대 3개)
 출력: 같은 파일을 덮어쓴다. stats_triage 에 건수 요약.
 사건 여부 최종 판정, 원문 확인, 기록 작성은 일간 배치가 한다. 이 분류는 읽을 순서를 정하는 용도다.
@@ -49,13 +50,16 @@ def load_records():
 def main():
     p = Path(sys.argv[1]) if len(sys.argv) > 1 else sorted((ROOT / "state/candidates").glob("2*.json"))[-1]
     d = json.loads(p.read_text(encoding="utf-8"))
+    must = json.loads((ROOT / "tools/news_keywords.json").read_text(encoding="utf-8"))["must_any"]
     recs = [r for r in load_records() if r["date"] >= "2026-09-01"]
     cnt = {"A": 0, "B": 0, "C": 0, "similar": 0}
     for it in d["items"]:
         title = it["title"]
         it["cues"] = [c for c in CUES_A if c in title]
         low = any(w in title for w in LOW)
-        it["tier"] = "C" if low else ("A" if it["cues"] else "B")
+        # 제목에 질문의 브랜드·주제어가 있는 질문만 '주 질문'으로 본다(요약에만 언급된 기사는 낮춘다)
+        it["q_title"] = [q for q in it["questions"] if any(t.lower() in title.lower() for t in must.get(q, []))]
+        it["tier"] = "C" if low else ("A" if (it["cues"] and it["q_title"]) else "B")
         tt = toks(title + " " + it.get("desc", ""))
         sims = []
         for r in recs:
