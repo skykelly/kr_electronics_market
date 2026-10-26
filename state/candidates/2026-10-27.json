@@ -166,7 +166,10 @@
    "queries": [
     "드리미 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171280",
@@ -181,7 +184,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026102613584272225",
@@ -196,7 +202,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20106386?ref=naver",
@@ -211,7 +220,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2019107",
@@ -228,7 +240,10 @@
     "삼성전자 가전 실적",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729823",
@@ -253,7 +268,10 @@
     "삼성전자 가전 팝업",
     "삼성전자 가전 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237407",
@@ -268,7 +286,10 @@
    "queries": [
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026102613584037604",
@@ -283,7 +304,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/industry/2026/10/27/2026102617401188631",
@@ -299,7 +323,10 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=312074",
@@ -314,7 +341,10 @@
    "queries": [
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.livesnews.com/news/article.html?no=65346",
@@ -332,7 +362,12 @@
     "마이디어 코리아 출시",
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261026_0003841314",
@@ -347,7 +382,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.donga.com/news/Economy/article/all/20261026/134911403/2",
@@ -362,7 +400,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.donga.com/news/Health/article/all/20261026/134911887/2",
@@ -377,7 +418,10 @@
    "queries": [
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25472998",
@@ -392,7 +436,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610262150375195",
@@ -407,7 +454,12 @@
    "queries": [
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12186313",
@@ -422,7 +474,10 @@
    "queries": [
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hani.co.kr/arti/economy/marketing/1284276.html",
@@ -437,7 +492,10 @@
    "queries": [
     "삼성전자 가전 AI 가전 전략"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sisaweek.com/news/articleView.html?idxno=238598",
@@ -461,7 +519,10 @@
     "삼성전자 가전 실적",
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kukinews.com/article/view/kuk202610260241",
@@ -476,7 +537,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260143&t=NNv",
@@ -491,7 +555,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.nocutnews.co.kr/news/6597300?utm_source=naver&utm_medium=article&utm_campaign=20261026053712",
@@ -508,7 +575,10 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61748",
@@ -528,7 +598,10 @@
     "삼성전자 가전 행사 할인",
     "삼성전자 가전 혜택 포인트"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.tournews21.com/news/articleView.html?idxno=146666",
@@ -551,7 +624,10 @@
     "코웨이 비렉스",
     "코웨이 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://theviewers.co.kr/View.aspx?No=4279511",
@@ -602,7 +678,10 @@
     "코웨이 팝업",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.seoulfn.com/news/articleView.html?idxno=641001",
@@ -639,7 +718,12 @@
     "쿠쿠전자 실적",
     "쿠쿠전자 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.korea.kr/news/reporterView.do?newsId=148974240&call_from=naver_news",
@@ -654,7 +738,10 @@
    "queries": [
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12185946",
@@ -669,7 +756,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202610261620011&code=8",
@@ -684,7 +776,10 @@
    "queries": [
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25472900",
@@ -699,7 +794,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20106208?ref=naver",
@@ -715,7 +813,10 @@
     "샤오미 코리아 신제품",
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12185892",
@@ -732,7 +833,12 @@
     "삼성 AI 가전 소비자 조사",
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261026000316",
@@ -747,7 +853,10 @@
    "queries": [
     "AI 표시 기준 가전"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.chosun.com/economy/tech_it/2026/10/26/JWTKILFWABFQ3OEF7CPFF7CVXE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -762,7 +871,10 @@
    "queries": [
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261026500382",
@@ -783,7 +895,10 @@
     "삼성전자 가전 신제품",
     "삼성전자 가전 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.donga.com/news/Economy/article/all/20261026/134909239/1",
@@ -798,7 +913,10 @@
    "queries": [
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mediapen.com/news/view/1132526",
@@ -813,7 +931,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261026000375",
@@ -829,7 +950,12 @@
     "샤오미 코리아 신제품",
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sidae.com/article/2026102614303843409",
@@ -844,7 +970,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610265406i",
@@ -859,7 +988,10 @@
    "queries": [
     "가전 시장 규모 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6860770_36974.html",
@@ -875,7 +1007,10 @@
     "삼성전자 가전 실적",
     "삼성전자 가전 인증 규제"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.mtn.co.kr/article/2026102614340442948",
@@ -895,7 +1030,12 @@
     "삼성전자 가전 전략 발표",
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107302",
@@ -922,7 +1062,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261026500396",
@@ -937,7 +1080,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261026500332",
@@ -952,7 +1100,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://swtvnews.com/news/newsview.php?ncode=1065580786586975",
@@ -974,7 +1125,12 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498476",
@@ -1022,7 +1178,10 @@
     "쿠쿠홈시스 실적",
     "쿠쿠홈시스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.seouleconews.com/news/articleView.html?idxno=94574",
@@ -1051,7 +1210,10 @@
     "삼성전자 스마트싱스 발표",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1706160/?sc=Naver",
@@ -1067,7 +1229,12 @@
     "삼성전자 가전 실적",
     "삼성전자 가전 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12185700",
@@ -1083,7 +1250,12 @@
     "샤오미 코리아 신제품",
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.topdaily.kr/articles/112498",
@@ -1110,7 +1282,12 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228512",
@@ -1129,7 +1306,12 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.knpnews.com/news/articleView.html?idxno=34737",
@@ -1144,7 +1326,10 @@
    "queries": [
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261026500157",
@@ -1161,7 +1346,12 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.cfnews.kr/news/article.html?no=113146",
@@ -1184,7 +1374,10 @@
     "중국 가전 한국 점유율",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.job-post.co.kr/news/articleView.html?idxno=234440",
@@ -1202,7 +1395,12 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171305",
@@ -1225,7 +1423,10 @@
      "host": "news.dealsitetv.com",
      "published": "2026-10-26T17:06+09:00"
     }
-   ]
+   ],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005947110",
@@ -1242,7 +1443,12 @@
     "샤오미 코리아 출시",
     "샤오미 코리아 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=101891",
@@ -1258,7 +1464,10 @@
     "중국 가전 한국 점유율",
     "중국 에어컨 한국 진출"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261026500230",
@@ -1284,7 +1493,12 @@
     "삼성전자 비스포크 AI 출시",
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.gamechosun.co.kr/webzine/article/view.php?no=226800",
@@ -1299,7 +1513,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.breaknews.com/1245664",
@@ -1314,7 +1533,13 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시",
+    "오픈"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261026000203",
@@ -1330,7 +1555,10 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.thereport.co.kr/news/articleView.html?idxno=92651",
@@ -1347,7 +1575,10 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mydaily.co.kr/page/view/2026102612120268735",
@@ -1362,7 +1593,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.techm.kr/news/articleView.html?idxno=156490",
@@ -1402,7 +1638,10 @@
     "쿠쿠전자 출시",
     "쿠쿠전자 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mhj21.com/news/articleView.html?idxno=254497",
@@ -1419,7 +1658,10 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261026_0003840773",
@@ -1434,7 +1676,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10914746?ref=naver",
@@ -1449,7 +1694,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2639956",
@@ -1464,7 +1714,10 @@
    "queries": [
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610264743g",
@@ -1484,7 +1737,10 @@
     "로보락 출시",
     "로봇청소기 점유율 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261026500162",
@@ -1501,7 +1757,12 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261026500164",
@@ -1516,7 +1777,10 @@
    "queries": [
     "TCL 한국 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dizzotv.com/site/data/html_dir/2026/10/26/2026102680071.html",
@@ -1531,7 +1795,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026102611214636814",
@@ -1546,7 +1815,17 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "S5-E-031",
+     "score": 0.36
+    }
+   ]
   },
   {
    "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172584",
@@ -1584,7 +1863,13 @@
     "코웨이 비렉스",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시",
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600120.html",
@@ -1601,7 +1886,12 @@
     "SK매직 실적",
     "SK매직 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newscj.com/news/articleView.html?idxno=3443065",
@@ -1641,7 +1931,12 @@
     "삼성전자 스마트싱스 발표",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158534",
@@ -1658,7 +1953,10 @@
     "코웨이 신제품",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.tf.co.kr/read/economy/2380473.htm",
@@ -1675,7 +1973,10 @@
     "삼성전자 가전 사전예약",
     "쿠쿠전자 사전예약"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2018815",
@@ -1690,7 +1991,12 @@
    "queries": [
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://sateconomy.co.kr/news/view/1065577917154761",
@@ -1706,7 +2012,10 @@
     "코웨이 신제품",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.breaknews.com/1245578",
@@ -1723,7 +2032,12 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610260092",
@@ -1738,7 +2052,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261026000130",
@@ -1753,7 +2070,10 @@
    "queries": [
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610260081",
@@ -1769,7 +2089,13 @@
     "삼성전자 가전 행사 할인",
     "삼성전자 세일 페스타"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "시작",
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.dt.co.kr/article/12091189?ref=naver",
@@ -1785,7 +2111,10 @@
     "코웨이 신제품",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600067.html",
@@ -1801,7 +2130,10 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261026_0003840704",
@@ -1816,7 +2148,12 @@
    "queries": [
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261026000092",
@@ -1838,7 +2175,13 @@
     "쿠쿠전자 사전예약",
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "돌입",
+    "사전예약"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619202",
@@ -1888,7 +2231,10 @@
     "삼성전자 스마트싱스 발표",
     "에어컨 점유율 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261026056300017?input=1195m",
@@ -1903,7 +2249,10 @@
    "queries": [
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418234",
@@ -1968,7 +2317,10 @@
     "쿠쿠전자 출시",
     "쿠쿠전자 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026102609573330163",
@@ -1984,7 +2336,12 @@
     "샤오미 코리아 출시",
     "샤오미 코리아 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600063.html",
@@ -2000,7 +2357,10 @@
     "TCL 한국 실적",
     "TCL 한국 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.donga.com/news/Economy/article/all/20261026/134907640/1",
@@ -2017,7 +2377,12 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.impacton.net/news/articleView.html?idxno=30392",
@@ -2037,7 +2402,10 @@
     "삼성전자 가전 AS 서비스센터",
     "삼성전자 가전 무상 보증 연장 정책"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newstree.kr/newsView/ntr202610260004",
@@ -2052,7 +2420,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610260909078207",
@@ -2067,7 +2440,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.nocutnews.co.kr/news/6596792?utm_source=naver&utm_medium=article&utm_campaign=20261026094410",
@@ -2082,7 +2460,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/tech/2026/10/26/2026102609250846675",
@@ -2099,7 +2482,12 @@
     "샤오미 코리아 출시",
     "샤오미 코리아 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2018720",
@@ -2114,7 +2502,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600040.html",
@@ -2129,7 +2522,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53947",
@@ -2173,7 +2571,10 @@
     "중국 가전 한국 점유율",
     "중국 에어컨 한국 진출"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1705957/?sc=Naver",
@@ -2190,7 +2591,12 @@
     "샤오미 코리아 신제품",
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.viva100.com/article/20261026500093",
@@ -2206,7 +2612,12 @@
     "삼성전자 가전 행사 할인",
     "삼성전자 세일 페스타"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.sbs.co.kr/article_hub/20000342039?division=NAVER",
@@ -2221,7 +2632,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261026092030080",
@@ -2237,7 +2653,10 @@
     "샤오미 코리아 출시",
     "샤오미 코리아 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065571571762387",
@@ -2252,7 +2671,15 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": [
+    {
+     "id": "S5-E-031",
+     "score": 0.36
+    }
+   ]
   },
   {
    "url": "https://www.etnews.com/20261026000021",
@@ -2267,7 +2694,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.breaknews.com/1245548",
@@ -2284,7 +2716,10 @@
     "로보락 팝업",
     "로보락 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610264278g",
@@ -2300,7 +2735,12 @@
     "샤오미 코리아 신제품",
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.yangsanilbo.com/news/articleView.html?idxno=128229",
@@ -2315,7 +2755,10 @@
    "queries": [
     "쿠쿠전자 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026102608462887082",
@@ -2336,7 +2779,12 @@
      "host": "hbnpress.com",
      "published": "2026-10-26T15:08+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/it-science/internet-platform/6331376",
@@ -2351,7 +2799,12 @@
    "queries": [
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10914253?ref=naver",
@@ -2366,7 +2819,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1705912/?sc=Naver",
@@ -2381,7 +2837,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.viva100.com/article/20261026500050",
@@ -2396,7 +2857,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISI20261026_0021503965",
@@ -2417,7 +2883,12 @@
      "host": "www.newsis.com",
      "published": "2026-10-26T08:47+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISI20261026_0021503963",
@@ -2438,7 +2909,12 @@
      "host": "www.newsis.com",
      "published": "2026-10-26T08:47+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISI20261026_0021503966",
@@ -2459,6 +2935,16 @@
      "host": "www.newsis.com",
      "published": "2026-10-26T08:47+09:00"
     }
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "S5-E-031",
+     "score": 0.36
+    }
    ]
   },
   {
@@ -2474,7 +2960,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261026_0003840403",
@@ -2509,7 +2998,12 @@
     "쿠쿠전자 신제품",
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "사전예약"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/tech/2026/10/26/2026102608272921060",
@@ -2524,7 +3018,15 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": [
+    {
+     "id": "S5-E-031",
+     "score": 0.36
+    }
+   ]
   },
   {
    "url": "https://www.news1.kr/industry/distribution/6331342",
@@ -2539,7 +3041,12 @@
    "queries": [
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261026_0003840386",
@@ -2554,7 +3061,17 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "S5-E-031",
+     "score": 0.36
+    }
+   ]
   },
   {
    "url": "https://www.news1.kr/it-science/mobile/6331314",
@@ -2569,7 +3086,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261026081605722",
@@ -2600,7 +3122,12 @@
      "host": "www.betanews.net",
      "published": "2026-10-26T16:40+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://news.tf.co.kr/read/economy/2380472.htm",
@@ -2623,7 +3150,12 @@
      "host": "www.koit.co.kr",
      "published": "2026-10-26T09:38+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278676&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -2638,7 +3170,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003837882",
@@ -2653,7 +3188,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/23/0039",
@@ -2673,7 +3211,10 @@
     "삼성전자 방문케어",
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://magazine.hankyung.com/business/article/202610203481b",
@@ -2689,7 +3230,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.viva100.com/article/20261025500292",
@@ -2706,7 +3250,10 @@
     "코웨이 출시",
     "쿠쿠홈시스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172686",
@@ -2748,7 +3295,10 @@
     "삼성전자 비스포크 AI 출시",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1705490/?sc=Naver",
@@ -2763,7 +3313,10 @@
    "queries": [
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.nocutnews.co.kr/news/6595563?utm_source=naver&utm_medium=article&utm_campaign=20261026050107",
@@ -2778,7 +3331,10 @@
    "queries": [
     "가전 구매 조건 조사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.sidae.com/article/2026102017264894795",
@@ -2795,7 +3351,10 @@
     "삼성전자 가전 출시",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261025_0003839885",
@@ -2810,7 +3369,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kmib.co.kr/article/20261025501550",
@@ -2825,7 +3387,12 @@
    "queries": [
     "삼성전자 가전 AI 가전 전략"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/25/2026102590110.html",
@@ -2845,7 +3412,10 @@
     "중국 TV 한국 시장",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kmib.co.kr/article/20261025501340",
@@ -2860,7 +3430,10 @@
    "queries": [
     "삼성전자 가전 AI 가전 전략"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102535151",
@@ -2875,7 +3448,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102535401",
@@ -2890,7 +3466,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261025153206200",
@@ -2905,7 +3484,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20105833?ref=naver",
@@ -2920,7 +3502,12 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261025151102164",
@@ -2935,7 +3522,12 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2018681",
@@ -2952,7 +3544,10 @@
     "삼성전자 가전 실적",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261023000136",
@@ -2970,7 +3565,10 @@
     "삼성전자 가전 출시",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620736",
@@ -2989,7 +3587,13 @@
     "삼성전자 가전 실적",
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "발표",
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2342545",
@@ -3028,7 +3632,12 @@
     "삼성전자 스마트싱스 발표",
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003838678",
@@ -3044,7 +3653,10 @@
     "코웨이 비렉스",
     "코웨이 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610250016",
@@ -3059,7 +3671,10 @@
    "queries": [
     "공정위 가전 시정"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.segyebiz.com/newsView/20261025506405?OutUrl=naver",
@@ -3074,7 +3689,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12184997",
@@ -3090,7 +3708,10 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자 가전 인증 규제"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026101917075760134",
@@ -3108,7 +3729,12 @@
     "코웨이 실적",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261025500016",
@@ -3126,7 +3752,10 @@
     "삼성전자 가전 전략 발표",
     "삼성전자 가전 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/policy/2026/10/25/2026102510134721387",
@@ -3141,7 +3770,10 @@
    "queries": [
     "공정위 가전 시정"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/local/moi/6330506",
@@ -3156,7 +3788,10 @@
    "queries": [
     "공정위 가전 시정"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003839269",
@@ -3171,7 +3806,10 @@
    "queries": [
     "공정위 가전 시정"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2639717",
@@ -3188,7 +3826,13 @@
     "로보락 팝업",
     "로보락 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대",
+    "매출"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226934",
@@ -3203,7 +3847,14 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "발표",
+    "실적",
+    "영업이익"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/25/2026102500034.html",
@@ -3218,7 +3869,12 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.sbs.co.kr/article_hub/20000341950?division=NAVER",
@@ -3233,7 +3889,12 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1168926",
@@ -3248,7 +3909,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.chosun.com/distribution/channel/2026/10/25/CPR7RZ5STNAQVIVQMBNR3BJGLQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -3264,7 +3928,12 @@
     "로보락 출시",
     "로보락 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/25/2026102500021.html",
@@ -3280,7 +3949,10 @@
     "로보락 팝업",
     "로보락 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.yonhapnewstv.co.kr/news/AKR20261025092439H9e",
@@ -3295,7 +3967,13 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적",
+    "영업이익"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.dt.co.kr/article/12091004?ref=naver",
@@ -3310,7 +3988,12 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.insight.co.kr/news/579049",
@@ -3327,7 +4010,13 @@
     "삼성전자 가전 실적",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "발표",
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261025000008",
@@ -3343,7 +4032,10 @@
     "로보락 출시",
     "로보락 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsway.co.kr/news/view?ud=2026102317535916790",
@@ -3368,7 +4060,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.munhwa.com/article/11625958?ref=naver",
@@ -3383,7 +4078,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131486",
@@ -3405,7 +4103,13 @@
     "코웨이 출시",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최",
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610231857g",
@@ -3420,7 +4124,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/general-industry/6330421",
@@ -3437,7 +4144,13 @@
     "삼성전자 가전 실적",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "발표",
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25472528",
@@ -3452,7 +4165,10 @@
    "queries": [
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261023159200003?input=1195m",
@@ -3467,7 +4183,12 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.chosun.com/opinion/desk_column/2026/10/25/CCU5NZPQXZBU7JQYCBAM5V36TQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -3483,7 +4204,10 @@
     "로보락 점유율",
     "로보락 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12184187",
@@ -3498,7 +4222,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610231835253049",
@@ -3515,7 +4242,10 @@
     "로보락 팝업",
     "로보락 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mydaily.co.kr/page/view/2026102501115753663",
@@ -3538,7 +4268,10 @@
      "host": "www.socialvalue.kr",
      "published": "2026-10-25T09:28+09:00"
     }
-   ]
+   ],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dizzotv.com/site/data/html_dir/2026/10/23/2026102380229.html",
@@ -3555,7 +4288,10 @@
     "로보락 팝업",
     "로보락 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/distribution/6330465",
@@ -3571,7 +4307,10 @@
     "로보락 출시",
     "로보락 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.apnews.kr/news/articleView.html?idxno=3052435",
@@ -3593,7 +4332,10 @@
     "로보락 프로모션",
     "코웨이 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261023175800030?input=1195m",
@@ -3609,7 +4351,13 @@
     "로보락 출시",
     "로보락 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인",
+    "팝업"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003839202",
@@ -3626,7 +4374,12 @@
     "로보락 출시",
     "로보락 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261024035400003?input=1195m",
@@ -3644,7 +4397,10 @@
     "삼성전자 가전 전략 발표",
     "삼성전자 가전 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261023166400003?input=1195m",
@@ -3662,7 +4418,10 @@
     "삼성전자 가전 실적",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261024500017",
@@ -3678,7 +4437,10 @@
     "코웨이 비렉스",
     "코웨이 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.bntnews.co.kr/article/view/bnt202610230285",
@@ -3697,7 +4459,10 @@
     "마이디어 코리아 인증 규제",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003837949",
@@ -3712,7 +4477,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261021_0003834303",
@@ -3727,7 +4495,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://sateconomy.co.kr/news/view/1065616522751180",
@@ -3745,7 +4516,10 @@
     "삼성전자 가전 인증 규제",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20105101?ref=naver",
@@ -3760,7 +4534,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026102419264312536",
@@ -3775,7 +4552,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "오픈"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20105549?ref=naver",
@@ -3790,7 +4572,10 @@
    "queries": [
     "가전 소비자 설문 브랜드 선호"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1168745",
@@ -3805,7 +4590,10 @@
    "queries": [
     "가전 소비자 설문 브랜드 선호"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.segye.com/newsView/20261024502958?OutUrl=naver",
@@ -3821,7 +4609,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.segye.com/newsView/20261024502955?OutUrl=naver",
@@ -3845,7 +4636,12 @@
     "삼성전자 가전 행사 할인",
     "에코백스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.yonhapnewstv.co.kr/news/MYH20261024093513zFL",
@@ -3861,7 +4657,13 @@
     "삼성전자 AI 구독",
     "삼성전자 구독 가전 이용"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대",
+    "구독"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1705469/?sc=Naver",
@@ -3876,7 +4678,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261023000292",
@@ -3892,7 +4697,12 @@
     "하이얼 코리아 신제품",
     "하이얼 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.kyeonggi.com/article/20261024580021",
@@ -3907,7 +4717,12 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://woman.chosun.com/news/articleView.html?idxno=126735",
@@ -3922,7 +4737,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20105550?ref=naver",
@@ -3937,7 +4755,10 @@
    "queries": [
     "가전 판매 통계 한국"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003837917",
@@ -3952,7 +4773,10 @@
    "queries": [
     "가전 소비자 설문 브랜드 선호"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.sbs.co.kr/article_hub/20000341593?division=NAVER",
@@ -3967,7 +4791,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261023500199",
@@ -3986,7 +4813,10 @@
     "코웨이 실적",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261023500283",
@@ -4001,7 +4831,12 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/general-industry/6330449",
@@ -4016,7 +4851,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dt.co.kr/article/12090795?ref=naver",
@@ -4033,7 +4871,10 @@
     "삼성전자 가전 신제품",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610240202500960",
@@ -4048,7 +4889,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003838757",
@@ -4063,7 +4907,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://it.donga.com/109761/",
@@ -4081,7 +4928,10 @@
     "삼성전자 가전 인증 규제",
     "삼성전자 구독 가전 이용"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261023_0003837991",
@@ -4096,7 +4946,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261022_0003836034",
@@ -4111,7 +4964,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260152",
@@ -4130,7 +4986,10 @@
     "삼성전자 AI 구독",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102317991",
@@ -4145,7 +5004,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mediapen.com/news/view/1132067",
@@ -4160,7 +5022,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://news.dealsitetv.com/articles/177425",
@@ -4177,7 +5042,10 @@
     "코웨이 신제품",
     "코웨이 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267434",
@@ -4229,7 +5097,10 @@
     "코웨이 팝업",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2018450",
@@ -4245,7 +5116,10 @@
     "코웨이 비렉스",
     "코웨이 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.100ssd.co.kr/news/articleView.html?idxno=213808",
@@ -4260,7 +5134,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1705516/?sc=Naver",
@@ -4275,7 +5152,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
@@ -4291,7 +5171,12 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "신설"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91510",
@@ -4319,7 +5204,10 @@
     "쿠쿠전자 신제품",
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171226",
@@ -4344,7 +5232,10 @@
     "코웨이 팝업",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2018406",
@@ -4359,7 +5250,10 @@
    "queries": [
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71321",
@@ -4375,7 +5269,12 @@
     "하이얼 코리아 신제품",
     "하이얼 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261023000990",
@@ -4391,7 +5290,12 @@
     "삼성전자 AI 구독",
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026102315200294168",
@@ -4406,7 +5310,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.donga.com/news/Economy/article/all/20261023/134895668/1",
@@ -4421,7 +5328,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.nbntv.kr/news/articleView.html?idxno=341020",
@@ -4436,7 +5346,10 @@
    "queries": [
     "가전 소비자 설문 브랜드 선호"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261023500195",
@@ -4451,7 +5364,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4361",
@@ -4470,7 +5386,10 @@
     "코웨이 신제품",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81955",
@@ -4485,7 +5404,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261023000810",
@@ -4503,7 +5425,10 @@
     "삼성전자 가전 프로모션",
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065589413329389",
@@ -4519,7 +5444,10 @@
    "queries": [
     "삼성전자 가전 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610230854g",
@@ -4534,7 +5462,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ilemonde.com/news/articleView.html?idxno=30831",
@@ -4549,7 +5480,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://sateconomy.co.kr/news/view/1065580385877516",
@@ -4564,7 +5498,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424520",
@@ -4586,7 +5523,10 @@
     "쿠쿠전자 출시",
     "쿠쿠홈시스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2639324",
@@ -4601,7 +5541,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.naeil.com/news/read/606180?ref=naver",
@@ -4616,7 +5559,10 @@
    "queries": [
     "가전 소비자 설문 브랜드 선호"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319283",
@@ -4631,7 +5577,10 @@
    "queries": [
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079787",
@@ -4674,7 +5623,10 @@
     "코웨이 팝업",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.huffingtonpost.kr/article/261475",
@@ -4689,7 +5641,12 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20105286?ref=naver",
@@ -4704,7 +5661,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.bizwatch.co.kr/article/mobile/2026/10/23/0016",
@@ -4719,7 +5679,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "오픈"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.thepublic.kr/news/articleView.html?idxno=323370",
@@ -4763,7 +5728,10 @@
     "쿠쿠전자 신제품",
     "쿠쿠전자 판촉"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610231113589919",
@@ -4778,7 +5746,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.insight.co.kr/news/578923",
@@ -4793,7 +5764,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261023000436",
@@ -4808,7 +5782,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300126.html",
@@ -4826,7 +5803,10 @@
     "쿠쿠전자 출시",
     "쿠쿠홈시스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1705163/?sc=Naver",
@@ -4841,7 +5821,10 @@
    "queries": [
     "삼성전자 가전 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300107.html",
@@ -4856,7 +5839,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.munhwa.com/article/11625721?ref=naver",
@@ -4871,7 +5857,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715645",
@@ -4908,7 +5897,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1705187/?sc=Naver",
@@ -4923,7 +5915,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/distribution/6329677",
@@ -4938,7 +5933,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.mydaily.co.kr/page/view/2026102310343077184",
@@ -4953,7 +5951,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sidae.com/article/2026102309390886164",
@@ -4968,7 +5969,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610230060",
@@ -4983,7 +5987,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://news.tf.co.kr/read/economy/2379881.htm",
@@ -4998,7 +6005,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261023000356",
@@ -5013,7 +6023,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.naeil.com/news/read/606145?ref=naver",
@@ -5028,7 +6041,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171083",
@@ -5045,7 +6061,10 @@
     "삼성전자 가전 전략 발표",
     "삼성전자 가전 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20105187?ref=naver",
@@ -5060,7 +6079,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171214",
@@ -5077,7 +6099,10 @@
     "가전 판매 통계 한국",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261023500020",
@@ -5094,7 +6119,10 @@
     "삼성전자 가전 실적",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.mtn.co.kr/article/2026102309072339331",
@@ -5109,7 +6137,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10912130?ref=naver",
@@ -5126,7 +6157,10 @@
     "삼성전자 AI 구독",
     "삼성전자 가전 AI 가전 전략"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2639207",
@@ -5142,7 +6176,12 @@
     "SK인텔릭스 실적",
     "SK인텔릭스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.kyeonggi.com/article/20261023580018",
@@ -5157,7 +6196,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12183769",
@@ -5172,7 +6214,13 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시",
+    "사전예약"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241104",
@@ -5219,7 +6267,10 @@
     "코웨이 출시",
     "코웨이 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20104919?ref=naver",
@@ -5234,7 +6285,10 @@
    "queries": [
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.bizwatch.co.kr/article/industry/2026/10/22/0034",
@@ -5253,7 +6307,10 @@
     "삼성전자 가전 전략 발표",
     "삼성전자 비스포크 AI 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261022_0003836424",
@@ -5268,7 +6325,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20105063?ref=naver",
@@ -5283,7 +6343,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728783",
@@ -5331,7 +6394,10 @@
     "코웨이 출시",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610229553g",
@@ -5346,7 +6412,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261022_0003836765",
@@ -5363,7 +6432,13 @@
     "삼성스토어 오픈",
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시",
+    "오픈"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsverse.kr/news/articleView.html?idxno=11738",
@@ -5380,7 +6455,10 @@
     "삼성전자 가전 실적",
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563106",
@@ -5395,7 +6473,10 @@
    "queries": [
     "가전 시장 규모 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1168412",
@@ -5410,7 +6491,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102293761",
@@ -5425,7 +6509,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692655&ref=A",
@@ -5445,7 +6532,10 @@
     "삼성전자 가전 실적",
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171191",
@@ -5460,7 +6550,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1704888/?sc=Naver",
@@ -5475,7 +6568,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kukinews.com/article/view/kuk202610220191",
@@ -5490,7 +6586,10 @@
    "queries": [
     "다이슨코리아 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261022161557908",
@@ -5508,7 +6607,12 @@
     "삼성전자 구독 가전 이용",
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.dt.co.kr/article/12090739?ref=naver",
@@ -5523,7 +6627,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.koscaj.com/news/articleView.html?idxno=327113",
@@ -5538,7 +6645,10 @@
    "queries": [
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257069",
@@ -5561,7 +6671,10 @@
     "삼성전자 가전 전략 발표",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.dealsitetv.com/articles/177369",
@@ -5576,7 +6689,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.sbs.co.kr/article_hub/20000341531?division=NAVER",
@@ -5591,7 +6707,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102277071",
@@ -5607,7 +6726,10 @@
     "로보락 AS 서비스센터",
     "로보락 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200239",
@@ -5628,7 +6750,10 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6859961_36974.html",
@@ -5643,7 +6768,12 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "합병"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209465",
@@ -5660,7 +6790,10 @@
     "삼성전자 AI 구독",
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065593467787489",
@@ -5676,7 +6809,13 @@
     "로보락 신제품",
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대",
+    "도입"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.4th.kr/news/articleView.html?idxno=2120188",
@@ -5778,7 +6917,10 @@
     "코웨이 프로모션",
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261022500179",
@@ -5795,7 +6937,10 @@
     "로보락 실적",
     "로보락 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2017946",
@@ -5810,7 +6955,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.pressian.com/pages/articles/2026102210072005734?utm_source=naver&utm_medium=search",
@@ -5825,7 +6973,10 @@
    "queries": [
     "에어컨 점유율 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/tech/2026/10/23/2026102211381439172",
@@ -5840,7 +6991,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610227903i",
@@ -5855,7 +7009,10 @@
    "queries": [
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171140",
@@ -5870,7 +7027,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510154",
@@ -5890,7 +7050,10 @@
     "코웨이 실적",
     "코웨이 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20104846?ref=naver",
@@ -5905,7 +7068,13 @@
    "queries": [
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행",
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://news.dealsitetv.com/articles/177335",
@@ -5936,7 +7105,10 @@
     "삼성전자 가전 행사 할인",
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1168297",
@@ -5951,7 +7123,12 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12182773",
@@ -5966,7 +7143,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.areyou.co.kr/news/articleView.html?idxno=95911",
@@ -5981,7 +7161,10 @@
    "queries": [
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261022000202",
@@ -5997,7 +7180,12 @@
     "로보락 신제품",
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12182698",
@@ -6012,7 +7200,10 @@
    "queries": [
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610215609i",
@@ -6027,7 +7218,10 @@
    "queries": [
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://kbench.com/?q=node/282685",
@@ -6044,7 +7238,10 @@
     "삼성닷컴 기획전",
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20104696?ref=naver",
@@ -6060,7 +7257,12 @@
     "쿠쿠홈시스 신제품",
     "쿠쿠홈시스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.issuenbiz.com/news/articleView.html?idxno=80856",
@@ -6076,7 +7278,10 @@
     "SK인텔릭스 실적",
     "SK인텔릭스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2638720",
@@ -6092,7 +7297,12 @@
     "로보락 신제품",
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "도입"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/it-science/mobile/6328090",
@@ -6107,7 +7317,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200043.html",
@@ -6122,7 +7335,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://dealsite.co.kr/articles/171128",
@@ -6144,7 +7360,12 @@
     "로보락 팝업",
     "로봇청소기 점유율 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "오픈"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610220920031941",
@@ -6159,7 +7380,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200045.html",
@@ -6175,7 +7399,10 @@
     "로보락 신제품",
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/distribution/6328063",
@@ -6191,7 +7418,12 @@
     "로보락 신제품",
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2638688",
@@ -6206,7 +7438,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261022_0003836040",
@@ -6222,7 +7457,13 @@
     "로보락 신제품",
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인",
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.viva100.com/article/20261022500055",
@@ -6239,7 +7480,12 @@
     "로보락 실적",
     "로보락 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.banronbodo.com/news/articleView.html?idxno=33216",
@@ -6268,7 +7514,12 @@
     "삼성전자 구독 가전 이용",
     "삼성전자 비스포크 AI 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20104595?ref=naver",
@@ -6283,7 +7534,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610190944036680102141",
@@ -6303,7 +7557,10 @@
     "삼성전자 가전 출시",
     "에코백스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20104587?ref=naver",
@@ -6318,7 +7575,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1168158",
@@ -6333,7 +7593,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.segye.com/newsView/20261021519942?OutUrl=naver",
@@ -6348,7 +7611,10 @@
    "queries": [
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ziksir.com/news/articleView.html?idxno=150186",
@@ -6386,7 +7652,10 @@
     "코웨이 비렉스",
     "코웨이 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/industry/2026/10/22/2026102118135284723",
@@ -6407,7 +7676,10 @@
     "삼성전자 가전 출시",
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1703633/?sc=Naver",
@@ -6422,7 +7694,10 @@
    "queries": [
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25471802",
@@ -6438,7 +7713,10 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25471755",
@@ -6453,7 +7731,10 @@
    "queries": [
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.cnet.co.kr/view/?no=20261021232515",
@@ -6468,7 +7749,10 @@
    "queries": [
     "삼성 강남 체험 공간 행사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728719",
@@ -6488,7 +7772,10 @@
     "마이디어 코리아 출시",
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://futurechosun.com/?p=164142",
@@ -6503,7 +7790,12 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.hellodd.com/news/articleView.html?idxno=113574",
@@ -6518,7 +7810,10 @@
    "queries": [
     "로보락 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211142563990493",
@@ -6549,7 +7844,12 @@
     "코웨이 비렉스",
     "코웨이 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "인수"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102167731",
@@ -6564,7 +7864,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102167771",
@@ -6579,7 +7882,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20104495?ref=naver",
@@ -6595,7 +7901,12 @@
     "코웨이 신제품",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "순위"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.chosun.com/economy/tech_it/2026/10/21/2YC6EDZ34VBODJL6W2GXI4RJJA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -6610,7 +7921,10 @@
    "queries": [
     "삼성 강남 체험 공간 행사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://sateconomy.co.kr/news/view/1065596718803384",
@@ -6625,7 +7939,12 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://fpn119.co.kr/258221",
@@ -6640,7 +7959,12 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/industry/2026/10/22/2026102111544397850",
@@ -6655,7 +7979,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://edu.donga.com/news/articleView.html?idxno=113042",
@@ -6673,7 +8000,10 @@
     "다이슨코리아 프로모션",
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/2026102166981",
@@ -6688,7 +8018,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49929",
@@ -6709,7 +8042,12 @@
     "코웨이 출시",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.venturesquare.net/1118845/",
@@ -6724,7 +8062,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.efnews.co.kr/news/articleView.html?idxno=133338",
@@ -6748,7 +8089,12 @@
     "코웨이 신제품",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500542",
@@ -6764,7 +8110,10 @@
     "코웨이 비렉스",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261021500332",
@@ -6781,7 +8130,10 @@
     "TCL 한국 신제품",
     "TCL 한국 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25471639",
@@ -6796,7 +8148,10 @@
    "queries": [
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10910319?ref=naver",
@@ -6811,7 +8166,10 @@
    "queries": [
     "가전 시장 규모 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261021000248",
@@ -6827,7 +8185,12 @@
     "삼성 AI 가전 소비자 조사",
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.ikld.kr/news/articleView.html?idxno=342643",
@@ -6844,7 +8207,10 @@
     "가전 시장 규모 국내",
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hani.co.kr/arti/economy/car/1283438.html",
@@ -6859,7 +8225,10 @@
    "queries": [
     "삼성전자 AI 가전 기능 업데이트"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766422",
@@ -6913,7 +8282,10 @@
     "코웨이 프로모션",
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1168039",
@@ -6930,7 +8302,10 @@
     "코웨이 비렉스",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://thetracker.co.kr/View.aspx?No=4273228",
@@ -6965,7 +8340,12 @@
     "코웨이 신제품",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283569",
@@ -6981,7 +8361,13 @@
     "코웨이 비렉스",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "론칭",
+    "매출"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261021500135",
@@ -6996,7 +8382,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261021000869",
@@ -7016,7 +8405,10 @@
     "코웨이 실적",
     "쿠쿠전자 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610215821i",
@@ -7031,7 +8423,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://platum.kr/archives/296786",
@@ -7046,7 +8441,10 @@
    "queries": [
     "로봇청소기 점유율 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.gokorea.kr/news/articleView.html?idxno=882252",
@@ -7072,7 +8470,10 @@
     "삼성전자 가전 신제품",
     "삼성전자 가전 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246683",
@@ -7089,7 +8490,12 @@
     "중국 TV 한국 시장",
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/sb-founded/6327049",
@@ -7104,7 +8510,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hankyung.com/article/202610214760i",
@@ -7119,7 +8528,10 @@
    "queries": [
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sportschosun.com/life/2026-10-21/202610200100124640008110",
@@ -7135,7 +8547,10 @@
     "쿠쿠전자 출시",
     "쿠쿠홈시스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2017212",
@@ -7156,7 +8571,12 @@
     "삼성전자 가전 프로모션",
     "삼성전자 가전 행사 할인"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.nocutnews.co.kr/news/6594624?utm_source=naver&utm_medium=article&utm_campaign=20261021103008",
@@ -7171,7 +8591,12 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "프로모션"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.businessplus.kr/news/articleView.html?idxno=118492",
@@ -7227,7 +8652,10 @@
     "하이얼 코리아 신제품",
     "하이얼 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://sateconomy.co.kr/news/view/1065575809112846",
@@ -7243,7 +8671,10 @@
     "코웨이 비렉스",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610210055",
@@ -7258,7 +8689,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/21/0009",
@@ -7274,7 +8708,10 @@
     "코웨이 비렉스",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026102109452167655",
@@ -7291,7 +8728,12 @@
     "삼성전자 AI 구독",
     "삼성전자 비스포크 AI 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "프로모션"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ceoscoredaily.com/page/view/2026102109433821082",
@@ -7307,7 +8749,10 @@
     "코웨이 비렉스",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244692",
@@ -7330,7 +8775,10 @@
     "중국 가전 한국 점유율",
     "중국 에어컨 한국 진출"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610210023",
@@ -7345,7 +8793,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261021023700003?input=1195m",
@@ -7371,7 +8822,12 @@
      "host": "www.dt.co.kr",
      "published": "2026-10-21T13:09+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "프로모션"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.nocutnews.co.kr/news/6594473?utm_source=naver&utm_medium=article&utm_campaign=20261021082808",
@@ -7386,7 +8842,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261020_0003833549",
@@ -7401,7 +8860,12 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20104050?ref=naver",
@@ -7416,7 +8880,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261019155919234",
@@ -7431,7 +8898,10 @@
    "queries": [
     "에어컨 점유율 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/21/20261021029003?wlog_tag3=naver",
@@ -7450,7 +8920,12 @@
     "삼성전자 가전 출시",
     "삼성전자 비스포크 AI 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261020_0003833281",
@@ -7465,7 +8940,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1167803",
@@ -7480,7 +8958,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261020001231",
@@ -7495,7 +8976,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41665",
@@ -7523,7 +9007,10 @@
     "중국 가전 한국 점유율",
     "코웨이 파업 노조"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.danbinews.com/news/articleView.html?idxno=34022",
@@ -7538,7 +9025,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hinews.co.kr/view.php?ud=202610202107408059cd8b879b3c_48",
@@ -7559,7 +9049,10 @@
     "삼성전자 가전 AI 가전 전략",
     "삼성전자 가전 전략 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610201441471214",
@@ -7574,7 +9067,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dt.co.kr/article/12090231?ref=naver",
@@ -7589,7 +9085,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.g-enews.com/view.php?ud=2026102012431364223084322ec9_1",
@@ -7639,7 +9138,10 @@
     "코웨이 실적",
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fnnews.com/news/202610201812183590",
@@ -7657,7 +9159,10 @@
     "코웨이 실적",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/20/20261020500308?wlog_tag3=naver",
@@ -7676,7 +9181,10 @@
     "삼성전자 가전 출시",
     "삼성전자 비스포크 AI 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/20/2026102080078.html",
@@ -7691,7 +9199,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261020500389",
@@ -7708,7 +9219,10 @@
     "코웨이 신제품",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.mtn.co.kr/article/2026102016341492065",
@@ -7723,7 +9237,10 @@
    "queries": [
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.mtn.co.kr/article/2026102016341072860",
@@ -7740,7 +9257,12 @@
     "가전 구매 조건 조사",
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12180855",
@@ -7755,7 +9277,10 @@
    "queries": [
     "삼성전자 방문케어"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.mtn.co.kr/article/2026102016562869549",
@@ -7770,7 +9295,10 @@
    "queries": [
     "TCL 한국 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://newscham.net/130070/",
@@ -7785,7 +9313,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sportsseoul.com/news/read/1642752?ref=naver",
@@ -7802,7 +9333,12 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.segyebiz.com/newsView/20261020517329?OutUrl=naver",
@@ -7819,7 +9355,10 @@
     "로보락 출시",
     "로보락 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.harpersbazaar.co.kr/article/1911493",
@@ -7834,7 +9373,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065594047789478",
@@ -7856,7 +9398,12 @@
     "코웨이 팝업",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "오픈"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.insight.co.kr/news/578395",
@@ -7871,7 +9418,10 @@
    "queries": [
     "코웨이 비렉스"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://platum.kr/archives/296643",
@@ -7886,7 +9436,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261020000232",
@@ -7901,7 +9454,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.betanews.net/article/view/beta202610200092",
@@ -7916,7 +9472,13 @@
    "queries": [
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행",
+    "프로모션"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://news.dealsitetv.com/articles/177227",
@@ -7931,7 +9493,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://amenews.kr/news/view.php?idx=68366",
@@ -7948,7 +9513,10 @@
     "가전 판매 통계 한국",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261020077700030?input=1195m",
@@ -7964,7 +9532,10 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/tech/2026/10/21/2026102008481873418",
@@ -7979,7 +9550,10 @@
    "queries": [
     "가전 판매 통계 한국"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000151.html",
@@ -7995,7 +9569,10 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261020500093",
@@ -8012,7 +9589,10 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://kr.aving.net/news/articleView.html?idxno=1815775",
@@ -8037,7 +9617,10 @@
     "중국 가전 한국 점유율",
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261019_0003832262",
@@ -8052,7 +9635,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "오픈"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261020000140",
@@ -8067,7 +9655,15 @@
    "queries": [
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": [
+    {
+     "id": "O1-E-051",
+     "score": 0.38
+    }
+   ]
   },
   {
    "url": "https://news.ifm.kr/news/articleView.html?idxno=482115",
@@ -8086,7 +9682,10 @@
     "코웨이 출시",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20103610?ref=naver",
@@ -8102,7 +9701,10 @@
     "코웨이 실적",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026102009060312215",
@@ -8118,7 +9720,12 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "프로모션"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610200010",
@@ -8135,7 +9742,12 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "프로모션"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://kor.theasian.asia/archives/412218",
@@ -8150,7 +9762,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261020500007",
@@ -8166,7 +9781,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://slownews.kr/168166",
@@ -8181,7 +9799,10 @@
    "queries": [
     "삼성전자 AI 구독"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261019_0003832263",
@@ -8196,7 +9817,10 @@
    "queries": [
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mt.co.kr/living/2026/10/20/2026101913573916527",
@@ -8215,7 +9839,10 @@
     "코웨이 신제품",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.gjdream.com/news/articleView.html?idxno=673549",
@@ -8230,7 +9857,10 @@
    "queries": [
     "삼성전자서비스 방문 점검 서비스 확대"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dongponews.net/news/articleView.html?idxno=61143",
@@ -8245,7 +9875,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/19/2026101980002.html",
@@ -8260,7 +9893,10 @@
    "queries": [
     "가전 판매 통계 한국"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187835",
@@ -8280,7 +9916,10 @@
     "에코백스 실적",
     "에코백스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407368",
@@ -8297,7 +9936,12 @@
     "코웨이 실적",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.betanews.net/article/view/beta202610190111",
@@ -8313,7 +9957,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kukinews.com/article/view/kuk202610190163",
@@ -8329,7 +9976,10 @@
     "코웨이 신제품",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/sb-founded/6325029",
@@ -8345,7 +9995,10 @@
     "코웨이 비렉스",
     "코웨이 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261019152959127",
@@ -8360,7 +10013,10 @@
    "queries": [
     "가전 판매 통계 한국"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261019500327",
@@ -8375,7 +10031,10 @@
    "queries": [
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.osen.co.kr/article/G1112894932",
@@ -8390,7 +10049,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065599753283615",
@@ -8406,7 +10068,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10907513?ref=naver",
@@ -8422,7 +10087,10 @@
     "다이슨코리아 사전예약",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dizzotv.com/site/data/html_dir/2026/10/19/2026101980143.html",
@@ -8438,7 +10106,10 @@
     "다이슨코리아 사전예약",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=816250",
@@ -8456,7 +10127,10 @@
     "드리미 하이마트",
     "로보락 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://autotimes.co.kr/detail.php?number=689591&thread=27",
@@ -8472,7 +10146,10 @@
     "다이슨코리아 사전예약",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/19/2026101990107.html",
@@ -8487,7 +10164,10 @@
    "queries": [
     "개인정보위 로봇청소기"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12179452",
@@ -8503,7 +10183,10 @@
     "다이슨코리아 사전예약",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1167328",
@@ -8519,7 +10202,12 @@
     "다이슨코리아 사전예약",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900122.html",
@@ -8539,7 +10227,10 @@
     "삼성전자 비스포크 AI 신제품",
     "삼성전자 비스포크 AI 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://isplus.com/article/view/isp202610190073",
@@ -8554,7 +10245,10 @@
    "queries": [
     "로봇청소기 점유율 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900077.html",
@@ -8573,7 +10267,10 @@
     "삼성전자 가전 조직 개편 생활가전",
     "하이센스 코리아 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261019000126",
@@ -8590,7 +10287,17 @@
     "에코백스 신제품",
     "에코백스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "C3-E-052",
+     "score": 0.35
+    }
+   ]
   },
   {
    "url": "https://biz.chosun.com/it-science/ict/2026/10/19/KTKTN3BKFFBGNNH7P6PBLQ4NCU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -8612,6 +10319,16 @@
      "url": "https://www.dailian.co.kr/news/view/1703050/?sc=Naver",
      "host": "www.dailian.co.kr",
      "published": "2026-10-19T11:20+09:00"
+    }
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "C3-E-052",
+     "score": 0.43
     }
    ]
   },
@@ -8636,6 +10353,16 @@
      "host": "www.inews24.com",
      "published": "2026-10-19T11:35+09:00"
     }
+   ],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "C3-E-052",
+     "score": 0.48
+    }
    ]
   },
   {
@@ -8657,7 +10384,10 @@
     "삼성전자 가전 전략 발표",
     "코웨이 인증 규제"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.cstimes.com/news/articleView.html?idxno=724274",
@@ -8700,7 +10430,10 @@
     "코웨이 출시",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.srtimes.kr/news/articleView.html?idxno=215045",
@@ -8738,7 +10471,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.segye.com/newsView/20261018504477?OutUrl=naver",
@@ -8760,7 +10496,12 @@
     "삼성전자 세일 페스타",
     "삼성전자 코리아세일페스타"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261016500257",
@@ -8788,7 +10529,10 @@
     "삼성전자 하이마트 전자랜드 가전",
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/general-industry/6320976",
@@ -8803,7 +10547,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813816",
@@ -8818,7 +10565,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227930",
@@ -8833,7 +10583,10 @@
    "queries": [
     "로보락 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.yonhapnewstv.co.kr/news/MYH20261017191101ZH4",
@@ -8848,7 +10601,10 @@
    "queries": [
     "삼성전자 AI 가전 기능 업데이트"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026101714281511225",
@@ -8867,7 +10623,10 @@
     "샤오미 코리아 신제품",
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "http://www.newsprime.co.kr/news/article.html?no=751346",
@@ -8888,7 +10647,10 @@
     "에코백스 점유율",
     "에코백스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.dailypop.kr/news/articleView.html?idxno=103486",
@@ -8932,7 +10694,13 @@
     "코웨이 인증 규제",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "선보",
+    "프로모션"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.cwn.kr/news/articleView.html?idxno=59591",
@@ -8962,7 +10730,10 @@
     "삼성전자 비스포크 AI 신제품",
     "삼성전자 비스포크 AI 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.segye.com/newsView/20261017505127?OutUrl=naver",
@@ -8977,7 +10748,10 @@
    "queries": [
     "드리미 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069790",
@@ -8992,7 +10766,13 @@
    "queries": [
     "마이디어 코리아 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행",
+    "이벤트"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mydaily.co.kr/page/view/2026101318033370880",
@@ -9007,7 +10787,10 @@
    "queries": [
     "하이얼 코리아 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.gosiweek.com/article/1065598215427771",
@@ -9023,7 +10806,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610160145",
@@ -9038,7 +10826,12 @@
    "queries": [
     "마이디어 코리아 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500167?wlog_tag3=naver",
@@ -9060,7 +10853,12 @@
      "host": "www.segyebiz.com",
      "published": "2026-10-19T11:04+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1702415/?sc=Naver",
@@ -9075,7 +10873,12 @@
    "queries": [
     "마이디어 코리아 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=35113",
@@ -9090,7 +10893,10 @@
    "queries": [
     "SK인텔릭스 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261016_0003829293",
@@ -9105,7 +10911,10 @@
    "queries": [
     "드리미 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.chosun.com/stock/stock_general/2026/10/17/YLBKYBAQERHF5ELQUBBZGFAVBA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -9120,7 +10929,10 @@
    "queries": [
     "가전 판매 통계 한국"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261016140910856",
@@ -9135,7 +10947,10 @@
    "queries": [
     "로보락 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "C",
+   "similar": []
   },
   {
    "url": "https://www.ekn.kr/web/view.php?key=20261016021357304",
@@ -9199,7 +11014,10 @@
     "쿠쿠홈시스 출시",
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1166914",
@@ -9214,7 +11032,12 @@
    "queries": [
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ngetnews.com/news/articleView.html?idxno=554689",
@@ -9234,7 +11057,12 @@
     "삼성전자 가전 행사 할인",
     "삼성전자 세일 페스타"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.pennmike.com/news/articleView.html?idxno=129677",
@@ -9249,7 +11077,12 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.chosun.com/it-science/ict/2026/10/16/N4ELM6TYKFHPTDNTUU2N75MLVU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -9264,7 +11097,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261016500288",
@@ -9279,7 +11115,10 @@
    "queries": [
     "삼성 AI 가전 소비자 조사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205211",
@@ -9331,7 +11170,10 @@
     "코웨이 팝업",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.breaknews.com/1243502",
@@ -9355,7 +11197,13 @@
     "삼성전자 가전 행사 할인",
     "쿠쿠전자 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "진행",
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026101612445712459",
@@ -9370,7 +11218,10 @@
    "queries": [
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798385",
@@ -9406,7 +11257,10 @@
     "코웨이 출시",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261016000997",
@@ -9421,7 +11275,10 @@
    "queries": [
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://kpenews.com/View.aspx?No=4266706",
@@ -9459,7 +11316,10 @@
     "코웨이 실적",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666382",
@@ -9489,7 +11349,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://isplus.com/article/view/isp202610160040",
@@ -9504,7 +11367,10 @@
    "queries": [
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261016000607",
@@ -9519,7 +11385,12 @@
    "queries": [
     "가전 시장 규모 국내"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449537",
@@ -9568,7 +11439,10 @@
     "중국 에어컨 한국 진출",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026101513480636211",
@@ -9585,7 +11459,10 @@
     "로보락 출시",
     "로보락 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/general-industry/6322217",
@@ -9607,7 +11484,10 @@
      "host": "www.asiatime.co.kr",
      "published": "2026-10-16T10:58+09:00"
     }
-   ]
+   ],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026101608224051896",
@@ -9622,7 +11502,10 @@
    "queries": [
     "중국 에어컨 한국 진출"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/15/2026101580148.html",
@@ -9639,7 +11522,10 @@
     "드리미 출시",
     "로보락 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253886",
@@ -9685,7 +11571,10 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.catchnews.kr/news/articleView.html?idxno=129366",
@@ -9713,7 +11602,10 @@
     "코웨이 신제품",
     "코웨이 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302812",
@@ -9774,7 +11666,10 @@
      "host": "www.delighti.co.kr",
      "published": "2026-10-16T10:48+09:00"
     }
-   ]
+   ],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.newsdream.kr/news/articleView.html?idxno=120124",
@@ -9823,7 +11718,10 @@
     "코웨이 프로모션",
     "쿠쿠전자 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261016010005155",
@@ -9858,7 +11756,10 @@
     "삼성전자 비스포크 AI 팝업",
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261016090846977",
@@ -9873,7 +11774,10 @@
    "queries": [
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.sbs.co.kr/article_hub/20000340334?division=NAVER",
@@ -9888,7 +11792,10 @@
    "queries": [
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.popcornnews.net/news/articleView.html?idxno=136182",
@@ -9953,7 +11860,10 @@
      "host": "www.itdaily.kr",
      "published": "2026-10-16T09:46+09:00"
     }
-   ]
+   ],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sedaily.com/article/20102302?ref=naver",
@@ -9968,7 +11878,10 @@
    "queries": [
     "가전 판매 통계 한국"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072449",
@@ -10007,7 +11920,10 @@
     "삼성전자 스마트싱스 발표",
     "쿠쿠전자 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.segye.com/newsView/20261015519558?OutUrl=naver",
@@ -10022,7 +11938,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261015_0003828167",
@@ -10037,7 +11956,12 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12171252",
@@ -10052,7 +11976,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55289",
@@ -10081,7 +12008,12 @@
     "삼성전자 블루패스",
     "삼성전자 비스포크 AI 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.munhwa.com/article/11623833?ref=naver",
@@ -10096,7 +12028,10 @@
    "queries": [
     "중국 가전 한국 점유율"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dizzotv.com/site/data/html_dir/2026/10/15/2026101580168.html",
@@ -10111,7 +12046,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.peoplewatch.co.kr/article/view/ppw202610150011",
@@ -10127,7 +12065,12 @@
     "다이슨코리아 신제품",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261015500341",
@@ -10142,7 +12085,10 @@
    "queries": [
     "삼성 강남 체험 공간 행사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.chosun.com/it-science/ict/2026/10/15/DHKBTWYGZVCEXFEJY4ND5F5LOM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -10158,7 +12104,17 @@
     "다이슨코리아 신제품",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.45
+    }
+   ]
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261015500487",
@@ -10173,7 +12129,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.todayeconomic.com/news/article.html?no=32458",
@@ -10199,7 +12158,10 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026101515513804764",
@@ -10215,7 +12177,17 @@
     "다이슨코리아 신제품",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.35
+    }
+   ]
   },
   {
    "url": "https://www.ppss.kr/news/articleView.html?idxno=315686",
@@ -10230,7 +12202,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.breaknews.com/1243284",
@@ -10245,7 +12220,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kpinews.kr/newsView/1065586861186237",
@@ -10260,7 +12238,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=156626",
@@ -10275,7 +12256,12 @@
    "queries": [
     "샤오미 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.topdaily.kr/articles/112356",
@@ -10295,7 +12281,12 @@
     "로보락 신제품",
     "로보락 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594631749281",
@@ -10343,7 +12334,12 @@
     "하이얼 코리아 신제품",
     "하이얼 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10903919?ref=naver",
@@ -10359,7 +12355,17 @@
     "다이슨코리아 신제품",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.35
+    }
+   ]
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026101514485049132",
@@ -10374,7 +12380,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25469998",
@@ -10389,7 +12398,12 @@
    "queries": [
     "가전 판매 통계 한국"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://news.tf.co.kr/read/economy/2376692.htm",
@@ -10404,7 +12418,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.asiatime.co.kr/article/20261015500246",
@@ -10419,7 +12436,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2015323",
@@ -10435,7 +12455,17 @@
     "다이슨코리아 신제품",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.5
+    }
+   ]
   },
   {
    "url": "https://dealsite.co.kr/articles/170732",
@@ -10461,7 +12491,10 @@
     "삼성전자 비스포크 AI 에어컨 신제품",
     "삼성전자 비스포크 AI 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.chosun.com/it-science/ict/2026/10/15/GFYBRRTAJBDZNNZQ54IEON2YXA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -10476,7 +12509,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12176559",
@@ -10491,7 +12527,10 @@
    "queries": [
     "삼성전자 가전 B2B 호텔 아파트 공급"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mydaily.co.kr/page/view/2026101511004942178",
@@ -10518,7 +12557,10 @@
     "삼성전자 구독 가전 이용",
     "쿠쿠전자 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sportsworldi.com/newsView/20261015509629",
@@ -10534,7 +12576,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://sateconomy.co.kr/news/view/1065577199631032",
@@ -10549,7 +12596,12 @@
    "queries": [
     "드리미 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.dt.co.kr/article/12089268?ref=naver",
@@ -10564,7 +12616,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261015000188",
@@ -10579,7 +12634,12 @@
    "queries": [
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.dt.co.kr/article/12089269?ref=naver",
@@ -10594,7 +12654,17 @@
    "queries": [
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.35
+    }
+   ]
   },
   {
    "url": "https://www.fnnews.com/news/202610150952107782",
@@ -10610,7 +12680,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610150094",
@@ -10625,7 +12700,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10903460?ref=naver",
@@ -10640,7 +12718,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278851",
@@ -10659,7 +12740,10 @@
     "코웨이 비렉스",
     "코웨이 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32175",
@@ -10675,7 +12759,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.kmaeil.com/news/articleView.html?idxno=654396",
@@ -10690,7 +12779,10 @@
    "queries": [
     "가전 구매 조건 조사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.fashionbiz.co.kr/article/230095",
@@ -10705,7 +12797,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kyeonggi.com/article/20261015580087",
@@ -10720,7 +12815,12 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261015_0003826930",
@@ -10736,7 +12836,12 @@
     "다이슨코리아 신제품",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065575020091775",
@@ -10751,7 +12856,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ajunews.com/view/20261015082239970",
@@ -10766,7 +12874,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1701785/?sc=Naver",
@@ -10781,7 +12892,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2015246",
@@ -10796,7 +12910,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261015023000003?input=1195m",
@@ -10811,7 +12928,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026101509195831840",
@@ -10826,7 +12946,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261015_0003826670",
@@ -10841,7 +12964,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news1.kr/industry/general-industry/6320575",
@@ -10856,7 +12982,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2636011",
@@ -10871,7 +13000,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026101508512988274",
@@ -10886,7 +13018,10 @@
    "queries": [
     "삼성전자 비스포크 협업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.news2day.co.kr/article/20261015500042",
@@ -10904,7 +13039,12 @@
     "드리미 하이마트",
     "로보락 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189005",
@@ -10919,7 +13059,17 @@
    "queries": [
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.35
+    }
+   ]
   },
   {
    "url": "https://www.ddaily.co.kr/page/view/2026101509160472320",
@@ -10934,7 +13084,12 @@
    "queries": [
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60978",
@@ -10949,7 +13104,10 @@
    "queries": [
     "삼성전자 AI 가전 기능 업데이트"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261015037400003?input=1195m",
@@ -10964,7 +13122,15 @@
    "queries": [
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.55
+    }
+   ]
   },
   {
    "url": "https://www.ajunews.com/view/20261015090259192",
@@ -10980,7 +13146,17 @@
     "다이슨코리아 신제품",
     "다이슨코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O4-E-053",
+     "score": 0.35
+    }
+   ]
   },
   {
    "url": "https://news.tf.co.kr/read/economy/2376449.htm",
@@ -10995,7 +13171,12 @@
    "queries": [
     "삼성전자 스마트싱스 발표"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=872957",
@@ -11031,7 +13212,10 @@
     "쿠쿠홈시스 신제품",
     "쿠쿠홈시스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065599137911670",
@@ -11088,7 +13272,10 @@
     "중국 가전 한국 점유율",
     "한국소비자원 가전 비교"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026101416303059582",
@@ -11112,7 +13299,17 @@
     "삼성전자 가전 행사 할인",
     "쿠쿠전자 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "C1-E-049",
+     "score": 0.38
+    }
+   ]
   },
   {
    "url": "https://www.news1.kr/industry/distribution/6320080",
@@ -11138,7 +13335,13 @@
      "host": "www.kpinews.kr",
      "published": "2026-10-15T16:01+09:00"
     }
-   ]
+   ],
+   "cues": [
+    "진행",
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261014_0003826284",
@@ -11156,7 +13359,10 @@
     "드리미 하이마트",
     "로보락 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.chosun.com/economy/economy_general/2026/10/15/EKKICDOLWVAKNNEF7KXDG5WAXA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -11172,7 +13378,10 @@
     "삼성전자 세일 페스타",
     "삼성전자 코리아세일페스타"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.hellot.net/news/article.html?no=115468",
@@ -11188,7 +13397,10 @@
     "SK인텔릭스 실적",
     "SK인텔릭스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973497&call_from=naver_news",
@@ -11203,7 +13415,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.dizzotv.com/site/data/html_dir/2026/10/14/2026101480170.html",
@@ -11218,7 +13433,10 @@
    "queries": [
     "중국 TV 한국 시장"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://sports.hankooki.com/news/articleView.html?idxno=6941669",
@@ -11233,7 +13451,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.joongangenews.com/news/articleView.html?idxno=554912",
@@ -11266,7 +13487,12 @@
     "삼성전자서비스 방문 점검 서비스 확대",
     "쿠쿠전자 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261014001244",
@@ -11281,7 +13507,10 @@
    "queries": [
     "TCL 한국 실적"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.mk.co.kr/article/12175741",
@@ -11296,7 +13525,12 @@
    "queries": [
     "로보락 신제품"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240477",
@@ -11311,7 +13545,10 @@
    "queries": [
     "중국 에어컨 한국 진출"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50802",
@@ -11329,7 +13566,12 @@
     "SK인텔릭스 실적",
     "SK인텔릭스 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.joongang.co.kr/article/25469655",
@@ -11345,7 +13587,10 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.segyebiz.com/newsView/20261014515965?OutUrl=naver",
@@ -11361,7 +13606,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://idsn.co.kr/news/view/1065589151387778",
@@ -11377,7 +13627,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://biz.heraldcorp.com/article/10902388?ref=naver",
@@ -11392,7 +13647,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kukinews.com/article/view/kuk202610140115",
@@ -11407,7 +13665,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.abcn.kr/news/articleView.html?idxno=93091",
@@ -11422,7 +13683,12 @@
    "queries": [
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025994",
@@ -11440,7 +13706,12 @@
     "하이얼 코리아 신제품",
     "하이얼 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.eroun.net/news/articleView.html?idxno=92335",
@@ -11458,7 +13729,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "http://www.bizwnews.com/news/articleView.html?idxno=148815",
@@ -11480,7 +13756,12 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.jemin.com/news/articleView.html?idxno=844449",
@@ -11495,7 +13776,12 @@
    "queries": [
     "AI 표시 기준 가전"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.socialvalue.kr/news/view/1065578136134351",
@@ -11510,7 +13796,10 @@
    "queries": [
     "드리미 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.etnews.com/20261014000109",
@@ -11526,7 +13815,10 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wikitree.co.kr/articles/1166083",
@@ -11541,7 +13833,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247688",
@@ -11559,7 +13854,12 @@
     "하이얼 코리아 신제품",
     "하이얼 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.gosiweek.com/article/1065576236508572",
@@ -11575,7 +13875,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610140039",
@@ -11590,7 +13895,10 @@
    "queries": [
     "드리미 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202610140053",
@@ -11606,7 +13914,12 @@
     "마이디어 코리아 신제품",
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.it-b.co.kr/news/articleView.html?idxno=90233",
@@ -11623,7 +13936,12 @@
     "하이얼 코리아 신제품",
     "하이얼 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.handmk.com/news/articleView.html?idxno=44067",
@@ -11638,7 +13956,12 @@
    "queries": [
     "마이디어 코리아 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394431",
@@ -11656,7 +13979,12 @@
     "마이디어 코리아 출시",
     "삼성전자 가전 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "이벤트"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.kukinews.com/article/view/kuk202610130202",
@@ -11671,7 +13999,10 @@
    "queries": [
     "AI 표시 기준 가전"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.inews24.com/view/2014631",
@@ -11686,7 +14017,10 @@
    "queries": [
     "삼성 AI 가전 소비자 조사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.thedailypost.kr/news/articleView.html?idxno=116175",
@@ -11713,7 +14047,17 @@
     "코웨이 비렉스",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "선보"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "S1-E-047",
+     "score": 0.44
+    }
+   ]
   },
   {
    "url": "https://www.joongang.co.kr/article/25469402",
@@ -11728,7 +14072,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.newsis.com/view/NISX20261013_0003824345",
@@ -11743,7 +14090,10 @@
    "queries": [
     "삼성 강남 체험 공간 행사"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.newswatch.kr/news/articleView.html?idxno=81507",
@@ -11758,7 +14108,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318993",
@@ -11790,7 +14143,10 @@
     "삼성전자 비스포크 AI 출시",
     "삼성전자 비스포크 AI 팝업"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.kdfnews.com/news/articleView.html?idxno=189222",
@@ -11817,7 +14173,10 @@
     "코웨이 실적",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://news.dealsitetv.com/articles/176893",
@@ -11832,7 +14191,10 @@
    "queries": [
     "삼성스토어 오픈"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/13/2026101380071.html",
@@ -11847,7 +14209,10 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "http://www.metroseoul.co.kr/article/20261013500250",
@@ -11865,7 +14230,12 @@
     "삼성전자 구독 가전 이용",
     "삼성전자 비스포크 AI 출시"
    ],
-   "also": []
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "tier": "A",
+   "similar": []
   },
   {
    "url": "https://www.newspim.com/news/view/20261013000526",
@@ -11880,7 +14250,10 @@
    "queries": [
     "쿠쿠전자 판촉"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.goodkyung.com/news/articleView.html?idxno=292286",
@@ -11912,7 +14285,10 @@
     "코웨이 출시",
     "코웨이 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://www.kizmom.com/news/articleView.html?idxno=113256",
@@ -11933,7 +14309,10 @@
     "삼성전자 비스포크 AI 출시",
     "삼성전자 비스포크 AI 프로모션"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   },
   {
    "url": "https://view.asiae.co.kr/article/2026101309032306467",
@@ -11948,7 +14327,16 @@
    "queries": [
     "가전 온라인 비중"
    ],
-   "also": []
+   "also": [],
+   "cues": [],
+   "tier": "B",
+   "similar": []
   }
- ]
+ ],
+ "stats_triage": {
+  "A": 188,
+  "B": 420,
+  "C": 20,
+  "similar": 19
+ }
 }
