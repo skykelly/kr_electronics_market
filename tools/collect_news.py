@@ -123,6 +123,7 @@ def main():
     log = {}     # 질문 -> 통계
     for q in qs:
         must = cfg["must_any"].get(q, [])
+        topic = cfg.get("topic_any", {}).get(q, [])
         st = {"queries": 0, "api_items": 0, "in_window": 0, "kept": 0, "errors": 0}
         for query in qj["questions"][q]["queries"]:
             st["queries"] += 1
@@ -143,7 +144,10 @@ def main():
                         continue
                     in_win += 1
                     title, desc = clean(it.get("title")), clean(it.get("description"))
-                    if must and not any(m.lower() in (title + " " + desc).lower() for m in must):
+                    text = (title + " " + desc).lower()
+                    if must and not any(m.lower() in text for m in must):
+                        continue
+                    if topic and not any(re.search(r"(?<![a-z])tv(?![a-z])", text) if t == "TV" else t.lower() in text for t in topic):
                         continue
                     link = it.get("originallink") or it.get("link")
                     key = norm_url(link)
