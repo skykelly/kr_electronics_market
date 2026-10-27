@@ -57,7 +57,11 @@
 - 한 질문에서 새 원문이 30건에 못 미쳐도 증분 회차는 그대로 진행한다. 30건 기준은 월 1회 전체 재조사(수동 요청)에서 맞춘다.
 
 ## 포털 게시
-- 아티팩트 https://claude.ai/artifact/XKKnhH2SFLjhcxBi5PBxpn 에 `site/dist/artifact_index.html`을 진입 페이지로, `site/dist/manifest.json`의 `pages`를 같은 경로의 파일로 올린다. 게시 전 아티팩트를 read로 열어 최신 판을 기준으로 삼는다. `capabilities`는 생략해 저장된 선언(sample, db, user)을 유지한다. 챗봇 이전 대화는 db의 `data/users/<id>/chats`에 본인 계정 전용으로 저장된다.
+- 아티팩트 https://claude.ai/artifact/XKKnhH2SFLjhcxBi5PBxpn. 진입 페이지는 1.4KB 셸(`site/dist/artifact_index.html`)이다. 본문은 `portal_body.html`, 스타일·스크립트는 `assets/portal.css`·`assets/portal.js`로 분리되어 있다(`site/split_entry.py`가 build_site 끝에서 만든다). 읽는 비용이 작으므로 게시 전 아티팩트를 read로 열어 최신 판을 기준으로 삼는다.
+- 게시: `file_path`는 `site/dist/artifact_index.html`, `root`는 `site/dist`. `files`에는 `portal_body.html`과 바뀐 페이지(`manifest.json`의 `pages`)를 넣는다. `assets/*`는 바뀐 때만 넣는다. `index.html`은 files에 넣지 않는다(예약 경로).
+- `capabilities`는 생략해 저장된 선언(sample, db, user)을 유지한다. `portal_body.html`에 doctype이 없다는 경고는 정상이다(셸이 가져다 끼우는 조각).
+- "더 새 버전이 있다"며 거부되면 라이브 판을 read로 전부 읽은 뒤 같은 내용으로 다시 게시한다.
+- 챗봇 이전 대화는 db의 `data/users/<id>/chats`에 본인 계정 전용으로 저장된다.
 
 ## 수동 지식 입력 (채팅으로 받은 자료)
 기본 모드는 **검토 후 반영**. 사용자가 "바로 반영"이라고 할 때만 검토 카드를 건너뛴다.
