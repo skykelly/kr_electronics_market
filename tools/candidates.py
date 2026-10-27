@@ -2,7 +2,7 @@
 """후보 파일(state/candidates/<날짜>.json)을 일간 배치가 읽기 쉬운 형태로 보여 주고, 처리 여부를 기록한다.
 
   python3 tools/candidates.py status                 # 수집 상태(정상/실패)와 처리 안 된 날짜
-  python3 tools/candidates.py show [날짜] [--tier A,B] [--q C1,O1] [--full]   # 처리 안 된 모든 날짜(또는 지정 날짜)의 후보를 압축 표시
+  python3 tools/candidates.py show [날짜] [--tier A,B] [--q C1,O1] [--full]   # --full 은 주소·요약·원문 발췌(Actions가 받은 핵심 문장)까지. 처리 안 된 모든 날짜(또는 지정 날짜)의 후보를 압축 표시
   python3 tools/candidates.py mark <날짜> --opened N --added N [--skipped '..'] [--leads '..']   # 처리 기록
 처리 기록은 state/candidates/processed.json 에 쌓는다. 후보는 14일 겹쳐 수집되므로 하루 실패해도 다음 날 메운다.
 """
@@ -105,6 +105,12 @@ def main():
             print(line)
             if a.full:
                 print("    ", it["url"], "|", it["desc"][:140])
+                for x in it.get("excerpt", []):
+                    print("      · " + x)
+                if it.get("fetch") and it["fetch"] != "ok":
+                    print("      (발췌 없음:", it["fetch"] + ")")
+                if it.get("og_date"):
+                    print("      게시:", it["og_date"][:16])
 
 if __name__ == "__main__":
     main()

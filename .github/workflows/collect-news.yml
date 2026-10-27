@@ -44,6 +44,7 @@ jobs:
           [ -n "$LB" ] && args="$args --lookback $LB"
           python3 -u tools/collect_news.py $args | tee collect.log
           python3 tools/triage_candidates.py | tee -a collect.log
+          python3 tools/fetch_excerpts.py | tee -a collect.log || echo "발췌 실패(후보는 유지)"
       - name: 후보 파일 커밋
         run: |
           git config user.name "github-actions[bot]"
