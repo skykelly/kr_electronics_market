@@ -117,6 +117,7 @@ for p in [DIST / "index.html", DIST / "changes.html"] + [DIST / x for x in pages
         if not (p.parent / href).resolve().exists():
             bad.append(f"{p.relative_to(DIST)} → {href}")
 (DIST / "manifest.json").write_text(json.dumps({"pages": pages + ["changes.html"]}, ensure_ascii=False, indent=1), encoding="utf-8")
+exec(compile((SITE / "split_entry.py").read_text(encoding="utf-8"), "split_entry.py", "exec"))
 print(f"포털 생성: 카테고리 {len(sections)}, 질문 {total_q}, 아티클 페이지 {len(pages)}")
 print("페이지:", pages)
 print("깨진 내부 링크:", bad or "없음")

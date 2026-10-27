@@ -50,6 +50,12 @@
 - 중국 브랜드 질문 재편(2026-10-21~): 브랜드마다 (1) Z1~Z5에서 그 브랜드가 주어인 사실 기록만 합쳐 옮기고(moved_from에 원 ID), (2) 기존 기록을 보지 않는 독립 조사를 하위 에이전트로 돌려 대조하고, (3) 축×연도 빈칸을 원문으로 채운 뒤, (4) 해석·판정을 새로 쓴다. 생성 스크립트는 tools/c1/c1_build.py(재배치)·c1_add.py(보강)·c1_interp.py(해석·전망)·c1_meta.py를 본뜬다. 옮긴 Z 기록을 인용하던 X·S 기록은 tools/cN/cN_zmap.json으로 새 번호로 바꾼다. 판정은 meta.json의 judge(축 6개 × 진입·확장·정착·주도)로 쓴다. Z1~Z5는 C6까지 끝나면 정리한다.
 - 요청 시 진행한다. 질문 build 스크립트로 `records_base.jsonl`을 다시 만든 뒤 `python3 lib/diff_day.py --round <질문>`으로 회차 1줄만 이력에 남긴다.
 
+## 증분 회차 (질문별 리포트 재조사, 평일 10:14 KST 예약)
+- 순서: `python3 tools/rotation.py due`로 오늘 질문(최대 3개)을 고른다. 등급별 간격은 1등급 7일, 2등급 15일, 3등급 30일(`tools/rotation.json`). 간격의 90% 이상 지난 질문을 많이 지난 순으로 고른다. 건너뛴 날은 다음 실행이 따라잡는다. `rotation.py status`로 전체 현황, `plan`으로 예상 배정을 본다.
+- 한 질문 절차(직렬): (1) `git pull --rebase`. (2) 직전 회차 이후 일간 배치가 쌓은 기록과 단서(`python3 tools/intake.py leads <질문>`), 후보(`tools/candidates.py show --q <질문> --full`)를 읽는다. (3) 빈 구간만 원문(A/B)을 열어 `tools/daily.py add`로 추가한다(발췌로 충분하면 발췌, 아니면 WebFetch). (4) `cp meta.json meta_r<N>.json`으로 직전 회차를 보관하고 meta.json을 N+1로 올린다(round, date, round_label '<N+1>회차(증분)', one_line·rows·insights·narrative·ledger·unknowns 반영, 기존 문장은 근거가 바뀐 곳만 고친다). (5) 마감 전망은 `daily.py judge`. (6) `lib/build_records.py <질문>` → `lib/render_article.py <질문> --round N+1`. (7) `python3 lib/diff_report.py <질문> --old <질문>/meta_r<N>.json`(리포트 Diff, 종류 '회차 변경') → `python3 lib/diff_day.py`(기록 단위 Diff). (8) `python3 site/build_site.py`(깨진 링크 0), 폰·PC 폭 점검.
+- 하루 끝: 커밋·푸시, 포털 게시는 하루 한 번만('포털 게시'), 보고(질문별 새 기록 수, 리포트 변경 항목 수, '확인 필요', 한계). 새 사실이 없으면 회차를 올리지 않고 `meta.json`의 date만 확인 날짜로 갱신하지 않는다(건너뜀으로 보고).
+- 한 질문에서 새 원문이 30건에 못 미쳐도 증분 회차는 그대로 진행한다. 30건 기준은 월 1회 전체 재조사(수동 요청)에서 맞춘다.
+
 ## 포털 게시
 - 아티팩트 https://claude.ai/artifact/XKKnhH2SFLjhcxBi5PBxpn 에 `site/dist/artifact_index.html`을 진입 페이지로, `site/dist/manifest.json`의 `pages`를 같은 경로의 파일로 올린다. 게시 전 아티팩트를 read로 열어 최신 판을 기준으로 삼는다. `capabilities`는 생략해 저장된 선언(sample, db, user)을 유지한다. 챗봇 이전 대화는 db의 `data/users/<id>/chats`에 본인 계정 전용으로 저장된다.
 

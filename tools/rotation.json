@@ -1,0 +1,13 @@
+{
+ "_doc": "증분 회차(리포트 재조사) 순환표. 등급별 간격(일). 마지막 회차 날짜는 각 질문 meta.json의 date. 간격의 90% 이상 지난 질문을 많이 지난 순으로 하루 최대 limit개 고른다.",
+ "interval_days": {"1": 7, "2": 15, "3": 30},
+ "limit_per_day": 3,
+ "tiers": {
+  "1": ["C1", "C2", "S7", "S5", "S6", "O1", "C6"],
+  "2": ["S1", "S4", "O4", "C3", "C4", "X1", "X2"],
+  "3": ["S2", "S3", "C5", "O2", "O3", "X3", "X4"]
+ },
+ "paths": {
+  "S": "samsung", "C": "china-brands", "O": "korea-competitors", "X": "market"
+ }
+}
