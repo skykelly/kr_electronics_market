@@ -57,6 +57,8 @@ shell = f"""{head_keep}
 </script>
 """
 (DIST / "artifact_index.html").write_text(shell, encoding="utf-8")
+# 다른 페이지의 '홈' 링크(index.html)도 같은 껍데기를 쓰게 한다(문서 골격을 씌운 독립 페이지)
+(DIST / "index.html").write_text('<!doctype html>\n<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"></head><body style="margin:0">' + shell + "</body></html>", encoding="utf-8")
 man = json.loads((DIST / "manifest.json").read_text(encoding="utf-8")) if (DIST / "manifest.json").exists() else {}
 man["shell_files"] = ["portal_body.html", "assets/portal.css", "assets/portal.js"]
 (DIST / "manifest.json").write_text(json.dumps(man, ensure_ascii=False, indent=1), encoding="utf-8")
