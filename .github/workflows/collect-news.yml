@@ -4,7 +4,7 @@ name: collect-news
 # 07:23 KST 일간 배치가 이 파일을 읽어 후보를 검증·반영한다.
 on:
   schedule:
-    - cron: "30 21 * * *"
+    - cron: "17 19 * * *"
   workflow_dispatch:
     inputs:
       questions:
