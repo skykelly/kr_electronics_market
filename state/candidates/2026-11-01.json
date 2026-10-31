@@ -1,0 +1,1670 @@
+{
+ "date": "2026-11-01",
+ "collected_at": "2026-11-01T07:29+09:00",
+ "lookback_days": 14,
+ "count": 59,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2300,
+   "in_window": 1198,
+   "kept": 42,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 200,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 500,
+   "in_window": 121,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 934,
+   "in_window": 57,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1222,
+   "in_window": 163,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1200,
+   "in_window": 496,
+   "kept": 1,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1381,
+   "in_window": 397,
+   "kept": 3,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1181,
+   "in_window": 250,
+   "kept": 1,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1045,
+   "in_window": 47,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1072,
+   "in_window": 55,
+   "kept": 1,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1136,
+   "in_window": 64,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 8,
+   "kept": 0,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1940,
+   "in_window": 51,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 1800,
+   "in_window": 800,
+   "kept": 2,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1948,
+   "in_window": 71,
+   "kept": 0,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1838,
+   "in_window": 70,
+   "kept": 0,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 35,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 220,
+   "kept": 1,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 40,
+   "kept": 1,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 77,
+   "kept": 7,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 75,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "http://www.inews24.com/view/2021042",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001071075?sid=101",
+   "title": "간판은 GE·소니, 뒤에는 중국…LG전자, '가전 흑자' 사수 비결은",
+   "desc": "\" 유종인 LG전자 HS사업본부 경영관리담당은 지난 28일 3분기 실적발표 컨퍼런스콜에서 이같이 밝혔다. 중국... 삼성전자는 '적자 탈출'부터 고심 반면 삼성전자는 가전사업의 적자 탈출이 과제다. 3분기 TV·생활가전...",
+   "published": "2026-11-01T07:01+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1",
+    "S7",
+    "X3"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261031500044",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261031500044",
+   "title": "코웨이, '룰루 더매너 비데' 출시…라인업 확대",
+   "desc": "1일 코웨이에 따르면 신제품은 지난 4월 출시한 '룰루 더매너 비데 플러스'의 감각적인 디자인을 유지하면서 고객 선호도가 높은 향기추가와 자동탈취 등 욕실 공간 케어의 주요 기능을 중심으로 구성했다. 사용자가...",
+   "published": "2026-11-01T06:04+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "확대"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "URLError"
+  },
+  {
+   "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=449615",
+   "naver_url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=449615",
+   "title": "현대차 파업에 전북 3분기 경제 '주춤'…제조·건설 부진 속 서비스업 보...",
+   "desc": "한국은행 전북본부가 지난 30일 발표한 '3/4분기 전북경제 모니터링 결과'에 따르면 서비스업은 2분기... 9월 대형소매점 판매액지수는 91.5로 1.4% 증가했다. 음식료품과 오락·취미·경기용품, 가전제품이 늘고 신발...",
+   "published": "2026-11-01T01:08+09:00",
+   "host": "www.jeonmin.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610290215",
+   "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610290215",
+   "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘소(牛)프라...",
+   "desc": "1천811개 매장이 참여한다. 국내 대형마트는 유통산업발전법에 따라 매월 둘째·넷째 일요일 의무휴무일로... 행사 기간 에코백스 로봇청소기는 행사카드 결제 시 49만9000원, 쿠쿠 음식물처리기는 24만9000원에 판매한다....",
+   "published": "2026-11-01T00:02+09:00",
+   "host": "www.bntnews.co.kr",
+   "questions": [
+    "C3"
+   ],
+   "queries": [
+    "에코백스 매장 오픈"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20108610?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004677330?sid=104",
+   "title": "누가 사나 했는데 “한국서 2만대 넘게 팔려” 중국차의 질주…현대차·...",
+   "desc": "중국 전기차 업체들이 가격 경쟁력을 앞세워 한국 자동차 시장을 빠르게 파고들고 있다. 지난해 국내에... BYD는 플러그인하이브리드차량(PHEV) ‘씨라이언6 DM-i’도 출시하고 TV 광고를 진행하는 등 마케팅을...",
+   "published": "2026-10-31T21:14+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261031500037",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261031500037",
+   "title": "'자동차도 할인…', 전국민 소비축제 '코그페' 내수 불 지핀다",
+   "desc": "행사를 통합해 운영한다. 우선 현대자동차, 기아, 한국지엠, 르노코리아, KG모빌리티 국내 완성 5개사는 중형 세단과 SUV 등 인기 차종을 대상으로 이날부터 할인 혜택을 제공한다. 삼성전자와 LG전자 등 주요 가전사도...",
+   "published": "2026-10-31T19:28+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인",
+    "삼성전자 세일 페스타",
+    "삼성전자 코리아세일페스타"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026103117304695853",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005836168?sid=103",
+   "title": "\"2400만원에 푼다\" 한국 안방 점령한 '2만대 중국車'…현대·기아 中점유...",
+   "desc": "TV 광고를 내보내는 등 적극적인 마케팅에 나섰다. 블룸버그도 \"최근 BYD가 가격과 기술력을 앞세워 한국 시장에서 빠르게 성장하고 있다\"면서 \"현대차·기아를 위협하고 있다\"고 지적했다. BYD의 약진에 힘입어 중국...",
+   "published": "2026-10-31T17:35+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10921346?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002717013?sid=101",
+   "title": "얼마나 싸게 팔길래?…역대급 할인축제 막 올랐다[중기+]",
+   "desc": "삼성전자, 현대차도 참여…가전·자동차 할인 지난해 처음 개최된 코리아 그랜드 페스티벌은 개별적으로... 공영홈쇼핑도 5% 할인과 5% 적립 등 기간별 판촉 행사를 운영한다. 외국인 관광객을 위한 프로그램도 운영한다....",
+   "published": "2026-10-31T17:30+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 판촉",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026103017261440869",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002246793?sid=105",
+   "title": "[데스크칼럼] 1분짜리 숏폼 드라마에 빼앗긴 시간",
+   "desc": "스마트폰에서 시작된 유행은 TV 화면으로까지 번지고 있다. 중국에서 성장한 숏폼 드라마는 익숙한 막장... 한국 콘텐츠가 글로벌 시장에 진출할 또 다른 통로가 될 가능성도 있다. 문제는 경쟁이 치열해질수록 더 자극적인...",
+   "published": "2026-10-31T17:01+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://news.bizwatch.co.kr/article/industry/2026/10/30/0019",
+   "naver_url": "https://n.news.naver.com/mnews/article/648/0000052144?sid=101",
+   "title": "현대차, 새만금 '기회의 땅'으로…투자 본격화",
+   "desc": "삼성전자는 △반도체 집중 투자에 따른 역대 최대 실적 △모바일 사업을 필두로 한 DX부문의 AI 경쟁력... DX부문은 모바일, TV, 생활가전 등 전 제품에 개인화된 AI 경험과 연결성을 제공해 일상의 편리함을 확대...",
+   "published": "2026-10-31T15:00+09:00",
+   "host": "news.bizwatch.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.jasm.co.kr/news/view/323676/?sc=Naver",
+   "naver_url": "https://www.jasm.co.kr/news/view/323676/?sc=Naver",
+   "title": "'중국차의 공습' BYD, 9월 수입차 4위…현대차·기아 中 판매량 39%↓",
+   "desc": "출시하고 TV 광고를 내보내며 공격적인 마케팅에 나섰다. 블룸버그도 최근 BYD가 가격과 기술력을 앞세워 한국 시장에서 빠르게 성장하면서 현대차·기아를 위협하고 있다고 지적했다. BYD의 약진에 힘입어 중국...",
+   "published": "2026-10-31T11:50+09:00",
+   "host": "www.jasm.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1170688",
+   "naver_url": "https://www.wikitree.co.kr/articles/1170688",
+   "title": "'10월 31일' 캐시워크 돈버는퀴즈, 오늘의 정답은?",
+   "desc": "캐시워크 돈버는퀴즈에서 픽스 생활가전, 앱스토리몰, 중소벤처기업부, 식품의약품안전처 관련 문제가... 음식점의 표시를 찾아라 퀴즈정답: 다섯개, 식품안심업소[5] 앱스토리몰 픽스 무선 전동 에어펌프 퀴즈정답: 7800...",
+   "published": "2026-10-31T10:44+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "X2"
+   ],
+   "queries": [
+    "AI 표시 기준 가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/future/2026/10/31/2026103110041540871",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005434592?sid=101",
+   "title": "AI 영상제작툴부터 암 진단솔루션까지…과기대 학생창업가의 도전",
+   "desc": "\"피드백만 주면 AI가 다음편 제작\" 구독자 317만 엘바, B2B 뚫는다 학생창업 부문 결선팀-울산과학기술원(UNIST)... 심사에는 삼성전자 C랩과 GS벤처스, LB인베스트먼트, 블루포인트파트너스 등 기업 및 투자기관 관계자들이...",
+   "published": "2026-10-31T10:30+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/future/2026/10/31/2026103109155780006",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005434588?sid=101",
+   "title": "바이오가스·무세포 단백질·AI 더빙…왕중왕전 오른 과기대 교원창업",
+   "desc": "김 대표는 \"현재 개인 크리에이터를 대상으로 월 약 8만원의 구독료를 받고 있다\"며 \"내년부터는 팀 단위... 삼성전자 C랩, GS벤처스, L&S벤처캐피탈, 에코프로파트너스, LB인베스트먼트, 블루포인트파트너스, 씨엔티테크...",
+   "published": "2026-10-31T10:00+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000343430?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000540946?sid=101",
+   "title": "중국 BYD 한국서 수입차 4위…현대차·기아 中 점유율은 '뚝'",
+   "desc": "블룸버그도 최근 BYD가 가격과 기술력을 앞세워 한국 시장에서 빠르게 성장하면서 현대차·기아를 위협하고 있다고 지적한 바 있습니다. BYD의 약진에 힘입어 중국 브랜드 승용차의 국내 등록 대수는 올해 1∼9월...",
+   "published": "2026-10-31T09:17+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [
+    "점유율"
+   ],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "중국 BYD 한국서 수입차 4위…현대차·기아 中 점유율은 '뚝' - SBS Biz"
+   ],
+   "og_date": "2026-10-31T09:15:00+09:00"
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261031502525?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004171270?sid=101",
+   "title": "한우 반값에 가전 70% 할인까지…11월 쇼핑대전, 어디가 가장 쌀까?",
+   "desc": "한우를 반값에 판매하는 대형마트부터 가전제품과 생활용품을 최대 70% 할인하는 온라인 쇼핑몰까지... 삼성전자와 LG전자, 로보락, 다이슨, CJ제일제당, 코카콜라 등 주요 브랜드가 참여한다. 할인 대상은 16개...",
+   "published": "2026-10-31T09:02+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "C1",
+    "S1",
+    "S4",
+    "S6"
+   ],
+   "queries": [
+    "로보락 출시",
+    "로보락 팝업",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 팝업",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10921170?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002716936?sid=101",
+   "title": "중국차 한국선 질주, 현대차·기아 中선 주춤…엇갈린 한중 車시장",
+   "desc": "기자] 중국 자동차 업체들이 한국 시장에서 빠르게 몸집을 키우고 있다. BYD가 올해 들어 국내에서 2만대... 최근 ‘씨라이언 6 DM-i’를 국내에 출시하고 TV 광고 등 마케팅도 확대했다. BYD의 판매 증가와 함께...",
+   "published": "2026-10-31T08:59+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://magazine.hankyung.com/business/article/202610317343b",
+   "naver_url": "https://n.news.naver.com/mnews/article/050/0000112654?sid=101",
+   "title": "\"이 정도일 줄이야\"...한국서 몰아치는 중국차 '돌풍'",
+   "desc": "BYD는 플러그인하이브리드차량(PHEV) '씨라이언 6 DM-i'도 출시하고 TV 광고를 내보내며 공격적인 마케팅에... BYD의 선전을 지켜 본 중국 업체들의 한국 시장 진출도 가속화할 전망이다. 중국 지리자동차의 프리미엄...",
+   "published": "2026-10-31T08:54+09:00",
+   "host": "magazine.hankyung.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261031502501?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004171263?sid=101",
+   "title": "날씨 쌀쌀해지자 온열매트 판매 2.5배…유통업계 겨울 고객 잡기 경쟁",
+   "desc": "알레르망은 자가 발열 충전재 '히트코어'와 극세사 차렵이불 등을 순차적으로 출시할 계획이다. 구스... 코웨이는 침대와 매트리스를 직접 구매하는 대신 빌려 쓰는 소비자를 겨냥하고 있다. 코웨이는 지난 8월 31일부터...",
+   "published": "2026-10-31T08:22+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 출시",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202610300122",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202610300122",
+   "title": "삼성·LG전자, '코리아 그랜드 페스티벌'…연말 가전 대전 포문",
+   "desc": "오프라인에서는 전국 LG 베스트샵이 11월 1일부터 30일까지 별도 프로모션을 운영한다. 올레드 TV·그램... ◇삼성전자, 가전·모바일 전방위 할인…소상공인 지원 사격 삼성전자도 11월 1일부터 30일까지 '삼성전자와...",
+   "published": "2026-10-31T08:02+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "S1",
+    "S2",
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 비스포크 AI 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2",
+    "S6",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6336080",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009257459?sid=101",
+   "title": "삼성전자, 30조 현금배당+최대 75조 추가 환원…영업익 100조 시대(종합...",
+   "desc": "삼성전자는 메모리 사업의 최대 실적에 힘입어 3분기 영업이익이 107조 4400억 원을 기록, 글로벌 테크... 모바일경험(MX)·네트워크 사업에서 6000억 원, 영상디스플레이(VD)·생활가전(DA) 등에서 2000억 원의 적자가...",
+   "published": "2026-10-29T11:05+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.bizwatch.co.kr/article/industry/2026/10/29/0011",
+   "naver_url": "https://n.news.naver.com/mnews/article/648/0000052057?sid=101",
+   "title": "석 달 만에 107조 벌었다…삼성전자, 글로벌 테크기업 새 역사",
+   "desc": "반면 스마트폰과 TV·가전 등 완제품 사업은 2개 분기 연속 적자를 기록했다. 반도체가 전례 없는 호황을 누리는 동안 완제품 사업은 원가 부담에 시달리면서 사업부 간 실적 양극화가 뚜렷해졌다. 삼성전자는 29일...",
+   "published": "2026-10-29T11:03+09:00",
+   "host": "news.bizwatch.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://magazine.hankyung.com/business/article/202610292941b",
+   "naver_url": "https://n.news.naver.com/mnews/article/050/0000112524?sid=101",
+   "title": "1분에 8억씩 번 삼성 반도체…주주환원 최대 110조 전망",
+   "desc": "스마트폰·가전은 2개 분기 연속 적자 반도체과 달리 스마트폰과 TV·가전 등 완제품 사업은 적자에서... 디스플레이 사업은 주요 고객사의 신제품 출시 효과로 매출 8조원, 영업이익 1조1000억원을 거뒀다. 삼성전자는...",
+   "published": "2026-10-29T11:03+09:00",
+   "host": "magazine.hankyung.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2020311",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001070384?sid=101",
+   "title": "삼성전자 DX, 두 분기 연속 적자…스마트폰 6천억원·가전 2천억원 손실",
+   "desc": "삼성전자는 4분기 연말 성수기에 갤럭시 S26 시리즈와 폴더블, 웨어러블 신제품 판매를 확대할 계획이다. TV와 가전도 고가 제품 판매 비중을 높이고 비용을 줄여 수익성을 방어할 방침이다. 내년에도 원가 부담은...",
+   "published": "2026-10-29T11:02+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261029_0003846210",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014286799?sid=101",
+   "title": "삼성전자 3Q 부문간 희비…반도체 영업익 106.5조 '사상최대' DX '적자지...",
+   "desc": "MX는 연말 성수기 수요를 공략해 갤럭시 S26 시리즈, 폴더블 및 웨어러블 신제품 중심으로 판매 확대를... 생활가전은 프리미엄 제품 판매 비중을 확대해 수익성을 개선할 방침이다. 한편, 삼성전자는 이날 이사회에서...",
+   "published": "2026-10-29T11:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026102910251074061",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002246464?sid=105",
+   "title": "삼성전자 3Q 영업익 107.4조…반도체 106.5조·DX 8000억 적자",
+   "desc": "MX·네트워크 6000억·VD·가전 2000억 손실…부품·원자재 비용 부담 삼성전자의 3분기 역대 최대 실적은... ◆ 폴더블 출시 효과에도 메모리값은 부담 작용…DX 8000억 적자 반도체와 완제품 사업의 온도차는...",
+   "published": "2026-10-29T10:57+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.nocutnews.co.kr/news/6599010?utm_source=naver&utm_medium=article&utm_campaign=20261029142647",
+   "naver_url": "https://n.news.naver.com/mnews/article/079/0004204264?sid=101",
+   "title": "삼성전자 3분기 반도체 부문 영업이익만 106.5조 '글로벌 선두'[영상]",
+   "desc": "삼성전자가 올해 2월 세계 최초로 양산 출하한 인공지능(AI) 시대 핵심 메모리인 6세대 고대역폭메모리 HBM4... DA(생활가전) 사업부는 국내 마케팅 활동 강화, 가전 구독과 기업 간 거래(B2B) 사업 확대 영향으로 판매는...",
+   "published": "2026-10-29T10:56+09:00",
+   "host": "www.nocutnews.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자 3분기 반도체 부문 영업이익만 106.5조 '글로벌 선두'[영상] - 노컷뉴스"
+   ],
+   "og_date": "2026-10-29T10:54:56.9570000"
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065577946949563",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065577946949563",
+   "title": "삼성전자 3분기 영업이익 107조...반도체가 106조 벌었다",
+   "desc": "줄었고, 가전은 국내 판매와 구독·B2B 사업이 늘었지만 원자재와 물류비 부담을 넘지 못했다. 삼성디스플레이는 매출 8조원, 영업이익 1조1천억원을 기록했다. 고객사 신제품에 패널을 제때 공급하면서 전 분기보다...",
+   "published": "2026-10-29T10:54+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자 3분기 영업이익 107조...반도체가 106조 벌었다",
+    "사회가치 공유 언론-소셜밸류 - 삼성전자 3분기 영업이익 107조...반도체가 106조 벌었다",
+    "[소셜밸류=이국열 기자] 삼성전자가 올해 3분기 영업이익 107조4000억원을 기록했다",
+    "삼성전자는 29일 연결 기준 3분기 매출 195조3000억원, 영업이익 107조4000억원의 확정 실적을 발표했다",
+    "삼성디스플레이는 매출 8조원, 영업이익 1조1000억원을 기록했다",
+    "1삼성, 하반기 공채 GSAT 마무리…11월 면접 거쳐 신입 선발2코스피 급락에 10대 그룹 시총 1100조 증발…반도체·조선주 타격3컴투스, '데스티니 차일드' 10년 만에 새 출발…신작 '어셈블' 정식 타이틀 첫 공개4월 9900원에 독서·생활 혜택…LG유플러스 유독 구독팩 출시5신세계그룹, 30일부터 열흘간 쓱데이…18개 계열사 참여"
+   ],
+   "og_date": "2026-10-29T10:52:16+09:00"
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10918771?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002715972?sid=101",
+   "title": "삼성전자 “내년 상반기 7세대 HBM4E 양산 개시…파운드리 두 자릿수 성...",
+   "desc": "나란히 적자에 빠진 모바일·가전·TV 등 완제품 사업의 부진에도 삼성전자가 압도적인 성장세를 이어간... 신규 출시되는 GPU와 CPU에 맞물린 제품 위주로 메모리 수요가 추가 확대되고 있다”고 밝혔다. 주요 AI...",
+   "published": "2026-10-29T10:52+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mydaily.co.kr/page/view/2026102910495362816",
+   "naver_url": "https://n.news.naver.com/mnews/article/117/0004119570?sid=105",
+   "title": "삼성전자, 내년 HBM4E 양산…테일러 팹서 AI 반도체 성장 승부",
+   "desc": "집중한다는 전략이다. 삼성전자는 29일 열린 3분기 실적에서 2027년에도 AI 투자 장기화와 공급 제약으로... 완제품에서는 플래그십 스마트폰의 하드웨어·폼팩터 혁신, TV 서비스·플랫폼 사업 강화, AI 가전 및...",
+   "published": "2026-10-29T10:50+09:00",
+   "host": "www.mydaily.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.dealsitetv.com/articles/177712",
+   "naver_url": "https://news.dealsitetv.com/articles/177712",
+   "title": "삼성전자, 3분기 글로벌 최초 영업익 100조 돌파",
+   "desc": "매출 195조2532억원·영업이익 107조4405억원 기록…DS 영업익만 106.5조 삼성전자가 반도체사업 흥행을... 모바일과 TV, 가전사업을 담당하는 디바이스경험(DX)부문은 매출 52조1000억원 8000억원의 적자를 기록했다....",
+   "published": "2026-10-29T10:48+09:00",
+   "host": "news.dealsitetv.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261029_0003846131",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014286716?sid=101",
+   "title": "삼성전자, 완제품 부문 2개 분기 연속 적자…\"메모리 값 상승 등 비용 부...",
+   "desc": "삼성전자가 올해 3분기 반도체 사업에서 역대 최대 실적을 거뒀지만, 생활가전·TV·스마트폰 등 완제품... 삼성전자는 DX부문 실적에 대해 갤럭시 Z 폴드8 등 프리미엄 신모델 출시 효과로 매출이 전년 대비 성장했으나...",
+   "published": "2026-10-29T10:46+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261029500194",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261029500194",
+   "title": "애플 이용자 잡아라…삼성·LG, AI홈 연동 확대 경쟁",
+   "desc": "삼성, 아이폰용 스마트싱스 앱 개편·타사 기기 연동 확대 LG, 애플과 IoT 기기 7종 공동 개발…연내 북미·영국 출시 모델이 LG전자 AI홈 플랫폼 '씽큐', AI홈 허브 '씽큐 온', 실행형 AI 에이전트 '씽큐 클로'를 활용한 AI홈...",
+   "published": "2026-10-29T10:46+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "S1",
+    "S3"
+   ],
+   "queries": [
+    "삼성전자 AI 가전 기능 업데이트",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시",
+    "삼성전자 스마트싱스 발표"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "S1",
+    "S3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "URLError"
+  },
+  {
+   "url": "https://www.mydaily.co.kr/page/view/2026102910451175235",
+   "naver_url": "https://n.news.naver.com/mnews/article/117/0004119568?sid=105",
+   "title": "삼성전자 “4분기도 반도체 강세”…연말 프리미엄 판매 확대",
+   "desc": "삼성전자가 4분기에도 반도체 호실적을 바탕으로 전사 실적 성장을 이어갈 것으로 전망했다. 완제품... MX는 갤럭시 S26 시리즈와 폴더블·웨어러블 신제품 판매를 확대하고, TV와 생활가전은 고급 제품 비중을 높여...",
+   "published": "2026-10-29T10:46+09:00",
+   "host": "www.mydaily.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자 “4분기도 반도체 강세”…연말 프리미엄 판매 확대 - 마이데일리",
+    "[마이데일리 = 윤진웅 기자] 삼성전자가 4분기에도 반도체 호실적을 바탕으로 전사 실적 성장을 이어갈 것으로 전망했다",
+    "삼성전자는 29일 발표한 올해 3분기 실적 자료에서 에이전틱 AI 도입 가속화로 반도체 전반의 수요 강세가 이어질 것으로 예상했다.",
+    "시스템LSI는 플래그십 시스템온칩(SoC)과 2억화소 이미지센서의 안정적인 양산·판매에 주력한다",
+    "\"반전세 산다더니 100억 집주인\"…김동현, 압구정 아파트 매입 '깜짝'",
+    "'40억 건물주' 이해인, 결국 틱톡까지 뛰어들었다…\"매달 이자만 1300만원\""
+   ]
+  },
+  {
+   "url": "https://www.m-economynews.com/news/article.html?no=72272",
+   "naver_url": "https://www.m-economynews.com/news/article.html?no=72272",
+   "title": "삼성전자, 3분기 영업이익 107조원 돌파...주주환원 잔여 재원 최대 75조...",
+   "desc": "반면 모바일과 TV, 생활가전 등을 담당하는 디바이스경험(DX) 부문은 매출 52조1,000억원을 기록했지만 8,000억원의 영업손실을 냈다. 삼성전자는 역대 최대 실적을 바탕으로 대규모 주주환원에도 나선다. 이날...",
+   "published": "2026-10-29T10:44+09:00",
+   "host": "www.m-economynews.com",
+   "questions": [
+    "S1",
+    "X3"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 3분기 영업이익 107조원 돌파...주주환원 잔여 재원 최대 75조원 주메뉴 바로가기 본문 바로가기",
+    "삼성전자가 올해 3분기 107조원을 웃도는 영업이익을 기록하며 사상 최대 분기 실적을 달성했다",
+    "삼성전자는 29일 올해 3분기 연결 기준 매출 195조2,532억원, 영업이익 107조4,405억원의 확정 실적을 발표했다.",
+    "특히 국내 기업 가운데 분기 영업이익이 100조원을 넘어선 것은 삼성전자가 처음이다",
+    "삼성전자는 이날 실적발표 컨퍼런스콜에서 이미 집행한 주주환원 금액과 이번에 확정한 현금배당액을 제외한 올해 주주환원 잔여 재원이 55조~75조원 수준이라고 밝혔다.",
+    "코스피, 삼성전자 4%대 급락에 6,000선 붕괴...5,937선 마감"
+   ]
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000342927?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000540497?sid=101",
+   "title": "삼성전자, 107조 벌고 30조 배당…반도체 쏠림은 더 커졌다(종합)",
+   "desc": "TV·가전 사업은 적자를 벗어나지 못했습니다. 삼성전자는 오늘(29일) 올해 3분기 연결 기준 매출... 갤럭시 Z폴드8 등 폴더블 신제품 출시와 평균판매가격(ASP) 상승으로 매출이 늘었지만, 원가 부담이 수익성을...",
+   "published": "2026-10-29T10:43+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mydaily.co.kr/page/view/2026102910422314999",
+   "naver_url": "https://n.news.naver.com/mnews/article/117/0004119567?sid=105",
+   "title": "삼성전자 DX, 3분기 8000억원 적자…갤럭시 신제품 효과에도 원가 부담",
+   "desc": "갤럭시 신제품 출시와 가전 구독·B2B 사업 확대에도 사업 전반의 수익성 압박이 이어졌다. 삼성전자는 올해 3분기 DX부문 매출 52조1000억원, 영업손실 8000억원을 기록했다고 29일 밝혔다. 모바일 사업인 MX는 갤럭시 Z...",
+   "published": "2026-10-29T10:43+09:00",
+   "host": "www.mydaily.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/171616",
+   "naver_url": "https://dealsite.co.kr/articles/171616",
+   "title": "삼성전자, 분기 영업익 100조 넘었다…메모리 '최대 실적'",
+   "desc": "MX는 갤럭시 Z 폴드8 등 플래그십 신모델 출시로 전분기 및 전년 대비 매출이 성장했다. 삼성전자는... 생활가전은 국내 마케팅 활동 강화, 가전 구독 및 B2B 사업 확대 영향으로 판매는 호조를 보였으나, 원자재 비용...",
+   "published": "2026-10-29T10:38+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 분기 영업익 100조 넘었다…메모리 '최대 실적' - 딜사이트",
+    "삼성전자의 3분기 매출은 195조3000억원, 영업이익은 107조4000억원으로 전분기 대비 각각 14%, 20% 증가하며 역대 최대 실적을 기록했다.",
+    "삼성전자는 에이전틱 AI 도입 가속화에 따른 반도체 수요 강세로 4분기에도 실적 성장세가 지속될 것으로 전망했다.",
+    "#삼성전자 #이재용 #3분기 실적 #DS #DX #반도체",
+    "29일 삼성전자는 연결 기준 올해 3분기 매출은 195조3000억원, 영업이익이 107조4000억원을 기록했다고 밝혔다",
+    "삼성전자는 올해 3분기에 매출 195조3000억원, 영업이익 107조4000억원을 기록했어요"
+   ],
+   "og_date": "2026-10-29T10:36:58+09:00"
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261029103559oJP",
+   "naver_url": "https://n.news.naver.com/mnews/article/422/0000920695?sid=101",
+   "title": "삼성전자 3분기 영업익 107.4조…30조 현금배당",
+   "desc": "[기자] 네, 삼성전자는 조금 전 3분기 확정실적을 발표했는데요. 매출 195조 2,532억원, 영업이익은 107조 4... 반면 스마트폰과 가전 등 완제품 사업을 담당하는 DX 부문은 영업손실 8천억원으로 적자가 이어졌습니다....",
+   "published": "2026-10-29T10:36+09:00",
+   "host": "www.yonhapnewstv.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [
+    {
+     "url": "https://www.viewsnnews.com/article?q=239336",
+     "host": "www.viewsnnews.com",
+     "published": "2026-10-29T11:02+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202610291018200428",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005596318?sid=101",
+   "title": "HBM4 날개 단 삼성 반도체, 분기 영업익 100조 시대 열었다…내년 초격차...",
+   "desc": "삼성전자가 인공지능(AI) 반도체 수요 확대에 힘입어 올해 3·4분기 사상 최대 실적을 기록했다.... 반면 스마트폰과 가전 등을 담당하는 디바이스경험(DX)부문은 매출 52조1000억원, 영업손실 8000억원을 기록했다....",
+   "published": "2026-10-29T10:30+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kukinews.com/article/view/kuk202610290050",
+   "naver_url": "https://www.kukinews.com/article/view/kuk202610290050",
+   "title": "삼성전자, 3Q 영업익 107조원 신기록…주주환원 최대 110조원",
+   "desc": "스마트폰과 TV·가전 등을 담당하는 디바이스경험(DX) 부문은 매출 52조1000억원을 기록했지만 영업손실... 신제품 출시와 평균판매가격(ASP) 상승으로 매출은 증가했지만, 원가 부담이 수익성을 제약했다. 삼성전자는...",
+   "published": "2026-10-29T10:30+09:00",
+   "host": "www.kukinews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261029102528773",
+   "naver_url": "https://www.ajunews.com/view/20261029102528773",
+   "title": "[종합] 삼성전자 영업익 100조 돌파했지만…99%가 반도체서 나왔다",
+   "desc": "스마트폰과 가전 등 완제품 사업은 8000억원의 적자를 기록했다. 삼성전자는 29일 확정 실적 발표를 통해... 시스템LSI는 하반기 출시된 신제품에 시스템온칩(SoC)과 이미지센서를 공급하면서 매출이 증가했다. 신규...",
+   "published": "2026-10-29T10:28+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261029000446",
+   "naver_url": "https://www.newspim.com/news/view/20261029000446",
+   "title": "[종합] 삼성전자, 애플·엔비디아도 못 넘은 '영업익 100조 벽' 깼다",
+   "desc": "스마트폰과 가전 등 완제품 사업은 8000억원의 적자를 기록해 대조를 이뤘다. 삼성전자는 내년에도 반도체... 시스템LSI 사업은 하반기 출시된 신제품에 모바일 애플리케이션프로세서(AP)와 이미지센서를 공급하면서...",
+   "published": "2026-10-29T10:27+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261029500146",
+   "naver_url": "https://www.news2day.co.kr/article/20261029500146",
+   "title": "삼성전자, 분기 영업익 107조 ‘사상 최대’…4분기도 메모리 강세(2보)",
+   "desc": "삼성전자는 4분기 AI 서버 중심의 메모리 수요 강세에 대응해 HBM4 등 고부가 반도체 판매를 확대하고, 모바일·가전은 연말 성수기와 신제품 출시 효과를 바탕으로 판매 확대에 나선다. 디스플레이는 고객사...",
+   "published": "2026-10-29T10:26+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2641606",
+   "naver_url": "https://www.etoday.co.kr/news/view/2641606",
+   "title": "삼성전자, 분기 영업익 107조 '새 역사'⋯HBM4 타고 반도체 초호황 질주...",
+   "desc": "스마트폰과 가전 사업의 수익성 악화, 환율 하락에 따른 부담에도 반도체 사업이 압도적인 이익을 창출했다. 삼성전자는 올해 84조원 이상의 시설투자를 단행하고 최대 110조원 규모의 주주환원을 추진하며 반도체...",
+   "published": "2026-10-29T10:26+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710885",
+   "naver_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710885",
+   "title": "삼성전자, 3분기 영업익 107조...전년비 783%↑",
+   "desc": "'갤럭시 Z 폴드8' 등 폴더블 신제품 효과로 MX 매출은 직전 분기보다 15% 늘었다. 다만 MX·네트워크와 TV·가전 모두 원가 부담에 적자를 벗어나지 못했다. 삼성디스플레이는 매출 8조원, 영업이익 1조1000억원을...",
+   "published": "2026-10-29T10:20+09:00",
+   "host": "www.digitaltoday.co.kr",
+   "questions": [
+    "S1",
+    "S3",
+    "S6",
+    "X3"
+   ],
+   "queries": [
+    "삼성전자 AI 가전 기능 업데이트",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 세일 페스타",
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S3",
+    "S6"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202610290947230838",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005596305?sid=101",
+   "title": "삼성 반도체, 3분기 영업익 106.5조 '역대 최대'…HBM4가 실적 견인",
+   "desc": "갤럭시 Z 폴드8 등 프리미엄 신제품 출시 효과로 매출이 증가했으나, 메모리 가격 상승에 따른 원가 부담과 가전·네트워크 사업의 수익성 악화가 영향을 미쳤다. 삼성전자는 \"4·4분기에도 AI 인프라 투자 확대에...",
+   "published": "2026-10-29T10:18+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 반도체, 3분기 영업익 106.5조 '역대 최대'…HBM4가 실적 견인 - 파이낸셜뉴스",
+    "삼성전자(005930), 삼성전자우(005935)",
+    "[파이낸셜뉴스] 삼성전자가 인공지능(AI) 반도체 수요 확대에 힘입어 올해 3·4분기 사상 최대 실적을 기록했다",
+    "삼성전자는 29일 연결 기준 올해 3·4분기 연결 매출 195조2532억원, 영업이익 107조4405억원을 기록했다고 공시했다",
+    "삼성전자는 \"4·4분기에도 AI 인프라 투자 확대에 따른 반도체 수요 강세가 이어질 것\"이라며 \"DS부문은 에이전틱 AI 확산에 대응해 고부가 반도체 판매를 확대하고, DX부문은 연말 성수기 프리미엄 제품 판매를 강화해 수익성 확보에 나설 계획\"이라고 전했다.",
+    "삼성전자가 인공지능 반도체 수요 확대에 힘입어 올해 3·4분기 사상 최대 실적을 기록했다."
+   ],
+   "og_date": "2026-10-29T10:18:05+09:00"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20107585?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004676451?sid=101",
+   "title": "삼성전자, 영업익 107조 ‘새 역사’…반도체 독주 속 30조 배당",
+   "desc": "스마트폰과 가전 등을 담당하는 완제품(DX)부문은 2개 분기 연속 적자를 기록하며 사업부별 희비가 극명하게 엇갈렸다. 삼성전자는 막대한 현금 창출력을 바탕으로 30조 원 규모의 분기배당을 확정하고 최대...",
+   "published": "2026-10-29T10:18+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1707866/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003148572?sid=101",
+   "title": "삼성전자, 사상 첫 분기 영업익 100조 돌파…매출 195조 '역대 최대' [상...",
+   "desc": "생활가전 사업은 원자재와 물류비 상승으로 수익성이 악화됐다. 삼성디스플레이는 매출 8조원, 영업이익 1조1000억원을 기록했다. 주요 고객사의 신제품 출시 효과로 중소형 디스플레이 판매가 늘었으며, 대형...",
+   "published": "2026-10-29T10:12+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 사상 첫 분기 영업익 100조 돌파…매출 195조 '역대 최대' [상보]",
+    "서울 서초동 삼성서초사옥 앞에서 삼성 깃발이 휘날리고 있다.ⓒ데일리안 홍금표 기자",
+    "삼성전자가 올해 3분기 사상 처음으로 분기 영업이익 100조원을 돌파했다",
+    "삼성전자는 29일 연결 기준 올해 3분기 매출 195조2532억원, 영업이익 약 107조4000억원을 기록했다고 밝혔다",
+    "삼성전자는 글로벌 기술기업 가운데 처음으로 분기 영업이익 100조원을 넘어섰다고 설명했다",
+    "삼성디스플레이는 매출 8조원, 영업이익 1조1000억원을 기록했다"
+   ],
+   "og_date": "2026-10-29T10:11:00+09:00"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12189578",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005755738?sid=101",
+   "title": "[속보] 삼성전자 3분기 영업익 107.4조…작년 대비 783%↑",
+   "desc": "모바일 사업을 맡은 MX 사업부는 ‘갤럭시 Z 폴드8’ 등 플래그십 신모델 출시로 전분기 및 전년 대비... 반면 스마트폰·가전 등 DX 부문에서는 원가 상승에 따른 수익성 부담이 이어질 거라고 내다봤다. 삼성전자...",
+   "published": "2026-10-29T10:10+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.jtbc.co.kr/article/NB12325414?influxDiv=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/437/0000518092?sid=101",
+   "title": "107조원 벌고도 주가는 하락…삼성전자 \"4분기도 실적 성장\"",
+   "desc": "신제품 출시로 매출이 늘었습니다. 프리미엄 제품 판매 비중이 커지면서 평균 판매단가가 올라 실적도 개선됐습니다. 생활가전은 판매 호조에도 원자재 가격과 물류비 상승으로 이익이 줄었습니다. 삼성전자는...",
+   "published": "2026-10-29T10:03+09:00",
+   "host": "news.jtbc.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "107조원 벌고도 주가는 하락…삼성전자 \"4분기도 실적 성장\""
+   ]
+  },
+  {
+   "url": "https://www.chosun.com/economy/tech_it/2026/10/29/OMB6KCQGPZCOJFSIKCDJIRVVCA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "naver_url": "https://n.news.naver.com/mnews/article/023/0004006611?sid=105",
+   "title": "삼전 3분기 반도체 106.5조원벌 때, 스마트폰·가전은 8000억원 적자",
+   "desc": "삼성전자는 “갤럭시Z 폴드8 등 프리미엄 신모델 출시 효과로 매출이 전년 대비 성장했지만, 부품 원가 상승 등으로 전년 대비 이익이 감소했다”고 밝혔다. 가전·TV 부문은 월드컵 등 국제 스포츠 이벤트가...",
+   "published": "2026-10-29T09:55+09:00",
+   "host": "www.chosun.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/29/AG7KQYRQXJAPJGFUISUDXEZNNM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001201133?sid=105",
+   "title": "삼성전자, 韓 첫 ‘분기 영업익 100조원’ 돌파… 메모리 호황에 가려진...",
+   "desc": "스마트폰·가전 원가 부담 원화 강세로 영업익 10조원 감소 효과… 4분기도 성장 전망 삼성전자가 올해... 갤럭시 Z 폴드8 등 폴더블 신제품 출시와 프리미엄 제품 판매 확대에 힘입어 매출은 전 분기 대비 14...",
+   "published": "2026-10-29T09:52+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kpinews.kr/newsView/1065568910842166",
+   "naver_url": "https://www.kpinews.kr/newsView/1065568910842166",
+   "title": "LG·삼성 스마트TV서 AI 비서 'MS 코파일럿' 서비스 연내 종료",
+   "desc": "마이크로소프트(MS)가 LG전자와 삼성전자 스마트TV에 제공해 온 인공지능(AI) 비서 '코파일럿(Copilot)' 서비스를 종료한다. 지난해 1월 세계 최대 가전·IT 전시회 CES 2025에서 TV용 AI 서비스 도입 계획을 발표한 지 약...",
+   "published": "2026-10-29T08:51+09:00",
+   "host": "www.kpinews.kr",
+   "questions": [
+    "S1",
+    "S3"
+   ],
+   "queries": [
+    "삼성전자 AI 가전 기능 업데이트",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [
+    "종료"
+   ],
+   "q_title": [
+    "S1",
+    "S3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "LG·삼성 스마트TV서 AI 비서 'MS 코파일럿' 서비스 연내 종료",
+    "LG 스마트TV에 종료 공지…삼성 TV 적용 일정은 미확인",
+    "마이크로소프트(MS)가 LG전자와 삼성전자 스마트TV에 제공해 온 인공지능(AI) 비서 '코파일럿(Copilot)' 서비스를 종료한다",
+    "29일 IT업계에 따르면 미국 IT 전문매체 윈도센트럴(Windows Central)은 28일(현지시간) LG전자 스마트TV에 코파일럿 서비스 종료를 알리는 공지가 표시됐다고 보도했다.",
+    "MS는 지난해 CES 2025에서 LG전자·삼성전자와 협력해 스마트TV에 코파일럿을 도입한다고 발표했다.",
+    "이번 결정으로 LG전자와 삼성전자의 스마트TV AI 서비스 운영에도 일부 변화가 불가피할 전망이다"
+   ],
+   "og_date": "2026-10-29T08:51:27+09:00"
+  },
+  {
+   "url": "https://www.fnnews.com/news/202610271146477023",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005595036?sid=101",
+   "title": "삼성전자, 주요 가전 3대 중 1대는 구독...기업용 서비스도 도입",
+   "desc": "27일 삼성전자에 따르면 회사는 가전 구독 서비스 출시 2주년을 맞아 기존 서비스를 '삼성 AI 구독'으로 개편했다. 고객의 생애주기와 제품 관리 방식에 따라 선택지를 늘리고 공공기관·호텔·의료·금융기관 등을 위한...",
+   "published": "2026-10-27T11:52+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자 소모품 케어 정기배송 서비스"
+   ],
+   "also": [],
+   "cues": [
+    "도입",
+    "구독"
+   ],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 주요 가전 3대 중 1대는 구독...기업용 서비스도 도입 - 파이낸셜뉴스",
+    "삼성스토어에서 판매하는 주요 가전 3대 중 1대가 구독 제품인 가운데, 배송·설치부터 유지관리까지 고객별 수요에 맞춘 서비스를 강화한다.",
+    "27일 삼성전자에 따르면 회사는 가전 구독 서비스 출시 2주년을 맞아 기존 서비스를 '삼성 AI 구독'으로 개편했다",
+    "삼성전자는 2024년 '삼성 AI 구독클럽'을 출시하고 지난해 구독 고객 전용 프리미엄 케어 서비스 '블루패스'를 도입했다",
+    "구독 고객의 주요 만족 요인으로는 '신속하고 편리한 AS'(43%)가 가장 높았으며, 향후 삼성 가전을 우선 고려하겠다는 응답은 75%였다.",
+    "[단독] 삼성전자 DX노조, 내달 5일 수원 본사서 집회…성과급·공동교섭 관련 2026-10-30 17:44"
+   ],
+   "og_date": "2026-10-27T11:51:31+09:00"
+  },
+  {
+   "url": "https://www.munhwa.com/article/11626581?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/021/0002828129?sid=101",
+   "title": "침입자 제압하고 피해자 구조… 中, 피지컬AI 기술 가속페달",
+   "desc": "휴머노이드를 개발하고 있는 삼성전자·LG전자 등 국내 기업들도 조만간 신제품을 공개할 예정이다. 두 기업은 내년 초 미국 ‘소비자가전쇼(CES) 2027’ 무대에서 이족보행 휴머노이드 공개를 검토하고 있다. 이재용...",
+   "published": "2026-10-27T11:51+09:00",
+   "host": "www.munhwa.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/sb-founded/6332333",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009252247?sid=101",
+   "title": "18일간 최대 소비축제 열린다…'코리아 그랜드 페스티벌' 29일 개막",
+   "desc": "삼성전자와 LG전자도 같은 날부터 주요 가전제품 할인에 나선다. 위닉스 등 중견 가전기업도 인기 제품을... 태극당·삼진어묵·성심당 등 주요 점포와 주변 상권을 연계해 환급·캐시백, 문화공연, 팝업스토어 등을...",
+   "published": "2026-10-27T11:36+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1",
+    "S4",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 카드 청구할인 행사",
+    "삼성전자 가전 팝업",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038947",
+   "naver_url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038947",
+   "title": "'세분화·확장' 삼성 AI 구독클럽' 2주년 새단장",
+   "desc": "삼성전자가 '삼성 AI 구독클럽' 출시 2주년을 맞아 기존 서비스를 한층 강화해 선보인다. 27일 삼성전자에... 또 가전을 한번에 마련하거나 이사가 잦은 신혼부부를 위한 '신혼 패스'와 AI 가전 활용을 돕는 시니어 대상...",
+   "published": "2026-10-27T10:44+09:00",
+   "host": "www.kihoilbo.co.kr",
+   "questions": [
+    "S1",
+    "S2",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자 비스포크 AI 프로모션",
+    "삼성전자 소모품 케어 정기배송 서비스"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "S1",
+    "S2",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "‘세분화·확장’ 삼성 AI 구독클럽’ 2주년 새단장 < 경제일반 < 경제 < 기사본문 - 기호일보",
+    "‘세분화·확장’ 삼성 AI 구독클럽’ 2주년 새단장",
+    "이세용 기자 입력 2026.10.27 10:43 2026.10.28일자 13면댓글 0 구글에서 기호일보 기사 추천받기",
+    "삼성전자가 ‘삼성 AI 구독클럽' 출시 2주년을 맞아 기존 서비스를 한층 강화해 선보인다.",
+    "27일 삼성전자에 따르면 이번 개편은 고객의 생애주기와 관리 방식에 따라 옵션을 세분화하고, 개인을 넘어 기업 고객까지 이용 범위를 확장한 것이 핵심이다.",
+    "‘이지케어 패스’는 시니어 고객이 삼성 AI 가전의 다양한 기능을 보다 쉽게 활용할 수 있도록 지원한다"
+   ],
+   "og_date": "2026-10-27T10:43:10+09:00"
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/10/28/2026102617401188631",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005431958?sid=101",
+   "title": "취임식도 하지 않았던 이재용 회장, 4년째 '조용'…왜?",
+   "desc": "폴란드의 삼성전자 가전 공장을 찾았다. 지난해 10월에는 경북 경주 APEC(아시아태평양경제협력체) 회의... 지난해에는 사업지원TF(태스크포스)를 사업지원실로 확대 개편하고 박학규 사장을 발탁하는 등 경영 전략...",
+   "published": "2026-10-27T05:20+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 14,
+  "B": 44,
+  "C": 1,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 14,
+  "ok": 12,
+  "실패": 2
+ }
+}
