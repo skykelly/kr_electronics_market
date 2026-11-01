@@ -1,0 +1,762 @@
+{
+ "date": "2026-11-02",
+ "collected_at": "2026-11-02T07:49+09:00",
+ "lookback_days": 14,
+ "count": 27,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2300,
+   "in_window": 1184,
+   "kept": 5,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 198,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 500,
+   "in_window": 123,
+   "kept": 4,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 934,
+   "in_window": 55,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1222,
+   "in_window": 165,
+   "kept": 1,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1200,
+   "in_window": 496,
+   "kept": 2,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1381,
+   "in_window": 397,
+   "kept": 3,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1181,
+   "in_window": 250,
+   "kept": 0,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1045,
+   "in_window": 48,
+   "kept": 1,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1072,
+   "in_window": 54,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1136,
+   "in_window": 65,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 9,
+   "kept": 1,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1940,
+   "in_window": 46,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 1800,
+   "in_window": 805,
+   "kept": 2,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1948,
+   "in_window": 73,
+   "kept": 1,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1838,
+   "in_window": 71,
+   "kept": 1,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 35,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 225,
+   "kept": 5,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 40,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 80,
+   "kept": 1,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 71,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.viva100.com/article/20261101500314",
+   "naver_url": "https://www.viva100.com/article/20261101500314",
+   "title": "러닝 열풍에 IT·가전도 뛴다⋯ 기록 측정부터 운동 후 회복 관리까지",
+   "desc": "IT·가전 제품의 활용 범위도 넓어지고 있다. 기업별로는 삼성전자가 삼성 헬스 앱 업데이트를 통해 러닝... 지난달 27일 국내 출시 이후 사흘 만에 온라인 초도 물량이 모두 판매되는 성과를 냈다. 샤오미도 러닝 등 비슷한...",
+   "published": "2026-11-02T06:08+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261101120321460",
+   "naver_url": "https://www.ajunews.com/view/20261101120321460",
+   "title": "SK매직 '멤버스 케어', 일·육아 병행 기회 넓힌다",
+   "desc": "고객 방문 일정을 자율적으로 조율할 수 있는 데다 서비스와 판매 실적에 따라 수수료를 받을 수 있어 일과 육아를 병행하려는 이들에게 새로운 경제활동 기회가 되고 있다. SK매직은 스스로 일정을 관리하며 지속적인...",
+   "published": "2026-11-02T06:02+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://weekly.khan.co.kr/article/202611020600041",
+   "naver_url": "https://n.news.naver.com/mnews/article/033/0000053092?sid=102",
+   "title": "[단독] 기본소득 지역 청년 9%·소비 23% 증가…미도입 군과 격차 확대",
+   "desc": "고용행정통계 등을 종합·분석해 1차 시범 10개 군과 시범사업이 없는 나머지 군 59곳(광역시 소속 군·2차... 곳은 가전제품판매점으로, 1차 지역 113.1%, 나머지 군 12.4%였다. 이어 정육점(106.5% 대 26.0%), 담배·복권...",
+   "published": "2026-11-02T06:02+09:00",
+   "host": "weekly.khan.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [
+    "확대",
+    "도입"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1170922",
+   "naver_url": "https://www.wikitree.co.kr/articles/1170922",
+   "title": "캡컷, 챗GPT 대화창에서 12초 하이라이트 영상 만든다…플러그인은 수개...",
+   "desc": "출시 시점도 ‘수개월 안’이라는 표현에 머물러 있다.생성형 AI 기능과 AI 에이전트도 함께... 확인 대상은 캡컷과 자매 앱 드리미나(Dreamina)·피핏·하이피의 AI 도구로 만든 파일이다.알아둘 점이 소식을 전한...",
+   "published": "2026-11-02T03:10+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "C2"
+   ],
+   "queries": [
+    "드리미 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003759219?sid=110",
+   "title": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’",
+   "desc": "이튿날 오전 중국 기업들은 음바페와의 협업 중단을 선언했다. 같은 날 오후 2시 반경에는 관영 중국중앙TV... 이런 상황에서 음바페 사태는 중국 시장에 진출하려는 한국 문화산업계가 감수해야 할 정치적 위험을 다시 한번...",
+   "published": "2026-11-01T23:16+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://news.jtbc.co.kr/article/NB12325885?influxDiv=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/437/0000518591?sid=101",
+   "title": "구매 아닌 '구독' 선택한다…가전 시장 '충성고객' 확보 전쟁",
+   "desc": "넘었고, 삼성전자는 지난해 9월 구독 서비스 도입 이후 고객 3명 중 1명이 구독을 선택했습니다. [복기철/LG전자 플래그십 D5 매니저 : 과거에는 대형가전이 그저 일시불로 소비하는 형태였지만, 방문 케어라든지 무상...",
+   "published": "2026-11-01T19:29+09:00",
+   "host": "news.jtbc.co.kr",
+   "questions": [
+    "S7",
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "구매 아닌 ‘구독’ 선택한다…가전 시장 ‘충성고객’ 확보 전쟁"
+   ]
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12092483?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003056453?sid=101",
+   "title": "안정 속 책임경영 묻는다… 빨라지는 재계 사장단 인사",
+   "desc": "삼성전자의 경우 지난해 11월 21일 사장단 인사를 단행하며 전년보다 6일 앞당긴 바 있다. 재계에서는... 완제품 사업의 경우 노 사장이 겸직 중인 모바일경험(MX) 사업부장을 비롯해 가전 등 주요 사업부의 실적이...",
+   "published": "2026-11-01T19:00+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611011835595203",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005597616?sid=101",
+   "title": "美 컨슈머리포트 \"올해의 가전은 LG\"",
+   "desc": "시장조사기관 오픈브랜드에 따르면 올해 1·4분기 LG전자의 미국 주요 가전 시장 점유율은 매출액 기준 21.6%, 판매량 기준 18.7%로 두 기준 모두 선두에 올랐다. 매출액 기준으로 삼성전자와 GE가 각각 13.1%, 월풀이 11.7...",
+   "published": "2026-11-01T18:37+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S3"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1709220/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003149863?sid=100",
+   "title": "[데일리안 오늘뉴스 종합] 李대통령 '순방외교' 공방…野 \"혈세낭비\" vs...",
+   "desc": "1일 국가데이터처 국가통계포털(KOSIS)과 산업활동동향에 따르면 올해 3분기(7~9월) 소매판매액지수(불변)는... 판매 차질, 상반기 가전제품 환급행사로 인한 소비 선반영 등이 영향을 미친 것으로 풀이된다. ▲ 美, 한국...",
+   "published": "2026-11-01T18:04+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1285211.html",
+   "naver_url": "https://n.news.naver.com/mnews/article/028/0002830162?sid=101",
+   "title": "경제성장률 3.6% 전망에도…소비·청년고용 다 얼었다",
+   "desc": "1일 한국은행 경제통계시스템을 보면, 민간소비(계절조정)는 승용차·가전제품 등 재화뿐만 아니라 금융... 소비자가 마트·상점 등에서 사들인 실물 상품 소비 동향을 보여주는 국가데이터처 소매판매액지수(불변)를...",
+   "published": "2026-11-01T17:38+09:00",
+   "host": "www.hani.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261030000262",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003480823?sid=105",
+   "title": "삼성 TV 라인업, 내년 '울트라·플러스·베이직' 3단계 개편…복잡한 기...",
+   "desc": "업계에서는 삼성전자의 TV 라인업 개편에 하드웨어 판매에서 AI 기반 구독 서비스 중심으로 수익 구조를 재편하기 위한 포석이 담겨 있다고 보고 있다. 프리미엄 TV를 단순하게 구성하고 낮은 마진으로 많이 판매하는...",
+   "published": "2026-11-01T16:33+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "개편"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 TV 라인업, 내년 '울트라·플러스·베이직' 3단계 개편…복잡한 기술명 떼고 구독서비스 강화 - 전자신문",
+    "삼성전자가 내년 프리미엄 TV 라인업을 '울트라·플러스·베이직' 3단계 구조로 전면 개편한다",
+    "1일 업계에 따르면 삼성전자는 내년 출시 예정인 TV 라인업에서 가장 하단에 위치한 일반 액정표시장치(LCD) TV 제품군(크리스탈 UHD)을 제외한 상위 구성을 'AI TV 베이직·플러스·울트라' 3단계로 단순화하는 방안을 추진 중이다",
+    "삼성전자가 오랜 기간 유지해 온 기술명 중심 라인업을 재편하는 가장 큰 이유는 프리미엄 TV의 하드웨어 기술 구조가 백라이트 중심으로 단순화됐기 때문이다",
+    "또다른 업계 관계자는 “삼성전자는 올해 3500만대 수준이던 TV 출하량을 내년에는 4000만대를 훨씬 넘어서도록 키운다는 구상”이라며 “라인업 단순화를 통해 하드웨어보다는 AI 생태계 기반 신규 수익원을 확보하려는 취지”라고 풀이했다.",
+    "관련 기사 삼성, 올해 QD TV 생산 80% 줄인다 [해설]삼성전자 프리미엄 TV '세대교체'…QD TV에서 미니 LED, RGB LED로"
+   ],
+   "og_date": "2026-11-01T16:30:00+09:00"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12192728",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005757119?sid=103",
+   "title": "쿠팡, 더블일레븐 개최…1만7000개 상품 할인",
+   "desc": "행사에는 가전디지털, 패션, 뷰티, 식품 등 다양한 카테고리의 인기 브랜드가 참여한다. 더블일레븐은... ‘SNS 핫 아이템’관에서는 삼성전자 갤럭시 핏3, 갤럭시워치8, 갤럭스 버즈3 FE 같은 전자 기기부터 가성비 실내...",
+   "published": "2026-11-01T15:42+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "개최",
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261101500075",
+   "naver_url": "https://www.asiatime.co.kr/article/20261101500075",
+   "title": "[산업 뉴스브리핑] LG전자 'AI 워시콤보', K-팝 팬덤 전략 통했다…'2026...",
+   "desc": "이번 프로모션은 차종별 할인과 고객 선호 사양 무상 장착, 차량 구매 이후 사용할 수 있는 ‘토탈 카... 삼성전자, AI 가전 크리에이터 '삼성 크루' 띄운다…30여명 활동 돌입 삼성전자가 AI 가전 크리에이터 '삼성 크루...",
+   "published": "2026-11-01T15:34+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "S1",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "삼성닷컴 기획전",
+    "삼성닷컴 기획전 가전",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 방문케어",
+    "삼성전자 세일 페스타"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261030000204",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003480800?sid=101",
+   "title": "'LG채널' 베트남 상륙…FAST로 동남아 TV 플랫폼 공략",
+   "desc": "이번 출시로 LG채널 아시아 거점이 넓어졌다. LG채널은 2015년 한국에서 처음 서비스를 시작한 뒤 북미... 시장조사업체 옴디아에 따르면 올해 1분기 글로벌 TV 출하량 점유율은 삼성전자 18.5%, TCL 14.9%, 하이센스 12.2...",
+   "published": "2026-11-01T15:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C5"
+   ],
+   "queries": [
+    "TCL 한국 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2021223",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001071120?sid=101",
+   "title": "中 CXMT, 차세대 D램 '4F²' 시제품 검증 완료⋯\"연말 DDR5 샘플 공급\"",
+   "desc": "삼성전자와 SK하이닉스가 양분해 온 D램 시장을 넘보는 중국 창신메모리(CXMT)가 차세대 '4F²... 여전히 가전제품\"이라며 소비자 저항으로 CXMT가 가격을 마음대로 올리기 어려운 만큼 앞으로 몇 분기는 실적이...",
+   "published": "2026-11-01T14:47+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.imaeil.com/page/view/2026103023511787429",
+   "naver_url": "https://n.news.naver.com/mnews/article/088/0001037663?sid=101",
+   "title": "[트렌드 경제] \"잠 잘 자려고 수천만원까지\"…커지는 '슬립노믹스' 시장",
+   "desc": "코웨이는 지난달 수면 분석 기능인 '비렉스 슬립 싱크'를 탑재한 매트리스 3종을 출시했다. 내장된 센서로 호흡 움직임과 심박수를 감지해 수면 상태를 분석하고, 전용 애플리케이션을 통해 수면 시간과 단계별 분석...",
+   "published": "2026-11-01T14:20+09:00",
+   "host": "www.imaeil.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2018403",
+   "naver_url": "https://www.idomin.com/news/articleView.html?idxno=2018403",
+   "title": "양산 가산산단 '미분양 늪'에서 허우적",
+   "desc": "유치 실적은 더욱 저조한 상황이다. 아울러 복합시설용지 3필지 역시 미분양 상태다. 이런 가운데 애초 가산산단 입주를 추진했던 대표기업 가운데 하나인 쿠쿠전자가 투자 계획을 철회하고 부지 처분 절차에 들어간...",
+   "published": "2026-11-01T14:00+09:00",
+   "host": "www.idomin.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065582715142783",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065582715142783",
+   "title": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 출범…소비자 공감 콘텐...",
+   "desc": "이와 함께 기업 고객을 대상으로 한 'B2B 삼성 AI 구독'도 새롭게 출시하며 서비스 영역을 확대했다. 삼성전자는 이를 통해 가전 구매 이후의 관리 편의성을 높이고 고객별 생활환경에 맞춘 서비스를 강화하고 있다.",
+   "published": "2026-11-01T12:14+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 출시",
+    "삼성전자 블루패스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261030500928",
+   "naver_url": "https://www.viva100.com/article/20261030500928",
+   "title": "“블프•광군제 수요 잡아라”… 불 붙은 이커머스 11월 쇼핑대전",
+   "desc": "연말 쇼핑 수요가 몰리는 시기에 맞춰 단독 상품과 특가전을 늘리고 할인 쿠폰도 쏟아내고 있다. 멤버십... 확보하고 시장 전체의 소비 규모를 키울 수 있다는 점에서 업체마다 막대한 마케팅 비용을 투입하며 치열한...",
+   "published": "2026-11-01T12:02+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611011031184683",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005597466?sid=101",
+   "title": "美 매체가 꼽은 올해 가전…LG 냉장고·세탁기 등 선정",
+   "desc": "시장조사기관 오픈브랜드에 따르면 올해 1·4분기 LG전자의 미국 주요 가전 시장 점유율은 매출액 기준 21.6%, 판매량 기준 18.7%로 두 기준 모두 선두에 올랐다. 매출액 기준으로 삼성전자와 GE가 각각 13.1%, 월풀이 11.7%로...",
+   "published": "2026-11-01T11:19+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S3"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261101000062",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003480737?sid=105",
+   "title": "LG전자, 美 컨슈머리포트 '올해 최고 가전' 6개 부문 모두 선정",
+   "desc": "시장조사업체 오픈브랜드에 따르면 올해 1분기 LG전자의 미국 주요 가전 시장 점유율은 매출액 기준 21.6%, 판매량 기준 18.7%로 각각 1위를 기록했다. 매출액 기준 점유율은 삼성전자와 GE가 각각 13.1%, 월풀이 11.7%로...",
+   "published": "2026-11-01T11:15+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S3"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261030_0003848680",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014292649?sid=101",
+   "title": "\"겨울 성수기\"…코웨이, 비데 프리미엄 라인 확대",
+   "desc": "1일 코웨이에 따르면 신제품 '룰루 더매너 비데'를 출시한다. 지난 4월 출시한 룰루 더매너 비데 플러스의 디자인을 유지하면서, 고객 선호도 높은 향기 추가와 자동탈취 등 욕실 공간 케어의 주요 기능을 중심으로...",
+   "published": "2026-11-01T11:01+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O1-E-053",
+     "score": 0.36
+    }
+   ],
+   "fetch": "ok",
+   "excerpt": [
+    "\"겨울 성수기\"…코웨이, 비데 프리미엄 라인 확대 :: 공감언론 뉴시스 ::",
+    "\"겨울 성수기\"…코웨이, 비데 프리미엄 라인 확대",
+    "[서울=뉴시스] 코웨이 룰루 더매너 비데 스노위 실버. (사진=코웨이 제공) 2026.11.1. [email protected] *재판매 및 DB 금지",
+    "[서울=뉴시스]송연주 기자 = 겨울철 비데 성수기를 앞두고 코웨이가 소비자 선택의 폭을 넓히고자 프리미엄 비데 라인업을 확대했다.",
+    "1일 코웨이에 따르면 신제품 '룰루 더매너 비데'를 출시한다",
+    "코웨이만의 비데 기술인 아이웨이브(i-wave) 시스템을 적용해 사용자에게 맞는 다양한 세정 코스를 제공한다"
+   ],
+   "og_date": "2026-11-01T11:01:00+09:00"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261031_0003849129",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014292643?sid=101",
+   "title": "반도체만 뜨겁고 내수는 냉랭…'소비쿠폰' 없는 정부 해법은",
+   "desc": "1일 국가데이터처의 국가통계포털(KOSIS)에 따르면 지난 3분기 소매판매는 전 분기 대비 1.0% 감소했다. 9월... 승용차 판매가 6.4% 줄었고, 가전제품과 가구 판매도 각각 7.3%, 가구는 6.6% 감소했다. 소비와 밀접한 서비스업...",
+   "published": "2026-11-01T11:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/11/02/2026110110301724962",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005434724?sid=101",
+   "title": "LG전자, 美 컨슈머리포트 '올해 최고 제품' 가전 6개 품목 모두 선정",
+   "desc": "시장조사기관 오픈브랜드에 따르면 LG전자는 올해 1분기 미국 주요 가전 시장에서 매출액 기준 21.6%, 판매량 기준 18.7%의 점유율을 기록하며 두 기준 모두 1위에 올랐다. 매출액 기준으로 삼성전자와 GE가 각각 13.1...",
+   "published": "2026-11-01T10:52+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S3"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/electronics/6338831",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009262547?sid=101",
+   "title": "삼성전자, AI 가전 크리에이터 '삼성 크루' 1기 운영",
+   "desc": "한편 삼성전자는 대한민국 최대 쇼핑 행사인 '코리아 그랜드 페스티벌'을 맞아 이날부터 오는 30일까지 세탁건조기, TV, 청소기, 냉장고 등 주요 가전제품 11개 품목을 할인 판매한다. 삼성전자는 행사 첫해인 2016년부터...",
+   "published": "2026-11-01T10:00+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S6"
+   ],
+   "tier": "B",
+   "similar": [
+    {
+     "id": "S6-E-036",
+     "score": 0.38
+    }
+   ]
+  },
+  {
+   "url": "https://www.chosun.com/economy/economy_general/2026/11/01/K7RFOECSUNGXVDGJ4VLAANXIGI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "naver_url": "https://n.news.naver.com/mnews/article/023/0004007091?sid=101",
+   "title": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까",
+   "desc": "유료 구독자인데, 주주도 되고 싶어요.” 생성형 인공지능(AI) 모델 ‘클로드’를 개발한 미국 앤스로픽의... AI 투자가 이어질수록 고대역폭메모리(HBM) 같은 AI 서버용 반도체 수요가 커지는 만큼, 삼성전자와...",
+   "published": "2026-11-01T08:38+09:00",
+   "host": "www.chosun.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20108636?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004677357?sid=105",
+   "title": "“스마트폰 비싸서 못 사는데” 삼성전자 한 건했다…40만원대 ‘초가성...",
+   "desc": "이동통신 3사 모델과 자급제 모델로 판매되며 삼성스토어와 삼성닷컴, 이동통신사 온·오프라인 매장, 오픈마켓 등에서 구매 가능하다. 색상은 블랙·실버·라이트 블루 3종이다. 출고가는 42만 5700원이다....",
+   "published": "2026-11-01T08:20+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S5"
+   ],
+   "queries": [
+    "삼성스토어 오픈"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S5"
+   ],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 3,
+  "B": 22,
+  "C": 2,
+  "similar": 2
+ },
+ "stats_excerpt": {
+  "대상": 3,
+  "ok": 3,
+  "실패": 0
+ }
+}
