@@ -1,0 +1,1690 @@
+{
+ "date": "2026-11-04",
+ "collected_at": "2026-11-04T08:59+09:00",
+ "lookback_days": 14,
+ "count": 64,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2400,
+   "in_window": 1228,
+   "kept": 15,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 202,
+   "kept": 1,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 500,
+   "in_window": 127,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 936,
+   "in_window": 67,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1222,
+   "in_window": 168,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1400,
+   "in_window": 534,
+   "kept": 4,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1481,
+   "in_window": 451,
+   "kept": 29,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1181,
+   "in_window": 283,
+   "kept": 2,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1046,
+   "in_window": 54,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1073,
+   "in_window": 42,
+   "kept": 1,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1137,
+   "in_window": 70,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1049,
+   "in_window": 17,
+   "kept": 3,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1943,
+   "in_window": 39,
+   "kept": 1,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 1600,
+   "in_window": 545,
+   "kept": 3,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1948,
+   "in_window": 85,
+   "kept": 2,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1839,
+   "in_window": 70,
+   "kept": 0,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 82,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 700,
+   "in_window": 238,
+   "kept": 1,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 41,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 79,
+   "kept": 2,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 74,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.dailian.co.kr/news/view/1710214/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003150987?sid=101",
+   "title": "모바, '포브스 고객신뢰도 1위 프리미엄 브랜드 대상' 로봇청소기 부문...",
+   "desc": "연이어 출시됐으며 최근에는 'V70 울트라 컴플리트'를 추가해 실속형부터 플래그십까지 다양한 로봇청소기... 모바 관계자는 \"이번 수상은 한국 시장 진출 이후 모바 로봇청소기를 신뢰하고 선택해 준 고객 덕분\"이라며...",
+   "published": "2026-11-04T09:00+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "C6"
+   ],
+   "queries": [
+    "모바 로봇청소기 한국 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C6"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261104085148914",
+   "naver_url": "https://www.ajunews.com/view/20261104085148914",
+   "title": "로보락, 로봇청소기 구독 서비스 출시…3~5년 선택 가능",
+   "desc": "로보락은 서비스 출시를 기념해 오는 30일까지 구독 신청 고객에게 기본 보증기간을 포함해 총 5년간 무상 애프터서비스(AS)를 제공한다. 반려동물 배설물 등으로 제품이 오염됐을 때 전문 세척을 1회 지원하는...",
+   "published": "2026-11-04T08:56+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로보락, 로봇청소기 구독 서비스 출시…3~5년 선택 가능 | 아주경제",
+    "로보락이 프리미엄 로봇청소기를 월 구독료로 이용할 수 있는 서비스를 국내에 도입했다",
+    "로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일부터 로봇청소기 구독 서비스를 시작했다고 4일 밝혔다",
+    "대상 제품은 2026년 플래그십 모델인 '로보락 S10 MaxV Ultra' 일반형과 직배수형이다",
+    "로보락은 서비스 출시를 기념해 오는 30일까지 구독 신청 고객에게 기본 보증기간을 포함해 총 5년간 무상 애프터서비스(AS)를 제공한다",
+    "30대 그룹 해외 거점 지각변동…미국 계열사 10년 새 3.3배 급증 메모리값 뛰자 스마트폰 시장 20% 급감…삼성·애플 버티고 中업체 직격탄 기자의 다른기사"
+   ],
+   "og_date": "2026-11-04T08:56:01+09:00"
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/AKR20261104084953Tz4",
+   "naver_url": "https://n.news.naver.com/mnews/article/422/0000922675?sid=101",
+   "title": "삼성전자서비스, 에어컨 AS 호평…서비스품질지수 2년 연속 1위",
+   "desc": "삼성전자서비스는 한국표준협회가 주관하는 2026 한국서비스품질지수(KS-SQI) 에어컨 애프터서비스(A/S)... '삼성 인공지능(AI) 구독' 이용 고객 증가에 맞춰 구독 고객을 위한 '블루패스' 서비스도 강화하고 있습니다. 제품...",
+   "published": "2026-11-04T08:50+09:00",
+   "host": "www.yonhapnewstv.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12195957",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005758628?sid=101",
+   "title": "캠시스, 삼성 AI 냉장고 카메라 양산…AI 가전·로봇으로 사업 다각화",
+   "desc": "캠시스는 삼성전자 DA사업부와의 지속적인 개발 협력을 바탕으로 냉장고 외 다양한 가전제품으로 공급처를... 가전용 카메라는 동일 사양 제품을 장기간 안정적으로 공급할 수 있어 중장기 실적 개선에 용이하다. 나아가...",
+   "published": "2026-11-04T08:47+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 비스포크 AI 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12195956",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005758627?sid=101",
+   "title": "삼성전자서비스, 에어컨 AS 2년 연속 1위…“고객 10명 중 6명 원격 해결...",
+   "desc": "평가에서도 가전·휴대전화·컴퓨터 AS 부문 1위를 기록했다. 김영호 삼성전자서비스 대표는 “앞으로도... 등 삼성전자 제품의 수리와 AS를 전문으로 하는 기업이다. 1998년 설립됐으며, 전국에 서비스센터와 출장...",
+   "published": "2026-11-04T08:45+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261104500144",
+   "naver_url": "https://www.viva100.com/article/20261104500144",
+   "title": "삼성전자서비스, 한국서비스품질지수 ‘에어컨 AS 부문’ 2년 연속 1위",
+   "desc": "주요 서비스 품질 평가에서도 잇따라 1위에 선정됐다. 2월 ‘한국에서 가장 존경받는 기업’ 서비스센터... (KSQI)에서 가전·휴대전화·컴퓨터 AS 부문 1위를 기록했다. 삼성전자서비스는 고객 불편을 사전에 줄이기 위해...",
+   "published": "2026-11-04T08:42+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12093026?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003056993?sid=101",
+   "title": "삼성전자서비스, 에어컨 AS 2년 연속 정상…품질·신뢰도 등 호평",
+   "desc": "가전·휴대전화·컴퓨터 AS 부문 1위를 차지했다. 서비스 경쟁력 강화에는 AI 기술을 활용한 원격진단 체계와 고객별 맞춤형 서비스가 영향을 미쳤다. 삼성전자서비스는 스마트싱스 기반 ‘가전제품 원격진단(HRM)’을...",
+   "published": "2026-11-04T08:37+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 가전 실적",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 만족도 수상 평가",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261104503221?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004172363?sid=101",
+   "title": "GS25 도시락에 무신사·아모레 쿠폰이…K-세일페스타 혜택 보니",
+   "desc": "편의점과 대형마트뿐 아니라 백화점, 온라인 쇼핑몰, 자동차·가전업체도 참여한다. 4일 유통업계에... 한우와 돼지고기처럼 가계 식비에서 비중이 큰 품목을 앞세운 것이 특징이다. 다만 반값 행사는 지정 기간과...",
+   "published": "2026-11-04T08:36+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261103501234",
+   "naver_url": "https://www.viva100.com/article/20261103501234",
+   "title": "[오늘의 브릿지경제 1면] ‘돈맥경화’ K-반도체 소부장, 삼성·SK 실적 ...",
+   "desc": "인공지능(AI)발 반도체 수요 폭증으로 삼성전자와 SK하이닉스가 사상 유례없는 실적 축포를 쏘아올렸지만... [브릿지경제 인기기사] ▶쇼핑부터 OTT·AI까지⋯ 이통 3사, 고객 일상 전반으로 구독 서비스 ‘확대’...",
+   "published": "2026-11-04T08:32+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "[오늘의 브릿지경제 1면] ‘돈맥경화’ K-반도체 소부장, 삼성·SK 실적 잔치 속 “낙수는 없었다” - 브릿지경제",
+    "◆‘돈맥경화’ K-반도체 소부장, 삼성·SK 실적 잔치 속 “낙수는 없었다”",
+    "인공지능(AI)발 반도체 수요 폭증으로 삼성전자와 SK하이닉스가 사상 유례없는 실적 축포를 쏘아올렸지만, 반도체 소부장(소재·부품·장비) 업계 낙수효과는 제한적이어서 수익성 향상과 투자 여력 확대로 이어지기 어렵다는 지적이다.",
+    "◆LG엔솔, 3분기 영업익 7560억원⋯전년比 26%↑",
+    "LG에너지솔루션이 에너지저장장치(ESS) 사업 확대와 전기차용 배터리 판매 증가에 힘입어 올해 3분기 실적 개선세를 이어갔다",
+    "이재용 삼성전자 회장과 최태원 SK그룹 회장이 나란히 ‘NEON’ 도입부 춤을 따라 하고, 민희진 전 어도어 대표와 방시혁 하이브 의장도 함께 절도 있는 안무를 선보인다"
+   ]
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/171922",
+   "naver_url": "https://dealsite.co.kr/articles/171922",
+   "title": "[데스크칼럼] 삼성전자 성과급의 역설",
+   "desc": "올해 3분기 글로벌 테크 기업 중 최초로 분기 영업이익 100조원을 돌파한 삼성전자는 스마트폰과 가전... DX는 14조3847억원의 영업이익으로 전사 실적을 뒷받침했다. 반도체가 흔들릴 때 다른 사업들이 충격을 흡수한...",
+   "published": "2026-11-04T08:26+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261104081212699",
+   "naver_url": "https://www.ajunews.com/view/20261104081212699",
+   "title": "삼성전자서비스, 에어컨 A/S 만족도 2년 연속 1위",
+   "desc": "AI 원격진단으로 출장 없이 해결…맞춤형 구독 케어도 확대 아주경제=김나윤 기자 kimnayoon@ajunews.com 삼성전자서비스 임직원들의 KS-SQI 에어컨 AS 부문 1위 기념 촬영 [사진=삼성전자서비스] 삼성전자서비스가...",
+   "published": "2026-11-04T08:24+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스"
+   ],
+   "also": [
+    {
+     "url": "https://www.sentv.co.kr/article/view/sentv202611040021",
+     "host": "www.sentv.co.kr",
+     "published": "2026-11-04T08:56+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10924821?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002718469?sid=101",
+   "title": "삼성전자서비스, 한국서비스품질지수 에어컨 AS 2년 연속 1위",
+   "desc": "서비스 품질 평가에서도 잇달아 1위를 기록했다. 지난 2월 ‘한국에서 가장 존경받는 기업’ 서비스센터... (KSQI) 가전·휴대전화·컴퓨터 AS 부문에서 1위에 선정됐다. 삼성전자서비스는 인공지능(AI)을 활용한...",
+   "published": "2026-11-04T08:20+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [
+    {
+     "url": "https://www.etoday.co.kr/news/view/2643799",
+     "host": "www.etoday.co.kr",
+     "published": "2026-11-04T08:44+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261104023700003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016420189?sid=101",
+   "title": "삼성전자서비스, 서비스품질지수 에어컨 AS 부문 2년 연속 1위",
+   "desc": "삼성전자서비스는 한국표준협회가 주관하는 2026 한국서비스품질지수(KS-SQI) 에어컨 애프터서비스(A/S)... '삼성 인공지능(AI) 구독' 이용 고객 증가에 맞춰 구독 고객을 위한 '블루패스' 서비스도 강화하고 있다. 제품 이상...",
+   "published": "2026-11-04T08:20+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://vop.co.kr/A00001697449.html",
+   "naver_url": "https://vop.co.kr/A00001697449.html",
+   "title": "삼성반도체 8만명 중 164명뿐인 기간제, 메가특구 ‘4년 연장’이 노리...",
+   "desc": "과정에서 전략산업이 우후죽순 늘어날 가능성을 배제할 수 없다. 이미 현대자동차와 LG, 한화, 두산, 삼성중공업 등 주요 대기업이 메가프로젝트와 연계해 전기차, 배터리, 가전, 디스플레이, 우주 발사체, 소형모듈원전...",
+   "published": "2026-11-04T08:18+09:00",
+   "host": "vop.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261104000066",
+   "naver_url": "https://www.newspim.com/news/view/20261104000066",
+   "title": "[모닝 리포트] \"삼성전자, HBM 비중 확대에 이익 변동성 완화 전망\"",
+   "desc": "iM증권은 4일 메모리 반도체와 모바일·가전 등을 생산하는 삼성전자에 대해 고대역폭메모리(HBM) 비중... 중장기 실적을 논의할 수 있게 됐다\"고 밝혔다. iM증권은 2026~2028년 삼성전자의 자기자본이익률(ROE)을...",
+   "published": "2026-11-04T08:17+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "[모닝 리포트] \"삼성전자, HBM 비중 확대에 이익 변동성 완화 전망\"",
+    "iM증권은 4일 삼성전자에 매수 의견과 목표주가 37만원을 제시했다 HBM 비중 확대와 장기공급계약이 메모리 이익 변동성을 낮출 것으로 전망했다 HBM 매출은 2026년 28조원에서 2028년 215조원으로 늘어날 것으로 예상했다",
+    "[서울=뉴스핌] 이나영 기자= iM증권은 4일 메모리 반도체와 모바일·가전 등을 생산하는 삼성전자에 대해 고대역폭메모리(HBM) 비중 확대와 장기공급계약(LTA)이 메모리 업황 변동에 따른 이익 변동성을 낮출 것으로 전망했다",
+    "iM증권은 2026~2028년 삼성전자의 자기자본이익률(ROE)을 각각 56%, 59%, 48%로 전망했다",
+    "iM증권은 시기별 TSMC 주가수익비율(PER)을 적용할 경우 삼성전자 HBM 사업 가치가 현재 시가총액에서 차지하는 비중이 2026년 19%, 2027년 69%, 2028년 108%까지 높아질 것으로 추산했다.",
+    "iM증권은 삼성전자가 2027~2029년 잉여현금흐름(FCF)의 50%를 주주에게 환원하고 이 가운데 70%를 배당, 30%를 자사주 매입·소각에 활용한다고 가정했다"
+   ],
+   "og_date": "2026-11-04T08:17:00+09:00"
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000344098?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000541560?sid=101",
+   "title": "아이폰 듀오 출시 후 갤럭시 폴드8 더 팔렸다",
+   "desc": "삼성전자는 판매 증가세에 맞춰 당초 지난달 종료할 예정이었던 'New 갤럭시 AI 구독클럽' 가입 기간을 이달 30일까지 연장했습니다. 해당 프로그램은 일정 기간 사용한 스마트폰을 반납하면 가입 유형에 따라 구매...",
+   "published": "2026-11-04T08:17+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1171611",
+   "naver_url": "https://www.wikitree.co.kr/articles/1171611",
+   "title": "삼성 갤럭시 Z 폴드8, 아이폰 듀오 출시된 주에 국내 판매 20% 넘게 늘었...",
+   "desc": "이런 상황에서 폴더블폰을 찾는 소비자가 삼성 제품으로 눈을 돌린다는 분석이 해외 매체에서 나왔다.삼성, 구독 신청 11월 30일까지 연장…보상 혜택 확대삼성전자는 판매 호조에 맞춰 ‘뉴 갤럭시 AI 구독 클럽(New...",
+   "published": "2026-11-04T08:10+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 갤럭시 Z 폴드8, 아이폰 듀오 출시된 주에 국내 판매 20% 넘게 늘었다 | 위키트리",
+    "삼성전자는 구독 프로그램 신청을 11월 30일까지 연장",
+    "삼성전자 갤럭시 Z 폴드8의 국내 판매량이 애플의 첫 폴더블폰 아이폰 듀오(iPhone Duo)가 국내 출시된 주간에 전주보다 20% 이상 늘어난 것으로 확인됐다",
+    "삼성, 구독 신청 11월 30일까지 연장…보상 혜택 확대",
+    "가입자는 요금제와 기기 반납 시점에 따라 삼성닷컴 판매가 기준 최대 50%의 잔존가치를 보장받는다.",
+    "삼성이 연말 프로모션을 넓힌 만큼 11월 판매 흐름이 다음 확인 지점이다"
+   ],
+   "og_date": "2026-11-04T08:03:00+09:00"
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026110407500453914",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005837656?sid=101",
+   "title": "삼성전자서비스, 에어컨 AS 품질 2년 연속 1위",
+   "desc": "파견해 가전제품 무상점검과 세척, 수리 등을 지원하고 있다. 피해 주민들이 신속하게 일상으로 복귀할 수 있도록 돕는다는 취지다. 김영호 삼성전자서비스 대표이사 부사장은 \"한국서비스품질지수 에어컨 AS 부문에서...",
+   "published": "2026-11-04T08:00+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261103500326",
+   "naver_url": "https://www.news2day.co.kr/article/20261103500326",
+   "title": "[전자 3형제 경쟁 공식①] 삼성전자 우상향·LG전자 상고하저, 이유는",
+   "desc": "기자] 삼성전자와 LG전자는 가전과 TV, 한때는 스마트폰이라는 공통분모까지 국내를 대표하는 가전·전자... 보통 계절적 비수기라고 표현하는데, 냉장고·세탁기 등 주요 가전 신제품 출시와 이사·결혼 수요가...",
+   "published": "2026-11-04T06:48+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261103500782",
+   "naver_url": "https://www.viva100.com/article/20261103500782",
+   "title": "가습 방식부터 관리 기능까지⋯ 건조한 겨울, 불붙은 제품 차별화 경쟁",
+   "desc": "기업별로는 LG전자가 가습과 공기청정 기능을 결합한 ‘퓨리케어 하이드로타워 맥스’를 선보였다. 정수... 쿠쿠는 자연기화 방식과 대용량 수조를 앞세운 4L 용량의 ‘자연기화식 가습기’를 출시했다. 물을 가열하지...",
+   "published": "2026-11-04T06:44+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/it-science/mobile/6341661",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009268716?sid=105",
+   "title": "아이폰 듀오 나오자 갤폴드8 판매 20% 껑충…폴더블 경쟁 본격화",
+   "desc": "삼성전자도 폴더블폰 수요 확대에 대응해 판매 촉진에 나서는 분위기다. 당초 지난달 말 종료 예정이었던 '뉴 갤럭시 AI 구독클럽' 가입 기간을 이달 30일까지 한 달 연장하고, 중고폰 추가 보상과 연말 프로모션 등을...",
+   "published": "2026-11-04T06:30+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12195747",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005758598?sid=105",
+   "title": "“애플 감사합니다”…품질논란 아이폰 듀오, 더 잘 팔리는 갤 폴드8",
+   "desc": "출시 전보다 국내 판매 20%↑ 아이폰 품질 논란에 반사이익 AI 구독클럽 이달 말까지 연장 애플의 아이폰 듀오 출시에도 삼성전자의 폴더블폰 갤럭시 Z 폴드8 국내 판매량이 두 자릿수 증가세를 보였다. 3일 통신업계에...",
+   "published": "2026-11-04T06:29+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 방문케어"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://weekly.khan.co.kr/article/202611040600051",
+   "naver_url": "https://n.news.naver.com/mnews/article/033/0000053135?sid=101",
+   "title": "장바구니 부담, ‘코그페’ 통해 낮추세요[우정 이야기]",
+   "desc": "삼성전자와 LG전자도 같은 기간 주요 가전제품 할인 행사에 나선다. 대형마트와 이마트에브리데이 등 준대규모점포(SSM)도 코그페 기간 동안 인기 육류, 수산물, 가공식품, 일상용품 등을 최대 50% 할인하거나 1+1 판매할...",
+   "published": "2026-11-04T06:02+09:00",
+   "host": "weekly.khan.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261103516640?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004172321?sid=101",
+   "title": "애플 폴더블폰 등판 후… ‘Z폴드8’ 더 팔렸다",
+   "desc": "힌지 기술력과 내구성, 갤럭시 인공지능(AI) 기반의 사용 경험도 소비자들의 선택을 이끌었다. 삼성전자는 판촉에도 속도를 내고 있다. 지난달 종료 예정이었던 ‘뉴 갤럭시 AI 구독클럽’ 가입을 이달까지로 연장했다.",
+   "published": "2026-11-04T06:02+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1710346/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003150925?sid=101",
+   "title": "TV 시장은 정체, 패널값은 부담…삼성전자의 달라지는 수익 전략",
+   "desc": "4일 업계에 따르면 삼성전자는 최근 3분기 실적발표 콘퍼런스콜에서 내년 글로벌 TV 수요가 올해와... 삼성전자 영상디스플레이(VD)·생활가전(DA) 등 사업의 올해 3분기 매출은 13조9000억원, 영업손실은 2000억원으로...",
+   "published": "2026-11-04T06:00+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12092987?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003056974?sid=101",
+   "title": "中 가전, 韓 안방 공략 가속…로봇청소기 넘어 TV·생활가전으로",
+   "desc": "4일 가전업계에 따르면 로보락과 에코백스, TCL은 이달 국내 주요 온라인 쇼핑 행사에 참여해 제품 할인... 국내 로봇청소기 시장에서는 삼성전자와 LG전자의 반격도 이어지고 있다. 올해 1분기 중국 브랜드가 약 70%의...",
+   "published": "2026-11-04T06:00+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "C1",
+    "C2",
+    "C3",
+    "S6",
+    "X1",
+    "X3"
+   ],
+   "queries": [
+    "드리미 점유율",
+    "로보락 점유율",
+    "로봇청소기 점유율 국내",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 세일 페스타",
+    "에코백스 점유율",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1",
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sportsseoul.com/news/read/1645624?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/468/0001277866?sid=105",
+   "title": "코웨이, 향기 품은 ‘룰루 더매너 비데’ 출시…프리미엄 시장 정조준",
+   "desc": "코웨이가 겨울철 비데 성수기를 앞두고 향기 분사와 자동 탈취 기능을 탑재한 신제품 ‘룰루 더매너 비데’를 출시하며 프리미엄 라인업을 강화한다. 이번 신제품은 지난 4월 선보인 ‘룰루 더매너 비데 플러스’의...",
+   "published": "2026-11-04T06:00+09:00",
+   "host": "www.sportsseoul.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [
+    {
+     "id": "O1-E-053",
+     "score": 0.61
+    }
+   ],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 향기 품은 ‘룰루 더매너 비데’ 출시…프리미엄 시장 정조준",
+    "[스포츠서울 | 위수정 기자] 코웨이가 겨울철 비데 성수기를 앞두고 향기 분사와 자동 탈취 기능을 탑재한 신제품 ‘룰루 더매너 비데’를 출시하며 프리미엄 라인업을 강화한다.",
+    "이번 신제품은 지난 4월 선보인 ‘룰루 더매너 비데 플러스’의 세련된 디자인을 계승하면서, 소비자 선호도가 높은 욕실 공간 관리 기능을 집중적으로 담아낸 것이 특징이다.",
+    "흡입된 공기는 암모니아, 황화수소 등 주요 악취 가스를 99.5% 제거하는 특수 탈취 필터를 거쳐 정화된다",
+    "향기 카트리지는 블루밍 가든, 소프트 코튼, 스윗 블러썸 등 3종으로 구성돼 별도의 방향제 없이도 쾌적한 욕실 환경을 유지할 수 있다.",
+    "코웨이 관계자는 “단순한 세정과 위생 관리를 넘어 욕실 공간의 쾌적함까지 고려해 비데의 역할을 확장한 제품”이라며 “혁신 기술과 프리미엄 디자인을 바탕으로 비데 시장 주도권을 더욱 공고히 하겠다”고 밝혔다"
+   ],
+   "og_date": "2026-11-04T06:00:00+09:00"
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12092985?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003056973?sid=101",
+   "title": "[소개+Thing] 정수기도 초소형 트렌드…1인·신혼가구 ‘멋부심’ 공략",
+   "desc": "4일 업계에 따르면 청호나이스는 최근 가로 폭이 10.5㎝에 불과한 ‘청호 정수기 미니’를 출시했다. 이... 코웨이의 ‘아이콘 얼음정수기 미니’는 기존 ‘아이콘 얼음정수기 오리지널’보다 크기를 약 28% 줄였다. 듀얼...",
+   "published": "2026-11-04T06:00+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "O1",
+    "O3"
+   ],
+   "queries": [
+    "SK매직 신제품",
+    "SK매직 출시",
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20109871?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004678434?sid=101",
+   "title": "쿠쿠, 환기·온풍·건조 갖춘 욕실 복합 환풍기 출시",
+   "desc": "쿠쿠(쿠쿠홈시스(284740))가 환기부터 온풍, 건조까지 가능한 욕실 복합 환풍기를 출시했다고 4일 밝혔다. 신제품은 욕실의 냄새와 습기를 배출하는 환기 기능에 온도 관리와 건조 기능을 더한 제품이다. 천장 타공 규격을...",
+   "published": "2026-11-04T06:00+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠홈시스 신제품",
+    "쿠쿠홈시스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠, 환기·온풍·건조 갖춘 욕실 복합 환풍기 출시 | 서울경제",
+    "[{\"CODE_TYPE\":\"T\",\"CODE_ID\":\"284740\",\"PRE_GAP\":0,\"MIDDLE_CODE_ID\":\"\",\"ISSUE_URL\":null,\"MIDDLE_CODE_NM\":\"\",\"MAPPING_CODE_ID\":\"\",\"ORD_NO\":1,\"MAPPING_CODE_NAME\":\"\",\"CATEGORY\":null,\"LARGE_CODE_ID\":\"\",\"MAPPING_URL\":\"\",\"LARGE_CODE_NM\":\"\",\"CODE_NM\":\"쿠쿠홈시스\"}]",
+    "쿠쿠, 환기·온풍·건조 갖춘 욕실 복합 환풍기 출시",
+    "쿠쿠(쿠쿠홈시스(284740))가 환기부터 온풍, 건조까지 가능한 욕실 복합 환풍기를 출시했다고 4일 밝혔다",
+    "“동탄과 딴판...올 들어 매매 0건” 공장 시장 한파 덮친 서화성 안양 공장부지 3.3㎡당 2000만원…화성은 270만원에도 안 팔려",
+    "美 구인은 넉달만에 최고, 해고는 18개월만에 최저"
+   ],
+   "og_date": "2026-11-04T06:00:00+09:00"
+  },
+  {
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/04/20261104031007?wlog_tag3=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/081/0003695506?sid=101",
+   "title": "아이폰 듀오 국내 출시에도… 갤 폴드8 판매 20% 늘었다",
+   "desc": "삼성전자는 이런 수요 확대에 맞춰 갤럭시 Z 폴드8 울트라·폴드8·플립8의 자급제 구매 프로그램인 ‘뉴 갤럭시 AI 구독클럽’ 가입 기간을 오는 30일까지로 연장한다. 구매 후 개봉기나 2주 사용 후기를 삼성닷컴에...",
+   "published": "2026-11-04T05:05+09:00",
+   "host": "www.seoul.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.donga.com/news/article/all/20261104/134961130/2",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003759857?sid=102",
+   "title": "“AI, 거품 우려 때문에 도입 늦춰선 안돼… 특정모델 종속은 피해야”",
+   "desc": "반면 이용자 대부분은 무료로 서비스를 쓰거나 일정한 구독료만 낸다. 우 교수는 “AI 모델은 지식재산권... 한국 기업들은 AI 공급자와 활용자의 입장에서 각각 대응해야 한다고 강조했다. 우 교수는 “삼성전자와...",
+   "published": "2026-11-04T04:32+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "도입"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261103502151",
+   "naver_url": "https://n.news.naver.com/mnews/article/005/0001882798?sid=101",
+   "title": "아이폰 듀오 출시에도… 삼성 ‘갤 폴드8’ 판매량 20% ↑",
+   "desc": "삼성전자는 폴더블폰 수요에 맞춰 지난달까지 진행한 자급제 구매 프로그램인 ‘뉴 갤럭시 AI 구독클럽’ 가입 기간을 이달 말까지 연장한다. 행사 기간 안에 갤럭시 Z 시리즈의 폴드8·폴드8울트라·플립8 자급제...",
+   "published": "2026-11-04T00:10+09:00",
+   "host": "www.kmib.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "아이폰 듀오 출시에도⋯ 삼성 ‘갤 폴드8’ 판매량 20% ↑ - 국민일보",
+    "지난달 23일 아이폰 듀오가 국내에 공식 출시되면서 폴더블폰 시장 경쟁이 본격화됐지만, 삼성전자가 8세대에 걸쳐 축적한 힌지(화면을 접고 펼치는 장치) 기술력과 내구성, 자체 인공지능(AI) 기반 사용자 경험 등이 갤럭시 Z 폴드8에 대한 소비자의 선호도를 높인 것으로 업계는 평가한다.",
+    "앞서 지난달 29일 다니엘 아라우호 삼성전자 상무는 3분기 실적 발표 콘퍼런스콜에서 애플의 폴더블폰 시장 진출을 두고 “시장 성장에 맞춰 판매 확대의 기회로 활용하겠다”며 자신감을 드러내기도 했다",
+    "행사 기간 안에 갤럭시 Z 시리즈의 폴드8·폴드8울트라·플립8 자급제 모델을 구매하고 구독클럽에 가입한 고객은 기기 반납 시점에 따라 삼성닷컴 기준가로 1년형은 최대 50%, 2년형은 40%(플립8은 50%), 3년형은 25%의 잔존가를 보장받는다.",
+    "삼성전자는 ‘갤럭시 연말 페스타’도 다음 달 31일까지 진행한다",
+    "행사 모델을 구입한 뒤 삼성닷컴에 제품 개봉 과정을 보여주는 ‘언박싱 리뷰’나 초기 2주간의 사용 경험담을 작성하면 최대 8만점의 삼성월렛 포인트가 지급된다."
+   ]
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12194891",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005758578?sid=101",
+   "title": "삼성전자서비스, 폭염에도 빈틈없는 에어컨 A/S, AI로 서비스 품질 강화",
+   "desc": "고객은 '스마트싱스(SmartThings)'의 '에어컨 AI 진단'과 '가전제품 원격진단(HRM)'을 통해 제품 상태를 직접... 대상 신제품 교육을 진행하고, 다양한 증상에 대한 진단·수리 노하우를 체계적으로 교육하고 있다. 삼성전자서...",
+   "published": "2026-11-04T00:01+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12194894",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005758581?sid=101",
+   "title": "코웨이, 공기질·수질 데이터로 생활가전 경쟁력 강화",
+   "desc": "코웨이(대표이사 서장원)가 한국표준협회 주관 '2026 한국서비스품질지수(KS-SQI)' 정수기A/S 부문에서 10년 연속... 상단부 높낮이를 조절하는 '에어 팝업'을 적용해 4면으로 깨끗한 공기를 고르게 내보내며, 기본·확산·입체...",
+   "published": "2026-11-04T00:01+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.khan.co.kr/article/202611032045025",
+   "naver_url": "https://n.news.naver.com/mnews/article/032/0003480462?sid=105",
+   "title": "유럽 냉장고 잇단 해킹 사태…검은 손길, 우리집 백색 가전에도?",
+   "desc": "삼성전자는 ‘녹스’, LG전자는 ‘쉴드’와 같은 보안솔루션을 갖고 있지만 AI가 보안 취약점을 찾아내는 기술도 급속도로 발달하면서 해킹 불안감은 커지는 상황이다. 아파트의 출입관리, 방문차량을 하나의 플랫폼에서...",
+   "published": "2026-11-03T20:45+09:00",
+   "host": "www.khan.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611031827408602",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005598895?sid=101",
+   "title": "\"쇼핑 대목 잡아라\" 이커머스 불붙은 할인 전쟁",
+   "desc": "70% 할인 판매한다. G마켓도 13일까지 연중 최대 쇼핑 행사인 '빅스마일데이'를 개최한다. 올해는 역대 최대 규모인 3000여개 상품을 특가로 선보인다. 삼성전자 냉장고와 HP 노트북, 노스페이스 아우터 등 다양한 상품을...",
+   "published": "2026-11-03T18:29+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 삼성닷컴 단독 혜택",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380192.html",
+   "naver_url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380192.html",
+   "title": "타히티관광청 서울 로드쇼 성료… “한국 방문객 1000명 미만, 수상 방갈...",
+   "desc": "존스턴 총괄은 타히티 영토 규모를 '서유럽만 하다'고 소개하는 방식이 한국에서는 와닿지 않는다며, 중국의 절반 크기라는 표현이 더 이해하기 쉽다고 했다. 한국이 인플루언서·소셜미디어·TV의 영향이 큰 시장이어...",
+   "published": "2026-11-03T18:18+09:00",
+   "host": "digitalchosun.dizzo.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611031810254558",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005598828?sid=105",
+   "title": "아이폰 듀오 나오니 더 잘팔려... 갤폴드8 판매 쑥",
+   "desc": "폴드8 판매에 탄력이 붙자 삼성전자는 연말 마케팅 강화에 나섰다. 당초 지난 10월 말 종료할 예정이었던 'New 갤럭시 AI 구독클럽' 가입 기간을 오는 30일까지 한 달 연장했다. 구독클럽은 일정 기간 스마트폰을 사용한...",
+   "published": "2026-11-03T18:11+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/11/04/2026110315265718110",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005436087?sid=101",
+   "title": "중국 TV, 안방서 고전하더니…'삼성·LG 텃밭' 유럽으로 몰렸다",
+   "desc": "(발광다이오드) 신제품 공급을 늘리며 현지 시장 공략을 강화하고 있다. 중국 업체들은 글로벌 TV 시장에서도 한국 업체들과 출하량 경쟁을 벌이고 있다. 트렌드포스 집계 결과 올 상반기 삼성전자 TV 출하량은...",
+   "published": "2026-11-03T18:10+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "C5",
+    "S1",
+    "X3"
+   ],
+   "queries": [
+    "TCL 한국 신제품",
+    "삼성전자 가전 신제품",
+    "중국 TV 한국 시장",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026110337301",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005349874?sid=101",
+   "title": "아이폰 듀오 출시에도 갤폴드8 판매 급증",
+   "desc": "삼성전자는 제품 수요에 발맞춰 혜택을 늘리고 있다. ‘뉴 갤럭시 AI 구독클럽’ 가입 기간을 기존 10월 말에서 11월 30일까지로 한 달 연장하기로 했다. 구독클럽 가입자는 기존 기기를 반납하면 최대 50%의 잔존가를...",
+   "published": "2026-11-03T18:05+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12195012",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005758398?sid=101",
+   "title": "아이폰 듀오 출시가 갤 폴드8에 호재?",
+   "desc": "출시 전보다 국내 판매 20%↑ 아이폰 품질 논란에 반사이익 AI 구독클럽 이달 말까지 연장 애플의 아이폰 듀오 출시에도 삼성전자의 폴더블폰 갤럭시 Z 폴드8 국내 판매량이 두 자릿수 증가세를 보였다. 3일 통신업계에...",
+   "published": "2026-11-03T17:13+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 방문케어"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2643619",
+   "naver_url": "https://www.etoday.co.kr/news/view/2643619",
+   "title": "“누가 먼저 돈 벌까”…삼성·LG·현대차 휴머노이드 사업화 경쟁",
+   "desc": "특히 최근 3분기 실적발표 컨퍼런스콜에서는 초기 수요처 확보부터 핵심 부품 양산, 가정용 시장 진출까지... 설계된 가전을 결합해 소비자가 구매할 수 있는 가격 경쟁력을 확보한다는 방침이다. 삼성전자 역시...",
+   "published": "2026-11-03T17:02+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2022177",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001071869?sid=101",
+   "title": "TV는 경쟁, 패널은 협력…삼성·LG의 '중국 LCD 딜레마'",
+   "desc": "국내 패널업체들이 유기발광다이오드(OLED)에 집중하는 사이 TCL은 한국 업체의 LCD 공장 두 곳을... 박상호 LG전자 미디어엔터테인먼트솔루션(MS)사업본부 경영관리담당 전무는 지난달 28일 실적 콘퍼런스콜에서...",
+   "published": "2026-11-03T17:00+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "C5"
+   ],
+   "queries": [
+    "TCL 한국 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=928066",
+   "naver_url": "https://www.namdonews.com/news/articleView.html?idxno=928066",
+   "title": "\"할인으로 지갑 열고, 상품권으로 상권 살리고\"…전남광주, 소비 활력 기...",
+   "desc": "할인받을 수 있는 대한민국 최대 소비축제에 지역사랑상품권 혜택 확대와 골목상권 연계 행사까지... 삼성전자와 LG전자 등 가전업계 역시 주요 제품을 할인 판매하며 소비자 공략에 나섰다. 삼성전자 세탁건조기와 TV...",
+   "published": "2026-11-03T16:52+09:00",
+   "host": "www.namdonews.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 세일 페스타",
+    "삼성전자 코리아세일페스타"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.khan.co.kr/article/202611031641001",
+   "naver_url": "https://n.news.naver.com/mnews/article/032/0003480402?sid=105",
+   "title": "유럽서 또 냉장고 해킹, 온도 50도까지 올려놔 피해…위험 피할 수 없는...",
+   "desc": "삼성전자는 ‘녹스’, LG전자는 ‘쉴드’와 같은 보안 솔루션을 제시하고 있지만 AI가 보안 취약점을 찾아내는 기술도 급속도로 좋아지면서 해킹 불안감은 커지는 상황이다. 아파트의 출입·방문차량 관리 등을 하나의...",
+   "published": "2026-11-03T16:41+09:00",
+   "host": "www.khan.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.huffingtonpost.kr/article/261768",
+   "naver_url": "https://www.huffingtonpost.kr/article/261768",
+   "title": "중국이 글로벌 상품·기술 공급망 장악하려 한다 : 저가 PVC는 인도·유럽...",
+   "desc": "인도 시장에서 중국산 PVC의 점유율은 2020년 3%에서 2025년 45%로 급증했다. 반면 일본·한국·대만의... 그는 \"전자제품부터 자동차, 가전제품에 이르기까지 모든 종류의 제품에 화학제품이 유입돼 간접적으로 영향을 주고...",
+   "published": "2026-11-03T16:26+09:00",
+   "host": "www.huffingtonpost.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261103501371",
+   "naver_url": "https://n.news.naver.com/mnews/article/005/0001882694?sid=101",
+   "title": "아이폰 듀오 등장에도 ‘갤 폴드8’은 굳건… 판매량 20% ↑",
+   "desc": "삼성전자는 폴더블폰 수요에 맞춰 지난달까지 진행한 자급제 구매 프로그램인 ‘뉴 갤럭시 AI 구독클럽’ 가입 기간을 이달 말까지 연장한다. 행사 기간 안에 갤럭시 Z 시리즈의 폴드8·폴드8울트라·플립8 자급제...",
+   "published": "2026-11-03T16:16+09:00",
+   "host": "www.kmib.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261103500407",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261103500407",
+   "title": "냉장설비, 글로벌 해킹 확산에…국내 가전 보안 의무 제도화 목소리",
+   "desc": "◆삼성·LG 일부 가전, 출시일부터 업데이트 지원 문제는 국내 가전업계의 판매 후 업데이트 지원기간이 제품마다 다르다는 점이다. 삼성전자는 일부 냉장고와 세탁기에 출시일부터 최대 7년간 소프트웨어 업데이트를...",
+   "published": "2026-11-03T16:06+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261103000231",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003481689?sid=105",
+   "title": "삼성전자, '핵심 제조 기지' 베트남 부품사 생산성 54% 개선…공급망 경...",
+   "desc": "현지 부품 제조 기반을 강화, 공급망 경쟁력을 높이려는 전략으로 풀이된다. 삼성전자 베트남법인은... 삼성전자는 박닌성과 타이응우옌성 공장에서 스마트폰, 호찌민 공장에서 TV와 가전 등을 생산한다. 삼성전자...",
+   "published": "2026-11-03T16:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2022133",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001071813?sid=105",
+   "title": "애플 아이폰 듀오 출시 후 삼성 '갤럭시 Z 폴드8' 판매 20% 증가",
+   "desc": "삼성전자는 폴더블폰 판매 확대를 위해 '뉴 갤럭시 AI 구독클럽' 가입 기간을 기존 10월 말에서 다음 달 30일까지 한 달 연장했다. 갤럭시 Z 폴드8 울트라·폴드8·플립8을 자급제로 구매한 고객이 대상이다.",
+   "published": "2026-11-03T15:53+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "애플 아이폰 듀오 출시 후 삼성 '갤럭시 Z 폴드8' 판매 20% 증가",
+    "삼성, 지원금 인상에 '갤럭시 AI 구독클럽' 가입 연장",
+    "[아이뉴스24 권서아 기자] 애플의 첫 폴더블(접는) 스마트폰 '아이폰 듀오' 출시 이후 삼성전자 '갤럭시 Z 폴드8'의 국내 판매량이 20% 이상 증가한 것으로 나타났다",
+    "SK텔레콤과 KT, LG유플러스 등 이동통신 3사가 아이폰 듀오 출시를 전후해 갤럭시 Z 폴드8의 공통지원금을 약 10만원 인상한 점도 판매에 영향을 미쳤을 수 있다.",
+    "삼성전자는 지난 8월 갤럭시 Z8 시리즈 출시 당시에도 높은 판매 실적을 거뒀다",
+    "삼성전자는 폴더블폰 판매 확대를 위해 '뉴 갤럭시 AI 구독클럽' 가입 기간을 기존 10월 말에서 다음 달 30일까지 한 달 연장했다"
+   ],
+   "og_date": "2026-11-03T15:51:49+09:00"
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12092892?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003056867?sid=105",
+   "title": "아이폰 듀오 품질 논란에 갤폴드8 판매 '확' 늘었다",
+   "desc": "삼성전자 '갤럭시 Z 폴드8' 국내 판매량이 애플의 첫 폴더블폰 '아이폰 듀오' 출시 이후 오히려 증가한... 보장하고 삼성케어플러스 등 부가 혜택을 제공하는 '뉴 갤럭시 인공지능(AI) 구독클럽' 가입 기간을 당초 10월...",
+   "published": "2026-11-03T15:26+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 방문케어"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2643572",
+   "naver_url": "https://www.etoday.co.kr/news/view/2643572",
+   "title": "노트북 시장 위축에도 OLED는 성장…애플 가세에 패널 경쟁 확대",
+   "desc": "한국과 중국 디스플레이 업체들도 늘어나는 수요에 대응해 패널 공급 확대와 후속 제품의 공급망 진입에... LG디스플레이와 중국 BOE·TCL CSOT 등은 2029년 출시가 예상되는 OLED 맥북 에어의 공급망 진입을 겨냥하고...",
+   "published": "2026-11-03T15:10+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "C5"
+   ],
+   "queries": [
+    "TCL 한국 출시"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/03/DJGPK6BKR5D3PMS3KIGCKYACBE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "naver_url": "https://n.news.naver.com/mnews/article/023/0004007508?sid=105",
+   "title": "아이폰 듀오 출시에 갤폴드8 반사이익...20% 더 팔려",
+   "desc": "삼성전자는 다양한 혜택을 제공하는 프로모션을 연장하며 판매를 촉진하고 있다. 기기 반납 시점에 따라 삼성닷컴 기준가 기준 일정 비율의 잔존가를 보장받는 ‘뉴 갤럭시 AI 구독클럽’ 가입 기간을 11월까지 한 달...",
+   "published": "2026-11-03T14:46+09:00",
+   "host": "www.chosun.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261103000864",
+   "naver_url": "https://www.newspim.com/news/view/20261103000864",
+   "title": "아이폰 듀오 출시에도 갤럭시 폴드8 판매 증가",
+   "desc": "폴더블폰 시장에 경쟁 제품이 등장하면서 소비자 관심이 높아지는 가운데 삼성전자는 갤럭시 AI 구독 서비스 가입 기간을 연장하고 연말 구매 혜택을 확대하기로 했다. 3일 통신업계에 따르면 아이폰 듀오 출시 이후...",
+   "published": "2026-11-03T14:34+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 방문케어"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261103000242",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003481557?sid=105",
+   "title": "아이폰 듀오 출시 후 갤럭시Z폴드8 판매 20% 증가…삼성, 구독클럽 연장",
+   "desc": "삼성전자는 갤럭시 AI 구독클럽 가입 기간을 한 달 연장하고 연말 판매 확대에 나선다. 3일 통신업계에 따르면 지난달 23일 아이폰 듀오 출시 이후 일주일간 갤럭시Z폴드8의 국내 판매량은 직전 일주일 대비 20% 이상...",
+   "published": "2026-11-03T13:52+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "아이폰 듀오 출시 후 갤럭시Z폴드8 판매 20% 증가…삼성, 구독클럽 연장 - 전자신문",
+    "삼성전자는 지난 7월 출시한 갤럭시 Z8 시리즈로 국내 사전 판매 144만대를 기록한 바 있다",
+    "삼성전자는 이 같은 수요에 대응해 당초 지난달 말 종료할 예정이었던 '뉴 갤럭시 AI 구독클럽' 가입 기간을 이달 30일까지 연장한다",
+    "1년형은 삼성닷컴 기준가의 최대 50%, 2년형은 40%, 3년형은 25%다",
+    "삼성전자는 다음 달 31일까지 '갤럭시 연말 페스타'도 운영한다",
+    "행사 제품 구매 후 후기를 등록하면 삼성월렛 포인트를 최대 8만점 제공한다"
+   ],
+   "og_date": "2026-11-03T13:51:50+09:00"
+  },
+  {
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/03/JZFXZ74AV5C33NP7PMOSKAR67I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001202214?sid=105",
+   "title": "아이폰 듀오 출시에도… 갤럭시 Z 폴드8 국내 판매 두 자릿수 성장",
+   "desc": "삼성전자는 수요에 발맞춰 자급제 구매 프로그램인 ‘뉴 갤럭시 인공지능(AI) 구독클럽’ 가입 기간을 기존 10월 말에서 11월 30일까지로 한 달 연장한다. 해당 프로그램에 가입하면 기기 반납 시점에 따라 삼성닷컴...",
+   "published": "2026-11-03T13:52+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12194636",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005758164?sid=101",
+   "title": "아이폰 듀오 출시 불구하고 갤 폴드8 국내 판매 20% 쑥",
+   "desc": "아이폰 듀오 출시 뒤 폴드8 판매에 탄력이 붙자 삼성전자는 판촉에도 속도를 내고 있다. 당초 지난달 종료 예정이었던 ‘New 갤럭시 AI 구독클럽’은 이달 30일까지 가입할 수 있다. 구독클럽은 대상 스마트폰을 구매해...",
+   "published": "2026-11-03T13:29+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 방문케어"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611021353530700",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005598595?sid=101",
+   "title": "월 거래액 24조 넘은 온라인쇼핑…11월 경쟁 나선 이커머스",
+   "desc": "70% 할인 판매한다. G마켓도 13일까지 연중 최대 쇼핑 행사인 '빅스마일데이'를 개최한다. 올해는 역대 최대 규모인 3000여개 상품을 특가로 선보인다. 삼성전자 냉장고와 HP 노트북, 노스페이스 아우터 등 다양한 상품을...",
+   "published": "2026-11-03T13:25+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 삼성닷컴 단독 혜택",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://newscham.net/130124/",
+   "naver_url": "https://newscham.net/130124/",
+   "title": "차이나 쇼크 2.0 시대의 중국 억만장자들",
+   "desc": "후룬(Hurun)은 영국·룩셈부르크 출신 사업가 루퍼트 후거워프(Rupert Hoogewerf)의 중국식 이름인 후룬(胡润)... \" 이 밖에도 애지봇(AgiBot), AI2 로보틱스(AI2 Robotics), 링커핸드(LinkerHand), 갤럭시아 AI(Galaxea AI), 에코백스...",
+   "published": "2026-11-03T12:00+09:00",
+   "host": "newscham.net",
+   "questions": [
+    "C3"
+   ],
+   "queries": [
+    "에코백스 점유율",
+    "에코백스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.munhwa.com/article/11628380?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/021/0002829908?sid=101",
+   "title": "갤 폴드8 판매량 20% ‘껑충’…애플 폴더블폰 출시가 되레 ‘호재?’",
+   "desc": "삼성전자는 갤럭시 Z 폴드8 울트라·폴드8·플립8 구매 소비자를 대상으로 운영하는 ‘뉴(New) 갤럭시 AI 구독클럽’ 가입 기간을 지난달 말에서 이달 30일까지 연장하기로 했다. 구독클럽은 자급제 스마트폰 구매...",
+   "published": "2026-11-03T11:54+09:00",
+   "host": "www.munhwa.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10923948?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002718124?sid=105",
+   "title": "‘아이폰 듀오’ 품질 논란에 ‘갤럭시 폴드8’ 판매 20%↑",
+   "desc": "삼성은 판매 확대에 힘 입어 ‘AI 구독클럽’ 가입기간을 연장하는 등 각종 프로모션으로 고객 유치에 총력전을 싣는다. 3일 통신업계에 따르면 삼성전자 갤럭시 Z 폴드8 일주일간 국내 판매량이 아이폰 듀오 출시 후...",
+   "published": "2026-11-03T11:25+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611031030303405",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005598545?sid=101",
+   "title": "\"삼성전자 57만→44만원\" 목표가 하향했지만 '매수 추천'…포스코퓨처엠...",
+   "desc": "삼성전자는 메모리 가격이 안정적인 상승 국면에 접어든 가운데, 11월 분위기 전환 가능성을 감안하면... 전달하는 AI 기반 주식 리포트 브리핑 콘텐츠입니다. [주토피아]를 계속 받아보시려면 기자 페이지를 구독해...",
+   "published": "2026-11-03T11:02+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261103000164",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003481480?sid=101",
+   "title": "KAIST 여성 과학자들이 만든 생리대…타임 '최고의 발명품' 선정",
+   "desc": "KAIST 출신 여성 과학자들이 개발한 생리대가 미국 시사주간지 타임(TIME)이 선정한 '2026 최고의 발명품'에... 국내에서는 삼성전자의 갤럭시 S26 울트라, 비스포크 AI 패밀리허브, 오디세이 G8과 LG전자의 시그니처...",
+   "published": "2026-11-03T10:57+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 비스포크 AI 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/tech/2026/11/03/2026110309453419418",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005435707?sid=105",
+   "title": "화면이 쩍, 아이폰 듀오 사려다 '접었다'...갤Z폴드8 판매 쑥",
+   "desc": "아울러 삼성전자는 지난달 종료예정이었던 'New 갤럭시 AI 구독클럽' 가입 기간을 11월 말까지 한 달 연장하고 중고폰 추가 보상 및 연말 프로모션을 진행해 갤럭시 Z 폴드8 흥행에 박차를 가한다는 계획이다. 이에 따라...",
+   "published": "2026-11-03T10:42+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 9,
+  "B": 54,
+  "C": 1,
+  "similar": 1
+ },
+ "stats_excerpt": {
+  "대상": 9,
+  "ok": 9,
+  "실패": 0
+ }
+}
