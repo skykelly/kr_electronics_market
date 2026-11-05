@@ -1,0 +1,1754 @@
+{
+ "date": "2026-11-05",
+ "collected_at": "2026-11-05T09:22+09:00",
+ "lookback_days": 14,
+ "count": 61,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2400,
+   "in_window": 1249,
+   "kept": 20,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 196,
+   "kept": 1,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 500,
+   "in_window": 131,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 936,
+   "in_window": 71,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1222,
+   "in_window": 168,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1400,
+   "in_window": 543,
+   "kept": 4,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1681,
+   "in_window": 607,
+   "kept": 7,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1281,
+   "in_window": 321,
+   "kept": 13,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1046,
+   "in_window": 53,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1073,
+   "in_window": 45,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1137,
+   "in_window": 73,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1049,
+   "in_window": 14,
+   "kept": 0,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1945,
+   "in_window": 43,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 1600,
+   "in_window": 514,
+   "kept": 0,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1948,
+   "in_window": 88,
+   "kept": 2,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1839,
+   "in_window": 75,
+   "kept": 1,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 90,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 700,
+   "in_window": 260,
+   "kept": 11,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 39,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 70,
+   "kept": 1,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 77,
+   "kept": 1,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "http://www.breaknews.com/1248566",
+   "naver_url": "http://www.breaknews.com/1248566",
+   "title": "이마트, ‘쓱데이’ 마지막 주말 혜택 최대 50% 할인 실시",
+   "desc": "‘삼성전자 콤보 세탁건조기’는 320만 원대, ‘삼성 비스포크 4도어 하이브리드 냉장고’는 300만 원대에 선보인다. 디지털 게임과 완구류 특가전도 동시에...",
+   "published": "2026-11-05T09:16+09:00",
+   "host": "www.breaknews.com",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2644391",
+   "naver_url": "https://www.etoday.co.kr/news/view/2644391",
+   "title": "삼성전자, 모바일·가전 구독 흥행으로 '삼성 AI 구독 페스티벌' 연장 운...",
+   "desc": "삼성전자는 AI 가전 구독 서비스 출시 2주년을 기념해 9월 28일부터 ‘삼성 AI 구독 페스티벌’을 진행해 왔으며 행사 기간을 11월 30일까지 연장해 운영한다고 밝혔다. 가전은 스마트폰보다 교체 주기가 길고 가격대가...",
+   "published": "2026-11-05T09:12+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "S1",
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 구독 가전 신규 패스",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "S1",
+    "S6",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 모바일·가전 구독 흥행으로 '삼성 AI 구독 페스티벌' 연장 운영 - 이투데이",
+    "삼성전자의 ‘갤럭시 Z 폴드8’은 듀오의 신제품 출시 이후에도 국내 판매량이 20% 이상 증가했다",
+    "삼성전자는 AI 가전 구독 서비스 출시 2주년을 기념해 9월 28일부터 ‘삼성 AI 구독 페스티벌’을 진행해 왔으며 행사 기간을 11월 30일까지 연장해 운영한다고 밝혔다.",
+    "행사 대상 추천 모델을 구독하면 최대 6개월 구독료 상당의 삼성전자 멤버십 포인트를 받을 수 있다",
+    "삼성ㆍLG전자 KES 출격⋯AI 일상부터 산업 솔루션까지 삼성전자, AI 가전 크리에이터 '삼성 크루' 출범…소비자 접점 확대 삼성전자, '갤럭시 탭 S12 시리즈·스마트태그3' 국내 출시",
+    "'美 데이터센터 규제 우려' SK하이닉스 -6%·삼성전자 -3%대 약세"
+   ],
+   "og_date": "2026-11-05T09:11:00+09:00"
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026110508361524402",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005838312?sid=101",
+   "title": "11번가 그랜드십일절, 로봇청소기·노트북 특가 완판…숙박 거래 27%↑",
+   "desc": "11번가는 '2026 그랜드십일절'에서 로봇청소기와 노트북 등 주요 가전 특가 상품이 잇달아 완판됐다고 5일... 11번가는 오는 11일까지 필립스·롯데웰푸드·설화수 등의 특가 행사와 삼성전자·LG전자·로보락 등의...",
+   "published": "2026-11-05T09:04+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261104501351",
+   "naver_url": "https://www.viva100.com/article/20261104501351",
+   "title": "[오늘의 브릿지경제 1면] 中에 밀린 전기차 수출… 2030년 2.2조 빼앗긴다",
+   "desc": "가운데 한국산 전기차의 수출 경쟁력이 중국에 추월당한 것으로 드러났다. 국내외 시장점유율이 동반... 삼성·LG 가전의 ‘소리 없는 혁신’ ▶‘대표 사임·정보 유출’ 진에어, 잇단 변수에 메가 LCC 합병 시험대",
+   "published": "2026-11-05T08:50+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261105000079",
+   "naver_url": "https://www.newspim.com/news/view/20261105000079",
+   "title": "[모닝 리포트] \"LG헬로비전, 목표가 1550원…주가 하락은 과도\"",
+   "desc": "2027년 실적 회복 여부에 주목할 필요가 있다고 판단했다. 안 연구원은 영상 콘텐츠 소비가... 삼성전자와 LG전자가 가전제품 구독 사업을 강화하면서 LG헬로비전의 렌탈 매출도 둔화하고 있다는 판단이다....",
+   "published": "2026-11-05T08:35+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.venturesquare.net/1124848/",
+   "naver_url": "https://www.venturesquare.net/1124848/",
+   "title": "“4분 진료 한계 넘어 1인 1주치의 시대로”… AI 건강비서 ‘퍼슬리’...",
+   "desc": "삼성전자 전략마케팅팀에서 근무한 뒤 기능성 인솔 브랜드 코디체를 창업했고... 회사에 따르면 월간 구독 유지율도 약 82% 수준을 유지하고 있다. 환자의 의료 정보는...",
+   "published": "2026-11-05T08:17+09:00",
+   "host": "www.venturesquare.net",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026110422525027038",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005838238?sid=101",
+   "title": "\"코스피 1만 간다\"…증권가, 2027년 반등 베팅 [1분 브리프]",
+   "desc": "비롯 AI 관련주 ○삼성전자·SK하이닉스가 지수 반등 주도 ■ 美·이란 이어 러·우크라도 종전기대... kr/article/lawtimes/2026110507094138627 ■ 英 로펌, 구독형·비변호사 경영 확산…사모펀드 통한...",
+   "published": "2026-11-05T08:00+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.betanews.net/article/view/beta202611050001",
+   "naver_url": "https://www.betanews.net/article/view/beta202611050001",
+   "title": "초코파이는 세계로, 동양그룹은 해체로…같은 창업주에서 갈라진 두 기...",
+   "desc": "1974년 동양제과가 출시한 초코파이는 이후 회사의 대표 제품으로 자리 잡았다. 1980년대에는 포카칩 등으로... 동양매직도 소유구조 변경을 거쳐 SK매직으로 재편됐다. 과거 동양그룹이라는 기업집단은 사실상 해체됐지만...",
+   "published": "2026-11-05T06:46+09:00",
+   "host": "www.betanews.net",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261104500766",
+   "naver_url": "https://www.viva100.com/article/20261104500766",
+   "title": "안방서 빌딩·차량으로⋯ 삼성·LG 가전의 ‘소리 없는 혁신’",
+   "desc": "삼성전자는 지난달 29일 발표한 올해 3분기 실적 발표를 통해 가전 구독 및 B2B 사업 확대에 힘입어 생활가전 판매가 호조를 보였다고 밝힌 바 있다. 내년에도 생활가전 사업에서 AI 혁신 제품 판매를 확대하는 한편...",
+   "published": "2026-11-05T06:04+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "S1",
+    "S3",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 실적",
+    "삼성전자 스마트싱스 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S3",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026110463571",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005350476?sid=101",
+   "title": "'진작 담아두길 잘했네' 개미들 환호…하루 만에 18% 터졌다",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다.... 단기적으로 삼성전자 SK하이닉스 등을 중심으로 한 AI 투자심리가 위축될 수 있지만 중장기 투자 확대 기조가 꺾일...",
+   "published": "2026-11-05T06:01+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026110417352813922",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005838203?sid=101",
+   "title": "이마트 쓱데이 마지막 주말…먹거리 최대 반값·가전 할인",
+   "desc": "LG전자 대형가전은 행사카드 결제 시 구매 금액에 따라 최대 190만원 상당의 신세계상품권을 증정한다. 워시타워와 올레드 TV, 4도어 냉장고 등은 추가 할인 혜택을 제공한다. 삼성전자 TV 행사 상품 구매 고객에게는...",
+   "published": "2026-11-05T06:00+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/distribution/6343187",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009271228?sid=101",
+   "title": "이마트, 쓱데이 마지막 주말 총공세…먹거리·가전·완구 최대 50% 할인",
+   "desc": "이마트(139480)가 '대한민국 시그니처 세일' 쓱데이 마지막 주말을 맞아 신선식품과 델리, 대형가전, 게임... 삼성전자 TV 행사 상품은 최대 35만 삼성전자 멤버십 포인트를 추가 적립한다. 게임과 완구 상품도 할인한다....",
+   "published": "2026-11-05T06:00+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261104_0003855213",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014302462?sid=101",
+   "title": "\"먹거리부터 가전까지\" 이마트, '쓱데이' 마지막 주말 맞아 할인 총공세",
+   "desc": "상품도 할인가에 선보인다. 대형가전도 쓱데이 특가 상품들이 있다. LG전자 대형가전은 행사카드 결제 시... LG전자 올레드 TV', 'LG전자 오브제 4도어 냉장고' 등 인기 상품은 최대 12% 추가 혜택을 볼 수 있다. 삼성전자...",
+   "published": "2026-11-05T06:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.seoul.co.kr/news/economy/distribution/2026/11/05/20261105030001?wlog_tag3=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/081/0003695950?sid=101",
+   "title": "명품 주춤하자… 백화점 ‘넥스트 명품’ 찾기 나섰다",
+   "desc": "4일 업계에 따르면 신세계백화점의 우수고객(VIP) 전용 온라인 플랫폼 ‘더 쇼케이스’의 올해 객단가... 수입 주방 브랜드 ‘쿠치넬라’는 전담 디자이너와의 1대 1 상담을 통해 가전과 수납 시스템을 구성한다. 상담...",
+   "published": "2026-11-05T05:04+09:00",
+   "host": "www.seoul.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.donga.com/news/Economy/article/all/20261104/134967338/2",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003760148?sid=101",
+   "title": "‘인사 시계’ 빨라진 삼성, 이르면 이달 중순… 역대급 실적에 새로운...",
+   "desc": "최대 관전 포인트는 반도체를 담당하는 디바이스솔루션(DS)부문과 스마트폰과 가전 등을 맡은 디바이스경험... 삼성전자는 3분기(7∼9월) 영업이익이 107조4400억 원으로 분기 기준 역대 최대 실적을 냈다. 하지만 현재...",
+   "published": "2026-11-05T00:32+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/04/2026110480234.html",
+   "naver_url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/04/2026110480234.html",
+   "title": "로보락, 로봇청소기 구독 서비스 출시…\"초기 구매 부담 낮추고 고객 선...",
+   "desc": "성열휘 기자 | 로보락코리아가 로봇청소기 구독 서비스를 시작했다. 구독 대상은 2026년형 플래그십 모델 'S10... 출시 기념 프로모션은 오는 30일까지 진행한다. 해당 기간 구독을 신청하면 기본 보증기간 1년을 포함해 총...",
+   "published": "2026-11-04T19:02+09:00",
+   "host": "digitalchosun.dizzo.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시",
+    "로보락 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로보락, 로봇청소기 구독 서비스 출시…\"초기 구매 부담 낮추고 고객 선택권 확대\"-디지틀조선일보(디조닷컴 dizzo.com)",
+    "모빌리티 로보락, 로봇청소기 구독 서비스 출시…\"초기 구매 부담 낮추고 고객 선택권 확대\"",
+    "로보락, 로봇청소기 구독 서비스 출시 / 로보락코리아 제공",
+    "로보락코리아가 로봇청소기 구독 서비스를 시작했다",
+    "로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일부터 구독 서비스를 운영하고 있다고 4일 밝혔다",
+    "구독 대상 제품은 로보락의 2026년형 플래그십 로봇청소기 S10 맥스V 울트라 일반형과 직배수형이다"
+   ]
+  },
+  {
+   "url": "https://www.sportsseoul.com/news/read/1646943?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/468/0001278121?sid=105",
+   "title": "쿠쿠, ‘코리아 그랜드 페스티벌’ 참전…계절가전 최대 73% 빅세일",
+   "desc": "메인 프로모션은 오는 15일까지 진행된다. 밥솥과 청소기, 정수기 등 인기 제품을 최대 73% 할인 판매하며... 롯데하이마트의 블랙프라이데이, 이마트 쓱데이, 전자랜드 창립 행사 등에서도 쿠쿠 제품을 할인 판매한다....",
+   "published": "2026-11-04T18:58+09:00",
+   "host": "www.sportsseoul.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.insight.co.kr/news/580548",
+   "naver_url": "https://www.insight.co.kr/news/580548",
+   "title": "삼성전자서비스, 에어컨 AS 2년 연속 '1위'...AI 기술로 고객 만족 높였...",
+   "desc": "특별서비스팀을 현장에 파견해 가전제품 무상점검, 세척, 수리 등을 통해 주민들의 빠른 일상 회복을 돕고 있다. 김영호 삼성전자서비스 대표이사 부사장은 \"한국서비스품질지수 에어컨 AS 부문에서 2년 연속 1위에...",
+   "published": "2026-11-04T18:22+09:00",
+   "host": "www.insight.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 만족도 수상 평가"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261104163340816",
+   "naver_url": "https://www.ajunews.com/view/20261104163340816",
+   "title": "[美 중간선거 후폭풍] 美 의회 민주당 장악…韓 산업계 관세·투자 전략...",
+   "desc": "통상·투자 전략에 불확실성이 커지고 있다. 백악관은 도널드 트럼프 대통령이 유지하지만 의회 권력이... 친환경 정책 확대는 LG전자·삼성전자의 고효율 가전·냉난방공조와 에너지저장장치(ESS) 기업에 새로운 수요를...",
+   "published": "2026-11-04T18:02+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mediapen.com/news/view/1135001",
+   "naver_url": "https://www.mediapen.com/news/view/1135001",
+   "title": "삼성전자서비스, KS-SQI 에어컨 AS 2년 연속 1위… AI 원격진단 통했다",
+   "desc": "업계에서는 가전 하드웨어 기술 경쟁을 넘어 구독 서비스와 AI 기반 원격 유지·보수가 핵심 차별화 요소로 떠오른 가운데, 삼성전자서비스가 선제적 진단 인프라를 바탕으로 사후 수리(AS) 중심이던 서비스...",
+   "published": "2026-11-04T16:28+09:00",
+   "host": "www.mediapen.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.munhwa.com/article/11628805?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/021/0002830323?sid=101",
+   "title": "“바닥쳤나?” 롯데하이마트, 3분기 순매출 성장 전환",
+   "desc": "온라인 매출 역시 13% 성장했다. 롯데하이마트는 가전 판매 중심의 사업 구조에서 벗어나 구매 빈도가 높은 서비스와 모바일, PB 등의 비중을 확대하고 있다. 가전 구매 이후 수리와 관리 서비스를 제공해 고객과의...",
+   "published": "2026-11-04T16:07+09:00",
+   "host": "www.munhwa.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261104000265",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003482227?sid=105",
+   "title": "국내 가전 시장, 4년 연속 감소 끝내고 올해 '반등' 조짐…판매액 4.7% ↑",
+   "desc": "삼성전자 대규모 판촉 행사와 폭염으로 인한 냉방 가전 판매량 급증이 시장 성장을 견인한 것으로 분석된다. 4일 국가데이터처 국가통계포털에 따르면, 올해 1월부터 9월까지 가전제품 판매액은 22조9575억원으로...",
+   "published": "2026-11-04T16:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 판촉",
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261104500479",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261104500479",
+   "title": "삼성전자서비스, 에어컨 AS 2년 연속 1위…\"원격진단 서비스 인정\"",
+   "desc": "'삼성 AI 구독'의 통합 관리 서비스인 '블루패스'는 제품 이상 징후를 미리 안내하고,방문 관리 때 다른 삼성전자 제품을 추가로 무상 점검한다. 여기에 신혼부부를 위한 '신혼 패스'와 고령 고객 대상 '이지케어 패스'도...",
+   "published": "2026-11-04T15:58+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1710812/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003151320?sid=101",
+   "title": "가전 불황 속 롯데하이마트 '반전'…케어·모바일·PB 성장 견인",
+   "desc": "사업의 비중을 확대해 실적 개선을 추진할 방침이다. 지난 10월 초 출시한 '가전수리올케어' 서비스는 한 달 만에 가입자 2만5000명을 넘어섰다. 앞으로도 케어 서비스와 PB, 모바일, 온라인 등 핵심 사업을 강화하고...",
+   "published": "2026-11-04T15:44+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611045814i",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005350220?sid=101",
+   "title": "로보락도 구독 시장 진출…로봇청소기 구매 부담 낮춘다",
+   "desc": "로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다. 구독 대상은 올해 플래그십 제품인 ‘S10 맥스V 울트라’ 일반형과 직배수형 2종이다. 구독 기간은...",
+   "published": "2026-11-04T15:27+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로보락도 구독 시장 진출…로봇청소기 구매 부담 낮춘다 | 한국경제",
+    "로보락도 구독 시장 진출…로봇청소기 구매 부담 낮춘다",
+    "로보락이 로봇청소기 구독 서비스를 선보였다",
+    "로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다.",
+    "구독 대상은 올해 플래그십 제품인 ‘S10 맥스V 울트라’ 일반형과 직배수형 2종이다",
+    "로보락 관계자는 “초기 구매 부담을 줄이고 소비자가 생활환경과 필요에 맞춰 제품을 이용할 수 있도록 선택의 폭을 넓혔다”며 “제품 성능뿐 아니라 사용 편의성과 관리 서비스도 강화하겠다”고 말했다."
+   ],
+   "og_date": "2026-11-04T15:26:33+09:00"
+  },
+  {
+   "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513441",
+   "naver_url": "https://ilyo.co.kr/?ac=article_view&entry_id=513441",
+   "title": "성과급에 갈라진 삼성전자…‘원삼성’ 외쳤던 경영진 소극 대처 책임론",
+   "desc": "강조했던 삼성전자 경영진이 내부 갈등 조율에 소극적인 것 아니냐는 비판이 나온다. 반도체(DS) 부문과 스마트폰·가전 등을 담당하는 완제품(DX) 부문의 실적 양극화에 따른 성과급 격차가 노조 간 주도권 다툼으로...",
+   "published": "2026-11-04T15:26+09:00",
+   "host": "ilyo.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113434",
+   "naver_url": "https://www.smarttoday.co.kr/ko-kr/articles/113434",
+   "title": "가전 넘어 AI 인프라로…LG전자, 냉각솔루션 경쟁력 강화",
+   "desc": "수주 확대에는 북미 시장에서 확보한 대규모 장기 공급계약이 주효했다. LG전자는 지난달 미국 AI... LG전자는 늘어나는 수요에 대응하기 위해 국내외 생산시설 확충에도 나섰다. 미국 버지니아주 윈저에 칠러...",
+   "published": "2026-11-04T14:58+09:00",
+   "host": "www.smarttoday.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20327",
+   "naver_url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20327",
+   "title": "삼성전자 동행노조, 이재용 회장 등 경영진 규탄 대규모 총집회",
+   "desc": "생활가전 등). DS는 Device Solutions(디바이스 솔루션)의 약자로 메모리, HBM, 파운드리 사업부다. 삼성전자 동행노조에 따르면 지난 10월 29일 삼성전자가 발표한 2026년 3분기 실적은 연결 기준 매출 195조 3,000억...",
+   "published": "2026-11-04T13:56+09:00",
+   "host": "www.lawleader.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.dealsitetv.com/articles/178015",
+   "naver_url": "https://news.dealsitetv.com/articles/178015",
+   "title": "[재계 투데이] 삼성전자, 버즈 '청력 체크·케어' 식약처 허가 外",
+   "desc": "◆삼성전자, 버즈 '청력 체크·케어' 식약처 허가 삼성전자가 갤럭시 버즈에 탑재될 '청력 체크'와 '청력... 스마트싱스 기반 '가전제품 원격진단(HRM)'으로 엔지니어 방문 없이 제품 상태를 진단하고 있다. 올해...",
+   "published": "2026-11-04T13:42+09:00",
+   "host": "news.dealsitetv.com",
+   "questions": [
+    "S1",
+    "S3",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자 스마트싱스 발표",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S3",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1710504/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003151208?sid=103",
+   "title": "베이비 브레짜, '슈퍼퀵 젖병소독기' 출시…사전예약 500대 완판",
+   "desc": "육아가전 브랜드 베이비 브레짜(Baby Brezza)는 신제품 '슈퍼퀵 젖병소독기'의 사전예약분 500대를 모두... 2600건의 구매 후기에서 4.8점대 평점을 기록했다고 밝혔다. 또 베이비뉴스가 진행한 '2026 브랜드 선호도조사'에서...",
+   "published": "2026-11-04T13:00+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "X4"
+   ],
+   "queries": [
+    "가전 구매 조건 조사"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "사전예약"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10925533?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002718768?sid=105",
+   "title": "“KAIST가 만든 K-생리대” 세계가 깜짝…美 타임 ‘최고의 발명품’",
+   "desc": "KAIST 출신 여성 과학자 4명이 개발한 생리대가 미국 시사주간지 타임(TIME)이 선정한 ‘2026 최고의 발명품’... 국내에서는 삼성전자 갤럭시 S26 울트라와 비스포크 AI 패밀리허브, 오디세이 G8, LG전자 시그니처 올레드 W...",
+   "published": "2026-11-04T12:30+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 비스포크 AI 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261103_0003853249",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014300672?sid=101",
+   "title": "삼성전자, 2년 연속 CES 단독전시관 연다…차세대 로봇 공개 여부 주목",
+   "desc": "삼성전자가 내년 초 열릴 세계 최대 가전·정보기술 전시회 'CES 2027'에서 2년 연속 단독 전시관을 운영한다.... 로봇을 출시하고 있다. 앞서 현대차그룹은 올해 CES 2026에서 보스턴다이내믹스의 차세대 휴머노이드 로봇...",
+   "published": "2026-11-04T12:10+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 2년 연속 CES 단독전시관 연다…차세대 로봇 공개 여부 주목 :: 공감언론 뉴시스 ::",
+    "[서울=뉴시스] 삼성전자는 지난 1월 4일부터 7일까지(현지 시간) 미국 라스베이거스에서 열리는 세계 최대 가전 전시회 CES 2026에 단독 전시관을 마련하고 '더 퍼스트룩 2026'을 진행했다",
+    "윈호텔 삼성전자 단독 전시관이 관람객들로 붐비고 있다",
+    "(사진=삼성전자 제공) 2026.01.08. [email protected] *재판매 및 DB 금지",
+    "[서울=뉴시스]이지용 기자 = 삼성전자가 내년 초 열릴 세계 최대 가전·정보기술 전시회 'CES 2027'에서 2년 연속 단독 전시관을 운영한다.",
+    "4일 업계에 따르면 삼성전자는 내년 1월 6~9일 미국 라스베이거스에서 열리는 CES 2027에 참가해 윈(Wynn) 호텔에 별도의 전시관을 마련한다."
+   ],
+   "og_date": "2026-11-04T12:10:15+09:00"
+  },
+  {
+   "url": "https://sateconomy.co.kr/news/view/1065579982833151",
+   "naver_url": "https://sateconomy.co.kr/news/view/1065579982833151",
+   "title": "롯데하이마트, 3분기 매출 5분기 만에 반등…계절가전 부진에 영업익 7...",
+   "desc": "PB 매출은 23%, 온라인 매출은 13% 증가했다. 다만 기존 주력 품목인 대형가전과 생활·주방가전의 판매... 매출 성장에도 고마진 품목의 판매 비중이 줄어들면서 수익성 회복은 제한됐다. 올해 1~3분기 누적 매출액은...",
+   "published": "2026-11-04T11:50+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "롯데하이마트, 3분기 매출 5분기 만에 반등…계절가전 부진에 영업익 70.9% 감소",
+    "케어 서비스·모바일·자체브랜드 성장에도 가전 소비 위축 부담 ▲ 롯데하이마트 본사 전경 [롯데하이마트]",
+    "다만 가전 소비 위축과 계절가전 판매 부진으로 영업이익은 지난해 같은 기간보다 70% 이상 감소했다.",
+    "사업별로는 가전 구매부터 수리·관리까지 지원하는 케어 서비스 매출이 전년 동기 대비 62% 증가했다",
+    "가전과 서비스를 함께 구매한 고객은 100만명을 넘어섰으며, 연동 구매율은 59%를 기록했다.",
+    "CJ CGV, 1200억 무이자 CB의 역설…CJ 과반 흔들리나다우키움·CJ·신세계 컨소시엄, 중앙일보 동거…균열 땐 홍석현 4%가 최대변수LG유플러스, 파주 AIDC 4개 동 수요 확보…투자 확대 근거 마련Sh수협은행, 4표 문턱에 막힌 행장 인선…재공모해도 교착 가능성한화M&S, 김동선 책임경영 본격화…공개매수 확대해 주주 기회 넓혀"
+   ],
+   "og_date": "2026-11-04T11:26:22+09:00"
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611044787g",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005350112?sid=101",
+   "title": "\"180만원 로봇청소기, 월 3만원대에\"…로보락이 꺼낸 새 승부수",
+   "desc": "서비스 출시를 기념한 프로모션도 진행한다. 로보락은 이달 30일까지 구독을 신청한 고객에게 기본 보증기간 1년을 포함해 총 5년간 무상 AS를 제공할 예정이다. 로봇청소기가 반려동물 배설물 등으로 오염됐을 때 이용할...",
+   "published": "2026-11-04T11:35+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "C1",
+    "X1"
+   ],
+   "queries": [
+    "로보락 점유율",
+    "로보락 출시",
+    "로보락 프로모션",
+    "로봇청소기 점유율 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C1",
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10925408?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002718682?sid=101",
+   "title": "삼성전자서비스, 에어컨 서비스 품질지수 2년 연속 1위",
+   "desc": "주요 서비스 품질 평가에서도 잇달아 1위를 기록했다. 2월 ‘한국에서 가장 존경받는 기업’ 서비스센터... (KSQI) 가전·휴대전화·컴퓨터 AS 부문에서 1위에 올랐다. 한편, 삼성전자서비스는 인공지능(AI)을 활용한...",
+   "published": "2026-11-04T11:17+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 블루패스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mediapen.com/news/view/1135036",
+   "naver_url": "https://www.mediapen.com/news/view/1135036",
+   "title": "[미디어펜 창간 15주년 특별기획⑨]美 AI 수출, 中 제조업 혁신…한국은...",
+   "desc": "미국산 AI인프라를 도입하면 초기 반도체와 서버 구매뿐 아니라 이후 클라우드 사용료와 소프트웨어 구독료... 삼성전자와 SK하이닉스 등 반도체 기업에는 AI 인프라 투자 확대가 새로운 수요를 만들어낼 수 있다....",
+   "published": "2026-11-04T11:08+09:00",
+   "host": "www.mediapen.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400088.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400088.html",
+   "title": "'화면 쩍' 아이폰 듀오에 탄력받은 갤폴드8 … 삼전 DX, 흑자 반전할까",
+   "desc": "◆폴더블 효과로 모바일 손실 줄여…메모리·가전 원가가 변수 삼성전자의 3분기 실적에는 폴더블 신제품의 출시 효과가 이미 일부 반영됐다. 모바일경험(MX)·네트워크 사업 매출은 37조7000억원으로 전 분기보다 14...",
+   "published": "2026-11-04T10:58+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.nocutnews.co.kr/news/6601861?utm_source=naver&utm_medium=article&utm_campaign=20261104105633",
+   "naver_url": "https://n.news.naver.com/mnews/article/079/0004206301?sid=101",
+   "title": "여름에 힘이 되는 삼성전자서비스…에어컨 AS 2년 연속 1위",
+   "desc": "삼성전자서비스는 올해 2월 '한국에서 가장 존경받는 기업' 서비스센터 부문, 6월 '국가서비스대상' 가전 AS 부문에서도 수상했다. 7월에는 한국서비스품질지수와 국가고객만족도(NCSI) 등 주요 평가에서 가전·휴대전화...",
+   "published": "2026-11-04T10:57+09:00",
+   "host": "www.nocutnews.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 만족도 수상 평가",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261104500096",
+   "naver_url": "https://www.asiatime.co.kr/article/20261104500096",
+   "title": "롯데하이마트, 케어·모바일로 3분기 매출 반등…수익성 회복 과제",
+   "desc": "다만 수익성이 높은 가전제품의 매출 비중이 줄면서 영업이익은 큰 폭으로 감소했다. 롯데하이마트 본사... 온라인 총매출은 13% 성장했다. 케어 서비스는 올해 1~3분기 누적 매출이 지난해 연간 실적을 넘어섰다. 회사...",
+   "published": "2026-11-04T10:56+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611044760g",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005350088?sid=101",
+   "title": "롯데하이마트, 5개 분기 만에 매출 반등…수익성은 '아직'",
+   "desc": "온라인 매출도 같은 기간 13% 증가했다. 특히 Care 서비스는 올해 1~3분기 누적 매출이 지난해 연간 매출을... PB 비중을 높이는 방향으로 사업 구조를 바꾸고 있다. 지난달 초 선보인 '가전수리올케어'는 출시 한 달 만에...",
+   "published": "2026-11-04T10:44+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.tf.co.kr/read/economy/2384593.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000548552?sid=101",
+   "title": "롯데하이마트, 3분기 순매출 6545억…5개 분기 만에 성장 전환",
+   "desc": "이사 수요 감소와 늦은 폭염에 따른 기저 영향으로 대형·생활·주방가전 비중이 줄어든 탓이다. 다만... 롯데하이마트는 앞으로도 Care 서비스, PB, 모바일, 온라인 등 핵심 전략 카테고리 확장에 집중해 사업구조...",
+   "published": "2026-11-04T10:37+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400077.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400077.html",
+   "title": "롯데하이마트, 3분기 매출 6545억 … 5개 분기 만에 성장 전환",
+   "desc": "온라인 매출도 13% 늘었다. 다만 이들 사업의 성장에도 전체 수익성은 크게 악화했다. 이사 수요 감소로... 사업의 비중을 확대해 실적 개선에 나설 계획이다. 지난 10월 초 출시한 가전수리올케어 서비스는 한 달 만에...",
+   "published": "2026-11-04T10:36+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261104000337",
+   "naver_url": "https://www.newspim.com/news/view/20261104000337",
+   "title": "삼성 8인치 파운드리 철수에 팹리스 비상…전력·디스플레이 반도체 차...",
+   "desc": "자동차, 가전제품에 폭넓게 사용된다. 국내 생산 기반의 축소가 장기적으로 완제품 산업의 공급망... [사진=용인시] 삼성전자는 앞서 지난 4월 1분기 실적 콘퍼런스콜에서 \"현재 8인치에서 양산 중인 PMIC, DDI, CIS...",
+   "published": "2026-11-04T10:30+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "철수"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 8인치 파운드리 철수에 팹리스 비상…전력·디스플레이 반도체 차질 우려",
+    "삼성전자가 4일 2030년까지 8인치 파운드리 생산라인을 단계적으로 정리한다고 밝혔다",
+    "[서울=뉴스핌] 이승우 기자 = 삼성전자가 2030년까지 8인치 파운드리 생산라인을 단계적으로 정리하기로 하면서 국내 중소 팹리스 기업들이 생산망 재편 부담을 떠안게 됐다",
+    "삼성전자에 전력관리반도체(PMIC)와 디스플레이 구동칩(DDI) 등의 생산을 맡겨 온 기업들은 새로운 생산처를 확보하거나 기존 제품을 12인치 공정에 맞게 재설계해야 하는 상황이다.",
+    "4일 반도체 업계에 따르면 삼성전자는 최근 8인치 파운드리 고객사들에 2030년 말까지 관련 생산라인 가동을 종료하겠다는 계획을 알린 것으로 전해졌다",
+    "삼성은 올해부터 8인치 신규 제품 주문도 받지 않고 있다."
+   ],
+   "og_date": "2026-11-04T10:30:00+09:00"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20110013?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004678552?sid=101",
+   "title": "로보락, 로봇청소기도 구독으로…최대 5년 선택",
+   "desc": "로보락은 구독 서비스 출시를 기념해 오는 30일까지 구독 서비스를 신청한 고객에게는 기본 보증기간 1년을 포함한 총 5년간 무상 AS를 제공한다. 반려동물 배설물 등으로 로봇청소기가 오염됐을 때 전문 제품 클리닝을 1회...",
+   "published": "2026-11-04T10:29+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로보락, 로봇청소기도 구독으로…최대 5년 선택 | 서울경제",
+    "로보락, 로봇청소기도 구독으로…최대 5년 선택",
+    "로보락이 프리미엄 로봇청소기 구독 서비스를 출시해 소비자 선택권을 넓힌다",
+    "로보락의 한국지사 로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일부터 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다",
+    "구독 대상 제품은 로보락의 2026년 플래그십 로봇청소기 ‘S10 맥스V 울트라’ 일반형과 직배수형 2종이다",
+    "로보락은 구독 서비스 출시를 기념해 오는 30일까지 구독 서비스를 신청한 고객에게는 기본 보증기간 1년을 포함한 총 5년간 무상 AS를 제공한다"
+   ],
+   "og_date": "2026-11-04T10:28:28+09:00"
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/172029",
+   "naver_url": "https://dealsite.co.kr/articles/172029",
+   "title": "[재계는 지금] 삼성전자, 갤럭시 버즈 ‘청력 체크’·‘청력 케어’ 기...",
+   "desc": "삼성전자가 갤럭시 버즈에 탑재될 청력 체크와 청력 케어 기능으로 식품의약품안전처(식약처)의... 실제로 2월 ‘한국에서 가장 존경받는 기업’ 서비스센터 부문 1위, 6월 ‘국가서비스대상’ 가전 AS 대상, 7월...",
+   "published": "2026-11-04T10:18+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "C1",
+    "O4",
+    "S1",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "다이슨코리아 출시",
+    "로보락 AS 서비스센터",
+    "로보락 출시",
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 만족도 수상 평가"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10925141?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002718596?sid=101",
+   "title": "삼성·LG에 맞불…로보락도 ‘구독 서비스’로 한국 시장 공략",
+   "desc": "중국 로봇청소기 업체 로보락(Roborock)이 한국 시장에서 구독 서비스를 선보이며 삼성전자·LG전자와의... 구독 케어 서비스는 ▷무상수리 ▷무상수리와 셀프케어 ▷무상수리와 방문케어 총 3가지 유형으로 구성된다....",
+   "published": "2026-11-04T10:16+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "C1",
+    "S7"
+   ],
+   "queries": [
+    "로보락 출시",
+    "삼성전자 방문케어",
+    "삼성전자 소모품 케어 정기배송 서비스"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "C1",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성·LG에 맞불…로보락도 ‘구독 서비스’로 한국 시장 공략 - 헤럴드경제",
+    "산업 삼성·LG에 맞불…로보락도 ‘구독 서비스’로 한국 시장 공략",
+    "[헤럴드경제=김현일 기자] 중국 로봇청소기 업체 로보락(Roborock)이 한국 시장에서 구독 서비스를 선보이며 삼성전자·LG전자와의 경쟁에 나섰다.",
+    "4일 로보락코리아에 따르면 이달 2일부터 국내 공식 유통사 팅크웨어모바일을 통해 로보락 제품을 구독으로도 이용할 수 있게 됐다",
+    "대상 제품은 로보락의 2026년 플래그십 로봇청소기 ‘로보락 S10 맥스V 울트라’ 일반형과 직배수형 2종이다",
+    "로보락은 구독 서비스 출시를 기념해 이달 30일까지 구독을 신청한 고객에게 기본 보증기간 1년을 포함한 총 5년간 무상 AS를 제공한다"
+   ],
+   "og_date": "2026-11-04T10:15:22+09:00"
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026110410045640501",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002247194?sid=105",
+   "title": "\"초기 비용 줄이고 관리 방식 선택\"…로보락, 로봇청소기 구독 시장 뛰...",
+   "desc": "4일 로보락코리아는 공식 유통사 팅크웨어모바일 및 현대렌탈서비스와 협력해 플래그십 모델을 대상으로 한 로봇청소기 구독 서비스를 출시했다고 밝혔다. 로보락 관계자는 \"이번 구독 서비스는 초기 구매 부담을...",
+   "published": "2026-11-04T10:06+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "\"초기 비용 줄이고 관리 방식 선택\"…로보락, 로봇청소기 구독 시장 뛰어 든다 - 디지털데일리",
+    "로보락, 로봇청소기 구독 서비스 출시… 초기 구매 부담 낮추고 고객 선택권 확대 [사진=로보락]",
+    "[디지털데일리 김문기기자] 로보락이 플래그십 로봇청소기 구매 초기 비용 부담을 완화하고 소모품 배송 및 전문 방문 세척을 결합한 맞춤형 구독 상품을 선보였다.",
+    "4일 로보락코리아는 공식 유통사 팅크웨어모바일 및 현대렌탈서비스와 협력해 플래그십 모델을 대상으로 한 로봇청소기 구독 서비스를 출시했다고 밝혔다.",
+    "구독 대상 모델은 2026년형 주력 제품인 '로보락 S10 MaxV Ultra' 일반형과 직배수형 2종이다",
+    "로보락, 2Q 글로벌 로봇청소기 점유율 23.7%…1위 입지 강화"
+   ]
+  },
+  {
+   "url": "https://www.sidae.com/article/2026110409000792481",
+   "naver_url": "https://n.news.naver.com/mnews/article/417/0001163186?sid=105",
+   "title": "'품질 논란' 아이폰 듀오에 삼성 갤럭시 폴드8 웃다",
+   "desc": "삼성전자는 고객들에게 다양한 혜택을 제공하며 판매 증진에 힘을 쏟고 있다. 우선 구매 이후 기기를 반납할 때 일정 금액을 보장하는 프로그램도 운영 중이다. 지난달 종료할 예정이었던 뉴(New) 갤럭시 AI 구독클럽의...",
+   "published": "2026-11-04T10:04+09:00",
+   "host": "www.sidae.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261104000258",
+   "naver_url": "https://www.newspim.com/news/view/20261104000258",
+   "title": "롯데하이마트, 3분기 매출 5개 분기 만에 반등…케어·모바일 성장 견인",
+   "desc": "PB 매출도 23% 증가했으며 온라인 매출은 13% 성장했다. ◆ 가전 판매 넘어 평생 케어로…수익성 개선 추진... 사업의 비중을 높이는 전략이다. 지난 10월 초 선보인 '가전수리올케어' 서비스는 출시 한 달 만에 가입자...",
+   "published": "2026-11-04T09:59+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261104000101",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003481923?sid=105",
+   "title": "로보락, 로봇청소기 '구독' 서비스 개시",
+   "desc": "로보락은 구독 서비스 출시를 기념해 이달 30일까지 신청한 고객에게 기본 보증기간을 포함해 총 5년간 무상 사후서비스(AS)를 제공한다. 반려동물 배설물 등으로 제품이 오염됐을 때 전문 세척을 1회 지원하는 서비스도...",
+   "published": "2026-11-04T09:58+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "URLError"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261104095008296",
+   "naver_url": "https://www.ajunews.com/view/20261104095008296",
+   "title": "롯데하이마트, 3분기 매출 5개 분기 만에 반등…영업이익은 감소",
+   "desc": "PB 상품 매출은 23%, 온라인 매출은 13% 증가했다. PB는 올해 3분기까지 누적 매출과 판매량이 모두 지난해... 상품 비중을 확대해 수익구조를 개선한다는 계획이다. 지난달 초 출시한 ‘가전수리올케어’ 서비스는 한 달...",
+   "published": "2026-11-04T09:58+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익",
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261104500349",
+   "naver_url": "https://www.viva100.com/article/20261104500349",
+   "title": "로보락, ‘로봇청소기 구독 서비스’ 출시…초기 구매 부담 낮춰",
+   "desc": "로보락은 서비스 출시를 기념해 오는 30일까지 구독 신청 고객에게 특별 혜택을 제공한다. 기본 보증기간 1년을 포함해 총 5년간 무상 AS를 지원하고, 반려동물 배설물 등으로 로봇청소기가 오염된 경우 전문 제품 클리닝을...",
+   "published": "2026-11-04T09:48+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로보락, ‘로봇청소기 구독 서비스’ 출시…초기 구매 부담 낮춰 - 브릿지경제",
+    "로보락이 프리미엄 로봇청소기 구독 서비스를 선보이며 제품 구매 방식을 확대했다",
+    "로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 로봇청소기 구독 서비스를 시작했다고 4일 밝혔다.",
+    "구독 대상은 2026년 플래그십 모델인 ‘로보락 S10 맥스V 울트라’ 일반형과 직배수형이다",
+    "로보락은 서비스 출시를 기념해 오는 30일까지 구독 신청 고객에게 특별 혜택을 제공한다",
+    "이번 서비스는 로보락코리아와 국내 공식 유통사 팅크웨어모바일, 현대렌탈서비스가 협력해 운영한다"
+   ]
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065573243656878",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065573243656878",
+   "title": "삼성전자서비스, KS-SQI 에어컨 AS 부문 2년 연속 1위",
+   "desc": "주요 서비스 품질 평가를 모두 석권했다. 2월 ‘한국에서 가장 존경받는 기업’ 서비스센터 부문 1위를... (KSQI) 가전·휴대전화·컴퓨터 AS 부문 1위 등을 차례로 받았다. ▲삼성전자서비스 엔지니어가 에어컨을...",
+   "published": "2026-11-04T09:36+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6342305",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009269012?sid=101",
+   "title": "\"구매 부담? 일단 써보세요\"…로보락, 로봇청소기 구독 서비스 출시",
+   "desc": "로보락은 서비스 출시를 기념해 오는 30일까지 구독 신청 고객을 대상으로 특별 프로모션을 진행한다. 기본 보증기간 1년을 포함해 총 5년간 무상 애프터서비스(AS)를 제공하고, 반려동물 배설물 등으로 제품이 오염됐을...",
+   "published": "2026-11-04T09:31+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C1",
+    "C4"
+   ],
+   "queries": [
+    "로보락 출시",
+    "로보락 프로모션",
+    "샤오미 코리아 가전 출시",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "\"구매 부담? 일단 써보세요\"…로보락, 로봇청소기 구독 서비스 출시 - 뉴스1",
+    "로보락코리아, 로봇청소기 구독 서비스 시작‘로보락 S10 맥스V 울트라’ 일반·직배수형 대상3·4·5년 선택…종료 후 고객에 소유권 이전"
+   ],
+   "og_date": "2026-11-04T09:31:26+09:00"
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611040034",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611040034",
+   "title": "쿠쿠, 코리아 그랜드 페스티벌 참여…생활 가전 최대 73% 할인",
+   "desc": "오는 15일까지 진행되는 주요 프로모션에서는 밥솥과 청소기, 정수기 등을 최대 73% 할인한다. 행사 기간 할인... 전자랜드에서도 관련 행사를 운영한다. 면세점에서는 밥솥을 15% 할인 판매한다. 이와 함께 11월 '쿠쿠데이...",
+   "published": "2026-11-04T09:18+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠, 코리아 그랜드 페스티벌 참여…생활 가전 최대 73% 할인",
+    "[서울경제TV=정준엽기자] 쿠쿠가 겨울철을 앞두고 계절가전과 주방가전을 대상으로 할인 행사에 나선다.",
+    "쿠쿠는 '코리아 그랜드 페스티벌'에 참여해 오는 30일까지 가습기와 난방가전, 김치냉장고 등 주요 제품을 할인 판매한다고 4일 밝혔다.",
+    "이와 함께 11월 '쿠쿠데이' 행사도 진행한다",
+    "쿠쿠스토어 카카오톡 채널에서 복권을 발급받아 행사 당일 직영점을 방문하면 당첨 결과에 따라 할인 혜택을 받을 수 있다",
+    "쿠쿠스토어 지점별로 2가구씩 선정해 최대 50% 할인 혜택을 제공한다."
+   ]
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026110409174515436",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005837738?sid=101",
+   "title": "로봇청소기 구매 부담 낮춘다…로보락, '구독 서비스' 출시",
+   "desc": "로보락은 구독 서비스 출시를 기념해 오는 30일까지 특별 프로모션을 진행한다. 해당 기간 구독 서비스를 신청한 고객에게는 기본 보증기간 1년을 포함한 총 5년간 무상 AS를 제공한다. 반려동물 배설물 등으로...",
+   "published": "2026-11-04T09:17+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시",
+    "로보락 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로봇청소기 구매 부담 낮춘다…로보락, '구독 서비스' 출시",
+    "로보락의 한국지사 로보락코리아는 국내 공식 유통사인 팅크웨어모바일, 현대렌탈서비스와 손잡고 지난 2일부터 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다.",
+    "구독 대상 모델은 로보락의 2026년형 플래그십 라인업인 '로보락 S10 MaxV Ultra(S10 맥스V 울트라)' 일반형과 직배수형 2종이다",
+    "로보락은 구독 서비스 출시를 기념해 오는 30일까지 특별 프로모션을 진행한다",
+    "'로보락 S10 MaxV Ultra' 직배수형을 구독할 경우 직배수장 리폼 비용 20% 할인과 구독 기간 내 이사 시 재설치 1회, 구독 3년차에 급배수 호스 1회 무상 교체 등을 지원한다",
+    "\"삼성전자 19만원·SK하이닉스 90만원\"…반도체 조정장 속 하방 시나리오 제시한 전문가"
+   ],
+   "og_date": "2026-11-04T09:17:45+0900"
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611040835111550",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005599073?sid=101",
+   "title": "삼성전자서비스, 에어컨 AS 서비스품질 2년 연속 1위",
+   "desc": "이 밖에도 삼성전자서비스는 수해와 산불 등 재난 발생 시 특별서비스팀을 현장에 파견해 가전제품 무상점검과 세척, 수리 등을 지원하고 있다. 삼성전자서비스는 올해 2월 '한국에서 가장 존경받는 기업' 서비스센터...",
+   "published": "2026-11-04T09:16+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611040031",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611040031",
+   "title": "\"구매 부담 낮춘다\"…로보락, 로봇청소기 구독 서비스 출시",
+   "desc": "로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일부터 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다. 구독 대상은 로보락의 2026년형 로봇청소기 'S10 MaxV Ultra' 일반형과 직배수형 2종이다. 구독...",
+   "published": "2026-11-04T09:14+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "\"구매 부담 낮춘다\"…로보락, 로봇청소기 구독 서비스 출시",
+    "경제·산업 입력 2026-11-04 09:13:08 수정 2026-11-04 09:13:08 정준엽 기자 0개",
+    "[서울경제TV=정준엽기자] 로보락이 국내에서 로봇청소기 구독 서비스를 시작하며 제품 판매 방식을 확대한다.",
+    "로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일부터 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다.",
+    "구독 대상은 로보락의 2026년형 로봇청소기 'S10 MaxV Ultra' 일반형과 직배수형 2종이다",
+    "로보락 관계자는 \"이번 구독 서비스는 초기 구매 부담을 줄이고, 소비자들이 각자의 생활환경과 필요에 맞춰 로보락의 프리미엄 로봇청소기를 이용할 수 있도록 선택의 폭을 넓혔다는 점에서 의미가 있다\"며 \"제품 성능뿐 아니라 사용 과정에서의 편의성과 관리 경험까지 고려해 고객에게 더 나은 제품 이용 환경을 제공할 것\"이라고 말했다."
+   ]
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1710446/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003150995?sid=101",
+   "title": "삼성전자서비스, 에어컨 AS 품질 1위…AI 원격진단·구독 케어 강화",
+   "desc": "'삼성 AI 구독' 고객을 위한 블루패스 서비스에 대한 만족도도 평가에 기여했다는 설명이다. 삼성전자서비스는 제품별 사용 시기를 고려한 사전점검과 인공지능(AI) 기반 원격진단으로 고객 편의성을 높이고 있다....",
+   "published": "2026-11-04T09:09+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자서비스, 에어컨 AS 품질 1위…AI 원격진단·구독 케어 강화",
+    "삼성전자서비스 임직원들이 한국서비스품질지수(KS-SQI) 에어컨 AS 부문 2년 연속 1위 선정을 기념해 촬영하고 있다",
+    "삼성전자서비스는 한국표준협회가 주관하는 '2026 한국서비스품질지수(KS-SQI)' 에어컨 AS 부문에서 2년 연속 1위에 선정됐다고 4일 밝혔다.",
+    "'삼성 AI 구독' 고객을 위한 블루패스 서비스에 대한 만족도도 평가에 기여했다는 설명이다.",
+    "삼성전자서비스는 제품별 사용 시기를 고려한 사전점검과 인공지능(AI) 기반 원격진단으로 고객 편의성을 높이고 있다",
+    "삼성디스플레이, 中 PC방에 'QD-OLED 인증점'…연말 60곳으로 확대"
+   ],
+   "og_date": "2026-11-04T09:04:00+09:00"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261104032800003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016420309?sid=101",
+   "title": "로보락, 로봇청소기 구독 서비스 출시",
+   "desc": "중국 가전기업 로보락의 한국지사 로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일부터 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다. 구독 대상 제품은 로보락의 2026년 플래그십 로봇청소기...",
+   "published": "2026-11-04T09:08+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시",
+    "로보락 프로모션"
+   ],
+   "also": [
+    {
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/04/GMP6ANPX5JB2BES2BUMZQQVMV4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "host": "www.chosun.com",
+     "published": "2026-11-04T11:16+09:00"
+    },
+    {
+     "url": "http://www.inews24.com/view/2022638",
+     "host": "www.inews24.com",
+     "published": "2026-11-04T16:46+09:00"
+    }
+   ],
+   "cues": [
+    "출시",
+    "구독"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로보락, 로봇청소기 구독 서비스 출시 | 연합뉴스",
+    "(서울=연합뉴스) 김민지 기자 = 중국 가전기업 로보락의 한국지사 로보락코리아는 국내 공식 유통사 팅크웨어모바일을 통해 지난 2일부터 로봇청소기 구독 서비스를 출시했다고 4일 밝혔다.",
+    "구독 대상 제품은 로보락의 2026년 플래그십 로봇청소기 '로보락 S10 맥스V 울트라' 일반형과 직배수형 2종이다",
+    "로보락은 오는 30일까지 특별 프로모션을 진행하고 해당 기간 구독 서비스를 신청한 고객에게 기본 보증기간 1년을 포함한 총 5년간 무상 AS를 제공한다",
+    "만취 40대, 상가 식당으로 돌진한 뒤 차 버리고 집에서 '쿨쿨'",
+    "[영상] 노트북 뚫리더니 8조원 증발…범인으로 북한이 지목된 이유"
+   ],
+   "og_date": "2026-11-04T09:08:14+09:00"
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/171976",
+   "naver_url": "https://dealsite.co.kr/articles/171976",
+   "title": "'소외된' 삼성전자 가전…신뢰도·이익 둘 다 놓쳐",
+   "desc": "여기에 모바일 출신인 노태문 DX부문장의 경영 우선순위가 스마트폰에 쏠리면서 가전의 경쟁력 회복이 뒤로 밀리고 있다는 비판도 제기된다. 삼성전자의 올해 3분기 영상디스플레이(VD)·생활가전(DA) 등 합산 매출은...",
+   "published": "2026-11-04T09:02+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 17,
+  "B": 43,
+  "C": 1,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 17,
+  "ok": 16,
+  "실패": 1
+ }
+}
