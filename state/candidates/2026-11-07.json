@@ -1,0 +1,1862 @@
+{
+ "date": "2026-11-07",
+ "collected_at": "2026-11-07T08:43+09:00",
+ "lookback_days": 14,
+ "count": 67,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2400,
+   "in_window": 1280,
+   "kept": 5,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 196,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 500,
+   "in_window": 134,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 938,
+   "in_window": 72,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1222,
+   "in_window": 171,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1400,
+   "in_window": 576,
+   "kept": 0,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1681,
+   "in_window": 643,
+   "kept": 5,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1281,
+   "in_window": 287,
+   "kept": 2,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1047,
+   "in_window": 63,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1073,
+   "in_window": 46,
+   "kept": 1,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1137,
+   "in_window": 74,
+   "kept": 2,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1049,
+   "in_window": 20,
+   "kept": 0,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1945,
+   "in_window": 24,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 1800,
+   "in_window": 901,
+   "kept": 32,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1948,
+   "in_window": 110,
+   "kept": 3,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1843,
+   "in_window": 210,
+   "kept": 12,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 92,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 221,
+   "kept": 3,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 39,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 72,
+   "kept": 1,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 61,
+   "kept": 1,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6346099",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009275594?sid=101",
+   "title": "삼성전자 TV·가전 사업 적자 확대…LG전자, 'TV'로 수익 방어",
+   "desc": "삼성전자는 3분기 실적 자료를 통해 생활가전 부문과 관련해 \"국내 마케팅 강화 및 구독·기업간거래(B2B) 확대에 따른 판매 호조에도 원자재, 물류비 상승 부담으로 실적 하락\"이라고 설명했다. 판매 확대에도 비용...",
+   "published": "2026-11-07T07:00+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자 TV·가전 사업 적자 확대…LG전자, 'TV'로 수익 방어 - 뉴스1",
+    "삼성 VD·DA, 3분기 약 2000억 원 손실LG HS·MS는 합산 영업이익 4059억 원LG TV 흑자 전환으로 가전 이익 감소 방어",
+    "삼성 VD·DA 2000억 적자…LG, TV 이익 개선에 합산 4059억 흑자",
+    "생활가전은 양사 모두 부진…LG, 생활가전 영업이익 29% 감소",
+    "노태문 삼성전자 사장, 자사주 3000주 추가 매입…책임 경영 의지",
+    "SK네트웍스, 3분기 영업익 201억…전년比 9.9% 감소"
+   ],
+   "og_date": "2026-11-07T07:00:00+09:00"
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12093529?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003057592?sid=101",
+   "title": "[이상현의 전자수첩] 美 정치 지형 바뀌어도 AI는 간다…반도체 투자 대...",
+   "desc": "반도체부터 다양한 가전 신제품, 전자 산업 현장에서 보고 듣고 느낀 이야기들을 수첩에 옮기듯 기록하는... 삼성전자와 SK하이닉스 주가 역시 외국인 매도세가 집중되며 변동성이 커졌다. AI 데이터센터 투자가 메모리...",
+   "published": "2026-11-07T06:00+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.bntnews.co.kr/article/view/bnt202611060194",
+   "naver_url": "https://www.bntnews.co.kr/article/view/bnt202611060194",
+   "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘할인 특가전...",
+   "desc": "폐지, 오픈시간, 영업시간, 할인정보 등 소비자들은 궁금한게 많다. 특히 대형마트의 평소 오픈시간과... 행사 기간 에코백스 로봇청소기는 행사카드 결제 시 49만9000원, 쿠쿠 음식물처리기는 24만9000원에 판매한다....",
+   "published": "2026-11-07T00:02+09:00",
+   "host": "www.bntnews.co.kr",
+   "questions": [
+    "C3"
+   ],
+   "queries": [
+    "에코백스 매장 오픈"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://sateconomy.co.kr/news/view/1065616377722148",
+   "naver_url": "http://sateconomy.co.kr/news/view/1065616377722148",
+   "title": "코웨이, 과천 R&D에 3651억원…해외 성장 맞춰 연구거점 재편",
+   "desc": "계획 ▲ [코웨이] 코웨이(서장원)가 해외사업 성장과 제품군 확대에 맞춰 연구개발 체계를 재편한다.... 해외사업이 빠르게 확대되는 상황에서 과천 연구거점의 성과는 현지 맞춤형 제품 개발과 신제품 사업화...",
+   "published": "2026-11-06T21:36+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://magazine.hankyung.com/business/article/202611061661b",
+   "naver_url": "https://n.news.naver.com/mnews/article/050/0000112940?sid=101",
+   "title": "호텔이 실적 버티고 AI가 미래 맡았다…SK네트웍스의 승부수",
+   "desc": "정보통신 부문은 단말기 마케팅 비용 조율과 AI·데이터 관련 서버 및 스토리지 판매 증가가 실적을 뒷받침했다. SK매직의 얼음정수기 판매도 홈카페 수요 확대에 힘입어 증가했다. AI 사업 확대도 이어졌다....",
+   "published": "2026-11-06T18:14+09:00",
+   "host": "magazine.hankyung.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026110615991",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005351288?sid=101",
+   "title": "'아직도 바닥이 아니다?'…앞으로 48시간이 더 무서운 이유",
+   "desc": "com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다. 6일 기준 삼성전자와 SK하이닉스의... ◇성장 공포로 번진 AI 투매 인공지능(AI) 공급망 비중이 큰 한국 증시는 이날 개장 직후 서킷브레이커가...",
+   "published": "2026-11-06T18:00+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026110615981",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005351286?sid=101",
+   "title": "\"내년까진 문제 없다지만\"…삼전닉스가 긴장하는 이유",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다. 미국... 미 빅테크가 짓는 AI 데이터센터는 삼성전자와 SK하이닉스가 생산하는 고대역폭메모리(HBM), 서버용 D램의 최대...",
+   "published": "2026-11-06T17:59+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261106_0003858518",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014306944?sid=101",
+   "title": "SK네트웍스, 3Q 영업익 201억원 전년比 9.9%↓…\"AI 기술기업 투자 지속...",
+   "desc": "SK인텔릭스는 말레이시아에서 웰니스 로봇 브랜드 '나무엑스'를 출시했으며 미국 등으로 진출을 확대할 계획이다. SK네트웍스는 AI 기술기업에 대한 투자도 이어가고 있다. 지난달 13일 국내 AI 기업 업스테이지의...",
+   "published": "2026-11-06T17:50+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026110615791",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005351262?sid=101",
+   "title": "장중 '5천피' 깨졌다…데이터센터 쇼크에 삼전닉스 '와르르'",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다.... 삼성전자가 6.35% 하락해 18만8700원으로 내렸고, SK하이닉스는 10.44% 급락해 113만2000원에 마감했다. 반도체주...",
+   "published": "2026-11-06T17:44+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.dealsitetv.com/articles/178178",
+   "naver_url": "https://news.dealsitetv.com/articles/178178",
+   "title": "[유통24시] 올가홀푸드, 단백질·고식이섬유 담은 ‘한봉견과’ 출시 外",
+   "desc": "◆올가홀푸드, 단백질·고식이섬유 담은 '한봉견과' 출시 올가홀푸드가 단백질과 식이섬유를 함께 담은 'ORGA... ◆대상웰라이프, 4개사 시니어케어 MOU 체결 대상웰라이프가 SK인텔릭스, 렉스소프트, 한강시스템과...",
+   "published": "2026-11-06T17:44+09:00",
+   "host": "news.dealsitetv.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 매장 오픈",
+    "SK인텔릭스 신제품",
+    "SK인텔릭스 출시",
+    "SK인텔릭스 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.mtn.co.kr/article/2026110616212572667",
+   "naver_url": "https://news.mtn.co.kr/article/2026110616212572667",
+   "title": "'경기소비재·비만치료제' ETF 수익률 ↑ … 채권형 상품도 자금몰이 [E...",
+   "desc": "주간 수익률도 무려 12.9%를 기록하며 눈에 띄는 실적을 기록했습니다.종목으로는 한진칼의 지분 경쟁이 점화되면서 해당 ETF에도 크게 영향을 끼쳤고요.이 밖에 코웨이, LG전자, 신세계, 강원랜드 등도 높은 비중을...",
+   "published": "2026-11-06T17:42+09:00",
+   "host": "news.mtn.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600276.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600276.html",
+   "title": "SK네트웍스, 3분기 영업익 9.9% 감소 … 조직개편 비용 부담",
+   "desc": "늘면서 실적이 개선됐다. 광고 자회사 인크로스는 게임사들의 신작 광고 집행 등에 힘입어 영업이익이 54억원으로 48.2% 늘었다. SK인텔릭스는 SK매직 얼음정수기 판매량이 전년보다 늘었다고 밝혔다. 웰니스 로봇...",
+   "published": "2026-11-06T17:38+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [
+    "개편"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12200678",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005760194?sid=101",
+   "title": "BYD·지커 이어 … 샤오펑도 내년초 韓상륙",
+   "desc": "中 전기차 쓰나미 마케팅·딜러망·AS 핵심직책 공개 채용 이르면 1분기 출시 샤오미는 '속도조절' 중국... 앞서 샤오펑 한국법인 엑스펑모터스코리아는 이만식 전 볼보자동차코리아 세일즈·마케팅 총괄 전무를 신임...",
+   "published": "2026-11-06T17:34+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6346083",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009275068?sid=101",
+   "title": "SK네트웍스, 3분기 영업익 201억…전년比 9.9% 감소",
+   "desc": "SK인텔릭스는 SK매직의 판매 채널 경쟁력을 강화해 렌탈 사업의 입지를 공고히 하고 AI 기반 서비스 사업성도 높일 방침이다. 디지털 광고 전문기업 인크로스는 게임사들의 신작 출시 등에 따른 광고 집행 증가로...",
+   "published": "2026-11-06T17:32+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.dealsitetv.com/articles/178219",
+   "naver_url": "https://news.dealsitetv.com/articles/178219",
+   "title": "SK네트웍스, 정보통신·호텔 호조에도 3분기 실적 주춤",
+   "desc": "SK인텔릭스는 SK매직 판매 채널 경쟁력을 끌어올려 렌탈 사업의 입지를 공고히 하고 AI 기반 서비스의 사업성도 제고할 계획이다. 인크로스는 게임사들의 신작 출시에 따른 광고 집행 등을 기반으로 전년 동기 대비...",
+   "published": "2026-11-06T17:32+09:00",
+   "host": "news.dealsitetv.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12200461",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005760183?sid=103",
+   "title": "[단독] “좀 놀랐나요? 이제 시작인데요”…韓 몰려오는 中 전기차들",
+   "desc": "마케팅·딜러망·AS 핵심직책 공개 채용 이르면 1분기 출시 샤오미는 ‘속도조절’ 중국 전기차 기업 샤오펑이... 앞서 샤오펑 한국법인 엑스펑모터스코리아는 이만식 전 볼보자동차코리아 세일즈·마케팅 총괄 전무를 신임...",
+   "published": "2026-11-06T17:26+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12200663",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005760180?sid=101",
+   "title": "말레이·미국서 쑥쑥…코웨이 영업익 2608억 역대 최대",
+   "desc": "맞춤형 프로모션을 통해 얼음정수기·침대·안마의자 등 주요 제품군의 안정적 판매 흐름이 지속됐다. 해외와 마찬가지로 국내에서도 제품 다변화가 매출 성장에 기여했다. 김순태 코웨이 최고재무책임자(CFO)는...",
+   "published": "2026-11-06T17:25+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229586",
+   "naver_url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229586",
+   "title": "AI 중심 사업 전환에 속도…SK네트웍스, 3분기 영업이익 201억원",
+   "desc": "SK매직의 얼음정수기 역시 홈카페와 홈술 문화 확산에 따른 수요 증가로 전년 동기 대비 판매량이 늘었다.... 광고 전문기업 인크로스는 게임업계 신작 출시와 광고 집행 증가에 힘입어 전년 동기 대비 영업이익이 약...",
+   "published": "2026-11-06T17:22+09:00",
+   "host": "www.energy-news.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/11/06/2026110617151934287",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005437796?sid=101",
+   "title": "SK네트웍스, 3Q 영업익 201억..전년 대비 9.9%↓",
+   "desc": "광고 자회사 인크로스는 게임사들의 신작 출시 등에 따른 광고 집행 증가로 영업이익이 전년 동기 대비 약... SK매직의 얼음정수기 판매량도 전년 대비 증가했다. SK네트웍스는 AI 중심 사업지주회사로의 전환에도...",
+   "published": "2026-11-06T17:20+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1711933/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003152310?sid=101",
+   "title": "SK네트웍스, 3분기 영업익 201억원 9.9%↓…AI 전환 비용 반영",
+   "desc": "SK매직의 얼음정수기 판매량도 전년 동기 대비 증가했다. 디지털 광고 계열사 인크로스는 게임사들의 신작 출시 등에 따른 광고 집행 증가로 영업이익이 전년 동기 대비 약 50% 늘었다. AI 기반 콘텐츠 마케팅 플랫폼...",
+   "published": "2026-11-06T17:13+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2645208",
+   "naver_url": "https://www.etoday.co.kr/news/view/2645208",
+   "title": "SK네트웍스, 3분기 영업익 201억원…전년比 9.9% 감소",
+   "desc": "SK매직을 운영하는 SK인텔릭스는 얼음정수기 판매 증가에 힘입어 렌탈 사업 경쟁력을 강화하고 있다. 웰니스 로봇 브랜드 '나무엑스'는 말레이시아에서 브랜드 출시 행사를 열고 해외 시장 공략에 나섰다. 디지털...",
+   "published": "2026-11-06T17:12+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [
+    {
+     "url": "http://www.metroseoul.co.kr/article/20261106500210",
+     "host": "www.metroseoul.co.kr",
+     "published": "2026-11-06T18:12+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10928869?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002720068?sid=101",
+   "title": "SK네트웍스, 3분기 영업익 201억원…전년 대비 9.9%↓",
+   "desc": "SK매직 얼음정수기 라인은 홈카페·홈술 문화가 확산하면서 전년 대비 판매량이 늘었다. 인크로스는 게임사 신작 출시에 따른 광고 집행 증가로 영업이익이 전년 동기보다 약 50% 늘었다. AI 기반 콘텐츠 마케팅 플랫폼...",
+   "published": "2026-11-06T17:08+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261106165810231",
+   "naver_url": "https://www.ajunews.com/view/20261106165810231",
+   "title": "SK네트웍스, 3분기 영업익 9.9% 감소…AI 중심 사업 전환 가속",
+   "desc": "증가가 실적을 뒷받침했다. 워커힐은 숙박과 식음 사업 호조로 영업이익이 전년 동기보다 57% 증가한 91억원을 기록했다. 광고 계열사 인크로스도 게임 광고 집행 확대 등에 힘입어 영업이익이 약 50% 늘었다. SK매직...",
+   "published": "2026-11-06T17:04+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kpinews.kr/newsView/1065598044863292",
+   "naver_url": "https://www.kpinews.kr/newsView/1065598044863292",
+   "title": "삼성·LG 이어 로보락도 참전…가전 구독 경쟁 본격화",
+   "desc": "구독 서비스 출시로 국내 경쟁업체보다 우위를 굳히는 전략으로 풀이된다. 시장조사업체 IDC에 따르면... 지난 2024년부터 가전 구독사업을 시작한 삼성전자는 연매출 1조 원 달성을 앞두고 있다. 이달말까지 '삼성 AI...",
+   "published": "2026-11-06T16:56+09:00",
+   "host": "www.kpinews.kr",
+   "questions": [
+    "C1",
+    "S1",
+    "S3",
+    "S6",
+    "S7",
+    "X1",
+    "X3"
+   ],
+   "queries": [
+    "가전 시장 규모 국내",
+    "로보락 점유율",
+    "로보락 출시",
+    "로봇청소기 점유율 국내",
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 구독 가전 이용",
+    "에어컨 점유율 국내",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "C1",
+    "S1",
+    "S3",
+    "S6",
+    "S7",
+    "X1",
+    "X3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성·LG 이어 로보락도 참전…가전 구독 경쟁 본격화",
+    "삼성·LG 이어 로보락도 참전…가전 구독 경쟁 본격화 유태영 기자 구글에서 선호하는 출처로 추가",
+    "삼성·LG 구독 라인업 확대...중국 로보락도 진출",
+    "구독 대상 제품은 로보락의 2026년형 플래그십 로봇청소기인 '로보락 S10 맥스V 울트라(Roborock S10 MaxV Ultra)' 일반형과 직배수형 등 2종이다",
+    "지난 2022년부터 냉장고와 에어컨 등 구독 대상 서비스 범위를 대형가전으로 확대했다.",
+    "현재 에어드레서, 공기청정기, 제습기, 로봇청소기, 세탁기, 건조기, 에어컨 등 가전을 구독할 수 있다."
+   ],
+   "og_date": "2026-11-06T16:56:44+09:00"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12200602",
+   "naver_url": "https://n.news.naver.com/mnews/article/024/0000109450?sid=102",
+   "title": "Cyclical·OPI·코스피니라미 [This Week 경제용어]",
+   "desc": "Cyclical 경기에 따라 실적이 출렁이는 산업 경기 흐름과 업황의 변화에 따라 기업의 실적과 주가가 큰... 삼성전자는 2023년 반도체 사업부(DS)가 연봉의 50%를, 스마트폰 사업부(IM)와 TV·가전 사업부(CE)가 각각 연봉의 47...",
+   "published": "2026-11-06T16:56+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.topdaily.kr/articles/112765",
+   "naver_url": "https://www.topdaily.kr/articles/112765",
+   "title": "[TOP's Pick] [전자·IT] LG전자, 미국 미래 세대와 접점 넓힌다 外",
+   "desc": "◆넥슨, 신작 MMORPG ‘템빨: 오버기어드’ 11월 26일 정식 출시 넥슨은 6일 그레이게임즈가 개발 중인 신작... 또한 캐시백, 즉시할인 등 혜택을 더해 삼성전자 ‘김치플러스 스탠드형 3도어 김치냉장고(328L)’ 153만원...",
+   "published": "2026-11-06T16:52+09:00",
+   "host": "www.topdaily.kr",
+   "questions": [
+    "O2",
+    "O3",
+    "S1",
+    "S3",
+    "S5",
+    "S6"
+   ],
+   "queries": [
+    "SK인텔릭스 매장 오픈",
+    "SK인텔릭스 출시",
+    "SK인텔릭스 프로모션",
+    "삼성스토어 오픈",
+    "삼성전자 AI 가전 기능 업데이트",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 매장 오픈",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "쿠쿠전자 매장 오픈",
+    "쿠쿠전자 출시",
+    "쿠쿠전자 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kukinews.com/article/view/kuk202611060161",
+   "naver_url": "https://www.kukinews.com/article/view/kuk202611060161",
+   "title": "백화점·마트 웃은 롯데쇼핑…이커머스·가전 수익성은 숙제",
+   "desc": "누적 연결 영업이익에서 국내 백화점이 차지하는 비중은 77%에 달한다. 국내 마트의 회복을 이어가고 온라인과 가전 사업의 수익성을 높여야 백화점 중심의 이익 구조도 달라질 것으로 보인다. 롯데쇼핑 관계자는...",
+   "published": "2026-11-06T16:48+09:00",
+   "host": "www.kukinews.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/06/O24XVTXQYFBRBGZH3FP3CKOZSM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001203136?sid=105",
+   "title": "엔비디아 기술 담은 1000만원짜리 노트북… 인터넷 없이 AI 작업 ‘척척...",
+   "desc": "챗GPT·클로드·제미나이 등 클라우드 AI 서비스는 정액 구독료 외에 사용량에 따라 추가 요금을 받는다.... 현재 RTX 스파크 노트북을 선보인 6개 제조사에는 삼성전자와 LG전자가 포함되지 않는다.",
+   "published": "2026-11-06T16:46+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://sateconomy.co.kr/news/view/1065595619611496",
+   "naver_url": "https://sateconomy.co.kr/news/view/1065595619611496",
+   "title": "코웨이, 해외법인 성장에 3분기 최대 영업익…2608억원",
+   "desc": "말레이시아와 미국 등 주요 해외 시장에서 두 자릿수 매출 성장률을 기록하며 전체 실적을 견인했다. 6일 금융감독원 전자공시시스템에 따르면 코웨이는 올해 3분기 연결 기준 매출액이 1조4261억원으로 전년...",
+   "published": "2026-11-06T16:20+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026110615372621524",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002247592?sid=105",
+   "title": "K콘텐츠 해외 유통망 키운다더니…K-FAST 내년 예산 '0원'",
+   "desc": "삼성전자와 LG전자 등 스마트TV 제조사의 플랫폼을 통해 별도 유료 구독 없이 방송 채널 형태의 콘텐츠를 제공한다. 정부는 국내 콘텐츠의 해외 유통을 확대하기 위해 AI 기술을 활용한 현지화와 FAST 채널 구축을...",
+   "published": "2026-11-06T15:58+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kpinews.kr/newsView/1065594726250313",
+   "naver_url": "https://www.kpinews.kr/newsView/1065594726250313",
+   "title": "[노성열의 AI경제] AI 거품론을 돌파할 진정한 생산성 혁명은",
+   "desc": "AI 고대역폭메모리(HBM) 핵심 공급처인 삼성전자와 SK하이닉스 중심으로 대형주들이 폭락하며 지수 전체를... 자동차 공장에서 조립 공정 단계를 100개에서 70개로 줄이고 싶은지, 가전 마케팅팀에서 개인화된 무저항...",
+   "published": "2026-11-06T15:44+09:00",
+   "host": "www.kpinews.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261106000805",
+   "naver_url": "https://www.newspim.com/news/view/20261106000805",
+   "title": "코웨이, 3Q 영업익 7.3% ↑...\"신규 제품군 시너지·해외 성장\"",
+   "desc": "음식물처리기와 벽걸이 에어컨 등 여름가전 신제품들도 시장에 성공적으로 안착하며 실적 확대를 뒷받침했다. 코웨이 해외법인의 3분기 매출은 5918억 원으로 전년 동기 대비 26.2% 증가했다. 주요 법인별 분기...",
+   "published": "2026-11-06T15:44+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2023526",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001072939?sid=101",
+   "title": "냉장고도 온라인으로…가전시장 성장 이끈 온라인 쇼핑",
+   "desc": "삼성전자와 LG전자도 자체 온라인몰을 강화하며 변화에 대응하고 있다. 가전 매출 절반이 온라인... TV는 판매량 제자리인데 매출 10%↑…냉장고·건조기 희비 제품별 판매 실적도 엇갈렸다. TV 매출은 지난해...",
+   "published": "2026-11-06T15:19+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1",
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/AKR20261106151810Es3",
+   "naver_url": "https://n.news.naver.com/mnews/article/422/0000923538?sid=101",
+   "title": "코웨이, 3분기 영업이익 7.3% 늘어…매출 1조 4,261억 원",
+   "desc": "8% 늘었습니다. 김순태 코웨이 CFO는 \"국내 렌탈 계정 순증세와 해외법인의 약진을 발판 삼아 4분기에도 외형 성장과 수익성을 확보하며 중장기적인 성장 기반을 공고히 하겠다\"고 말했습니다. #코웨이",
+   "published": "2026-11-06T15:19+09:00",
+   "host": "www.yonhapnewstv.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익",
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 영업이익 7.3% 늘어…매출 1조 4,261억 원",
+    "비즈& 코웨이, 3분기 영업이익 7.3% 늘어…매출 1조 4,261억 원",
+    "코웨이는 연결 기준 올해 3분기 영업이익이 2,608억 원으로 지난해 같은 기간보다 7.3% 증가한 것으로 잠정 집계됐다고 오늘(6일) 공시했습니다.",
+    "매출은 1조 4,261억 원으로 작년 동기 대비 13.7% 늘고, 순이익은 1,115억 원으로 36.6% 줄었습니다.",
+    "3분기 코웨이 국내 사업 매출은 전년 동기 대비 2% 성장한 7,549억 원을 기록했습니다.",
+    "김순태 코웨이 CFO는 \"국내 렌탈 계정 순증세와 해외법인의 약진을 발판 삼아 4분기에도 외형 성장과 수익성을 확보하며 중장기적인 성장 기반을 공고히 하겠다\"고 말했습니다."
+   ],
+   "og_date": "2026-11-06T06:18:12Z"
+  },
+  {
+   "url": "https://www.kukinews.com/article/view/kuk202611060137",
+   "naver_url": "https://www.kukinews.com/article/view/kuk202611060137",
+   "title": "코웨이, 3Q 영업익 7.3% 증가한 2608억…“해외 거점 고른 성장”",
+   "desc": "음식물처리기와 벽걸이 에어컨 등 여름가전 신제품들도 시장에 성공적으로 안착하며 실적 확대를 뒷받침했다. 코웨이 해외법인의 3분기 매출은 5918억원으로 전년 동기 대비 26.2% 증가했다. 주요 법인별 분기...",
+   "published": "2026-11-06T15:14+09:00",
+   "host": "www.kukinews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.betanews.net/article/view/beta202611060092",
+   "naver_url": "https://www.betanews.net/article/view/beta202611060092",
+   "title": "코웨이, 3분기 매출 1조 4,261억 원…전년 대비 13.7% 증가",
+   "desc": "음식물처리기와 벽걸이 에어컨 등 여름가전 신제품들도 시장에 성공적으로 안착하며 실적 확대를 뒷받침했다. 코웨이 해외법인의 3분기 매출은 5,918억 원으로 전년 동기 대비 26.2% 증가했다. 주요 법인별 분기...",
+   "published": "2026-11-06T15:06+09:00",
+   "host": "www.betanews.net",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 매출 1조 4,261억 원…전년 대비 13.7% 증가",
+    "코웨이(대표 서장원)가 6일 오전 2026년 3분기 경영실적을 발표했다.",
+    "코웨이의 2026년 3분기 연결 기준 매출액은 1조 4,261억 원으로 전년 동기 대비 13.7% 증가했다",
+    "2026년 3분기 코웨이 국내 사업 매출은 전년 동기 대비 2.0% 성장한 7,549억 원을 기록했다",
+    "코웨이 해외법인의 3분기 매출은 5,918억 원으로 전년 동기 대비 26.2% 증가했다",
+    "한미약품 국산 첫 비만 신약 '에페' 처방 시작 뷰소닉, 4K 홈시네마 빔프로젝터 ‘X100-4K+' 구매 시 윤씨네 스크린 증정 한미약품, 두 번째 'BID' 개최…삼성증권과 신약·AI 벤처 투자 연결"
+   ],
+   "og_date": "2026-11-06T15:05:21+09:00"
+  },
+  {
+   "url": "https://www.donga.com/news/Economy/article/all/20261106/134978640/1",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003760629?sid=101",
+   "title": "LG전자, 구글 ‘애즈 임팩트 어워즈’ 2개 부문 수상…“마케팅 성과 극...",
+   "desc": "로보락과 삼성전자가 장악하고 있는 로봇청소기 시장에서 신제품 출시 초기에 소비자 인식을 끌어올린 점이 이번 수상에서 평가받은 것으로 보인다. 오성택 LG전자 한국마케팅커뮤니케이션담당(상무)은 “LG전자의...",
+   "published": "2026-11-06T14:42+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 신제품",
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2023410",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001072907?sid=101",
+   "title": "코웨이, 3분기 영업이익 2608억⋯전년比 7.3% ↑",
+   "desc": "코웨이의 3분기 국내 사업 매출은 7549억원으로 전년 동기 대비 2.0% 늘었다. '아이스 페스타', '비렉스 페스타' 등 계절별 프로모션을 통해 얼음정수기와 침대, 안마의자 등 주요 제품의 판매가 이어졌다....",
+   "published": "2026-11-06T14:30+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 영업이익 2608억⋯전년比 7.3% ↑",
+    "[아이뉴스24 황세웅 기자] 코웨이는 올해 3분기 연결 기준 매출 1조4261억원과 영업이익 2608억원을 기록했다고 6일 공시했다.",
+    "코웨이의 3분기 국내 사업 매출은 7549억원으로 전년 동기 대비 2.0% 늘었다.",
+    "관련기사 코웨이, '에어메가 마이티2' 美 타임 '최고의 발명품' 선정 코웨이, 향기·자동탈취 기능 갖춘 '룰루 더매너 비데' 출시",
+    "코웨이는 국내 렌탈 계정 확대와 해외 사업 성장세를 바탕으로 4분기에도 매출과 수익성 개선을 추진할 계획이다.",
+    "김순태 코웨이 최고재무책임자(CFO)는 \"환경가전의 견고한 수요에 신규 생활편리가전 제품군의 판매 호조가 더해지며 국내와 해외 모두 안정적인 성장 기조를 이어갔다\"며 \"4분기에도 외형 성장과 수익성을 동시에 확보하며 중장기 성장 기반을 공고히 해나가겠다\"고 말했다."
+   ],
+   "og_date": "2026-11-06T14:29:06+09:00"
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261106500146",
+   "naver_url": "https://www.news2day.co.kr/article/20261106500146",
+   "title": "롯데하이마트, ‘블프’ 최대 600만원 할인…9천원대 가전도",
+   "desc": "연말 가전 수요를 공략한다. 롯데하이마트는 오는 6일부터 30일까지 전국 매장과 온라인쇼핑몰에서... 캐시백과 즉시할인 등을 적용해 삼성전자 ‘김치플러스 스탠드형 3도어 김치냉장고(328L)’를 153만원, LG전자...",
+   "published": "2026-11-06T14:06+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "O2",
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 매장 오픈",
+    "삼성전자 가전 행사 할인",
+    "쿠쿠전자 매장 오픈"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://ditoday.com/%eb%b0%9c%ea%b2%ac%eb%90%a0-%ea%b8%b0%ed%9a%8c-%ea%b5%ac%ea%b8%80%c2%b7%eb%a9%94%ed%83%80-%eb%b0%96%ec%97%90-%ec%9e%88%eb%8b%a4-%eb%aa%b0%eb%a1%9c%ec%bd%94%ea%b0%80-%ec%a7%80%eb%aa%a9/",
+   "naver_url": "https://ditoday.com/%eb%b0%9c%ea%b2%ac%eb%90%a0-%ea%b8%b0%ed%9a%8c-%ea%b5%ac%ea%b8%80%c2%b7%eb%a9%94%ed%83%80-%eb%b0%96%ec%97%90-%ec%9e%88%eb%8b%a4-%eb%aa%b0%eb%a1%9c%ec%bd%94%ea%b0%80-%ec%a7%80%eb%aa%a9/",
+   "title": "\"발견될 기회, 구글·메타 밖에 있다\"… 몰로코가 지목한 3가지",
+   "desc": "올해 미국 CTV 광고 시장은 약 293억 달러(약 42조 원)로 소셜 비디오 광고 시장과 비슷한 규모다. 또 IAB... 그는 “300~500달러대 가전 제품이나 전기 자전거처럼 모바일 광고 한 번으로 구매를 결정하기 어려운 고관여...",
+   "published": "2026-11-06T13:56+09:00",
+   "host": "ditoday.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.mtn.co.kr/article/2026110611310382117",
+   "naver_url": "https://news.mtn.co.kr/article/2026110611310382117",
+   "title": "코웨이 3분기 영업익 2608억...미국 법인 매출 45% '급증'",
+   "desc": "미국 법인 매출이 전년 대비 45% 이상 늘어나는 등 해외 법인 매출이 회사 실적을 견인한 것으로 풀이된다.6일 김순태 코웨이 최고재무책임자(CFO)는 3분기 실적발표 컨퍼런스콜에서 \"영업이익률이 18.3%를 기록했다\"며...",
+   "published": "2026-11-06T13:08+09:00",
+   "host": "news.mtn.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이 3분기 영업익 2608억...미국 법인 매출 45% '급증' | MTN 머니투데이방송",
+    "코웨이가 올해 3분기 연결 기준 매출 1조 4261억원, 영업이익은 분기 기준 역대 최대인 2608억원으로 공시했다",
+    "미국 법인 매출이 전년 대비 45% 이상 늘어나는 등 해외 법인 매출이 회사 실적을 견인한 것으로 풀이된다.",
+    "6일 김순태 코웨이 최고재무책임자(CFO)는 3분기 실적발표 컨퍼런스콜에서 \"영업이익률이 18.3%를 기록했다\"며 \"매출 성장의 주요 요인은 해외 법인의 높은 성장세로, 전사 매출에서 미국 등 글로벌 매출이 차지하는 비중이 41.5%까지 확대됐다\"고 밝혔다.",
+    "미국 법인 매출액은 전년 동기 대비 45.8% 급증한 839억원, 영업이익률은 17.9%로 집계됐다",
+    "이번 분기 매출액이 전년 동기 대비 21.5% 성장한 4280억원으로 집계됐다"
+   ],
+   "og_date": "2026-11-06T13:07:56+09:00"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2645047",
+   "naver_url": "https://www.etoday.co.kr/news/view/2645047",
+   "title": "코웨이, 3분기 영업익 2608억 '전년比 7.3%↑'...\"전 제품 판매 호조\"",
+   "desc": "이투데이=김동효 기자 | 코웨이는 올해 3분기 연결기준 영업이익이 전년 동기 대비 7.3% 증가한 2608억원을... 음식물처리기와 벽걸이 에어컨 등 여름가전 신제품도 실적 확대를 뒷받침했다. 해외법인 매출은 지난해...",
+   "published": "2026-11-06T11:46+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 신제품",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000344736?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000542130?sid=101",
+   "title": "코웨이, 해외 매출 26% 급증…3분기 매출 1조4천억 돌파",
+   "desc": "김순태 코웨이 최고재무책임자(CFO)는 \"환경 가전의 견고한 수요에 신규 생활편리가전 제품군의 판매 호조가 더해지며 국내와 해외 모두 안정적인 성장 기조를 이어갔다\"고 밝혔습니다. 이어 \"국내 렌탈 계정...",
+   "published": "2026-11-06T11:43+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "http 403"
+  },
+  {
+   "url": "http://www.dandinews.com/news/articleView.html?idxno=17825",
+   "naver_url": "http://www.dandinews.com/news/articleView.html?idxno=17825",
+   "title": "[장상환 칼럼] 공장 매각이 회생 해법? '이누스'의 수상한 생존 전략",
+   "desc": "국내 욕실 리모델링 시장 규모는 2020년 4조 2천억원에서 2021년 5조원대로 급성장했다. 소득 수준이... 위생 가전의 도입이 보편화되고 있다. 둘째, 자연 친화적 인테리어와 휴식 (Easement)로 욕실이 '방'의 개념으로...",
+   "published": "2026-11-06T11:34+09:00",
+   "host": "www.dandinews.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261106507504?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004173058?sid=101",
+   "title": "베이비 브레짜, 네이버 '넾다세일' 키즈 판매금액 1·2위",
+   "desc": "육아가전 브랜드 베이비 브레짜(Baby Brezza)가 네이버플러스 스토어의 쇼핑 행사 '넾다세일' 키즈... 2024년 한국소비자원이 진행한 국내 분유제조기 6종 비교 시험에서는 조유농도 정확성과 조유온도 정확성 항목에서...",
+   "published": "2026-11-06T11:16+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "X4"
+   ],
+   "queries": [
+    "한국소비자원 가전 비교"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.livebiz.today/news/articleView.html?idxno=206275",
+   "naver_url": "https://www.livebiz.today/news/articleView.html?idxno=206275",
+   "title": "코웨이, 3Q 영업익 7.3% 증가한 2608억원...\"국내외 안정적 성장\"",
+   "desc": "코웨이가 주력 제품군의 안정적 판매와 해외사업 호조를 바탕으로 올해 3분기에도 견조한 실적을 이어갔다. 코웨이는 6일 연결기준 3분기 영업이익이 2608억원으로 지난해 같은 기간보다 7.3% 증가한 것으로...",
+   "published": "2026-11-06T11:06+09:00",
+   "host": "www.livebiz.today",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/06/2026110680086.html",
+   "naver_url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/06/2026110680086.html",
+   "title": "코웨이, 3분기 영업익 전년비 7.3% 증가…말레이시아·미국 성장세",
+   "desc": "김경희 기자 | 코웨이는 올해 3분기 연결 기준 매출액이 1조4261억원으로 전년 동기 대비 13.7% 증가했다고... 얼음정수기와 침대, 안마의자 등이 판매 흐름을 이어갔으며 음식물처리기와 벽걸이 에어컨 등 신제품도...",
+   "published": "2026-11-06T11:00+09:00",
+   "host": "digitalchosun.dizzo.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611060063",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611060063",
+   "title": "코웨이, 3분기 매출 1조4261억 원…전년 동기比 13.7% 증가",
+   "desc": "코웨이가 올해 3분기 국내 렌탈 계정 증가와 해외법인의 성장에 힘입어 매출 1조4261억원을 기록했다.... 제품군도 실적에 기여했다. 3분기 국내 신규 렌탈 판매량은 전년 동기 대비 7.3% 늘었다. 렌탈 계정 순증은...",
+   "published": "2026-11-06T10:56+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 매출 1조4261억 원…전년 동기比 13.7% 증가",
+    "경제·산업 입력 2026-11-06 10:55:00 수정 2026-11-06 10:55:00 정준엽 기자 0개",
+    "[서울경제TV=정준엽기자] 코웨이가 올해 3분기 국내 렌탈 계정 증가와 해외법인의 성장에 힘입어 매출 1조4261억원을 기록했다.",
+    "코웨이는 6일 연결 기준 3분기 매출액이 전년 동기 대비 13.7% 증가한 1조4261억원, 영업이익은 7.3% 늘어난 2608억원으로 집계됐다고 밝혔다.",
+    "국내 사업 매출은 7549억원으로 지난해 같은 기간보다 2% 증가했다",
+    "김순태 코웨이 최고재무책임자(CFO)는 “환경가전의 견고한 수요에 신규 생활편리가전 제품군의 판매 호조가 더해지며 국내와 해외 모두 성장 기조를 이어나갔다”며 “4분기에도 외형 성장과 수익성을 동시에 확보하며 중장기 성장 기반을 다져 나가겠다”고 말했다"
+   ]
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/172240",
+   "naver_url": "https://dealsite.co.kr/articles/172240",
+   "title": "코웨이, 국내 밀고 해외 끌고…외형·내실 '好好'",
+   "desc": "3Q 영업익 2608억, 전년比 7.3%↑…해외법인 매출 26.2% 성장 코웨이가 국내 렌탈 판매 확대와 해외법인의 성장에 힘입어 3분기 매출과 영업이익을 늘렸다. 국내에서는 신제품 효과가 더해졌고 해외에서는 말레이시아와...",
+   "published": "2026-11-06T10:54+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261106500116",
+   "naver_url": "https://www.news2day.co.kr/article/20261106500116",
+   "title": "코웨이, 3분기 영업익 7.3% 증가...해외 성장에 날개(종합)",
+   "desc": "해외법인 매출 26.2% 증가...말레이시아·미국 성장세 국내 렌탈 계정 21만4000대 순증…신제품 판매 확대 코웨이 본사 전경. [사진=코웨이] [뉴스투데이=장수지 기자] 코웨이가 올해 3분기 매출과 영업이익을 모두...",
+   "published": "2026-11-06T10:50+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065577745531845",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065577745531845",
+   "title": "코웨이, 3분기 매출 1조4261억원…해외 성장에 국내 렌탈도 확대",
+   "desc": "음식물처리기와 벽걸이 에어컨 등 신제품 판매도 국내 실적에 기여했다는 분석이다. 코웨이의 올해 1~3분기 연결 기준 누적 매출액은 4조1981억원으로, 전년 동기(3조6882억원) 대비 13.8% 증가했다. 같은 기간 연결...",
+   "published": "2026-11-06T10:50+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [
+    "확대",
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 매출 1조4261억원…해외 성장에 국내 렌탈도 확대",
+    "사회가치 공유 언론-소셜밸류 - 코웨이, 3분기 매출 1조4261억원…해외 성장에 국내 렌탈도 확대",
+    "[소셜밸류=한시은 기자] 코웨이는 올해 3분기 연결 기준 매출이 1조4261억원으로 전년 동기 대비 13.7% 증가했다고 6일 밝혔다",
+    "코웨이의 올해 1~3분기 연결 기준 누적 매출액은 4조1981억원으로, 전년 동기(3조6882억원) 대비 13.8% 증가했다",
+    "기자의 인기기사 전체보기 ▶ 삼성, 하반기 공채 GSAT 마무리…11월 면접 거쳐 신입 선발 공정위 중점조사기획단 첫 현장조사…대상·오뚜기·CJ제일제당 가격 담합 의혹 코스피 급락에 10대 그룹 시총 1100조 증발…반도체·조선주 타격",
+    "LG생활건강 피지오겔, 이이오 작가 협업 홀리데이 한정판 출시인카금융서비스, 취약계층 김장 지원에 1000만원 후원…200가구 대상배민, 정기 기부 외식업장 판로 지원…주문 할인 행사 진행한국타이어, 3분기 타이어 매출 ‘역대 최대’…한온시스템이 이익 버팀목“품질이 곧 경쟁력”…우태희 효성중공업 대표, 글로벌품질경영인대상 수상"
+   ],
+   "og_date": "2026-11-06T10:49:47+09:00"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261106055451527?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016425806?sid=101",
+   "title": "코웨이, 3분기 영업익 7.3% 증가…\"정수기 등 제품 판매 호조\"(종합)",
+   "desc": "김순태 코웨이 CFO는 \"환경 가전의 견고한 수요에 신규 생활편리가전 제품군의 판매 호조가 더해지며 국내와 해외 모두 안정적인 성장 기조를 이어갔다\"며 \"국내 렌탈 계정 순증세와 해외법인의 약진을 발판...",
+   "published": "2026-11-06T10:44+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600097.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600097.html",
+   "title": "코웨이 실적 효자 된 말레이시아 … 3분기 매출 30% 책임졌다",
+   "desc": "뉴데일리 최유경 기자 = 코웨이가 국내 렌탈 사업의 안정적인 성장과 해외법인의 실적 호조에 힘입어... '아이스 페스타', '비렉스 페스타' 등 계절별 프로모션을 통해 얼음정수기와 침대, 안마의자 등 주요 제품의...",
+   "published": "2026-11-06T10:40+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "실적",
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이 실적 효자 된 말레이시아 … 3분기 매출 30% 책임졌다 | 뉴데일리",
+    "▲ 코웨이가 국내 렌탈 사업의 안정적인 성장과 해외법인의 실적 호조에 힘입어 올해 3분기 매출과 영업이익이 모두 증가했다",
+    "코웨이는 6일 올해 3분기 연결 기준 매출 1조4261억원, 영업이익 2608억원을 기록했다고 밝혔다",
+    "코웨이 전체 매출의 30.0%, 해외법인 매출의 72.3%를 차지했다",
+    "관련기사 코웨이, ‘얼음정수기·슬립테크’ 기술력 앞세워 브랜드 경쟁력 입증 코웨이, 음처기·웨어러블 로봇까지 다각화 '잰걸음' … 매출 5조 처음으로 넘는다 코웨이, 정수기·공기청정기 ‘월 1만원’ 파격 렌탈 코웨이, 에어메가 공기청정기 美 타임 선정 ‘최고의 발명품’에 선정",
+    "미국 민주당의 상·하원 장악으로 인공지능(AI) 데이터센터 규제 강화 우려가 확산하면서 삼성전자와 SK하이닉스가 10% 넘게 폭락했고, 코스피는 장.."
+   ],
+   "og_date": "2026-11-06T10:35:43+0000"
+  },
+  {
+   "url": "https://www.mydaily.co.kr/page/view/2026110610294137139",
+   "naver_url": "https://n.news.naver.com/mnews/article/117/0004122561?sid=103",
+   "title": "코웨이, 3분기 매출·영업익 동반 성장…“해외 사업 실적 견인”",
+   "desc": "말레이시아와 미국 등 주요 해외 시장에서 성장세가 이어진 데다 국내 렌탈 계정 순증 규모도 2개 분기 연속 20만개를 웃돌며 실적을 뒷받침했다. 코웨이는 올해 3분기 연결 기준 매출 1조4261억원, 영업이익...",
+   "published": "2026-11-06T10:39+09:00",
+   "host": "www.mydaily.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적",
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 매출·영업익 동반 성장…“해외 사업 실적 견인” - 마이데일리",
+    "렌탈 계정 순증 규모 2개 분기 연속 20만개",
+    "[마이데일리 = 심지원 기자] 코웨이가 해외 법인의 고성장과 국내 렌탈 계정 확대에 힘입어 올해 3분기 역대 최대 영업이익을 달성했다",
+    "말레이시아와 미국 등 주요 해외 시장에서 성장세가 이어진 데다 국내 렌탈 계정 순증 규모도 2개 분기 연속 20만개를 웃돌며 실적을 뒷받침했다.",
+    "코웨이는 올해 3분기 연결 기준 매출 1조4261억원, 영업이익 2608억원을 기록했다고 6일 밝혔다",
+    "김순태 코웨이 최고재무책임자(CFO)는 “환경가전의 견고한 수요에 신규 생활편리가전 제품군의 판매 호조가 더해지며 국내와 해외 모두 안정적인 성장 기조를 이어나갔다”며 “국내 렌탈 계정 순증세와 해외법인의 약진을 발판 삼아 4분기에도 외형 성장과 수익성을 동시에 확보하며 중장기 성장 기반을 공고히 해나갈 것”이라고 말했다."
+   ]
+  },
+  {
+   "url": "https://www.sedaily.com/article/20111069?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004679429?sid=101",
+   "title": "코웨이, 3분기 영업익 2608억 원…역대 최대 분기 영업익",
+   "desc": "코웨이(021240)가 국내 렌탈 계정 확대와 해외 사업 성장을 바탕으로 올해 3분기 역대 최대 분기... 등 신제품도 매출에 기여했다. 해외법인 매출은 5918억 원으로 전년 동기 대비 26.2% 증가했다. 주요 법인별 분기...",
+   "published": "2026-11-06T10:37+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/living/2026/11/06/2026110610032287061",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005437570?sid=101",
+   "title": "말레이시아·미국서 쑥쑥…코웨이, 올해 첫 '5조 클럽' 유력",
+   "desc": "코웨이의 3분기 실적 호조는 해외사업이 이끌었다. 올해 3분기 해외법인 매출은 5918억원으로 지난해 같은 기간보다 26.2% 증가했다. 전체 매출에서 해외법인이 차지하는 비중은 41.5%로 지난해 동기 대비 4.1%포인트...",
+   "published": "2026-11-06T10:25+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.topdaily.kr/articles/112748",
+   "naver_url": "https://www.topdaily.kr/articles/112748",
+   "title": "코웨이, 3분기 글로벌 영토 확장…'외형·내실' 동반 성장",
+   "desc": "5%…국내 렌탈 계정 순증 21만대로 확대 코웨이가 해외법인의 고성장과 국내 렌탈 계정 확대에 힘입어... 여름가전 신제품도 매출 확대에 기여했다고 회사 측은 설명했다. 아울러 렌탈 계정 확대도 이어졌다. 3분기...",
+   "published": "2026-11-06T10:22+09:00",
+   "host": "www.topdaily.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10928195?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002719799?sid=101",
+   "title": "말레이시아·미국 “잘했어”… 코웨이, 3분기 영업익 2608억원 ‘분기 ...",
+   "desc": "0%, 인도네시아 법인은 160억원으로 21.8% 각각 성장했다. 김순태 코웨이 최고재무책임자(CFO)는 “국내 렌탈 계정 순증세와 해외법인의 성장세를 바탕으로 4분기에도 외형 성장과 수익성을 확보하겠다”고 말했다.",
+   "published": "2026-11-06T10:22+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261106_0003857536",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014305567?sid=101",
+   "title": "코웨이, 3분기 영업익 2608억…전년 대비 7.3%↑",
+   "desc": "같은 기간 렌탈 계정 순증은 21만4000대로 26.7% 성장했다. 올해 3분기 코웨이 해외법인 매출은 지난해 같은 기간보다 26.2% 늘어난 5918억원이다. 말레이시아 법인이 전년 동기 대비 21.5% 상승한 4280억원을...",
+   "published": "2026-11-06T10:20+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611061015267085",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005600440?sid=101",
+   "title": "\"매출 5조·이익 1조 보인다\" 코웨이 3분기 실적도 순항",
+   "desc": "코웨이의 3·4분기 국내 사업 매출은 전년 동기 대비 2.0% 성장한 7549억원이었다. '아이스 페스타', '비렉스 페스타' 등 프로모션을 통해 얼음정수기와 매트리스, 안마의자 등의 안정적인 판매 흐름이 이어졌다. 같은...",
+   "published": "2026-11-06T10:18+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "실적",
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "\"매출 5조·이익 1조 보인다\" 코웨이 3분기 실적도 순항 - 파이낸셜뉴스",
+    "[파이낸셜뉴스] 코웨이의 연간 첫 매출 5조원, 영업이익 1조원 달성에 파란불이 켜졌다.",
+    "6일 전자공시시스템에 따르면 코웨이는 올해 3·4분기 매출이 전년 동기 대비 13.7% 늘어난 1조4261억원을 기록했다",
+    "코웨이의 3·4분기 국내 사업 매출은 전년 동기 대비 2.0% 성장한 7549억원이었다",
+    "코웨이의 3·4분기 해외 매출은 5918억원으로 전년 동기 대비 26.2% 증가했다",
+    "특히 코웨이는 올해 창사 이래 처음 매출 5조원 달성이 유력한 상황이다"
+   ],
+   "og_date": "2026-11-06T10:18:03+09:00"
+  },
+  {
+   "url": "https://www.news1.kr/industry/sb-founded/6345224",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009273904?sid=101",
+   "title": "\"말레이시아 끌고 美·태국 밀고\"…코웨이, 분기 영업익 역대 최대",
+   "desc": "음식물처리기와 벽걸이 에어컨 등 여름가전 신제품도 실적 확대에 힘을 보탰다는 게 회사 설명이다. 김순태 코웨이 최고재무책임자(CFO)는 \"환경가전의 견고한 수요에 신규 생활편리가전 제품군의 판매 호조가...",
+   "published": "2026-11-06T10:12+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026110610121264398",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005839012?sid=101",
+   "title": "코웨이, 말련·태국 성과로 3분기 실적 ‘껑충’",
+   "desc": "음식물처리기와 벽걸이 에어컨 등 여름 가전 신제품들도 시장에 성공적으로 안착하며 실적 확대를 뒷받침했다. 김순태 코웨이 최고재무책임자(CFO)는 \"환경 가전의 견고한 수요에 신규 생활편리 가전 제품군의 판매...",
+   "published": "2026-11-06T10:12+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 말련·태국 성과로 3분기 실적 ‘껑충’",
+    "코웨이 코웨이 close 증권정보 021240 KOSPI 현재가 106,300 전일대비 3,500 등락률 -3.19% 거래량 39,233 전일가 109,800 2026.11.06 09:55 기준 관련기사 코웨이, 국내외 고른 성장 힘입어 2분기 사상 최대 실적 이억원 \"기업가치 제고 공시 경영의 나침반 돼야\" 코웨이, 1분기 영업이익 2509억원…전년比 19%↑ 전 종목 시세 보기 가 말레이시아, 태국 등에서 거둔 성과에 힘입어 3분기 호실적을 기록했다.",
+    "코웨이는 6일 2026년 3분기 경영실적을 발표하며 연결 기준 매출액은 1조4261억원, 영업이익은 2608억원을 기록했다고 밝혔다",
+    "코웨이 해외법인 3분기 매출은 5918억원으로 전년 동기 대비 26.2% 증가했다",
+    "3분기 코웨이 국내 사업 매출은 전년 동기 대비 2.0% 성장한 7549억원을 기록했다",
+    "김순태 코웨이 최고재무책임자(CFO)는 \"환경 가전의 견고한 수요에 신규 생활편리 가전 제품군의 판매 호조가 더해지며 국내와 해외 모두 안정적인 성장 기조를 이어나갔다\"며 \"국내 렌털 계정 순증세와 해외법인의 약진을 발판 삼아, 4분기에도 외형 성장과 수익성을 동시에 확보하며 중장기 성장 기반을 공고히 해나가겠다\"고 말했다."
+   ],
+   "og_date": "2026-11-06T10:12:13+0900"
+  },
+  {
+   "url": "https://www.peoplewatch.co.kr/article/view/ppw202611060007",
+   "naver_url": "https://www.peoplewatch.co.kr/article/view/ppw202611060007",
+   "title": "코웨이, 3분기 영업익 2608억…전년比 7.3% 증가",
+   "desc": "6일 코웨이의 잠정 실적 공시에 따르면 올해 3분기 연결 기준 매출액은 1조4261억원으로 전년 동기 대비 13.7% 증가했다. 영업이익은 2608억원으로 7.3% 늘었다. 직전 분기와 비교해도 영업이익은 개선됐다. 매출은...",
+   "published": "2026-11-06T10:12+09:00",
+   "host": "www.peoplewatch.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261106000088",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003482923?sid=105",
+   "title": "코웨이, 3분기 영업이익 2608억원…분기 기준 역대 최대치",
+   "desc": "코웨이가 해외 법인 성장과 렌탈 계정 확대에 힘입어 3분기 역대 최대 영업이익을 달성했다. 코웨이는 3분기 매출 1조4261억원, 영업이익 2608억원을 기록했다고 6일 공시했다. 매출은 전년 동기 대비 13.7...",
+   "published": "2026-11-06T10:07+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 영업이익 2608억원…분기 기준 역대 최대치 - 전자신문",
+    "코웨이가 해외 법인 성장과 렌탈 계정 확대에 힘입어 3분기 역대 최대 영업이익을 달성했다.",
+    "코웨이는 3분기 매출 1조4261억원, 영업이익 2608억원을 기록했다고 6일 공시했다",
+    "코웨이 국내 사업 3분기 매출은 7549억원으로, 전년 동기보다 2% 성장했다",
+    "코웨이 해외 법인 3분기 매출은 5918억원으로, 전년 동기 대비 26.2% 늘었다",
+    "코웨이 올해 1~3분기 누적 매출은 4조1981억원, 영업이익은 7650억원이다"
+   ],
+   "og_date": "2026-11-06T10:06:42+09:00"
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1711652/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003152083?sid=101",
+   "title": "코웨이, 3분기 영업익 2608억원…해외 매출 26% 증가",
+   "desc": "음식물처리기와 벽걸이 에어컨 등 여름가전 신제품도 매출 확대에 기여했다. 코웨이는 국내 렌털 계정 증가세와 해외 주요 법인의 성장 흐름을 바탕으로 4분기에도 실적 확대를 추진할 계획이다. 김순태 코웨이...",
+   "published": "2026-11-06T10:05+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 실적",
+    "코웨이 판촉",
+    "코웨이 프로모션"
+   ],
+   "also": [
+    {
+     "url": "https://www.ajunews.com/view/20261106110309248",
+     "host": "www.ajunews.com",
+     "published": "2026-11-06T11:08+09:00"
+    }
+   ],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 3분기 영업익 2608억원…해외 매출 26% 증가",
+    "코웨이가 해외 사업의 성장과 국내 렌털 계정 확대에 힘입어 올해 3분기 두 자릿수 매출 증가율을 기록했다",
+    "코웨이는 6일 올해 3분기 연결 기준 매출 1조4261억원, 영업이익 2608억원을 기록했다고 밝혔다",
+    "코웨이는 국내 렌털 계정 증가세와 해외 주요 법인의 성장 흐름을 바탕으로 4분기에도 실적 확대를 추진할 계획이다.",
+    "김순태 코웨이 최고재무책임자(CFO)는 \"환경가전의 견고한 수요에 신규 생활편리가전 제품군의 판매 호조가 더해지며 국내와 해외 모두 안정적인 성장 기조를 이어나갔다\"며 \"국내 렌털 계정 순증세와 해외법인의 약진을 발판 삼아 4분기에도 외형 성장과 수익성을 동시에 확보하겠다\"고 말했다.",
+    "'20만 전자' 무너진 날…노태문, 삼성전자 주식 6.3억원 매입"
+   ],
+   "og_date": "2026-11-06T10:04:00+09:00"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20111042?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004679412?sid=103",
+   "title": "봉준호 신작 애니 보증한 FFI “흥행 아닌 완성보증으로 K콘텐츠 글로벌...",
+   "desc": "76년 역사의 필름 파이낸스와 미디어 개런터스의 사업을 합쳐 연간 전 세계 영화·TV 프로젝트 100~140편을... FFI는 한국 시장에서의 사업 확대 가능성도 살펴보고 있다. 밀스타인은 과거 일본과 중국에서 사무소를 운영한...",
+   "published": "2026-11-06T10:05+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611060957483391",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005600427?sid=101",
+   "title": "롯데하이마트, 30일까지 '하이마트 블프'…가전 할인 총공세",
+   "desc": "주요 행사 상품은 삼성전자 '김치플러스 스탠드형 3도어 김치냉장고(328L)' 153만원, LG전자 '디오스... 이사·혼수 가전 구매 고객을 겨냥한 'LG 연말결산 FESTA'도 전국 매장에서 진행한다. LG전자 '디오스 AI...",
+   "published": "2026-11-06T10:02+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O2",
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 매장 오픈",
+    "삼성전자 가전 행사 할인",
+    "쿠쿠전자 매장 오픈"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 15,
+  "B": 51,
+  "C": 1,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 15,
+  "ok": 14,
+  "실패": 1
+ }
+}
