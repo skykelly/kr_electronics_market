@@ -1,0 +1,472 @@
+{
+ "date": "2026-11-08",
+ "collected_at": "2026-11-08T07:45+09:00",
+ "lookback_days": 14,
+ "count": 14,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2400,
+   "in_window": 1282,
+   "kept": 4,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 196,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 500,
+   "in_window": 134,
+   "kept": 1,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 938,
+   "in_window": 73,
+   "kept": 1,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1222,
+   "in_window": 173,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1400,
+   "in_window": 582,
+   "kept": 0,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1681,
+   "in_window": 644,
+   "kept": 2,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1181,
+   "in_window": 247,
+   "kept": 0,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1047,
+   "in_window": 63,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1073,
+   "in_window": 47,
+   "kept": 1,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1137,
+   "in_window": 74,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1049,
+   "in_window": 20,
+   "kept": 0,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1947,
+   "in_window": 23,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 1800,
+   "in_window": 898,
+   "kept": 0,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1948,
+   "in_window": 113,
+   "kept": 1,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1843,
+   "in_window": 219,
+   "kept": 1,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 93,
+   "kept": 1,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 219,
+   "kept": 0,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 40,
+   "kept": 1,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 72,
+   "kept": 1,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 56,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://economist.co.kr/article/view/ecn202611030024",
+   "naver_url": "https://n.news.naver.com/mnews/article/243/0000105349?sid=101",
+   "title": "사라진 이건희의 ‘삼각축’…이재용은 삼성을 어떻게 움직이나",
+   "desc": "사상 최대 실적을 내는 지금의 삼성은 누가, 어떤 방식으로 움직이고 있을까. ‘이재용의 삼성’은 무엇이... 대신 삼성전자에서는 반도체를 담당하는 DS부문과 스마트폰·TV·가전 등을 맡는 DX부문 등 각 사업을 책임지는...",
+   "published": "2026-11-08T07:00+09:00",
+   "host": "economist.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261106_0003858456",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014308273?sid=101",
+   "title": "\"로봇 '손'부터 '두뇌'까지\"…삼성·LG전자, 핵심기술력 강화 '속도'",
+   "desc": "삼성전자와 LG전자가 로봇의 정교한 움직임과 판단 능력을 구현하기 위한 핵심기술 확보에 속도를 내고... LG전자는 올해 초 로봇용 액추에이터 브랜드 '악시움(AXIUM)'을 공개하고 관련 부품 사업 확대에 나섰다. 가전에서...",
+   "published": "2026-11-08T07:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.joongang.co.kr/article/25476638",
+   "naver_url": "https://n.news.naver.com/mnews/article/025/0003563534?sid=101",
+   "title": "하루씩 갚거나 월세 내거나…비싸진 스마트폰, 이렇게 판다",
+   "desc": "삼성전자가 지난해 1월 출시한 ‘뉴(New) 갤럭시 AI 구독클럽’은 자급제폰 구매자가 월 이용료를 내고 일정 기간 사용한 기기를 조건에 맞게 반납하면 출시 시점 삼성닷컴 기준가의 최대 50%를 보상해준다. 예를 들어...",
+   "published": "2026-11-08T06:00+09:00",
+   "host": "www.joongang.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261107031000003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016428421?sid=101",
+   "title": "삼전·현대차 첫 그룹간 교류…이재용·정의선 등 177명 총출동",
+   "desc": "생활가전을 원격으로 제어할 수 있는 '카투홈' 서비스를 올해 초부터 개시했다. 올해 하반기 출시된 제네시스 GV90에는 삼성SDI의 각형 배터리가 탑재됐으며, 지난해에는 삼성전자 파운드리사업부가 현대차의 자체 개발...",
+   "published": "2026-11-08T05:55+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.bntnews.co.kr/article/view/bnt202611070008",
+   "naver_url": "https://www.bntnews.co.kr/article/view/bnt202611070008",
+   "title": "대형마트 휴무일, 이마트·롯데마트·홈플러스·코스트코 ‘쉬는 날’",
+   "desc": "폐지, 오픈시간, 영업시간, 할인정보 등 소비자들은 궁금한게 많다. 대형마트의 평소 오픈시간과... 행사 기간 에코백스 로봇청소기는 행사카드 결제 시 49만9000원, 쿠쿠 음식물처리기는 24만9000원에 판매한다. 이마트는...",
+   "published": "2026-11-08T00:02+09:00",
+   "host": "www.bntnews.co.kr",
+   "questions": [
+    "C3"
+   ],
+   "queries": [
+    "에코백스 매장 오픈"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.elle.co.kr/article/1912264",
+   "naver_url": "https://www.elle.co.kr/article/1912264",
+   "title": "1992년부터 2026년까지, 뷰티 유행은 돌고 돕니다",
+   "desc": "장착한 다이슨 에어랩 i.d. 멀티 스타일러 앤 드라이어 버건디 우드, 62만9천원, Dyson. 4 브랜드를 대표하는 최상급 아르간 오일은 그대로, 오일 미스트 타입으로 출시돼 공기처럼 가벼운 포뮬러가 모발에 사르르...",
+   "published": "2026-11-07T22:36+09:00",
+   "host": "www.elle.co.kr",
+   "questions": [
+    "O4"
+   ],
+   "queries": [
+    "다이슨코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1172719",
+   "naver_url": "https://www.wikitree.co.kr/articles/1172719",
+   "title": "삼성 갤럭시 스마트태그3 미국 판매 시작…아이폰 지원, 컴퍼스 뷰는 갤...",
+   "desc": "삼성전자의 위치 추적기 갤럭시 스마트태그3(Galaxy SmartTag 3)가 미국에서 판매를 시작했다. 가격은 1개 29.... 스마트태그3는 갤럭시 기기와 아이폰에서 쓸 수 있으며, 아이폰 사용자는 삼성 지원 채널에서 스마트싱스...",
+   "published": "2026-11-07T22:10+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "S3"
+   ],
+   "queries": [
+    "삼성전자 스마트싱스 발표"
+   ],
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "q_title": [
+    "S3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 갤럭시 스마트태그3 미국 판매 시작…아이폰 지원, 컴퍼스 뷰는 갤럭시 전용 | 위키트리",
+    "삼성 갤럭시 스마트태그3, 미국서 1개 29.99달러·4개입 99.99달러에 판매 시작",
+    "샘미구루(SammyGuru)와 가젯해크스가 전한 삼성 설명에 따르면 부피는 SmartTag2보다 약 35% 작고 무게는 33% 가볍다",
+    "배터리는 일반 사용 기준 최대 550일, 절전 모드에서는 최대 790일로 삼성이 밝혔다",
+    "삼성은 이 네트워크에 전 세계 9억 대 이상의 기기가 참여한다고 밝혔다",
+    "샘미구루에 따르면 삼성은 2027년 추가 시장에 스마트태그3를 내놓을 계획이며 인도는 1월 출시가 예상된다."
+   ],
+   "og_date": "2026-11-07T22:04:00+09:00"
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0102_202611071433539327",
+   "naver_url": "https://n.news.naver.com/mnews/article/052/0002429630?sid=101",
+   "title": "'블루 쓰나미'에 퍼렇게 질린 증시...짓눌린 자산시장 향방은?",
+   "desc": "3분 실적 컨퍼런스콜을 보면 삼성전자와 SK하이닉스가 몇 년치 물량의 HBM을 계약해놨다는 얘기를 하고... 칩플레이션, 가전제품, PC, 노트북 만들던 업체가 불만 제기하고 있어요. 가격이 너무 높아서 단가를 낮추기 전에는...",
+   "published": "2026-11-07T14:33+09:00",
+   "host": "www.ytn.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261107_0003858823",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014307712?sid=101",
+   "title": "반도체 폭락에도 끝난 건 아니다…다음 주 반등 가를 핵심 변수는",
+   "desc": "지난 6일 구독자 약 304만명의 유튜브 채널 '삼프로TV'의 주식 전망 프로그램 '주린이 구조대'에는 유창희... 조선과 자동차 등 새로운 주도 업종이 등장할 수 있지만, 삼성전자와 SK하이닉스의 주가가 계속 하락하는 상황으로...",
+   "published": "2026-11-07T12:49+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://wemakenews.co.kr/news/view.php?no=26775",
+   "naver_url": "https://wemakenews.co.kr/news/view.php?no=26775",
+   "title": "SK네트웍스, 3분기 영업이익 201억원…전사 AI 전환 속도",
+   "desc": "탑재했다.SK매직의 얼음정수기 판매도 증가했다. 홈카페와 홈술 문화 확산으로 차별화된 제빙 기능을 갖춘... SK네트웍스 삼일빌딩 전경 사진=SK네트웍스 제공 디지털 광고기업 인크로스는 게임업계 신작 출시와 광고...",
+   "published": "2026-11-07T12:34+09:00",
+   "host": "wemakenews.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "영업이익"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1171848",
+   "naver_url": "https://www.wikitree.co.kr/articles/1171848",
+   "title": "입구 꽉 묶으면 안 됩니다… 욕실화 비닐봉지 세척법, '이것'만 지키세...",
+   "desc": "따라서 구입할 때는 용도와 성분 표시를 함께 확인한다.사용 순서는 다음과 같다. 창문이나 문을 열고... / AI 생성 이미지욕실화는 대형폐기물로 신고할 물건도 아니다. 대형폐기물은 가구나 가전처럼 종량제봉투에 담기...",
+   "published": "2026-11-07T12:20+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "X2"
+   ],
+   "queries": [
+    "AI 표시 기준 가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20111356?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004679722?sid=101",
+   "title": "“연말 쇼핑 대목 잡아라”…‘블프’ 시동 거는 유통업계[똑똑! 스마슈...",
+   "desc": "대형 가전부터 소형 생활가전까지 다양한 제품을 특가에 선보인다. 롯데하이마트는 15일까지 30만 원 이상 구매 고객을 대상으로 1만 원 할인쿠폰을 선착순 제공한다. 또한 캐시백, 즉시할인 등 혜택을 더해 삼성전자...",
+   "published": "2026-11-07T12:00+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "O2",
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "쿠쿠전자 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.siminsori.com/news/articleView.html?idxno=402297",
+   "naver_url": "https://www.siminsori.com/news/articleView.html?idxno=402297",
+   "title": "[신건호의 서치라이트 응답하라] 웅얼거리지 말고 국민이 알아듣도록 말...",
+   "desc": "미국, 중국, 독일에 이어 네 번째로 연간 1조 달러 수출을 눈앞에 두고 있다. 그 중심에 반도체가 있다.... 인공지능 확산과 메모리 반도체 수요 증가가 실적을 끌어올렸고, 세계 시장에서 한국 반도체의 존재감을 확실히...",
+   "published": "2026-11-07T10:00+09:00",
+   "host": "www.siminsori.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261107502290?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004173215?sid=101",
+   "title": "입동에 패딩 최대 84% 할인…쿠팡·네이버·G마켓까지 11월 쇼핑 할인전",
+   "desc": "행사 첫날 대표 상품으로는 삼성전자 비스포크 AI 냉장고와 HP 게이밍 노트북, 애플 아이패드 에어... 8일에는 롯데웰푸드와 협업해 빼빼로 기획상품을 특가에 판매한다. '빼빼로 아몬드' 구매 고객에게는 몰티즈와...",
+   "published": "2026-11-07T08:52+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "queries": [
+    "삼성닷컴 기획전",
+    "삼성닷컴 기획전 가전",
+    "삼성전자 가전 삼성닷컴 단독 혜택",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 비스포크 협업"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 1,
+  "B": 13,
+  "C": 0,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 1,
+  "ok": 1,
+  "실패": 0
+ }
+}
