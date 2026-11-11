@@ -1,0 +1,1396 @@
+{
+ "date": "2026-11-11",
+ "collected_at": "2026-11-11T09:02+09:00",
+ "lookback_days": 14,
+ "count": 51,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2300,
+   "in_window": 1273,
+   "kept": 14,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 181,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 500,
+   "in_window": 127,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 940,
+   "in_window": 70,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1122,
+   "in_window": 89,
+   "kept": 1,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1300,
+   "in_window": 472,
+   "kept": 2,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1581,
+   "in_window": 647,
+   "kept": 3,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1182,
+   "in_window": 238,
+   "kept": 1,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 57,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1074,
+   "in_window": 35,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1137,
+   "in_window": 37,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1053,
+   "in_window": 23,
+   "kept": 1,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1953,
+   "in_window": 33,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 2100,
+   "in_window": 1112,
+   "kept": 16,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1949,
+   "in_window": 113,
+   "kept": 3,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1849,
+   "in_window": 249,
+   "kept": 1,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 112,
+   "kept": 1,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 220,
+   "kept": 4,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 31,
+   "kept": 1,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 74,
+   "kept": 3,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 43,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "http://www.hortitimes.com/news/articleView.html?idxno=34499",
+   "naver_url": "http://www.hortitimes.com/news/articleView.html?idxno=34499",
+   "title": "\"생맥주와 찰떡궁합\"… 크라운호프 보리장인, '콰삭 쌀 순살치킨' 포함...",
+   "desc": "경품으로는 순금 3돈, 아이폰 듀오, 로보락 로봇청소기 등 푸짐한 상품이 마련되어 있다. 크라운호프 보리장인 관계자는 \"이번 신메뉴 출시는 콰삭 쌀 순살치킨을 필두로 매장을 찾는 고객들이 48시간 저온 숙성고에서 갓...",
+   "published": "2026-11-11T09:00+09:00",
+   "host": "www.hortitimes.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시",
+    "로보락 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1713387/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003153677?sid=101",
+   "title": "출시 1년 '나무엑스', 집 밖으로…SK인텔릭스, 시니어케어·해외 공략",
+   "desc": "SK인텔릭스는 출시 이후 일반 소비자(B2C) 중심에서 기업(B2B)과 공공기관(B2G)으로 사업 범위를 확대해 왔다. 지난 9월에는 말레이시아 시장에 진출하며 해외 사업에도 첫발을 내디뎠다. 서비스 기능도 지속적으로...",
+   "published": "2026-11-11T08:55+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "출시 1년 '나무엑스', 집 밖으로…SK인텔릭스, 시니어케어·해외 공략",
+    "나무엑스(NAMUHX) 런칭1주년 기념 이벤트 포스터ⓒSK인텔릭스",
+    "SK인텔릭스는 나무엑스 출시 1주년을 기념해 오는 30일까지 고객 감사 이벤트 '해피 엑스데이(Happy X-DAY)'를 진행한다고 11일 밝혔다",
+    "SK인텔릭스는 지난 5일 대상웰라이프, 한강시스템, 렉스소프트와 시니어케어 솔루션 공동 개발 및 실증을 위한 4자 업무협약(MOU)을 체결했다",
+    "김형진 SK인텔릭스 나무엑스사업본부장은 지난 3일 열린 사업 설명회에서 \"웰니스 로봇 비즈니스 모델의 경쟁력 제고를 위해 선택과 집중을 강화할 것\"이라며 \"자율주행 기술을 고도화하고 로봇 LLM 기반 인지·판단 기술 경쟁력을 강화해 웰니스 서비스를 확대하는 한편 플랫폼 비즈니스 모델을 확장해 나가겠다\"고 밝혔다.",
+    "한편 SK인텔릭스는 이번 1주년 이벤트 기간 나무엑스를 신규 구독하는 고객 전원에게 네이버페이 20만 포인트와 무선 에어센서를 증정한다"
+   ],
+   "og_date": "2026-11-11T08:54:00+09:00"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2646552",
+   "naver_url": "https://www.etoday.co.kr/news/view/2646552",
+   "title": "삼성전자·ABB, 스마트 빌딩 솔루션 협력 확대…상업용 건물 통합 관리",
+   "desc": "소매점, 호텔, 레스토랑 체인, 아파트 등 상업용 건물을 대상으로 양사의 기술을 결합한 통합 빌딩 솔루션을 제공한다고 11일 밝혔다. 이번 협력은 삼성전자의 냉난방공조(HVAC) 솔루션과 디스플레이, 가전제품에 ABB의...",
+   "published": "2026-11-11T08:24+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "S5"
+   ],
+   "queries": [
+    "삼성전자 가전 B2B 호텔 아파트 공급"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "S5"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자·ABB, 스마트 빌딩 솔루션 협력 확대…상업용 건물 통합 관리 - 이투데이",
+    "이투데이 산업 전자/통신/IT 삼성전자·ABB, 스마트 빌딩 솔루션 협력 확대…상업용 건물 통합 관리",
+    "▲박찬우(왼쪽) 삼성전자 B2B통합오퍼링센터 부사장 마이크 무스타파 ABB 스마트 빌딩 사업부 사장. (사진제공=ABB)",
+    "삼성전자와 ABB는 사무실, 소매점, 호텔, 레스토랑 체인, 아파트 등 상업용 건물을 대상으로 양사의 기술을 결합한 통합 빌딩 솔루션을 제공한다고 11일 밝혔다.",
+    "국내 상장사 소액주주 수 1580만명↑⋯삼성전자가 ‘1위’ [전날 애프터마켓] 삼성전자·SK하이닉스 약세 전환…알테오젠 등은 낙폭 키워 삼성전자 17%·하이닉스 22% 하락…美 빅테크와 디커플링 속 반등 열쇠는? 글로벌 스테이블코인 경쟁 본격화∙∙∙결제망 선점∙규제 정비가 관건",
+    "삼성복지재단, ‘작가의 비밀정원’ 전시…역대 최다 97명 참여"
+   ],
+   "og_date": "2026-11-11T08:22:00+09:00"
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/172383",
+   "naver_url": "https://dealsite.co.kr/articles/172383",
+   "title": "[웅진 렉스필드 매각] 차마 못 놓는 '애지중지' 렉스필드…윤석금의 연...",
+   "desc": "채무 변제를 위해 코웨이와 웅진식품, 웅진케미칼 등 핵심 계열사를 잇달아 처분하면서도 골프장만큼은... 그룹 실적에서도 인수 후유증이 완연히 드러나고 있다. 웅진의 올해 상반기 연결 기준 이자비용은 416억원으로...",
+   "published": "2026-11-11T07:42+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111019315064104",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005840840?sid=102",
+   "title": "R&D에 힘싣는 코웨이…2032년까지 과천에 대규모 R&D 센터 건립",
+   "desc": "코웨이는 올해 가정용 의료기기 브랜드 '테라솔'을 론칭하고 요실금 치료 의료기기, 개인용 저주파 자극기 등을 잇달아 출시하며 렌털 제품군을 다변화했다. 최근에는 시니어를 비롯한 보행약자를 위한 '보행보조...",
+   "published": "2026-11-11T07:30+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261110500430",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261110500430",
+   "title": "메트로신문 11월11일자 한줄뉴스",
+   "desc": "<산업> ▲삼성그룹과 LG그룹 계열사들이 세계 최대 가전·정보기술(IT) 전시회 'CES 2027'에서 잇따라 혁신상을... 의약품 시장조사기관 유비스트에 따르면, 국내 소화성궤양용제 시장 규모는 2019년 8001억원에서 2025년...",
+   "published": "2026-11-11T07:02+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2024725",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001073935?sid=101",
+   "title": "\"TV만으론 안 된다\"…홈쇼핑 '생존 셈법'",
+   "desc": "3분기 TV 취급고는 전년 동기 대비 14.1% 증가한 3630억원을 기록한 반면 온라인 취급고는 6.1% 감소한... 가전 등 고가 상품을 통한 외형 확대보다 뷰티·패션·건강기능식품 등 상대적으로 이익률이 높은 상품군의...",
+   "published": "2026-11-11T07:01+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.nocutnews.co.kr/news/6604991?utm_source=naver&utm_medium=article&utm_campaign=20261111070054",
+   "naver_url": "https://n.news.naver.com/mnews/article/079/0004208481?sid=100",
+   "title": "하어영 \"김민석, 민티와 의총 불참 이유? 신천지 내홍 의식\"[한판승부]",
+   "desc": "게 중국은 부인했고 사실 이 여성에 대한, 처음에는 뭐 CCTV부터 시작해서 후난TV. ◇ 박재홍> 기자. ◆ 하어영... 삼전닉스가 한국의 주식 시장뿐만 아니라 경제를 막 그냥 주도하고 있는 상황이기 때문에. ◇ 박재홍> 주식이...",
+   "published": "2026-11-11T07:01+09:00",
+   "host": "www.nocutnews.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261110_0003862812",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014314393?sid=101",
+   "title": "'5천피 이탈' 겪은 코스피…증권가 '바닥론' 공방 팽팽",
+   "desc": "건강관리, 가전 등 업종을 추천했다. 김선우 메리츠증권 연구원은 \"이번 주가 급락은 AI 경쟁의 본질 속, '정치적 언어'에 과장된 반응\"이라며 \"현 시점은 2024년말 2025년초 삼성전자 주가가 PBR 1배 수준에 도달했던 상황과...",
+   "published": "2026-11-11T07:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261110500968",
+   "naver_url": "https://www.viva100.com/article/20261110500968",
+   "title": "선풍기·밥솥 잊어라⋯ 신일·쿠쿠·앳홈, 새 먹거리 ‘홈 뷰티’ 도전...",
+   "desc": "색상으로 출시됐다. 신일전자는 소비자 반응과 시장 수요 등을 살펴 본 뒤 뷰티 디바이스 제품군 확대 여부를 검토할 계획이다. 쿠쿠는 2021년 LED 마스크 출시를 시작으로 헤어드라이어와 헤어 아이론 등 뷰티 가전제품을...",
+   "published": "2026-11-11T06:08+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 신제품",
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20112641?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004680817?sid=101",
+   "title": "쿠쿠, 7중 안전장치 갖춘 ‘가열식 가습기’ 출시",
+   "desc": "쿠쿠(쿠쿠홈시스(284740))가 본격적인 겨울철을 앞두고 끓인 물로 위생적인 가습을 돕는 한편 안전성을 높인 ‘가열식 가습기’를 출시한다고 11일 밝혔다. 신제품은 쿠쿠의 압력밥솥 제어 기술을 적용한 무압 가열 방식이...",
+   "published": "2026-11-11T06:01+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠홈시스 신제품",
+    "쿠쿠홈시스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠, 7중 안전장치 갖춘 ‘가열식 가습기’ 출시 | 서울경제",
+    "[{\"CODE_TYPE\":\"T\",\"CODE_ID\":\"284740\",\"PRE_GAP\":0,\"MIDDLE_CODE_ID\":\"\",\"ISSUE_URL\":null,\"MIDDLE_CODE_NM\":\"\",\"MAPPING_CODE_ID\":\"\",\"ORD_NO\":1,\"MAPPING_CODE_NAME\":\"\",\"CATEGORY\":null,\"LARGE_CODE_ID\":\"\",\"MAPPING_URL\":\"\",\"LARGE_CODE_NM\":\"\",\"CODE_NM\":\"쿠쿠홈시스\"}]",
+    "쿠쿠, 7중 안전장치 갖춘 ‘가열식 가습기’ 출시",
+    "쿠쿠(쿠쿠홈시스(284740))가 본격적인 겨울철을 앞두고 끓인 물로 위생적인 가습을 돕는 한편 안전성을 높인 ‘가열식 가습기’를 출시한다고 11일 밝혔다",
+    "신제품은 쿠쿠의 압력밥솥 제어 기술을 적용한 무압 가열 방식이 특징이다",
+    "쿠쿠 관계자는 “밥솥의 압력을 제어해 온 쿠쿠만의 기술력을 바탕으로 가열식 가습기의 위생적인 장점은 살리고 안전에 대한 우려는 덜어낸 신제품을 선보이게 됐다”며 “앞으로도 계절별 생활 환경 변화에 맞춰 소비자의 일상을 더욱 건강하고 편안하게 만드는 제품을 꾸준히 선보일 것”이라고 말했다 쿠쿠 가열식 가습기."
+   ],
+   "og_date": "2026-11-11T06:00:00+09:00"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261110_0003862530",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014314353?sid=105",
+   "title": "AI폰 샀는데 매달 또 돈 내야 하나…삼성·애플, '무료 AI'에 선 그을까",
+   "desc": "삼성전자의 갤럭시 AI에서 월 4.99달러 구독제 도입을 검토하는 정황이 포착됐다. 이미 애플도 시리 AI 등 일부 기능에 사용량 제한을 두고 추가 이용을 유료로 제공하겠다는 방침을 내놓은 상태다. 당장 기존 AI 기능이...",
+   "published": "2026-11-11T06:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111104324835300",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005840813?sid=101",
+   "title": "보람그룹, '상조 4.0' 본격화…토탈 라이프케어 전환 속도",
+   "desc": "가입 이후 장례서비스를 이용하기까지 고객이 일상에서 체감할 수 있는 혜택을 늘려 토탈 라이프케어... 대표적인 사례는 삼성전자·삼성카드와 협업해 선보인 가전 제휴형 상조상품 'B&케어팩'이다. 소비자가 삼성스토어...",
+   "published": "2026-11-11T04:32+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/11/AJJCY33CRVEH7PP2J4QWUD3NBA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "naver_url": "https://n.news.naver.com/mnews/article/023/0004008861?sid=105",
+   "title": "옷·신발처럼… 입는 로봇도 착용해보고 산다",
+   "desc": "국내에서는 코웨이가 최근 위로보틱스와 공동 개발한 1.6㎏짜리 보행 보조 웨어러블 로봇을 출시했다. 전국 코웨이갤러리에서 착용해볼 수 있고 3·6·12개월 단기 렌털도 가능하다. 국내 웨어러블 로봇 솔루션 업체...",
+   "published": "2026-11-11T00:35+09:00",
+   "host": "www.chosun.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.tf.co.kr/read/economy/2387031.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000550623?sid=105",
+   "title": "LG헬로비전, 실적 부진에 사업 재편까지…수익성 개선 '험로'",
+   "desc": "사업 재편에도 영업익 2억원 그쳐…렌탈 매출 59.4% 급감 희망퇴직·비용 효율화에도 실적 뒷걸음…내년... 이어 \"본업의 한계를 돌파하기 위해 시작한 렌탈 사업도 삼성전자와 LG전자가 가전제품 구독 사업을...",
+   "published": "2026-11-11T00:01+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1173532",
+   "naver_url": "https://www.wikitree.co.kr/articles/1173532",
+   "title": "삼성, 픽셀 스크린샷 닮은 AI 앱 ‘메모리’ 준비…음성 메모·갤러리까...",
+   "desc": "삼성전자가 구글 픽셀 스크린샷(Pixel Screenshots)과 비슷한 AI 기반 정리 앱 ‘메모리(Memory)’를 준비 중인... SammyGuru는 현재까지 메모리가 갤럭시 AI 프리미엄 구독과 연결됐다는 증거는 없다고 밝혔다. 트러스티드...",
+   "published": "2026-11-10T23:22+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111016453653644",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005840765?sid=101",
+   "title": "신혼가전 다 여기서 샀는데…\"롯데하이마트 목표가↓\"[클릭 e종목]",
+   "desc": "대형가전 덜 팔리자 영업이익률 0.8% 특히 수익성 높은 대형·생활·주방가전의 매출 비중이 줄면서 이익이... 기반 온라인몰 강화도 이어갈 것으로 봤다. 구매 빈도가 높은 상품을 늘리고 고객 접점을 넓히려는...",
+   "published": "2026-11-10T18:17+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/future/2026/11/10/2026111011223064608",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005439255?sid=101",
+   "title": "단국대 창업지원단, 컴포랩스 인체데이터 기반 AI제품 개발 지원",
+   "desc": "박사 출신으로, 네덜란드 델프트공과대 연구원과 한동대 교수를 거쳐 지난 15년간 삼성전자, LG전자... 이러한 데이터는 가전, 자동차, 가구, 의료기기, 웨어러블 등 다양한 산업에서 제품의 크기와 형상, 사용성 및 인체...",
+   "published": "2026-11-10T18:00+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "O4",
+    "S1"
+   ],
+   "queries": [
+    "다이슨코리아 출시",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsen.com/news_view.php?uid=202611101558105710",
+   "naver_url": "https://m.entertain.naver.com/article/609/0001186154",
+   "title": "주지훈 “트로트 가수” 굴욕→이세영 테무 황후 트집‥‘재혼 황후’...",
+   "desc": "이세영이 착용한 목걸이가 중국 쇼핑몰에서 판매되는 2천원대 제품과 유사하다는 의혹이 제기된 것.... 또 50개 이상 해외 시장에서 공개된 한국 작품 중 1위에 올랐다. 연일 화제의 중심에 선 '재혼황후'가 남은 이야기에서...",
+   "published": "2026-11-10T17:56+09:00",
+   "host": "www.newsen.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/10/2026111080179.html",
+   "naver_url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/10/2026111080179.html",
+   "title": "IBK기업은행, ‘코웨이 IBK 2.0’ 카드 출시... 렌탈료 할인",
+   "desc": "송정현 기자 | IBK기업은행은 코웨이와 제휴해 렌탈료 할인 혜택을 제공하는 '코웨이 IBK 2.0' 카드를 출시했다고 10일 밝혔다. 이번 카드는 정수기, 비데, 공기청정기 등 코웨이 렌탈 서비스 이용 고객을 대상으로 전월...",
+   "published": "2026-11-10T17:54+09:00",
+   "host": "digitalchosun.dizzo.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "할인"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "IBK기업은행, ‘코웨이 IBK 2.0’ 카드 출시...",
+    "금융 IBK기업은행, ‘코웨이 IBK 2.0’ 카드 출시...",
+    "IBK기업은행은 코웨이와 제휴해 렌탈료 할인 혜택을 제공하는 '코웨이 IBK 2.0' 카드를 출시했다고 10일 밝혔다.",
+    "이번 카드는 정수기, 비데, 공기청정기 등 코웨이 렌탈 서비스 이용 고객을 대상으로 전월 카드 이용실적에 따라 렌탈료를 할인해 주는 상품이다.",
+    "코웨이 렌탈료 자동납부 시 전월 이용실적이 40만원 이상이면 1만5000원, 100만원 이상이면 2만원, 150만원 이상이면 2만5000원의 할인 혜택을 제공한다.",
+    "카드 디자인에는 코웨이의 '아이콘' 정수기 시리즈를 적용했다"
+   ]
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/11/11/2026111015453651482",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005439247?sid=101",
+   "title": "수요 한파·품질 논란에 中가전 성장 꺾였다…K가전 '신뢰'로 승부",
+   "desc": "중국 가전업계의 성장에 제동이 걸렸다. 내수 한파에 주요 가전업체의 실적이 역성장했고, 해외에서는... 삼성전자 가전 사업도 지난해 수준의 매출을 유지했다. 품질면에서도 호평을 이어가고 있다. LG전자는 미국...",
+   "published": "2026-11-10T17:50+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "C5",
+    "S1",
+    "S4"
+   ],
+   "queries": [
+    "TCL 한국 실적",
+    "삼성전자 가전 광고 캠페인",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12204191",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005761808?sid=101",
+   "title": "‘연봉 5위’ 라이온즈의 반란… ‘뉴 삼성’과 12년 만의 우승",
+   "desc": "메모리 반도체 사업부는 사상최대 실적을 기록하고 있지만 이를 제외한 삼성 관계사들의 사업은 오히려 위기에 빠진 곳도 많다. 대표적으로 스마트폰, 가전제품 등을 만드는 DX 사업부는 현재 냉혹한 체질개선을 거치고...",
+   "published": "2026-11-10T17:36+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261110500396",
+   "naver_url": "https://www.asiatime.co.kr/article/20261110500396",
+   "title": "[은행 뉴스브리핑] 하나금융 춘천 취약계층에 8000만원 기부",
+   "desc": "□ 기업은행 '코웨이 IBK 2.0' 카드 출시 IBK기업은행은 코웨이와 제휴한 렌탈료 할인 카드 '코웨이 IBK 2.0'을 출시했다고 10일 밝혔다. 정수기·비데·공기청정기 등 코웨이 렌탈료를 카드로 자동 납부하면 전월...",
+   "published": "2026-11-10T17:34+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mydaily.co.kr/page/view/2026111017233125421",
+   "naver_url": "https://n.news.naver.com/mnews/article/117/0004123934?sid=103",
+   "title": "보람그룹, 삼성전자와 손잡은 상조상품 가입 9배 늘었다…사업구조 개편...",
+   "desc": "보람그룹이 삼성전자와 협업한 가전 결합형 상조상품을 앞세워 사업 영역을 넓히고 있다. 보람그룹은 삼성전자·삼성카드와 함께 선보인 상조상품 ‘B&케어팩’이 출시 5개월 만에(5~10월 기준) 기존 자사 유사 상품보다...",
+   "published": "2026-11-10T17:24+09:00",
+   "host": "www.mydaily.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [
+    "개편"
+   ],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "보람그룹, 삼성전자와 손잡은 상조상품 가입 9배 늘었다…사업구조 개편 속도 - 마이데일리",
+    "B&케어팩, 출시 5개월 만에 가입 실적 9배",
+    "[마이데일리 = 방금숙 기자] 보람그룹이 삼성전자와 협업한 가전 결합형 상조상품을 앞세워 사업 영역을 넓히고 있다.",
+    "보람그룹은 삼성전자·삼성카드와 함께 선보인 상조상품 ‘B&케어팩’이 출시 5개월 만에(5~10월 기준) 기존 자사 유사 상품보다 약 9배 많은 가입 실적을 기록했다고 10일 밝혔다.",
+    "B&케어팩은 소비자가 삼성스토어에서 가전을 구매하거나 구독할 때 상조서비스를 함께 선택할 수 있는 상품이다.",
+    "기존 상조상품에 가전을 결합해 판매하던 방식과 달리 가전 구매 혜택과 상조서비스의 가치를 구분하고, 삼성전자의 공식 유통채널에서 상품을 선택할 수 있도록 설계했다."
+   ]
+  },
+  {
+   "url": "https://www.joongang.co.kr/article/25477385",
+   "naver_url": "https://n.news.naver.com/mnews/article/025/0003564199?sid=101",
+   "title": "보람그룹, ‘상조 4.0’ 앞세워 토탈 라이프케어 기업 전환 속도",
+   "desc": "핵심 사업 중 하나는 삼성전자·삼성카드와 협업해 선보인 'B&케어팩'이다. 기존 가전 결합형 상조 상품은... 회사에 따르면 B&케어팩은 출시 5개월(5~10월 누적 기준) 만에 기존 자사 유사 상품 대비 약 9배의 가입 실적을...",
+   "published": "2026-11-10T17:15+09:00",
+   "host": "www.joongang.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://sateconomy.co.kr/news/view/1065596599011121",
+   "naver_url": "https://sateconomy.co.kr/news/view/1065596599011121",
+   "title": "11번가, ‘그랜드십일절’ 마지막 날 특가 확대…G마켓·쿠팡도 할인 경...",
+   "desc": "11번가, 11일 타임딜 500여개…최대 80% 할인 G마켓 새 멤버십 출시·쿠팡 생필품 2만여개 특가 ▲ AI 생성... 삼성전자 85인치 TV와 LG전자 냉장고, 세탁건조기 세트 등 대형 가전부터 애플 아이폰 18 프로, 삼성전자 갤럭시...",
+   "published": "2026-11-10T17:10+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "S1",
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [
+    "할인",
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://sateconomy.co.kr/news/view/1065598073919106",
+   "naver_url": "https://sateconomy.co.kr/news/view/1065598073919106",
+   "title": "[금융소식] 신한은행·IBK기업은행, 인제대 주거래은행 협약…코웨이 제...",
+   "desc": "기업은행은 코웨이 렌탈료를 할인하는 제휴카드 '코웨이 IBK 2.0'을 출시했다. 해당 카드로 정수기와 비데, 공기청정기 등의 렌탈료를 자동 납부하면 전월 카드 이용실적에 따라 할인 혜택을 받을 수 있다. 전월...",
+   "published": "2026-11-10T17:10+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "협약"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "[금융소식] 신한은행·IBK기업은행, 인제대 주거래은행 협약…코웨이 제휴카드",
+    "렌탈료 월 최대 2만5000원 할인…연회비 2만원부터",
+    "신한은행은 10일 인제대학교와 주거래은행 업무협약을 체결했다",
+    "기업은행은 코웨이 렌탈료를 할인하는 제휴카드 '코웨이 IBK 2.0'을 출시했다.",
+    "전월 이용실적이 40만원 이상이면 월 1만5000원, 100만원 이상이면 2만원, 150만원 이상이면 2만5000원을 할인한다.",
+    "[발행인 칼럼] 한화그룹 점자달력 27년…좋은 나눔은 오래 남는다KB부동산신탁, 부실채권 923억원 선제 정리…3분기 경상 흑자 전환한화에어로스페이스, 선박용 수소연료전지 국내 첫 형식승인…상용화 본격화동원그룹, 식자재·포장재·물류 호조에 3분기 누적 영업이익 4473억원…전년비 10% ↑삼성전자 2나노 공정 적용 AI칩 설계 완료…딥엑스, 내년 3월 시제품"
+   ],
+   "og_date": "2026-11-10T17:09:33+09:00"
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611100203",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611100203",
+   "title": "보람그룹, 삼성전자 제휴상품·라이프케어 멤버십 확대…'상조 4.0' 추진",
+   "desc": "대표적인 사업은 삼성전자·삼성카드와 협업해 선보인 가전 제휴형 상조상품 'B&케어팩'이다. 이 상품은... 보람그룹에 따르면 B&케어팩은 올해 5월부터 10월까지 누적 가입 실적이 기존 자사 유사 상품 대비 약 9배를...",
+   "published": "2026-11-10T17:06+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "제휴",
+    "확대"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "보람그룹, 삼성전자 제휴상품·라이프케어 멤버십 확대…'상조 4.0' 추진",
+    "경제·산업 입력 2026-11-10 17:05:14 수정 2026-11-10 17:05:14 김도하 기자 0개",
+    "[서울경제TV=김도하 기자] 보람그룹이 삼성전자와의 제휴상품과 라이프케어 멤버십을 확대하며 상조사업 개편에 나선다.",
+    "보람그룹은 상품구조와 고객 혜택, 판매채널, 사업모델을 고객 중심으로 재설계하는 '상조 4.0' 전략을 추진한다고 10일 밝혔다.",
+    "대표적인 사업은 삼성전자·삼성카드와 협업해 선보인 가전 제휴형 상조상품 'B&케어팩'이다.",
+    "이 상품은 소비자가 삼성스토어에서 가전을 구매하거나 구독할 때 상조서비스를 함께 선택할 수 있도록 설계됐다"
+   ]
+  },
+  {
+   "url": "https://shindonga.donga.com/3/all/13/6452368/1",
+   "naver_url": "https://n.news.naver.com/mnews/article/262/0000019836?sid=101",
+   "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
+   "desc": "1993년 초 미국 로스앤젤레스의 가전 매장에서 본 것도 같은 장면이었다. 삼성 제품은 매장 구석에서 먼지를 뒤집어쓰고 있었다. 그에게 이류란 통계 속 숫자가 아니라 굴욕이었다. 그의 말대로 인간은 편하게 누워 있기를...",
+   "published": "2026-11-10T17:01+09:00",
+   "host": "shindonga.donga.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113614",
+   "naver_url": "https://www.smarttoday.co.kr/ko-kr/articles/113614",
+   "title": "[은행가] 하나금융, 골프대회 나눔으로 춘천에 8000만원 전달 등",
+   "desc": "IBK기업은행, 코웨이 렌탈료 월 최대 2만5000원 할인 IBK기업은행은 코웨이 렌탈료 할인에 특화한 ‘코웨이 IBK 2.0’ 카드를 출시했다. 자동납부 시 전월 실적 40만·100만·150만원에 따라 각각 1만5000·2만·2만5000원을...",
+   "published": "2026-11-10T17:00+09:00",
+   "host": "www.smarttoday.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1713214/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003153524?sid=101",
+   "title": "기업은행, 코웨이 렌탈료 최대 2만5000원 할인 카드 출시",
+   "desc": "IBK기업은행은 코웨이와 제휴해 정수기와 비데, 공기청정기 등의 렌탈료를 최대 2만5000원 할인해 주는 '코웨이 IBK 2.0' 카드를 출시했다고 10일 밝혔다. 이번 카드는 코웨이 렌탈료를 자동 납부하는 고객에게 전월...",
+   "published": "2026-11-10T16:49+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "할인"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "기업은행, 코웨이 렌탈료 최대 2만5000원 할인 카드 출시",
+    "전월 카드 이용실적 40만원 이상부터 혜택 제공",
+    "IBK기업은행은 코웨이와 제휴해 정수기와 비데, 공기청정기 등의 렌탈료를 최대 2만5000원 할인해 주는 '코웨이 IBK 2.0' 카드를 출시했다고 10일 밝혔다",
+    "이번 카드는 코웨이 렌탈료를 자동 납부하는 고객에게 전월 카드 이용실적에 따라 할인 혜택을 제공하는 상품이다.",
+    "카드 디자인에는 코웨이의 대표 제품인 '아이콘' 정수기 시리즈를 적용했다.",
+    "삼성 라이온즈가 12년 만에 프로야구 한국시리즈 정상에 오르면서 우승 배당금과 선수단 포상금 규모에 관심이 쏠리고 있다"
+   ],
+   "og_date": "2026-11-10T16:48:00+09:00"
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065599178180723",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065599178180723",
+   "title": "보람그룹, 고객 중심 '상조 4.0' 시대 연다…상품·멤버십·사업모델 혁...",
+   "desc": "▲보람그룹 CI/사진=보람그룹 제공  보람그룹이 장례서비스와 가전 결합상품 중심의 기존 상조사업에서... 삼성전자·삼성카드와 협업한 B&케어팩 출시와 비앤얼라이언스 플랫폼 구축은 이러한 전략이 실제 사업으로...",
+   "published": "2026-11-10T16:48+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065596923252621",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065596923252621",
+   "title": "IBK기업은행, ‘코웨이 IBK 2.0’ 카드 출시…렌탈료 월 최대 2만5000원 할...",
+   "desc": "IBK기업은행이 코웨이와 제휴해 정수기와 비데, 공기청정기 등 생활가전 렌탈료를 할인해주는 ‘코웨이 IBK 2.0’ 카드를 출시했다고 10일 밝혔다. 이번 카드는 코웨이 렌탈료를 자동납부하면 전월 이용실적에 따라...",
+   "published": "2026-11-10T16:12+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "IBK기업은행, ‘코웨이 IBK 2.0’ 카드 출시…렌탈료 월 최대 2만5000원 할인",
+    "사회가치 공유 언론-소셜밸류 - IBK기업은행, ‘코웨이 IBK 2.0’ 카드 출시…렌탈료 월 최대 2만5000원 할인",
+    "[소셜밸류=변호인 기자] IBK기업은행이 코웨이와 제휴해 정수기와 비데, 공기청정기 등 생활가전 렌탈료를 할인해주는 ‘코웨이 IBK 2.0’ 카드를 출시했다고 10일 밝혔다.",
+    "이번 카드는 코웨이 렌탈료를 자동납부하면 전월 이용실적에 따라 월 최대 2만5000원을 할인해주는 상품이다",
+    "▲ IBK기업은행이 코웨이 렌탈료 자동납부 시 월 최대 2만5000원을 할인해주는 ‘코웨이 IBK 2.0’ 카드를 출시했다",
+    "인카금융서비스, 취약계층 김장 지원에 1000만원 후원…200가구 대상 시총 51.7% 삼성전자·SK하이닉스 쏠림…신한證 “분산투자 필요” 한화생명 신형 종신보험, 2030 가입 비중 31%…일반형보다 15%p 높아"
+   ],
+   "og_date": "2026-11-10T16:08:46+09:00"
+  },
+  {
+   "url": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1433345",
+   "naver_url": "https://n.news.naver.com/mnews/article/057/0001977537?sid=004",
+   "title": "\"신문 플렉스했어요!\"…삼성 우승에 팬들 달려간 곳 [포크뉴스]",
+   "desc": "기념해 삼성그룹 계열사들이 할인 행사에 나설 것이란 기대감도 커지고 있습니다. 2014년 우승 당시 가전과... 이미 '그랜드 페스티벌' 등 할인 행사를 진행 중인 삼성전자를 포함해 삼성 계열사들이 추가 할인 행사를...",
+   "published": "2026-11-10T16:11+09:00",
+   "host": "www.mbn.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S6"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/10/D3ANFLG24JEEVKQL5K7GSV6SIM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001203824?sid=105",
+   "title": "“엉금엉금 기던 회사가 또박또박 걷게 됐다”… 삼성전자 C랩, 14년간 ...",
+   "desc": "Lite)’를 출시해 판매를 시작했다. 스마트폰으로 호흡음을 분석해 폐 질환을 감지하는 기술을 개발하는... 더디멘션컴퍼니는 삼성전자 가전사업부와 냉장고·세탁기 부품 약 10종의 설계 자료를 AI가 활용할 수 있는...",
+   "published": "2026-11-10T15:59+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.breaknews.com/1249880",
+   "naver_url": "http://www.breaknews.com/1249880",
+   "title": "IBK기업은행, 렌탈료 할인 '코웨이 IBK 2.0' 신용카드 출시",
+   "desc": "IBK기업은행은 코웨이와 제휴해 렌탈료 할인 카드 '코웨이 IBK 2.0'을 출시했다고 10일 밝혔다. 이 카드는 정수기, 비데, 공기청정기 등 코웨이 렌탈 서비스 이용 고객을...",
+   "published": "2026-11-10T15:56+09:00",
+   "host": "www.breaknews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "할인"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "http 403"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261110_0003862377",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014313720?sid=101",
+   "title": "\"CES도 기술력 인정\"…인텔리빅스, 혁신상 2관왕",
+   "desc": "AI는 집중호우 때 지하차도, 터널, 저지대 도로 등의 침수 위험을 실시간으로 분석하고 위험 기준을... 안전 AI 기업으로 성장하겠다\"고 말했다. 한편 CES 혁신상은 세계 최대 규모의 가전·정보기술(IT) 전시회 CES를...",
+   "published": "2026-11-10T15:41+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "X2"
+   ],
+   "queries": [
+    "AI 표시 기준 가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sportschosun.com/life/2026-11-10/202611100100071600006594",
+   "naver_url": "https://n.news.naver.com/mnews/article/076/0004465437?sid=101",
+   "title": "정수기·비데·공기청정기 등 렌탈료 최대 2만 5000원 할인…IBK기업은행...",
+   "desc": "이 카드는 정수기·비데·공기청정기 등 코웨이 렌탈 서비스 이용료를 자동 납부하면 전월 실적에 따라 월 1만5000~2만5000원을 할인해 준다. 전월 이용실적별 할인액은 40만원 이상 1만5000원, 100만원 이상 2만원...",
+   "published": "2026-11-10T15:40+09:00",
+   "host": "www.sportschosun.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261110151612564",
+   "naver_url": "https://www.ajunews.com/view/20261110151612564",
+   "title": "[김상철 칼럼] '동병상련' 韓·日…미래 세대 위한 경제협력 물꼬 확대...",
+   "desc": "높고, 가전제품 글로벌 시장 점유율도 중국에 1위 자리를 내주었다. 일반 기계의 경우 국내 생산을 포기, 중국산에 양보한 지 오래다. 이런 상황에서 반도체 경기가 가라앉으면 한국 경제가 폭삭 주저앉을 수 있다는...",
+   "published": "2026-11-10T15:38+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12203959",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005761630?sid=101",
+   "title": "“화장실 냄새만 빼던 환풍기가 100만원?”…가전업계, 욕실 천장서 격...",
+   "desc": "LG전자 이어 경동나비엔·쿠쿠 가세 욕실 환풍기 경쟁 본격화 습기·곰팡이 걱정에 위생 관심↑ 온풍... 바스에어시스템’을 출시했다. LG전자가 처음 선보인 욕실 공기 관리 가전이다. 온도와 습도를 감지해 온풍·송풍...",
+   "published": "2026-11-10T15:23+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 신제품",
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1713146/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003153458?sid=101",
+   "title": "1000개 육성한 삼성 C랩…이젠 가전·로봇 R&D까지 손잡는다",
+   "desc": "AI 기반 제조 설계 솔루션을 개발하는 더디멘션컴퍼니는 현재 삼성전자 가전사업부와 냉장고·세탁기 등에... 경우 신제품 개발에 걸리는 시간은 물론 연구개발 비용을 줄이는 데도 도움이 될 수 있기 때문이다. 아울러...",
+   "published": "2026-11-10T15:22+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.nongaek.com/news/articleView.html?idxno=97421",
+   "naver_url": "http://www.nongaek.com/news/articleView.html?idxno=97421",
+   "title": "기업은행, 렌탈료 부담 낮춘 '코웨이 IBK 2.0' 카드 선보여",
+   "desc": "IBK기업은행이 출시한 '코웨이 IBK 2.0' 카드 전면 모습. (사진=기업은행) IBK기업은행이 코웨이와 손잡고 렌탈료 할인 혜택을 제공하는 '코웨이 IBK 2.0' 카드를 출시했다. 10일 기업은행에 따르면 해당 카드는...",
+   "published": "2026-11-10T15:02+09:00",
+   "host": "www.nongaek.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "선보"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "기업은행, 렌탈료 부담 낮춘 ‘코웨이 IBK 2.0’ 카드 선보여 < 기타 < 기사본문 - 논객닷컴",
+    "정수기, 비데, 공기청정기 등 렌탈료 최대 2만5000원 할인",
+    "IBK기업은행이 코웨이와 손잡고 렌탈료 할인 혜택을 제공하는 ‘코웨이 IBK 2.0’ 카드를 출시했다.",
+    "10일 기업은행에 따르면 해당 카드는 개인고객을 대상으로 발급되며, 정수기와 비데, 공기청정기 등 코웨이의 다양한 렌탈 서비스 이용 부담을 낮췄다.",
+    "렌탈료 자동 납부 시 전월 이용실적에 따라 ▲40만원 이상 1만5000원 ▲100만원 이상 2만원 ▲150만원 이상 2만5000원의 할인 혜택이 제공된다.",
+    "삼성증권, 비대면 계좌 개설 1만5000명에 투자지원금 준다"
+   ],
+   "og_date": "2026-11-10T15:00:11+09:00"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261110118800002?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016433615?sid=101",
+   "title": "기업은행, 코웨이 렌탈료 할인 카드 출시…최대 월 2만5천원",
+   "desc": "IBK기업은행인 정수기, 비데, 공기청정기 등의 렌탈료를 할인하는 카드 '코웨이 IBK 2.0'을 출시했다고 10일 밝혔다. 이 카드로 렌탈료를 자동 납부하면 전월 이용실적에 따라 ▲40만 원 이상 1만 5천 원 ▲100만...",
+   "published": "2026-11-10T14:59+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "할인"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "기업은행, 코웨이 렌탈료 할인 카드 출시…최대 월 2만5천원 | 연합뉴스",
+    "(서울=연합뉴스) 한지훈 기자 = IBK기업은행인 정수기, 비데, 공기청정기 등의 렌탈료를 할인하는 카드 '코웨이 IBK 2.0'을 출시했다고 10일 밝혔다.",
+    "이 카드로 렌탈료를 자동 납부하면 전월 이용실적에 따라 ▲40만 원 이상 1만 5천 원 ▲100만 원 이상 2만 원 ▲150만 원 이상 2만 5천 원의 할인 혜택을 제공한다.",
+    "연회비는 국내 전용(BC카드) 2만원, 해외 겸용(마스터카드) 2만3천원이다",
+    "영국 20대 골퍼, DP월드투어 Q스쿨에서 그린 훼손으로 실격",
+    "'코웨이 IBK 2.0' 카드 디자인 [IBK기업은행 제공]"
+   ],
+   "og_date": "2026-11-10T14:59:41+09:00"
+  },
+  {
+   "url": "http://www.inews24.com/view/2024564",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001073759?sid=101",
+   "title": "손동작 로봇 학습·숨소리 탐지 AI…삼성 C랩의 미래기술 [현장]",
+   "desc": "기술을 발표했다. 삼성전자 가전사업부와 냉장고·세탁기 등 약 10종의 부품을 대상으로 역설계를 진행했다.... C랩을 통해 삼성전자 전문가들로부터 개발과 품질 관리, 사업 전략 등에 관한 컨설팅을 받았다. 한편...",
+   "published": "2026-11-10T14:47+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.bizwatch.co.kr/article/industry/2026/11/10/0022",
+   "naver_url": "https://n.news.naver.com/mnews/article/648/0000052470?sid=101",
+   "title": "'AI·로봇부터 신소재까지'…삼성 DNA 입은 스타트업 다 모였다",
+   "desc": "솔루션을 삼성전자 가전사업부와 함께 시험하고 있다. 휴대폰 대니 폐렴 판별·옷처럼 입는 보조기기도... 는 삼성인력개발원의 창의적 문제 해결 프로그램(CPS)과 품질 컨설팅을 거쳐 온디바이스 AI 박스 신제품을...",
+   "published": "2026-11-10T14:19+09:00",
+   "host": "news.bizwatch.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12203820",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005761530?sid=103",
+   "title": "롯데·신세계·현대百 3사 일제히 겨울 세일…연말 쇼핑 수요 공략",
+   "desc": "강남점에서는 19일까지 노스페이스 키즈 팝업을 진행한다. 센텀시티몰에서는 12월 31일까지 코웨이 비렉스·까사미아가 참여하는 홈 스타일링 페어를 진행한다. 현대백화점은 13일부터 29일까지 전국 점포에서 겨울...",
+   "published": "2026-11-10T14:09+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261110500253",
+   "naver_url": "https://www.asiatime.co.kr/article/20261110500253",
+   "title": "中 저가공세 꺾였는데…웃지 못하는 K가전",
+   "desc": "삼성전자도 주요 가전 구매자 3명 중 1명이 구독을 선택한 것으로 알려졌다. 문제는 내년에도 불확실성이 이어질 것이란 점이다. 박순철 삼성전자 최고재무책임자(CFO)는 3분기 실적발표 콘퍼런스콜에서 “DX부문은...",
+   "published": "2026-11-10T13:44+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "S1",
+    "S7",
+    "X3"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2024400",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001073677?sid=101",
+   "title": "백화점 3사, 겨울 정기세일 돌입…최대 60% 할인 경쟁",
+   "desc": "강남점에서는 노스페이스 키즈 팝업을, 대구신세계에서는 마리끌레르 팝업을 진행한다. 센텀시티몰에서는 코웨이 비렉스와 까사미아가 참여하는 홈 스타일링 페어를 연다. 현대백화점은 200여개 브랜드가 참여하는...",
+   "published": "2026-11-10T13:16+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 실적",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "돌입",
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/economy/2026/11/11/2026110921421764124",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005438997?sid=101",
+   "title": "자동차·가전·김장재료·패션까지…끝나지 않은 '코그페' 할인은 '쭈욱...",
+   "desc": "코그페 할인행사를 주목할 만하다. 삼성전자는 오는 30일까지 TV·생활가전과 모바일·PC 등 주요 제품을 대상으로 할인행사를 진행한다. 여러 품목을 함께 구매하면 최대 600만원의 혜택과 혼수·입주 고객 대상 최대...",
+   "published": "2026-11-10T12:57+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 카드 청구할인 행사",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 세일 페스타",
+    "삼성전자 코리아세일페스타"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147137",
+   "naver_url": "https://www.boannews.com/news/articleView.html?idxno=147137",
+   "title": "유니온바이오메트릭스, CES 2027 사이버보안 부문 최고혁신상 수상",
+   "desc": "IT·가전 전시회인 CES 2027에서 사이버보안(Cybersecurity) 부문 최고혁신상(Best of Innovation)을 수상했다고 10일... 특히 사이버보안 부문은 2025년 SK텔레콤, 2026년 삼성전자가 수상한 바 있어 이번 수상은 국내 보안 기술의...",
+   "published": "2026-11-10T12:50+09:00",
+   "host": "www.boannews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261110500162",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261110500162",
+   "title": "백화점 3사, 일제히 연말 세일 돌입…최대 60% 할인에 체험 콘텐츠까지",
+   "desc": "점포별로 노스페이스 키즈와 마리끌레르 팝업, 코웨이 비렉스·까사미아 홈 스타일링 행사도 진행한다. 현대백화점 겨울 시즌 할인 행사 '더 세일' 현대백화점은 13일부터 29일까지 압구정본점과 더현대 서울 등 전국...",
+   "published": "2026-11-10T12:04+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "돌입",
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 12,
+  "B": 38,
+  "C": 1,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 12,
+  "ok": 11,
+  "실패": 1
+ }
+}
