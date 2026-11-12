@@ -1,0 +1,1636 @@
+{
+ "date": "2026-11-12",
+ "collected_at": "2026-11-12T10:32+09:00",
+ "lookback_days": 14,
+ "count": 67,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2200,
+   "in_window": 1184,
+   "kept": 11,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 102,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 65,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 940,
+   "in_window": 68,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1122,
+   "in_window": 92,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1300,
+   "in_window": 446,
+   "kept": 1,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1581,
+   "in_window": 630,
+   "kept": 4,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1182,
+   "in_window": 222,
+   "kept": 1,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 58,
+   "kept": 1,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1074,
+   "in_window": 31,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1137,
+   "in_window": 27,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1053,
+   "in_window": 23,
+   "kept": 0,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1953,
+   "in_window": 27,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 2100,
+   "in_window": 1142,
+   "kept": 5,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1949,
+   "in_window": 136,
+   "kept": 6,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1953,
+   "in_window": 339,
+   "kept": 32,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 110,
+   "kept": 1,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 171,
+   "kept": 4,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 26,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 69,
+   "kept": 0,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 40,
+   "kept": 1,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.etnews.com/20261112000123",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003484883?sid=105",
+   "title": "코웨이, '동반성장지수 평가' 2년 연속 우수 등급",
+   "desc": "동반성장지수는 대기업과 중소기업 간 동반성장과 공정거래협약 이행 실적을 종합해 기업별 상생협력 수준을 평가하는 지표다. 코웨이는 중소 파트너 경영 안정을 위한 지원을 확대하고, 공정거래와 상생협력을 꾸준히...",
+   "published": "2026-11-12T10:28+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111210183951625",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005841667?sid=101",
+   "title": "SK인텔릭스, 2026 동반성장지수 '우수' 등급",
+   "desc": "가운데 '동반성장 실적 평가'에서 전년 대비 점수 상승 폭이 가장 큰 기업으로 나타났다. 그간 SK인텔릭스는 협력사에 대한 대금 지급 조건을 개선하고 납품대금 연동제를 적극 도입하는 한편, 금융·ESG·교육·채용 지원을...",
+   "published": "2026-11-12T10:18+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.donga.com/news/Economy/article/all/20261111/135005560/1",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003761960?sid=101",
+   "title": "두 개의 아르헨티나: 유전 대박과 실직한 가장들[딥다이브]",
+   "desc": "*이 기사는 11월 11일(수요일) 발행한 딥다이브 뉴스레터의 온라인 기사 버전입니다. ‘읽다 보면 빠져드는... 이전엔 아르헨티나에선 접근이 어려웠던 최신형 수입 전기차, 브라질·중국산 가전제품들이 밀려...",
+   "published": "2026-11-12T10:00+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6351529",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009284997?sid=101",
+   "title": "SK인텔릭스, 동반성장지수 '우수'…전년보다 한 단계 상승",
+   "desc": "특히 평가 대상 231개사 가운데 협력사 지원 등을 평가하는 '동반성장 실적 평가' 점수 상승폭이 가장 컸다. SK인텔릭스는 동반성장위원회가 발표한 2026년도 동반성장지수 평가에서 우수 등급을 획득했다고 12일 밝혔다....",
+   "published": "2026-11-12T09:59+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026111209384826717",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002248219?sid=105",
+   "title": "다이슨, 고객지원 강화한다…2주 무료 체험부터 보증 연장까지",
+   "desc": "'네버 위드아웃 유어 다이슨' 연장선…국내 고객 혜택 확대 다이슨코리아가 국내 고객지원 서비스를... 대여 실적을 기록했다. 이번 신규 서비스는 이러한 고객지원 정책을 구매 전 체험과 장기적인 제품 관리 영역으로...",
+   "published": "2026-11-12T09:40+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "O4"
+   ],
+   "queries": [
+    "다이슨코리아 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1714025/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003154249?sid=101",
+   "title": "SK인텔릭스, 협력사 지원 확대에 동반성장지수 '우수' 등급",
+   "desc": "협력사 지원 실적과 체감도를 반영하는 동반성장위원회의 종합평가와 공정거래위원회의 공정거래협약 이행평가 결과를 합산해 산정한다. SK인텔릭스는 지난해 협력사 대금 지급 조건을 개선하고 납품대금 연동제...",
+   "published": "2026-11-12T09:29+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "SK인텔릭스, 협력사 지원 확대에 동반성장지수 '우수' 등급",
+    "서울 종로구에 위치한 SK인텔릭스 본사 삼일빌딩 전경. ⓒSK인텔릭스",
+    "SK인텔릭스는 동반성장위원회가 발표한 '2026년도 동반성장지수 평가'에서 전년보다 한 단계 높은 '우수' 등급을 받았다고 12일 밝혔다.",
+    "SK인텔릭스는 지난해 협력사 대금 지급 조건을 개선하고 납품대금 연동제 도입을 확대했다",
+    "박종관 SK인텔릭스 커뮤니케이션팀 ESG 담당 매니저는 \"협력사의 경쟁력이 SK인텔릭스의 제조·품질 경쟁력으로 이어진다는 생각으로 현장의 목소리를 듣고 거래 조건과 협력사의 경영 안정 및 경쟁력 강화를 위한 지원 제도를 다각도로 개선해 왔다\"며 \"앞으로도 공정한 거래 관행을 정착시키고 공동개발의 성과를 협력사와 나누며 동반성장의 기반을 넓혀가겠다\"고 말했다.",
+    "LG디스플레이, 첫 기술 워크숍 '테크X' 개최…차세대 OLED 기술 공유"
+   ],
+   "og_date": "2026-11-12T09:27:00+09:00"
+  },
+  {
+   "url": "http://www.inews24.com/view/2025308",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001074347?sid=101",
+   "title": "SK인텔릭스, 동반성장지수 '우수' 등급 획득",
+   "desc": "SK인텔릭스는 동반성장위원회가 발표한 '2026년도 동반성장지수 평가'에서 우수 등급을 받았으며, 평가 대상 231개 기업 가운데 동반성장 실적 평가 점수의 전년 대비 상승 폭이 가장 컸다고 12일 밝혔다. 동반성장지수는...",
+   "published": "2026-11-12T09:22+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026111209154558303",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002248201?sid=105",
+   "title": "SK인텔릭스, 2026 동반성장지수 '우수' 등급 획득",
+   "desc": "SK인텔릭스는 동반성장위원회가 발표한 '2026년도 동반성장지수 평가'에서 전년보다 한 단계 높은 '우수' 등급을 획득했다고 12일 밝혔다. 이 회사는 평가 대상 231개사 가운데 동반성장 실적 평가 점수 상승 폭이 가장 큰...",
+   "published": "2026-11-12T09:21+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/172558",
+   "naver_url": "https://dealsite.co.kr/articles/172558",
+   "title": "[삼성전자 사장단 인사] '유일한 부사장' 가전 수장 김철기…노태문 체...",
+   "desc": "⑤AI 가전·구독 판매 확대에도 이익 하락…수익성 개선 성과가 변수 삼성전자 연말 사장단 인사에서 김철기... 김 부사장은 지난해 4월1일 수시인사에서 MX사업부 전략마케팅실장에서 생활가전사업부장으로 이동했다. 고...",
+   "published": "2026-11-12T09:02+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "S1",
+    "S4",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 비스포크 협업"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S4",
+    "S7"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.nongup.net/news/articleView.html?idxno=33983",
+   "naver_url": "https://www.nongup.net/news/articleView.html?idxno=33983",
+   "title": "크라운호프 보리장인, 신메뉴 17종 출시·'돌려라 황금룰렛' 이벤트 진행",
+   "desc": "경품으로는 순금 3돈, 아이폰 듀오, 로보락 로봇청소기 등이 마련됐다. 크라운호프 보리장인은 이번 이벤트를 하반기 신메뉴 출시 일정과 연계해 운영한다. 새로운 음식과 음료를 선보이는 동시에 연말 매장을 방문하는...",
+   "published": "2026-11-12T09:00+09:00",
+   "host": "www.nongup.net",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시",
+    "로보락 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "진행",
+    "이벤트"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://wemakenews.co.kr/news/view.php?no=26822",
+   "naver_url": "http://wemakenews.co.kr/news/view.php?no=26822",
+   "title": "세무사 수석 397.5점…AI 안경 의혹, 시험 관리기관 확인 필요",
+   "desc": "서울 한 가전매장 스마트안경 판매대 모습. 사진=연합뉴스 2026년 제63회 세무사시험 수석합격자의 이례적인... 뚜렷해진다.한국산업인력공단이 발표한 제63회 세무사 제1차 시험 통계에 따르면 전체 응시자 1만6856명...",
+   "published": "2026-11-12T08:50+09:00",
+   "host": "wemakenews.co.kr",
+   "questions": [
+    "X1",
+    "X2"
+   ],
+   "queries": [
+    "AI 표시 기준 가전",
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261112083451880",
+   "naver_url": "https://www.ajunews.com/view/20261112083451880",
+   "title": "SK인텔릭스, 동반성장지수 '우수'…231개 기업 중 점수 상승 폭 최대",
+   "desc": "평가 대상 231개 기업 가운데 동반성장 실적 평가 점수가 전년 대비 가장 큰 폭으로 상승했다. SK인텔릭스는 동반성장위원회가 발표한 '2026년도 동반성장지수 평가'에서 지난해보다 한 단계 높은 우수 등급을 획득했다고...",
+   "published": "2026-11-12T08:40+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261112500048",
+   "naver_url": "https://www.viva100.com/article/20261112500048",
+   "title": "G마켓 빅스마일데이, 매출 상위 100개 중 절반이 디지털기기… 고사양 ...",
+   "desc": "전체 인기 상품 상위권에 디지털기기가 대거 포진하면서 대형 가전 중심이었던 할인 행사 수요가 PC와 IT... 온라인뿐 아니라 오프라인에서도 디지털기기에 대한 관심이 확인됐다. G마켓이 지난 5일부터 나흘간...",
+   "published": "2026-11-12T08:04+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.medigatenews.com/news/2264345187",
+   "naver_url": "https://www.medigatenews.com/news/2264345187",
+   "title": "삼성전자 \"갤럭시워치 건강정보 병원 진료와 연결…韓 데이터 표준화 과...",
+   "desc": "삼성전자는 향후 AI를 기반으로 수면, 운동, 식이 등 건강정보를 분석하고 개인별 맞춤형 솔루션을 제공하는 기능을 고도화할 계획이다. 최 상무는 \"궁극적으로 모든 디바이스를 연결하고 삼성의 TV와 냉장고 등 가전제품...",
+   "published": "2026-11-12T06:52+09:00",
+   "host": "www.medigatenews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kukinews.com/article/view/kuk202611110215",
+   "naver_url": "https://www.kukinews.com/article/view/kuk202611110215",
+   "title": "삼성·구글 AI 안경 예약 시작…메타에 기술·디자인으로 맞불",
+   "desc": "이에 통신 3사도 일제히 온라인몰과 일부 매장에서 레이밴 메타(Gen2)를 출시했다. 반면 삼성전자는 초기... 비롯해 삼성닷컴과 삼성스토어 등 삼성전자의 온·오프라인 채널에서는 판매하지 않는다. 스마트폰과 가전 등...",
+   "published": "2026-11-12T06:02+09:00",
+   "host": "www.kukinews.com",
+   "questions": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 가전 사전예약",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "q_title": [
+    "S1",
+    "S3",
+    "S4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "http 403"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261111_0003864376",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014317016?sid=101",
+   "title": "\"겨울옷부터 여행 선물까지\"…百·免연말 할인전 총출동",
+   "desc": "강남점은 19일까지 노스페이스 키즈 팝업을, 센텀시티몰은 다음달 31일까지 코웨이 비렉스와 까사미아가 참여하는 홈 스타일링 행사를 운영한다. 롯데백화점은 올해 마지막 정기 세일에 패션·아웃도어·키즈 등...",
+   "published": "2026-11-12T06:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2025252",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001074303?sid=101",
+   "title": "삼전닉스 넘보는 中 양쯔메모리…\"여전히 상장 진행중\"",
+   "desc": "이에 대해 중국 매체들은 서버용 메모리 시장은 삼성전자·SK하이닉스·마이크론 등이 우위를 보여왔고 CXMT는 가전제품에 집중해왔는데, 이번 신제품 출시 예고는 CXMT가 서버용 메모리 시장으로 영역을 넓히려는...",
+   "published": "2026-11-11T21:49+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "진행"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261112.22009003566",
+   "naver_url": "https://n.news.naver.com/mnews/article/658/0000161007?sid=101",
+   "title": "‘동반성장지수’ 최우수 기업 44곳 영예",
+   "desc": "‘동반성장 실적 평가’ 평균 점수는 전년(57.56점)보다 5.02점 오른 62.58점으로 집계됐다. 삼성전자와 LG전자가 나란히 최고 득점을 기록했고, SK인텔릭스가 전년 대비 점수 상승이 가장 컸다. ‘중소기업 체감도...",
+   "published": "2026-11-11T19:04+09:00",
+   "host": "www.kookje.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554876",
+   "naver_url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554876",
+   "title": "경남 기업 4곳, 동반성장지수 ‘최우수’",
+   "desc": "/두산에너빌리티/ 11일 동반성장위원회가 발표한 ‘2026년도 동반성장지수 평가(2025년 실적 기준)’에... ‘보통(B)’ 등급에는 사천에 본사를 둔 한국항공우주산업(KAI)과 한화오션, 볼보그룹코리아, 쿠쿠전자, 화승R&A...",
+   "published": "2026-11-11T19:02+09:00",
+   "host": "www.knnews.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12094677?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003058620?sid=101",
+   "title": "저가폰 덮친 ‘메모리 쇼크’… 원가 절반 넘겼다",
+   "desc": "메모리 가격 상승은 스마트폰뿐 아니라 PC와 가전제품 전반에 영향을 미치고 있어 물가 상승을 부추길... 삼성전자와 SK하이닉스 등 한국 D램 업체들의 내년 PC용 D램 생산량은 전년 대비 20% 이상 감소할 것으로...",
+   "published": "2026-11-11T18:59+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12094676?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003058619?sid=101",
+   "title": "네이버 등 44곳 동반성장 ‘최우수’… 기업·우리은행은 상생금융 우수",
+   "desc": "평가 항목별로 보면 동반성장 실적 평가 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 상승했다. 삼성전자와 LG전자가 최고 득점을 기록했으며, SK인텔릭스는 전년 대비 점수 상승 폭이 가장 컸다. 반면...",
+   "published": "2026-11-11T18:58+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611111833370961",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005602945?sid=101",
+   "title": "동반성장 점수 작년보다 올라… 삼성전자 등 최우수 44곳",
+   "desc": "'동반성장 실적 평가'의 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 올랐다. 삼성전자와 LG전자는 최고 득점을 기록했고, SK인텔릭스는 전년 대비 점수 상승이 가장 컸다. 특히 삼성전자는 동반성장지수...",
+   "published": "2026-11-11T18:35+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611111824059783",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005602903?sid=110",
+   "title": "[fn광장] 생각 좀 하며 세상을 보자",
+   "desc": "삼성전자가 사상 최대 실적을 내고 1인당 국내총생산(GDP)이 처음 4만달러를 넘보는 지금, 삼성과 정부 모두... 3·4분기 영업이익의 99.2%인 106조5000억원이 DS부문에서 나지만 영상디스플레이·생활가전(VD·DA) 사업은 약...",
+   "published": "2026-11-11T18:25+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026111110591",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005352902?sid=101",
+   "title": "'괜히 팔았나' 깜짝 반전…하루 만에 29% 급등한 회사 정체",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다. 미국의... 상승세를 이끈 주역은 반도체를 비롯한 AI 인프라·하드웨어였다. SK하이닉스는 5.4%, 삼성전자는 3.6...",
+   "published": "2026-11-11T18:08+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kpinews.kr/newsView/1065597647253592",
+   "naver_url": "https://www.kpinews.kr/newsView/1065597647253592",
+   "title": "가전매장, 유·무료 멤버십으로 단골 고객 잡기 경쟁",
+   "desc": "삼성전자, LG전자, 전자랜드, 롯데하이마트 멤버십 혜택 비교. [자료=각사] 11일 현재 전자랜드는 국내 가전... 있는 '가전수리올케어'를 출시했다. 제품 판매 이후에도 관리 서비스를 통해 고객과 관계를 이어가고...",
+   "published": "2026-11-11T17:49+09:00",
+   "host": "www.kpinews.kr",
+   "questions": [
+    "S1",
+    "S5",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 하이마트 전자랜드 가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/172576",
+   "naver_url": "https://dealsite.co.kr/articles/172576",
+   "title": "40대가 찾는 가족 SUV의 조건…답은 '씨라이언 6 DM-i'",
+   "desc": "전체 자동차 시장에서도 높은 구매 비중을 차지하지만 특히 수입차 시장에서는 그 존재감이 더욱... 음료·식료품 온라인 구매 비율은 79.0%로 전 연령대 중 가장 높았다. 대형·고급 가전제품(17.7%)과 자녀 교육 관련...",
+   "published": "2026-11-11T17:42+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "X1",
+    "X4"
+   ],
+   "queries": [
+    "가전 구매 조건 조사",
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10934152?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002722234?sid=101",
+   "title": "코웨이, ESG 평가 3년 연속 A에서 A+로…환경·지배구조 등급 상승",
+   "desc": "소통하며 ESG 경영을 강화하겠다”고 말했다. 한편 코웨이는 지난 6일 발표한 3분기 연결 기준 잠정 실적에서도 매출 1조4261억원, 영업이익 2608억원을 기록했다. 전년 동기 대비 각각 13.7%, 7.3% 증가한 수치다.",
+   "published": "2026-11-11T17:39+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12205578",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005762350?sid=101",
+   "title": "삼성 갤럭시 'AI 프리미엄' 구독제 검토",
+   "desc": "11일 외신 등 업계에 따르면 삼성전자는 '갤럭시 AI 프리미엄(Galaxy AI Premium)'이라는 이름의 유료 구독 서비스를 내부 개발 중이며, 곧 일부 사용자를 대상으로 초기 테스트(얼리 액세스)를 진행할 계획이다....",
+   "published": "2026-11-11T17:25+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "11일 외신 등 업계에 따르면 삼성전자는 '갤럭시 AI 프리미엄(Galaxy AI Premium)'이라는 이름의 유료 구독 서비스를 내부 개발 중이며, 곧 일부 사용자를 대상으로 초기 테스트(얼리 액세스)를 진행할 계획이다.",
+    "# 6만원대 # 삼성전자 # 인공지능 # 스마트폰 # 온디바이스",
+    "11일 외신을 비롯한 업계에 따르면, 삼성전자는 이 유료 구독 서비스를 내부적으로 개발 중이며 곧 일부 사용자를 대상으로 초기 테스트(얼리 액세스)를 진행할 계획이라고 해요",
+    "🌐🛒💬 당시 삼성전자 역시 '갤럭시 AI'를 2025년 말까지 무료로 제공하되 이후 유료화 여부를 고민하겠다는 입장을 밝혀왔고, 시간이 흘러 2026년 현재 구체적인 유료 구독 모델 개발과 테스트 단계로 접어들게 되었답니다",
+    "삼성전자 역시 '갤럭시 AI'를 2025년 말까지 무료로 제공한 뒤 2026년부터 유료화 전환 가능성을 열어두며 시장 상황을 지켜보기 시작했어요",
+    "1.아마존 '알렉사' 10년만에 유료전환 2.“궁금하면 5달러 내시오, 인간”…친절하던 이것 돈 밝히기 시작했다 3.‘갤럭시 AI’ 2026년부턴 돈 내야될 수도…애플 인텔리전스는? 4.“애플 인텔리전스 유료화? 그렇다면 우리도”…AI 서비스 유료화 바람 불까 5.삼성 갤럭시 'AI 프리미엄' 구독제 검토"
+   ],
+   "og_date": "2026-11-11T17:24:27+09:00"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261111155633708",
+   "naver_url": "https://www.ajunews.com/view/20261111155633708",
+   "title": "동반위, 삼성전자·농심 등 동반성장 최우수 기업 44곳 발표",
+   "desc": "'동반성장 실적 평가'의 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 성장했다. 삼성전자와 LG전자는 최고 점수를 기록했고, SK인텔릭스는 전년 대비 점수 상승이 가장 큰 기업으로 평가됐다. 삼성전자는...",
+   "published": "2026-11-11T17:02+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [
+    "발표"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000124",
+   "naver_url": "https://www.intn.co.kr/news/articleView.html?idxno=3000124",
+   "title": "삼성물산·삼성전기·GS리테일·두산에너빌 등 동반성장 3년 연속 최우수...",
+   "desc": "'동반성장 실적 평가'와 '중소기업 체감도 조사' 결과를 보면 '동반성장 실적 평가' 평균 점수는 57.56점('25)에서 62.58점('26)으로 5.02점 상승했으며, 삼성전자와 LG전자가 나란히 최고 득점을 기록했고 SK인텔릭스가 전년...",
+   "published": "2026-11-11T16:42+09:00",
+   "host": "www.intn.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261111001367",
+   "naver_url": "https://www.newspim.com/news/view/20261111001367",
+   "title": "쿠쿠, '2026 서울카페쇼' 참가…체험 부스서 60여 개 제품 전시",
+   "desc": "쿠쿠는 오는 14일까지 서울 삼성동 코엑스에서 열리는 '2026 서울카페쇼'에 참가해 상업용 가전 라인업을... 미출시 신제품은 무엇인가요? A3. 커피바에서는 전자동 에스프레소 머신 '더 크레마' 3종과 시음 행사가...",
+   "published": "2026-11-11T16:22+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12205446",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005762243?sid=101",
+   "title": "이사·혼수가전 한번에 사면 최대 600만원 할인",
+   "desc": "풍성한 가전 할인 혜택을 제공한다. 먼저 롯데하이마트는 15일까지 온라인쇼핑몰에서 블랙 프라이데이 기념 1만원 할인 쿠폰을 제공한다. 또한 캐시백, 즉시할인 등 다양한 혜택을 더해 삼성전자 '김치플러스...",
+   "published": "2026-11-11T16:11+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "O2",
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 매장 오픈",
+    "삼성전자 가전 행사 할인",
+    "쿠쿠전자 매장 오픈"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261111500756",
+   "naver_url": "https://www.viva100.com/article/20261111500756",
+   "title": "삼성 라이온즈 12년 만의 KS 우승⋯ 삼성전자 등 계열사 ‘통 큰 할인’...",
+   "desc": "앞서 삼성그룹 계열사들은 과거 삼성 라이온즈가 우승의 영광을 차지할 때마다 가전제품과 의류 할인 등 다양한 고객 행사를 진행한 바 있다. 가장 최근 한국시리즈 우승을 달성한 2014년에는 삼성전자가 ‘1111...",
+   "published": "2026-11-11T16:04+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "S6"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "11일 관련 업계에 따르면, 삼성은 8일 대구 삼성 라이온즈파크에서 열린 2026 한국시리즈 5차전에서 KT에 12-1로 승리하며 팀 통산 9번째 한국시리즈 우승을 확정했다",
+    "가장 최근 한국시리즈 우승을 달성한 2014년에는 삼성전자가 ‘1111 대축제’를 진행했다",
+    "삼성전자 멤버십 가입 고객 중 1111명을 추첨해 에버랜드 자유이용권을 줬고, 제일모직(현 삼성물산 패션부문) 역시 주요 브랜드 할인행사를 펼치며 우승 기념 마케팅에 동참했고, 에버랜드는 이용 요금의 30%를 할인해 줬다.",
+    "LG전자는 2023년 LG 트윈스가 29년 만의 한국시리즈 우승을 기념해 ‘LG 윈윈 페스티벌’을 개최했다",
+    "2025년 LG 트윈스가 또 다시 한국시리즈 통합 우승을 차지한 이후에는 전국 LG전자 베스트샵에서 TV와 냉장고, 세탁기 등 11개 품목 25개 모델을 대상으로 최대 25% 할인 혜택을 제공했다",
+    "관련기사 삼성전자, AMD와 반도체 테스트 인프라 고도화⋯ 차세대 메모리 결합 LG전자, 스마트폰으로 ‘전자종이 디스플레이’ 관리하는 앱 출시 삼성전자, 동반성장지수 15년 연속 최우수…국내 기업 최초 선풍기·밥솥 잊어라⋯ 신일·쿠쿠·앳홈, 새 먹거리 ‘홈 뷰티’ 도전장"
+   ]
+  },
+  {
+   "url": "https://biz.chosun.com/industry/business-venture/2026/11/11/T3FPPMLDXFEJDOR7D5UCHDGSGY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001204106?sid=101",
+   "title": "동반성장지수 평가서 44개사 최우수…13개사는 최하위 등급",
+   "desc": "동반성장 실적 평가 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 상승했다. 삼성전자와 LG전자가 공동으로 최고 득점을 기록했고, SK인텔릭스는 전년 대비 점수 상승 폭이 가장 컸다. 중소기업 체감도 조사...",
+   "published": "2026-11-11T15:55+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261111_0003863409",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014316335?sid=101",
+   "title": "\"글로벌 AI·로봇 각축장\" 다가오는 CES 2027, 어느 韓대기업 출격하나",
+   "desc": "삼성전자는 AI 가전을 기반으로 한 AI 홈을 소개한다. 특히 이번 CES에서 로봇 사업의 새로운 성과를... 로봇을 출시하고 있다. 재계 관계자는 \"CES 2027에서는 로봇 기술 경쟁이 어느 때보다 치열해질 것\"이라며...",
+   "published": "2026-11-11T15:51+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1713587/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003153992?sid=101",
+   "title": "카페로 들어간 쿠쿠…AI 조리로봇·커피머신 등 60여종 선봬",
+   "desc": "쿠쿠가 커피머신과 인공지능(AI) 조리로봇 등을 앞세워 카페·외식업 시장 공략에 나선다. 가정용... 메인 공간인 커피바에서는 전자동 에스프레소 머신 '더 크레마' 3종과 전자식 원두 그라인더를 선보인다. 100℃로 끓인...",
+   "published": "2026-11-11T15:47+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261111500418",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261111500418",
+   "title": "6개 시중은행 첫 상생금융지수 평가 결과 기업·우리銀 '우수'(종합)",
+   "desc": "평균 62.58점인 실적 평가에선 삼성전자와 LG전자가 최고 득점을, SK인텔릭스가 전년 대비 점수가 가장 많이 상승했다. 체감도 조사(평균 73.09점)에선 코리아세븐이 가장 높은 점수를, 교촌F&B가 전년 대비 점수가 가장...",
+   "published": "2026-11-11T15:32+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261111085651030?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016436267?sid=101",
+   "title": "동반성장 최우수 기업 44곳…6개 업체 3년 연속 최우수 등급(종합)",
+   "desc": "'동반성장 실적 평가'의 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 성장했다. 삼성전자와 LG전자는 최고 득점을 기록했고, SK인텔릭스는 전년 대비 점수 상승이 가장 큰 기업으로 평가됐다. '중소기업 체감도...",
+   "published": "2026-11-11T15:18+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/economy/2026/11/11/2026111115052079246",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005439695?sid=101",
+   "title": "삼성전기·두산에너빌, 동반성장지수 3년 연속 최우수…명예기업 선정",
+   "desc": "'동반성장 실적 평가' 평균 점수는 지난해 57.56점에서 62.58점으로 5.02점 상승했다. 삼성전자와 LG전자가 최고 득점을 기록했고 SK인텔릭스가 전년 대비 점수 상승이 가장 큰 기업으로 평가됐다. '중소기업 체감도 조사...",
+   "published": "2026-11-11T15:15+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611110416i",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005352733?sid=101",
+   "title": "동반성장 최우수 기업에 한화, 두산에너빌리티 등 44곳 선정",
+   "desc": "'동반성장 실적 평가'의 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 성장했다. 삼성전자와 LG전자는 최고 득점을 기록했고, SK인텔릭스는 전년 대비 점수 상승이 가장 큰 기업으로 평가됐다. 6개 은행을...",
+   "published": "2026-11-11T15:08+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611111336057796",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005602744?sid=101",
+   "title": "동반성장 최우수 명예 삼성전자 등 20곳…기업·우리은행 우수 상생",
+   "desc": "'동반성장 실적 평가'의 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 올랐다. 삼성전자와 LG전자는 최고 득점을 기록했고, SK인텔릭스는 전년 대비 점수 상승이 가장 컸다. 특히 삼성전자는 동반성장지수...",
+   "published": "2026-11-11T15:07+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113647",
+   "naver_url": "https://www.smarttoday.co.kr/ko-kr/articles/113647",
+   "title": "2026년 동반성장지수 등급 발표..삼성전자, 15년 연속 최우수",
+   "desc": "‘동반성장 실적 평가’ 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 상승했다. 삼성전자와... 자이C&A, 코웨이, 포스코이앤씨, 포스코퓨처엠, 풀무원식품, 한샘, 한신공영, 한화(건설부문), 한화솔루션...",
+   "published": "2026-11-11T15:06+09:00",
+   "host": "www.smarttoday.co.kr",
+   "questions": [
+    "O1",
+    "O2",
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적",
+    "코웨이 실적",
+    "쿠쿠전자 실적"
+   ],
+   "also": [],
+   "cues": [
+    "발표"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261111144040367",
+   "naver_url": "https://www.ajunews.com/view/20261111144040367",
+   "title": "쿠쿠, '2026 서울카페쇼' 참가…커피 머신·쿠킹로봇 등 전시",
+   "desc": "또한 아직 출시하지 않은 AI 바리스타 정수기도 카페쇼에서 선보일 예정이다. 푸드테크 기업 '봇인킷... 부스 체험 후 후기를 인증한 방문객 전원에게 드립백을 증정하고, 이 가운데 추첨을 통해 쿠쿠 전자식 원두...",
+   "published": "2026-11-11T14:44+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 렌탈 계정",
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261111001047",
+   "naver_url": "https://www.newspim.com/news/view/20261111001047",
+   "title": "印 가전시장 진출한 中 샤오미, 현지 생산 확대 위해 파트너 물색 중",
+   "desc": "8월에는 인도에서 스마트 홈 서브 브랜드인 미지아(Mijia)를 공식 출시했다. 공기청정기를 시작으로 정수기... 한편, 인도 가전 시장은 현재 LG전자와 삼성전자가 양분하고 있다. 인디아IPO 등 현지 컨설팅 업체에 따르면...",
+   "published": "2026-11-11T14:41+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261111000338",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003484608?sid=101",
+   "title": "쿠쿠, 코엑스에 '카페' 차렸다…상업용 가전으로 카페·외식업 공략",
+   "desc": "쿠쿠는 주방가전에서 쌓은 기술력을 바탕으로 상업용 가전으로 사업 영역을 넓히고 있다. 이번 전시로 카페·외식업계와 접점을 늘리고 소상공인과 예비 창업자를 겨냥한다는 구상이다. 메인 공간인 커피바에는 전자...",
+   "published": "2026-11-11T14:33+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/industry/business_info/2026/11/11/3LW4BIIL2RD5XI2DGZBH2IMECE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001204059?sid=101",
+   "title": "보람그룹, 가전 제휴·생활 멤버십 확대… ‘상조 4.0’ 전략 추진",
+   "desc": "삼성전자·삼성카드와 협업해 선보인 ‘B&케어팩’을 들었다. 삼성스토어 등 공식 판매채널에서 가전제품을... 회사 측은 올해 5~10월 B&케어팩 누적 가입 실적이 기존 자사 유사상품인 ‘라이프플랜’ 대비 약 9배를...",
+   "published": "2026-11-11T14:10+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [
+    "제휴",
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20112949?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004681010?sid=105",
+   "title": "더 강해진 파이어플라이…에이전트·AI 모델 총동원 [어도비 맥스 2026]",
+   "desc": "비공개 베타로 출시됐다. 파이어플라이에서 사용할 수 있는 AI 모델은 총 36개로 늘었다. 새로 추가된 모델로는 바이트댄스의 드리미나 시댄스 2.5, 런웨이의 젠-4.5, 콰이쇼우의 클링 4.0, 이미지 모델인 구글의 나노 바나나...",
+   "published": "2026-11-11T13:51+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "C2"
+   ],
+   "queries": [
+    "드리미 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.naeil.com/news/read/608364?ref=naver",
+   "naver_url": "https://www.naeil.com/news/read/608364?ref=naver",
+   "title": "기업·우리은행 상생금융지수 ‘우수’",
+   "desc": "한편 동반성장 실적평가 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 상승했다. 삼성전자와 LG전자가 나란히 최고 득점을 기록했다. SK인텔릭스가 전년대비 점수 상승이 가장 컸다. 중소기업 체감도 조사...",
+   "published": "2026-11-11T13:04+09:00",
+   "host": "www.naeil.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2646801",
+   "naver_url": "https://www.etoday.co.kr/news/view/2646801",
+   "title": "삼성전자·한화에어로 등 동반성장 '최우수'...기업·우리은행 우수 상...",
+   "desc": "올해 동반성장지수 평가(2025년 실적 기준)는 231개 기업을 대상으로 실시했다. 등급별로 △최우수(S) 44개사... SK인텔릭스가 전년 대비 점수 상승이 가장 큰 기업으로 평가됐다. 중소기업 체감도 조사 평균 점수는 73....",
+   "published": "2026-11-11T13:00+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100139.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100139.html",
+   "title": "대기업 상생 점수 5점 뛰고 삼성전자 15년째 최우수 … 협력업체 체감도...",
+   "desc": "대기업 동반성장 실적평가 평균 점수는 62.58점으로 전년 57.56점보다 5.02점 상승했다. 삼성전자와 LG전자가 공동으로 최고 점수를 기록했고, SK인텔릭스는 전년 대비 점수 상승 폭이 가장 컸다. 반면 중소기업 체감도 조사...",
+   "published": "2026-11-11T12:04+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.nocutnews.co.kr/news/6605177?utm_source=naver&utm_medium=article&utm_campaign=20261111120057",
+   "naver_url": "https://n.news.naver.com/mnews/article/079/0004208636?sid=103",
+   "title": "삼전 15년째 '동반성장' 최우수·한화 첫 진입…쿠팡은 '미흡'",
+   "desc": "대기업의 동반성장 실적평가 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 상승했다. 삼성전자와 LG전자가 나란히 최고점을 기록했고, SK인텔릭스의 점수 상승 폭이 가장 컸다. 반면 중소기업 체감도 조사...",
+   "published": "2026-11-11T12:01+09:00",
+   "host": "www.nocutnews.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1713524/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003153859?sid=101",
+   "title": "동반성장 최우수 44곳…중소기업 체감도는 되레 하락",
+   "desc": "동반성장 실적 평가 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 상승했다. 삼성전자와 LG전자가 공동 최고점을 기록했으며 SK인텔릭스의 점수 상승 폭이 가장 컸다. 반면 중소기업 체감도 조사 평균 점수는...",
+   "published": "2026-11-11T12:01+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10933419?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002722043?sid=101",
+   "title": "삼성전자, 15년 연속 동반성장지수 최우수 …한화 3사도 첫 S등급",
+   "desc": "특히 SK인텔릭스는 전년 대비 실적평가 점수 상승 폭이 가장 큰 기업으로 나타났다. SK인텔릭스의 올해 동반성장지수 등급은 우수(A)다. 반면 중소기업 체감도 조사 평균 점수는 지난해 73.47점에서 올해 73.09점으로 0....",
+   "published": "2026-11-11T12:01+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10933537?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002722045?sid=101",
+   "title": "삼성전자, 동반성장지수 15년 연속 ‘최우수’",
+   "desc": "특히 SK인텔릭스는 전년 대비 실적평가 점수 상승 폭이 가장 큰 기업으로 나타났다. SK인텔릭스의 올해 동반성장지수 등급은 우수(A)다. 반면 중소기업 체감도 조사 평균 점수는 지난해 73.47점에서 올해 73.09점으로 0....",
+   "published": "2026-11-11T12:01+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111106504630213",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005841156?sid=101",
+   "title": "삼성전자·현대차 등 44개사 동반성장 '최우수'",
+   "desc": "한편, 동반성장 실적평가 평균 점수는 62.58점으로 전년 57.56점보다 5.02점 상승했다. 삼성전자와 LG전자가 최고점을 기록했고, SK인텔릭스는 전년 대비 점수 상승 폭이 가장 큰 기업으로 나타났다. 중소기업 체감도 조사...",
+   "published": "2026-11-11T12:00+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261111085600030?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016435573?sid=101",
+   "title": "동반성장 최우수 기업 44곳…우수 상생금융은 기업·우리은행",
+   "desc": "'동반성장 실적 평가'의 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 성장했다. 삼성전자와 LG전자는 최고 득점을 기록했고, SK인텔릭스는 전년 대비 점수 상승이 가장 큰 기업으로 평가됐다. '중소기업...",
+   "published": "2026-11-11T12:00+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2646769",
+   "naver_url": "https://www.etoday.co.kr/news/view/2646769",
+   "title": "한화 3사 동반성장 첫 '최우수'…상생금융은 기업·우리은행 '우수'",
+   "desc": "세부 항목별로 보면 '동반성장 실적 평가' 평균 점수는 62.58점으로 전년보다 5.02점 올랐다. 삼성전자와 LG전자가 나란히 최고 득점을 기록했고, SK인텔릭스는 전년 대비 점수가 가장 많이 오른 기업으로 평가됐다....",
+   "published": "2026-11-11T12:00+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261111000721",
+   "naver_url": "https://www.newspim.com/news/view/20261111000721",
+   "title": "대기업 상생 실적은 개선…中企 협력 만족도는 제자리",
+   "desc": "대·중견기업의 동반성장 실적평가 평균 점수는 62.58점으로 전년 (57.56점)보다 5.02점 상승했다. 삼성전자와 LG전자가 공동으로 최고점을 기록했고, SK인텔릭스는 전년 대비 점수 상승 폭이 가장 컸다. 반면 중소...",
+   "published": "2026-11-11T12:00+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611111001345065",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005602619?sid=101",
+   "title": "두산에너빌리티·삼성물산 등 6개사 동반성장지수 평가 3년 연속 최우수",
+   "desc": "동반성장 실적 평가와 중소기업 체감도 조사 결과를 보면 동반성장 실적 평가 평균 점수는 지난해 57.56점에서 올해 62.58점으로 5.02점 상승했으며 삼성전자와 LG전자가 나란히 최고 득점을 기록했다. SK인텔릭스는 전년...",
+   "published": "2026-11-11T12:00+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.venturesquare.net/1127514/",
+   "naver_url": "https://www.venturesquare.net/1127514/",
+   "title": "인텔리즈, 숙련자의 검사 노하우를 AI로 구현하다…불량 검출 넘어 자율...",
+   "desc": "인텔리즈는 삼성전자에 PCB 검사장비를 납품하고 LG디스플레이와 HD현대일렉트릭 생산라인에 검사 시스템을... 소프트웨어 구독과 라이선스 모델로 확장을 추진하는 이유다. 2026년 출시한 클라우드 AI 머신비전 플랫폼...",
+   "published": "2026-11-11T11:59+09:00",
+   "host": "www.venturesquare.net",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://it.donga.com/109897/",
+   "naver_url": "https://it.donga.com/109897/",
+   "title": "사진 한 장으로 영상 뚝딱…광고 콘텐츠 제작 문턱 낮추는 ‘카운트다운...",
+   "desc": "알파고 등장 이후 삼성전자 내부 AI 조직에 합류해 최신 딥러닝 기술을 연구했고, 영화처럼 긴 영상을 짧은... 그는 이어 “구독과 추가 크레딧 매출 비중이 약 7대3으로, 기본 구독 외에도 콘텐츠를 더 만들기 위해 추가...",
+   "published": "2026-11-11T11:22+09:00",
+   "host": "it.donga.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/172462",
+   "naver_url": "https://dealsite.co.kr/articles/172462",
+   "title": "[삼성전자 사장단 인사] TV 수장서 보좌역으로…용석우, 사업 지휘 복귀...",
+   "desc": "실제 삼성전자 TV·가전 사업의 수익성은 지난해 4분기 6000억원 적자에서 올해 1분기 2000억원 흑자로... 삼성전자는 사장 승진 당시에도 기술·영업·전략 등 여러 분야에서 TV 사업 성장을 이끈 점을 발탁 배경으로...",
+   "published": "2026-11-11T11:02+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://hbnpress.com/news/view/1065573175405515",
+   "naver_url": "https://hbnpress.com/news/view/1065573175405515",
+   "title": "IBK기업은행, 렌탈료 할인 ‘코웨이 IBK 2.0’ 카드 출시",
+   "desc": "IBK기업은행은 코웨이와 렌탈료 할인 카드 ‘코웨이 IBK 2.0’을 출시했다고 밝혔다. 사진=IBK기업은행 이 카드는 정수기, 비데, 공기청정기 등 코웨이의 다양한 렌탈 서비스를 실속 있게 이용할 수 있는 게 특징이다....",
+   "published": "2026-11-11T09:36+09:00",
+   "host": "hbnpress.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "할인"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "IBK기업은행, 렌탈료 할인 ‘코웨이 IBK 2.0’ 카드 출시",
+    "HBN뉴스 - IBK기업은행, 렌탈료 할인 ‘코웨이 IBK 2.0’ 카드 출시",
+    "보건복지부장관 표창 수상 삼성E&A, 자푸라 가스처리시설 시공 역량 인정...MEED 15년 연속 수상 한컴위드, FISCON 2026 참가...AI 기반 '무자각 지속 인증' 기술 공개 호안의원 김재형 원장, ‘리알로 인젝트 파인’ 키닥터 선정",
+    "조항목 NS홈쇼핑 대표, 한국경영학회 ‘혁신경영대상’ 수상 젠슨 황, 중국 스파이 지목 앨리스 황과 불륜 인정...엔비디아 이사회 본격 조사 임종택 세계한식총연합회 총회장, ‘단종의 밥상’과 지역 농특산물의 세계화 및 해외 유통망 구축 강조 '삼성전자 기밀유출' 안승호 전 부사장 항소심 징역 3년, 법정구속",
+    "[HBN뉴스 = 이필선 기자] IBK기업은행은 코웨이와 렌탈료 할인 카드 ‘코웨이 IBK 2.0’을 출시했다고 밝혔다.",
+    "이 카드는 정수기, 비데, 공기청정기 등 코웨이의 다양한 렌탈 서비스를 실속 있게 이용할 수 있는 게 특징이다."
+   ],
+   "og_date": "2026-11-11T09:32:10+09:00"
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065573309544450",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065573309544450",
+   "title": "SK인텔릭스, 웰니스 로봇 '나무엑스' 출시 1주년…B2B·해외시장 공략 확...",
+   "desc": "SK인텔릭스는 지난해 10월 나무엑스 출시 이후 일반 소비자(B2C)를 비롯해 기업(B2B), 공공기관(B2G)으로 고객층을 확대하며 사업 기반을 강화해 왔다. 지난 9월에는 말레이시아 시장에 진출하며 해외사업에도 나섰다....",
+   "published": "2026-11-11T09:36+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "SK인텔릭스, 웰니스 로봇 ′나무엑스′ 출시 1주년…B2B·해외시장 공략 확대",
+    "사회가치 공유 언론-소셜밸류 - SK인텔릭스, 웰니스 로봇 ′나무엑스′ 출시 1주년…B2B·해외시장 공략 확대",
+    "SK인텔릭스, 웰니스 로봇 '나무엑스' 출시 1주년…B2B·해외시장 공략 확대 소민영 기자 / 기사승인 : 2026-11-11 09:35:58",
+    "SK인텔릭스(대표이사 안무인)가 세계 최초 웰니스 로봇 ‘나무엑스(NAMUHX)’ 런칭 1주년을 맞아 오는 30일까지 고객 감사 이벤트 ‘해피 엑스데이(Happy X-DAY)’를 진행한다고 11일 밝혔다.",
+    "SK인텔릭스는 지난해 10월 나무엑스 출시 이후 일반 소비자(B2C)를 비롯해 기업(B2B), 공공기관(B2G)으로 고객층을 확대하며 사업 기반을 강화해 왔다",
+    "뿐만 아니라 SK인텔릭스는 지난 3일 서울 종로구 본사에서 자사와 협력사 구성원을 대상으로 ‘로봇과 사는 시대: NAMUH X 론칭 1년 그리고 미래’ 설명회를 열었다"
+   ],
+   "og_date": "2026-11-11T09:35:58+09:00"
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6349977",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009282546?sid=101",
+   "title": "SK인텔릭스 '나무엑스' 출시 1년…시니어케어·해외시장 확대",
+   "desc": "11일 SK인텔릭스는 나무엑스 출시 1주년을 맞아 오는 30일까지 고객 감사 행사 '해피 엑스데이'를 진행한다고 밝혔다. SK인텔릭스는 지난해 10월 나무엑스를 출시한 뒤 기업·소비자 간 거래(B2C)에서 기업 간 거래(B2B)...",
+   "published": "2026-11-11T09:35+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "확대"
+   ],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "SK인텔릭스 '나무엑스' 출시 1년…시니어케어·해외시장 확대 - 뉴스1",
+    "SK인텔릭스, 나무엑스 시니어케어·해외 확장B2C 넘어 B2B·공공기관 공급…9월 말레이시아 진출SK인텔릭스, 3개사와 요양기관 기능 실증·사업화 추진",
+    "SK인텔릭스, 동반성장지수 '우수'…전년보다 한 단계 상승"
+   ],
+   "og_date": "2026-11-11T09:35:49+09:00"
+  },
+  {
+   "url": "https://biz.chosun.com/industry/business-venture/2026/11/11/6GLBBSJLVND7NK5UUODVYKJIYE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001203941?sid=101",
+   "title": "SK인텔릭스, 웰니스 로봇 ‘나무엑스’ 출시 1주년 이벤트 진행",
+   "desc": "SK인텔릭스는 지난해 10월 나무엑스 출시 이후 일반 소비자부터 기업과 공공기관까지 고객층을 확대해 왔다. 지난 9월에는 말레이시아 시장에 진출하며 해외 사업에도 나섰다. 서비스 고도화도 이어가고 있다. 실내...",
+   "published": "2026-11-11T09:18+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "진행",
+    "이벤트"
+   ],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "SK인텔릭스, 웰니스 로봇 ‘나무엑스’ 출시 1주년 이벤트 진행 - 조선비즈",
+    "SK인텔릭스, 웰니스 로봇 '나무엑스' 출시 1주년 이벤트 진행",
+    "SK인텔릭스가 웰니스 로봇 '나무엑스(NAMUHX)' 출시 1주년을 맞아 오는 30일까지 고객 감사 이벤트 '해피 엑스데이'를 진행한다고 11일 밝혔다.",
+    "SK인텔릭스는 이벤트 기간 나무엑스를 신규 구독하는 고객 전원에게 네이버페이 20만 포인트와 무선 에어센서를 증정한다",
+    "SK인텔릭스는 지난해 10월 나무엑스 출시 이후 일반 소비자부터 기업과 공공기관까지 고객층을 확대해 왔다",
+    "SK인텔릭스는 지난 3일에는 서울 종로구 본사에서 '로봇과 사는 시대: 나무엑스 론칭 1년 그리고 미래' 설명회를 열고 출시 1년간의 성과와 향후 사업 전략을 공유했다."
+   ],
+   "og_date": "2026-11-11T00:16:36.313Z"
+  },
+  {
+   "url": "https://www.maisonkorea.com/interior/2026/11/32nd-anniversary-best-brand-awards-2026-4/?utm_source=naver&utm_medium=partnership",
+   "naver_url": "https://www.maisonkorea.com/interior/2026/11/32nd-anniversary-best-brand-awards-2026-4/?utm_source=naver&utm_medium=partnership",
+   "title": "32nd Anniversary BEST BRAND AWARDS 2026Ⅰ",
+   "desc": "‘베스트 브랜드’는 리빙과 라이프스타일 전반에 걸친 소비자들의 취향과 선호도를 살펴볼 수 있는 지표다. 올해는 가구, 가전, 주방, 인테리어, 생활 소품 등 총 50개 부문에 걸쳐 설문을 진행해 그중 주요 부문의...",
+   "published": "2026-11-02T17:08+09:00",
+   "host": "www.maisonkorea.com",
+   "questions": [
+    "X4"
+   ],
+   "queries": [
+    "가전 소비자 설문 브랜드 선호"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 8,
+  "B": 56,
+  "C": 3,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 8,
+  "ok": 7,
+  "실패": 1
+ }
+}
