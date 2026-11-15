@@ -1,0 +1,1526 @@
+{
+ "date": "2026-11-16",
+ "collected_at": "2026-11-16T08:23+09:00",
+ "lookback_days": 14,
+ "count": 51,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2000,
+   "in_window": 1038,
+   "kept": 23,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 212,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 60,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 941,
+   "in_window": 69,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1022,
+   "in_window": 46,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1300,
+   "in_window": 480,
+   "kept": 4,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1581,
+   "in_window": 624,
+   "kept": 1,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1182,
+   "in_window": 181,
+   "kept": 0,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 30,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1074,
+   "in_window": 23,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1138,
+   "in_window": 31,
+   "kept": 1,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1054,
+   "in_window": 33,
+   "kept": 5,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1961,
+   "in_window": 49,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 2000,
+   "in_window": 1085,
+   "kept": 4,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1949,
+   "in_window": 141,
+   "kept": 0,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1954,
+   "in_window": 356,
+   "kept": 0,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 119,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 160,
+   "kept": 2,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 17,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 108,
+   "kept": 11,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 38,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://slownews.kr/169536",
+   "naver_url": "https://slownews.kr/169536",
+   "title": "최민희 감찰 논란에 “가장 힘든 일은 등 뒤에서 날아오는 화살”: 슬로...",
+   "desc": "반도체 장비 수출을 통제하는 매치(MATCH)법이 시행되면 삼성전자와 SK하이닉스의 중국 공장도 장비 교체가... 구독자 피드백 하나 소개합니다. “의료는 모두의 안전과 건강을 위한 필수재입니다. 미국을 제외한 세계...",
+   "published": "2026-11-16T07:50+09:00",
+   "host": "slownews.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6354623",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009290275?sid=101",
+   "title": "삼성전자 이르면 이번주 인사…반도체 '보상' 부진 사업 '쇄신' 주목",
+   "desc": "삼성전자(005930)의 연말 정기 인사가 임박하면서 반도체 실적 회복을 이끈 인물들에 대한 승진과 부진... 하지만 이번에는 메모리 사업의 성과를 반영한 발탁과 파운드리(위탁생산)·가전 등 부진 사업의 조직 정비가...",
+   "published": "2026-11-16T07:00+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.kbmaeil.com/article/20261116500012",
+   "naver_url": "https://www.kbmaeil.com/article/20261116500012",
+   "title": "중국 게이머 6억8000만명 잡아라…삼성·LG, OLED 공략",
+   "desc": "중국 가전업체 TCL이 최근 출시한 27·32형 OLED 모니터에도 자회사 CSOT의 패널 대신 LG디스플레이의 탠덤... 한국 업체는 현지 판매망을 통해 OLED 공급처를 늘리고, 중국 업체는 프리미엄 제품군 확대에 필요한...",
+   "published": "2026-11-16T06:38+09:00",
+   "host": "www.kbmaeil.com",
+   "questions": [
+    "C5"
+   ],
+   "queries": [
+    "TCL 한국 신제품",
+    "TCL 한국 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261113093800003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016442912?sid=101",
+   "title": "삼성D·LGD, 중국 게이밍 OLED 공략…현지업체·PC방 협력 강화",
+   "desc": "최근 중국 대표 가전기업인 TCL이 출시한 27·32형 OLED 모니터에도 TCL의 패널 자회사인 CSOT 제품 대신... 부품 업체들까지 프리미엄 OLED 생산 역량을 확장할 경우 한국 업계의 입지가 줄어들게 될 것\"이라고 말했다.",
+   "published": "2026-11-16T06:17+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "C5"
+   ],
+   "queries": [
+    "TCL 한국 신제품",
+    "TCL 한국 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261115500296",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261115500296",
+   "title": "메트로신문 11월16일자 한줄뉴스",
+   "desc": "▲LG전자 미국 테네시 공장이 세탁가전 누적 생산 1000만대를 돌파했다. 현지 생산체계를 기반으로 미국... ▲앞으로 불법사금융 피해를 입었다면 서민금융통합지원센터를 직접 방문하지 않더라도 온라인으로 간편하게...",
+   "published": "2026-11-16T06:00+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1174826",
+   "naver_url": "https://www.wikitree.co.kr/articles/1174826",
+   "title": "삼성전자, 폴드8·DRAM·UFS 5.0으로 CES 2027 혁신상…최고혁신상 2배 늘...",
+   "desc": "폴더블 신제품을 둘러싼 소비자 접점이 광고에서 기술 평가로 넓어진 셈이다.512GB RDIMM은 4단 적층... 최고혁신상 2배…디스플레이·가전도 수상삼성전자는 이번 CTA 시상에서 최고혁신상(Best of Innovation) 수상...",
+   "published": "2026-11-16T02:08+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "S1",
+    "S2",
+    "S4"
+   ],
+   "queries": [
+    "삼성전자 가전 광고 캠페인",
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2",
+    "S4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.donga.com/news/Economy/article/all/20261115/135027898/2",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003762579?sid=101",
+   "title": "삼성 라이온즈 우승 기념… ‘롯데’, 삼성 가전 할인행사",
+   "desc": "롯데하이마트가 삼성 라이온즈의 2026 프로야구 한국시리즈 우승을 기념해 23일까지 전국 매장과 온라인쇼핑몰에서 삼성전자 가전 단독 할인 행사를 진행한다고 15일 밝혔다. 행사 기간 냉장고, 김치냉장고, TV, 세탁기...",
+   "published": "2026-11-16T00:31+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "S6"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 라이온즈 우승 기념… ‘롯데’, 삼성 가전 할인행사｜동아일보",
+    "롯데하이마트가 삼성 라이온즈의 2026 프로야구 한국시리즈 우승을 기념해 23일까지 전국 매장과 온라인쇼핑몰에서 삼성전자 가전 단독 할인 행사를 진행한다고 15일 밝혔다",
+    "행사 기간 냉장고, 김치냉장고, TV, 세탁기 등 총 14개 제품을 구매하면 할인, 카드 캐시백 등 기존 혜택에 12만 원을 추가로 할인받을 수 있다",
+    "#롯데하이마트#삼성 라이온즈#2026 프로야구#한국시리즈#우승 기념#가전 할인",
+    "2 [단독]‘與-경기·성남 라인’ 102명, 李정부서 공직·공기업 임명됐다",
+    "6 [단독]‘與-경기·성남 라인’ 102명, 李정부서 공직·공기업 임명됐다"
+   ],
+   "og_date": "2026-11-16T00:30:00+09:00"
+  },
+  {
+   "url": "https://www.insight.co.kr/news/582131",
+   "naver_url": "https://www.insight.co.kr/news/582131",
+   "title": "삼성전자, CES 최고 혁신상 4개...갤럭시 폴더블 2종 나란히 수상",
+   "desc": "등 신제품과 서비스가 11개의 혁신상을 받았다.생활가전에서는 일체형 세탁건조기 '비스포크 AI 콤보'가 선정됐다. 대용량 열교환기를 탑재해 단독 건조기 수준의 건조 성능을 구현했다는 게 삼성전자의...",
+   "published": "2026-11-15T19:24+09:00",
+   "host": "www.insight.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/distribution/channel/2026/11/15/P7UUT3BVJZDJ5F7WUBHCBG2Q7Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001204892?sid=101",
+   "title": "쿠팡, 29일까지 가전·디지털 기획전… 삼성·LG 등 참여",
+   "desc": "주요 가전·디지털 브랜드가 참여한다. 삼성전자의 태블릿PC ‘갤럭시 탭 S12’ 구매 고객에게는 카드 할인과... LG전자는 라이브 방송을 통해 가습기 신제품 ‘오브제컬렉션 하이드로타워’를 선보인다. 방송 중 구매...",
+   "published": "2026-11-15T17:34+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S6"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026111574431",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005353970?sid=101",
+   "title": "LG전자 美테네시 공장, 1000만대 생산 달성",
+   "desc": "기존에는 한국과 중국, 동남아 등 공장에서 제조해 미국 현지 매장에 진열되기까지 10주 넘게 걸렸다.... 미국 시장조사업체 트랙라인에 따르면 LG전자 세탁기와 건조기의 미국 매출 점유율은 테네시 공장을 본격...",
+   "published": "2026-11-15T17:25+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261115500055",
+   "naver_url": "https://www.news2day.co.kr/article/20261115500055",
+   "title": "‘블프 특수 잡아라’…쿠팡부터 면세점까지 할인 경쟁 본격화",
+   "desc": "인기 가전과 디지털 기기를 특가에 선보인다. 삼성전자 ‘갤럭시 탭 S12’ 구매 고객에게는 카드 할인과... LG전자는 겨울 신제품인 ‘오브제컬렉션 하이드로타워’ 가습기를 선보이고 방송 단독 혜택을 제공할...",
+   "published": "2026-11-15T17:24+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "C4",
+    "O1",
+    "O2",
+    "O4",
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "다이슨코리아 신제품",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 세일 페스타",
+    "삼성전자 코리아세일페스타",
+    "샤오미 코리아 신제품",
+    "코웨이 신제품",
+    "쿠쿠전자 신제품"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/11/15/2026111314101199594",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005441282?sid=101",
+   "title": "삼성 TV·가전, 적자 속 경력직 채용…'수익원 다변화' 승부수",
+   "desc": "15일 전자업계에 따르면 삼성전자 DX(디바이스경험)부문 VD(영상디스플레이)·DA(생활가전)사업부는 오는 23일까지 경력직 지원서를 받는다. 이번 채용은 두 사업부의 실적 부진이 깊어진 가운데 진행된다. 이들 사업부의...",
+   "published": "2026-11-15T17:00+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12095247?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003059187?sid=101",
+   "title": "트럼프 中 견제 무색…TCL, 북미서 고가 TV 호조",
+   "desc": "삼성전자와 LG전자가 TV 사업에서 고전하는 가운데, 중국 대표 TV·가전 업체인 TCL이 주력인 미니 LED TV을... TCL은 이러한 해외 시장 경쟁력에 실적도 호전됐다. TV 사업을 담당하는 디스플레이 사업 매출은...",
+   "published": "2026-11-15T16:34+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "C5",
+    "S1",
+    "X3"
+   ],
+   "queries": [
+    "TCL 한국 실적",
+    "삼성전자 가전 실적",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C5",
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kukinews.com/article/view/kuk202611150028",
+   "naver_url": "https://www.kukinews.com/article/view/kuk202611150028",
+   "title": "[통하는 충남] 수도권 관광객에 ‘충남 여행’ 매력 알려",
+   "desc": "충남도, 폐가전·폐전지 자원순환 전국대회 은상 차지 충남도가 추진하고 있는 폐가전 및 폐전지 자원순환... 심사와 온라인 도민 심사 결과를 종합해 최종 수상작을 확정했다고 15일 밝혔다. 이번 사업은 지역 현장에서...",
+   "published": "2026-11-15T16:32+09:00",
+   "host": "www.kukinews.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261113000051",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003485733?sid=105",
+   "title": "中 TCL, 중저가 넘어 고효율 TV '진격'…에너지 1등급 비율 삼성전자 추...",
+   "desc": "올해 슈퍼 퀀텀닷(SQD)-미니 LED 기술을 탑재한 'C7L'과 'C8L'을 출시했다. 고화질과 대형 화면이 특징으로... 에너지소비효율은 삼성전자와 LG전자가 강점을 가진 영역이다. 가전 업계 관계자는 “에너지소비효율...",
+   "published": "2026-11-15T16:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C5",
+    "S1"
+   ],
+   "queries": [
+    "TCL 한국 출시",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C5",
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.joongang.co.kr/article/25478729",
+   "naver_url": "https://n.news.naver.com/mnews/article/025/0003565245?sid=101",
+   "title": "LG전자 테네시 공장, 1000만대 생산 돌파…“북미 가전 1위 거점”",
+   "desc": "세탁가전 시장 입지를 확대하는 핵심 기지로 성장했다”고 설명했다. 미국 중동부의 지리점 이점을 활용해 생산된 제품을 미국 전역의 유통망으로 빠르게 운송할 수 있다는 강점도 있다. 과거 한국·중국·동남아...",
+   "published": "2026-11-15T15:03+09:00",
+   "host": "www.joongang.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.segyebiz.com/newsView/20261115502652?OutUrl=naver",
+   "naver_url": "http://www.segyebiz.com/newsView/20261115502652?OutUrl=naver",
+   "title": "현지화 전략 통했다…LG전자, 美 테네시 공장 세탁가전 생산 누적 1천만...",
+   "desc": "과거 한국·중국·동남아 등 해외 거점에서 생산한 물량이 현지 매장에 진열되기까지 10주 이상이... 시장조사기관 트랙라인에 따르면 LG전자의 미국 세탁기와 건조기 매출 기준 점유율은 테네시 공장 본격 가동 전인...",
+   "published": "2026-11-15T15:02+09:00",
+   "host": "www.segyebiz.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12209184",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005763864?sid=101",
+   "title": "삼성, CES 2027 휩쓸었다… ‘갤럭시 Z 폴드8’ 등 최고혁신상 4개 싹쓸...",
+   "desc": "삼성전자는 19개 제품에서 혁신상을 수상했다. TV가 포함된 영상디스플레이에서 13개, 생활가전... 영상디스플레이 부문에서는 TV, 사운드바, 모니터 등 신제품과 서비스 11개가 받았다. 생활가전 부문에서는...",
+   "published": "2026-11-15T14:47+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261115500086",
+   "naver_url": "https://www.asiatime.co.kr/article/20261115500086",
+   "title": "[산업 뉴스브리핑] \"8년간 5억달러 투자 결실\"…LG전자 테네시 공장 생산...",
+   "desc": "삼성전자는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 부문에서 총 19개 혁신상을... 영상디스플레이 부문은 최고 혁신상 2개와 더불어 2027년형 TV, 사운드바, 모니터 등 신제품 및 서비스로 11개...",
+   "published": "2026-11-15T14:46+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "S1",
+    "S2",
+    "S3",
+    "X3"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 매장 오픈",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 비스포크 AI 매장 오픈",
+    "삼성전자 비스포크 AI 신제품",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261115500225",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261115500225",
+   "title": "백화점 3사, 겨울 정기세일 돌입…최대 60% 할인에 체험형 콘텐츠까지",
+   "desc": "강남점에서는 19일까지 노스페이스 키즈 팝업스토어를 열고, 대구신세계에서는 26일까지 마리끌레르 팝업스토어를 진행한다. 센텀시티몰에서는 다음 달 31일까지 코웨이 비렉스와 까사미아가 참여하는 홈 스타일링...",
+   "published": "2026-11-15T14:44+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 매장 오픈",
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "돌입",
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261115500403",
+   "naver_url": "https://www.viva100.com/article/20261115500403",
+   "title": "‘거거익선’ 꿰 찬 ‘공간 효율’⋯ 정수기 시장에 부는 ‘초슬림 바람...",
+   "desc": "신제품 출시가 러시다. 좁은 조리대에도 쉽게 설치할 수 있도록 제품 설계를 바꾸고, 디자인과 위생·사용... 코웨이는 기존 ‘아이콘 얼음정수기 오리지널’보다 크기를 약 28% 줄인 ‘아이콘 얼음정수기 미니’를...",
+   "published": "2026-11-15T14:30+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "O1",
+    "O3"
+   ],
+   "queries": [
+    "SK매직 신제품",
+    "SK매직 출시",
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261115_0003868576",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014323017?sid=101",
+   "title": "쿠팡, 삼성·LG부터 프리미엄 오디오까지 연중 가장 풍성한 혜택",
+   "desc": "이번 행사에는 삼성전자, LG전자, 인텔, HP, 쿠첸, TCL, 마이디어, 하이센스 등 국내외 주요 가전·디지털... 특히 LG전자는 라이브 방송에서 겨울철 가전 신제품인 '오브제컬렉션 하이드로타워' 가습기를 선보이고 방송 중에만...",
+   "published": "2026-11-15T14:21+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S6"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261115500198",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261115500198",
+   "title": "삼성전자, TV·폴더블폰 기술력 인정…CES 최고혁신상 4개",
+   "desc": "삼성전자의 부문별 수상 내역은 영상디스플레이(VD) 13개, 생활가전(CE) 1개, 모바일(MX) 2개, 반도체(DS)... 영상디스플레이 부문에서는 2027년형 TV·사운드바·모니터 등 신제품과 서비스가 최고 혁신상 2개를 포함해...",
+   "published": "2026-11-15T14:18+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/15/72Y65AZVKZFCLPQC6BOGYSODAE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "naver_url": "https://n.news.naver.com/mnews/article/023/0004009693?sid=105",
+   "title": "공장서 매장까지 10주→1주…LG전자 미국 공장, 세탁가전 1000만대 생산",
+   "desc": "세탁 가전 누적 생산 1000만대 달성 기념 행사를 열었다고 15일 밝혔다. 회사에 따르면 과거 한국·중국... 시장조사 업체 트랙라인에 따르면 LG전자의 미국 세탁기·건조기 매출 기준 점유율은 2018년 각각 17.2%, 17.4%에서...",
+   "published": "2026-11-15T14:18+09:00",
+   "host": "www.chosun.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://sports.donga.com/sports/article/all/20261115/135025760/1",
+   "naver_url": "https://m.sports.naver.com/esports/article/382/0001304857",
+   "title": "쿠팡, 가전·디지털 블랙프라이데이",
+   "desc": "삼성전자와 LG전자, 인텔, HP 등 국내외 주요 브랜드가 참여해 가전과 디지털 기기를 할인 판매한다. 삼성... 23일부터 27일까지는 LG전자, 인텔, 샤오미 등이 참여하는 라이브 방송을 열어 추가 할인과 경품 행사도...",
+   "published": "2026-11-15T14:16+09:00",
+   "host": "sports.donga.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.nocutnews.co.kr/news/6607017?utm_source=naver&utm_medium=article&utm_campaign=20261115141245",
+   "naver_url": "https://n.news.naver.com/mnews/article/079/0004209891?sid=101",
+   "title": "쿠팡, 블랙프라이데이 16일 시작…삼성·LG등 인기 제품 할인",
+   "desc": "판매하는 '가전·디지털 블랙프라이데이' 기획전을 진행한다고 15일 밝혔다. 이번 행사에는 삼성전자와... LG전자는 라이브 방송에서 겨울 신제품 '오브제컬렉션 하이드로타워' 가습기를 선보이고 방송 단독 혜택을...",
+   "published": "2026-11-15T14:13+09:00",
+   "host": "www.nocutnews.co.kr",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "시작",
+    "할인"
+   ],
+   "q_title": [
+    "S1",
+    "S6"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠팡, 블랙프라이데이 16일 시작…삼성·LG등 인기 제품 할인 - 노컷뉴스"
+   ],
+   "og_date": "2026-11-15T14:12:08.0000000"
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611151329405871",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005604348?sid=101",
+   "title": "쿠팡, 가전·디지털 제품 할인…블랙프라이데이 돌입",
+   "desc": "주요 가전·디지털 브랜드가 참여한다. 삼성전자의 '갤럭시 탭 S12' 구매 고객에게는 카드 할인과 최대... LG전자는 가습기 신제품인 '오브제컬렉션 하이드로타워'를 선보일 예정이다. 정기동 쿠팡 가전디지털 본부장은...",
+   "published": "2026-11-15T13:34+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "돌입",
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1715152/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003155301?sid=101",
+   "title": "LG전자, 美 테네시 공장 생산 1000만대 돌파",
+   "desc": "기준 점유율은 2018년 각각 17.2%, 17.4%에서 지난해 23.3%, 24.1%로 올라 두 품목 모두 1위를 기록했다. 현지 생산의 핵심 효과는 공급 기간 단축이다. 한국·중국·동남아 등에서 생산한 제품이 미국 매장에 진열되기까지...",
+   "published": "2026-11-15T12:52+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12095182?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003059124?sid=101",
+   "title": "삼성전자, CES 2027 혁신상 19개… TV·폴드8·메모리 등 선정",
+   "desc": "삼성전자는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개의 혁신상을 받았다.... 영상디스플레이 부문에서는 최고혁신상 2개에 더해 2027년형 TV·사운드바·모니터 등 신제품과 서비스로...",
+   "published": "2026-11-15T12:08+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20114257?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004682269?sid=105",
+   "title": "고해상도 신축성 디스플레이 특허 출원, 한국이 세계 1위",
+   "desc": "그다음으론 LG디스플레이(851건), TCL(796건)과 삼성전자(597건) 순으로 출원이 많았다. 한국은 인공지능(AI) 모델 경량화 및 추론 기술 분야에서도 두드러진 특허 출원 실적을 보였다. 2015년부터 2024년까지 한국에서...",
+   "published": "2026-11-15T12:00+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "C5"
+   ],
+   "queries": [
+    "TCL 한국 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20114398?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004682262?sid=101",
+   "title": "롯데하이마트, 삼성 우승 기념 가전 12만원 추가 할인",
+   "desc": "롯데하이마트가 삼성 라이온즈의 프로야구 2026 한국시리즈 우승을 기념해 전국 매장과 온라인쇼핑몰에서 삼성전자 가전 단독 할인 행사를 진행한다고 15일 밝혔다. 이달 23일까지 전국 매장에서 냉장고...",
+   "published": "2026-11-15T11:47+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "S6"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "롯데하이마트, 삼성 우승 기념 가전 12만원 추가 할인 | 서울경제",
+    "롯데하이마트가 삼성 라이온즈의 프로야구 2026 한국시리즈 우승을 기념해 전국 매장과 온라인쇼핑몰에서 삼성전자 가전 단독 할인 행사를 진행한다고 15일 밝혔다",
+    "이달 23일까지 전국 매장에서 냉장고, 김치냉장고, TV, 세탁기 등 총 14개 인기 행사상품을 12만 원 일괄 추가 할인한다",
+    "전국 롯데하이마트 매장에서 삼성 제휴카드로 구매하면 받을 수 있는 혜택을 기존 최대 5%에서 최대 6%로 높였다",
+    "롯데하이마트 관계자는 “삼성전자의 우승기념 행사 기간에 맞춰 12만 원 추가 할인과 카드 혜택 상향 등 하이마트에서만 받을 수 있는 혜택을 더했다”며 “김장철과 연말 가전 교체 수요가 몰리는 시기인 만큼 프리미엄 TV와 김치냉장고 등 인기 모델에 혜택을 집중했다”고 말했다",
+    "롯데하이마트가 삼성 라이온즈의 2026 한국시리즈 우승을 기념해 전국 매장과 온라인쇼핑몰에서 삼성전자 가전 단독 할인 행사를 진행한다"
+   ],
+   "og_date": "2026-11-15T11:46:16+09:00"
+  },
+  {
+   "url": "https://news.tf.co.kr/read/economy/2388895.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000551972?sid=105",
+   "title": "삼성전자, CES 2027 혁신상 19개 '싹쓸이'…최고 혁신상도 4개 수상",
+   "desc": "인정 삼성전자가 세계 최대 가전·정보기술(IT) 전시회 'CES 2027'을 앞두고 '최고 혁신상' 4개를 포함해 총... 영상디스플레이 부문에서는 최고 혁신상 2개를 비롯해 2027년형 TV와 사운드바, 모니터 등 신제품과...",
+   "published": "2026-11-15T11:46+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065576877243329",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065576877243329",
+   "title": "삼성전자, 'CES 2027' 혁신상 19관왕…최고혁신상 4개 수상",
+   "desc": "삼성전자는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개의 혁신상을 받았다.... 영상디스플레이 부문에서는 최고 혁신상 2개 외에도 2027년형 ▲TV ▲사운드바 ▲모니터 등 신제품과...",
+   "published": "2026-11-15T11:10+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261115021500030?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016442285?sid=101",
+   "title": "쿠팡, 삼성·LG 등 인기 가전 특가 판매…블랙프라이데이 행사",
+   "desc": "판매하는 '가전·디지털 블랙프라이데이' 기획전을 진행한다고 15일 밝혔다. 이번 행사에는 삼성전자와... LG전자는 라이브 방송에서 겨울 신제품 '오브제컬렉션 하이드로타워' 가습기를 선보이고 방송 단독 혜택을...",
+   "published": "2026-11-15T11:07+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S6"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065572844651387",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065572844651387",
+   "title": "LG전자, 美 테네시공장서 세탁가전 1000만대 생산…미국 시장점유율 1위",
+   "desc": "LG전자의 미국 테네시 공장이 세탁가전 누적 생산 1000만대를 돌파했다. LG전자는 이를 기반으로 미국... 두 제품 모두 미국 시장 점유율 1위를 기록했다. 현지 생산에 따른 공급 기간도 줄었다. 과거 한국과 중국...",
+   "published": "2026-11-15T10:50+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [
+    "점유율"
+   ],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "LG전자, 美 테네시공장서 세탁가전 1000만대 생산…미국 시장점유율 1위",
+    "사회가치 공유 언론-소셜밸류 - LG전자, 美 테네시공장서 세탁가전 1000만대 생산…미국 시장점유율 1위",
+    "[소셜밸류=최연돈 기자] LG전자의 미국 테네시 공장이 세탁가전 누적 생산 1000만대를 돌파했다",
+    "LG전자는 지난 13일(현지시간) 미국 테네시주 내슈빌에 위치한 테네시 생산법인에서 세탁가전 누적 생산 1000만대 달성 기념행사를 개최했다고 15일 밝혔다.",
+    "▲LG전자가 13일(현지시간) 미국 테네시 공장에서 세탁가전 누적 생산 1000만대 달성 기념행사를 개최한 가운데 (왼쪽 두 번째부터) 박용 테네시생산법인장, 손창우 리빙솔루션사업부장, 조시 워드 카운티 산업개발위원회 총괄이사 등 참석자들이 1000만번째 생산 제품과 함께 기념촬영을 하고 있다./사진=LG전자 제공",
+    "백승태 LG전자 HS사업본부장 부사장은 \"LG전자 세탁가전이 북미 고객에게 꾸준히 인정받아 온 결과 테네시 공장이 누적 생산 1000만대를 달성했다\"며 \"앞으로도 차별화된 제품과 AI 기반의 제조혁신을 바탕으로 북미 시장에서의 리더십을 더욱 공고히 해나갈 것\"이라고 말했다."
+   ],
+   "og_date": "2026-11-15T10:46:19+09:00"
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026111508432430543",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002248575?sid=105",
+   "title": "삼성전자, CES 2027 혁신상 19개 수상…갤럭시 Z 폴드8 등 최고 혁신상 ...",
+   "desc": "삼성전자는 미국소비자기술협회(CTA)가 지난 9일(현지시간) 발표한 CES 2027 혁신상에서 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개 상을 받았다고 밝혔다. 이 가운데 최고 혁신상은...",
+   "published": "2026-11-15T10:35+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "O1",
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품",
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 실적",
+    "코웨이 출시",
+    "코웨이 프로모션"
+   ],
+   "also": [
+    {
+     "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107939",
+     "host": "www.womentimes.co.kr",
+     "published": "2026-11-15T17:24+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/distribution/6354276",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009289458?sid=101",
+   "title": "쿠팡, 가전·디지털 블랙프라이데이…삼성·LG 등 인기 제품 할인",
+   "desc": "국내외 가전·디지털 브랜드가 참여한다. 삼성전자의 '갤럭시 탭 S12' 구매 고객에게는 카드 할인과 최대 5만... 특히 LG전자는 라이브 방송에서 겨울 시즌 가전 신제품인 '오브제컬렉션 하이드로타워' 가습기를 선보이고...",
+   "published": "2026-11-15T10:17+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "S1",
+    "S6"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠팡, 가전·디지털 블랙프라이데이…삼성·LG 등 인기 제품 할인 - 뉴스1",
+    "쿠팡, 16~29일 ‘가전·디지털 블랙프라이데이’갤럭시 탭 S12 카드 할인·최대 5만원 캐시 적립23~27일 라이브 방송…LG 하이드로타워 단독 혜택",
+    "삼성, LG, 인텔 등 주요 가전 브랜드 대거 참여해 파격적인 할인가에 인기 상품 제안"
+   ],
+   "og_date": "2026-11-15T10:17:00+09:00"
+  },
+  {
+   "url": "https://www.mt.co.kr/living/2026/11/15/2026111509573874153",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005441168?sid=101",
+   "title": "삼성 라이온즈 우승에 가전도 '세일 홈런'…롯데하이마트 할인전",
+   "desc": "롯데하이마트가 삼성 라이온즈의 2026 한국시리즈 우승을 기념해 전국 매장과 온라인 쇼핑몰에서 삼성전자 가전 할인 행사를 진행한다고 15일 밝혔다. 이번 행사는 삼성전자가 모든 유통채널에서 하는 '라이온즈...",
+   "published": "2026-11-15T10:14+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "S6",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 라이온즈 우승에 가전도 '세일 홈런'…롯데하이마트 할인전 - 머니투데이",
+    "롯데하이마트가 삼성 라이온즈의 2026 한국시리즈 우승을 기념해 전국 매장과 온라인 쇼핑몰에서 삼성전자 가전 할인 행사를 진행한다고 15일 밝혔다.",
+    "이번 행사는 삼성전자가 모든 유통채널에서 하는 '라이온즈 우승 기념 삼성전자 대축제'와 연계하고 롯데하이마트에서만 받을 수 있는 할인과 카드 혜택을 더했다.",
+    "전국 매장에서 삼성 제휴카드로 구매하면 받을 수 있는 금액대별 혜택을 기존 최대 5%에서 6%로 높였다",
+    "삼성전자가 전 유통채널에서 진행하는 혜택도 롯데하이마트에서 받을 수 있다",
+    "김보경 롯데하이마트 상품본부장은 \"삼성전자의 우승 기념 행사 기간에 맞춰 12만원 추가 할인과 카드 혜택 상향 등 하이마트에서만 받을 수 있는 혜택을 더했다\"며 \"김장철과 연말 가전 교체 수요가 몰리는 시기인 만큼 프리미엄 TV와 김치냉장고 등 인기 모델에 혜택을 집중했다\"고 말했다."
+   ],
+   "og_date": "2026-11-15T10:14:08+09:00"
+  },
+  {
+   "url": "https://www.etnews.com/20261115000038",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003485625?sid=101",
+   "title": "LG전자 테네시 공장 누적 1천만대…현지생산으로 美 세탁가전 1위 굳힌...",
+   "desc": "기준 점유율은 공장 가동 전인 2018년 각각 17.2%, 17.4%에서 지난해 23.3%, 24.1%로 올라 모두 1위를 차지했다. 현지 생산 최대 강점은 공급 속도다. 한국·중국·동남아 등 해외 거점 생산품은 미국 매장 진열까지 10주 이상...",
+   "published": "2026-11-15T10:07+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261115500113",
+   "naver_url": "https://www.viva100.com/article/20261115500113",
+   "title": "LG전자 美 테네시 공장, 세탁가전 누적 생산 1000만대 돌파",
+   "desc": "건조기 점유율도 같은 기간 17.4%에서 24.1%로 높아졌다. 세탁기와 건조기 모두 매출 기준 1위를 차지했다. 공급 기간도 단축됐다. 한국과 중국, 동남아시아 등 해외 생산 거점에서 제품을 공급하던 당시에는 현지 매장...",
+   "published": "2026-11-15T10:02+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [
+    {
+     "url": "https://www.ddaily.co.kr/page/view/2026111510242737843",
+     "host": "www.ddaily.co.kr",
+     "published": "2026-11-15T10:36+09:00"
+    },
+    {
+     "url": "https://www.sportsseoul.com/news/read/1649803?ref=naver",
+     "host": "www.sportsseoul.com",
+     "published": "2026-11-15T11:39+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611131703261455",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005604277?sid=101",
+   "title": "LG전자 테네시 공장, 누적 생산 1000만대 돌파",
+   "desc": "시장조사기관 트랙라인에 따르면 LG전자의 미국 세탁기와 건조기 매출 기준 점유율은 테네시 공장 가동... 한국·중국·동남아 등 해외 거점 생산 물량이 현지 매장에 진열되기까지 약 10주 이상의 소요시간이 약...",
+   "published": "2026-11-15T10:00+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [
+    {
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/QODPYAWPM5FOXH3OUZBRL4ITRQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "host": "biz.chosun.com",
+     "published": "2026-11-15T10:46+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/11/16/2026111509325770221",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005441162?sid=101",
+   "title": "LG전자 美 테네시 공장, 누적 생산 천만대 돌파…피지컬AI 거점 도약",
+   "desc": "같은 기간 건조기 점유율도 17.4%에서 24.1%로 높아지며 두 제품 모두 1위를 차지했다. 물류 효율성도 개선됐다. 과거 한국과 중국, 동남아시아 등 해외 생산기지에서 미국 매장까지 제품을 공급하는 데 10주 이상...",
+   "published": "2026-11-15T09:53+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mediapen.com/news/view/1137535",
+   "naver_url": "https://www.mediapen.com/news/view/1137535",
+   "title": "해외가전 넓히는 하이마트…상품·서비스 경쟁력 강화",
+   "desc": "주방·냉방 가전까지 넓혔다. 같은 기간 마이디어의 냉장고와 세탁건조기 신제품도 선보였다. 해외... 제공하며 가전 구매부터 사후관리까지 고객의 선택지를 넓히는 방향이다. 롯데하이마트 관계자는 \"삼성전자와...",
+   "published": "2026-11-15T09:48+09:00",
+   "host": "www.mediapen.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6354231",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009289432?sid=101",
+   "title": "삼성전자, 'CES 혁신상' 19개 수상…최고혁신상 4개",
+   "desc": "삼성전자는 △영상디스플레이(VD) 13개 △생활가전(CE) 1개 △모바일(MX) 2개 △반도체(DS) 3개 등 총 19개의... 영상디스플레이 부문에서는 2027년형 TV·사운드바·모니터 등 신제품과 서비스로 최고 혁신상 2개를...",
+   "published": "2026-11-15T09:41+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/15/2026111550017.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/15/2026111550017.html",
+   "title": "LG전자 美 테네시 공장, 누적 생산 1000만대 돌파…북미 가전 1위",
+   "desc": "기준 점유율은 2018년 각각 17.2%, 17.4%에서 지난해 23.3%, 24.1%로 높아져 두 품목 모두 1위를 차지했다. 현지 생산을 통해 제품 공급에 걸리는 시간도 줄였다. 과거 한국·중국·동남아 등 해외 생산거점에서 만든 제품이...",
+   "published": "2026-11-15T09:40+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [
+    {
+     "url": "https://www.etoday.co.kr/news/view/2648236",
+     "host": "www.etoday.co.kr",
+     "published": "2026-11-15T10:06+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000346447?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000543704?sid=101",
+   "title": "삼성전자, CES 2027 혁신상 19개 휩쓸어…갤럭시 Z 폴드8 최고 혁신상",
+   "desc": "삼성전자는 영상디스플레이 부문에서 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개의 혁신상을... 삼성전자는 2027년형 TV와 사운드바, 모니터 등 신제품과 서비스를 앞세워 최고 혁신상 2개를 포함해 모두...",
+   "published": "2026-11-15T09:30+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [
+    {
+     "url": "https://www.mk.co.kr/article/12209137",
+     "host": "www.mk.co.kr",
+     "published": "2026-11-15T12:39+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611150913007099",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005604269?sid=101",
+   "title": "삼성전자, CES 2027 최고혁신상 4개… 총 19개 휩쓸었다",
+   "desc": "영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등에서 총 19개의 혁신상을 받으면서 AI 인프라부터 엣지 디바이스까지 종합 메모리 경쟁력 입증했다는 평가가 나온다. 15일 삼성전자에 따르면...",
+   "published": "2026-11-15T09:25+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261115000012",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003485609?sid=101",
+   "title": "롯데하이마트, 삼성 라이온즈 우승 기념 가전 할인",
+   "desc": "기념해 삼성전자 인기 가전 할인 행사를 진행한다고 15일 밝혔다. 해당 기간 냉장고, 김치냉장고, TV... 삼성전자의 공통 프로모션도 함께 적용된다. 24일까지 추천 모델을 구독하면 최대 6개월 상당의 멤버십...",
+   "published": "2026-11-15T09:08+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S1",
+    "S2",
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 비스포크 AI 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "S1",
+    "S2",
+    "S6",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "롯데하이마트, 삼성 라이온즈 우승 기념 가전 할인 - 전자신문",
+    "롯데하이마트, 삼성 라이온즈 우승 기념 가전 할인",
+    "롯데하이마트는 오는 23일까지 전국 매장과 온라인쇼핑몰에서 삼성 라이온즈의 2026 한국시리즈 우승을 기념해 삼성전자 인기 가전 할인 행사를 진행한다고 15일 밝혔다.",
+    "전국 매장에서 삼성 제휴카드로 구매하면 금액대별 할인율을 기존 최대 5%에서 6%로 높인다",
+    "삼성닷컴에서는 행사 기간 매일 9명씩 총 108명을 추첨해 '갤럭시Z폴드8', '비스포크 AI 냉장고' 등을 증정한다.",
+    "김보경 롯데하이마트 상품본부장은 “삼성전자의 우승기념 행사 기간에 맞춰 12만원 추가 할인과 카드 혜택 상향 등 하이마트에서만 받을 수 있는 혜택을 더했다”고 말했다."
+   ],
+   "og_date": "2026-11-15T09:07:13+09:00"
+  },
+  {
+   "url": "https://www.sidae.com/article/2026111508064568029",
+   "naver_url": "https://n.news.naver.com/mnews/article/417/0001164326?sid=105",
+   "title": "삼성전자, CES 2027 혁신상 19개 수상",
+   "desc": "삼성전자는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 모두 19개의 혁신상을... 영상디스플레이 부문에서는 최고 혁신상 2개와 2027년형 TV·사운드바·모니터 등 신제품과 서비스로 11개의...",
+   "published": "2026-11-15T08:46+09:00",
+   "host": "www.sidae.com",
+   "questions": [
+    "O1",
+    "O3",
+    "S1",
+    "S2",
+    "S6",
+    "S7",
+    "X1"
+   ],
+   "queries": [
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시",
+    "SK인텔릭스 프로모션",
+    "가전 온라인 비중",
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 AS 서비스센터",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 조직 개편 생활가전",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품",
+    "삼성전자 비스포크 AI 실적",
+    "삼성전자서비스 방문 점검 서비스 확대",
+    "코웨이 렌탈 계정",
+    "코웨이 비렉스",
+    "코웨이 실적",
+    "코웨이 프로모션"
+   ],
+   "also": [
+    {
+     "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731686",
+     "host": "www.ebn.co.kr",
+     "published": "2026-11-15T09:36+09:00"
+    },
+    {
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/KTDRZSDDZZCFVOXVYMRST4MOJY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "host": "biz.chosun.com",
+     "published": "2026-11-15T10:09+09:00"
+    },
+    {
+     "url": "http://www.segyebiz.com/newsView/20261115509703?OutUrl=naver",
+     "host": "www.segyebiz.com",
+     "published": "2026-11-15T18:14+09:00"
+    },
+    {
+     "url": "https://www.joongang.co.kr/article/25478813",
+     "host": "www.joongang.co.kr",
+     "published": "2026-11-16T00:02+09:00"
+    },
+    {
+     "url": "https://www.seoul.co.kr/news/peoples/2026/11/16/20261116023006?wlog_tag3=naver",
+     "host": "www.seoul.co.kr",
+     "published": "2026-11-16T05:04+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2",
+    "S6",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261115009500003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016442146?sid=101",
+   "title": "삼성전자, CES 2027 혁신상 19개…폴드8·메모리 등 선정",
+   "desc": "삼성전자는 영상디스플레이 부문 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 총 19개를 수상했다. 이... 영상디스플레이 부문에서는 최고 혁신상 2개에 더해 2027년형 TV·사운드바·모니터 등 신제품과...",
+   "published": "2026-11-15T08:31+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sportsseoul.com/news/read/1649757?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/468/0001280942?sid=101",
+   "title": "삼성전자, ‘CES 2027 혁신상’ 19개 휩쓸어…최고 혁신상 4개 쾌거",
+   "desc": "삼성전자는 영상디스플레이 13개, 생활가전 1개, 모바일 2개, 반도체 3개 등 전 사업 부문에서 고른... 영상디스플레이 부문에서는 최고 혁신상 2개 외에 2027년형 TV, 사운드바, 모니터 등 신제품과 서비스로 11개의...",
+   "published": "2026-11-15T08:14+09:00",
+   "host": "www.sportsseoul.com",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 비스포크 AI 세탁건조기 신제품",
+    "삼성전자 비스포크 AI 신제품"
+   ],
+   "also": [
+    {
+     "url": "https://www.nocutnews.co.kr/news/6606956?utm_source=naver&utm_medium=article&utm_campaign=20261115094943",
+     "host": "www.nocutnews.co.kr",
+     "published": "2026-11-15T09:50+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 7,
+  "B": 43,
+  "C": 1,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 7,
+  "ok": 7,
+  "실패": 0
+ }
+}
