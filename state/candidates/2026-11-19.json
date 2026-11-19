@@ -1,0 +1,2530 @@
+{
+ "date": "2026-11-19",
+ "collected_at": "2026-11-19T10:13+09:00",
+ "lookback_days": 14,
+ "count": 101,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2000,
+   "in_window": 981,
+   "kept": 17,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 211,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 55,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 941,
+   "in_window": 44,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1022,
+   "in_window": 46,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1300,
+   "in_window": 453,
+   "kept": 5,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1281,
+   "in_window": 306,
+   "kept": 10,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1186,
+   "in_window": 137,
+   "kept": 5,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 16,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1075,
+   "in_window": 18,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1138,
+   "in_window": 136,
+   "kept": 32,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1055,
+   "in_window": 40,
+   "kept": 0,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1961,
+   "in_window": 39,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 2100,
+   "in_window": 1276,
+   "kept": 10,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1949,
+   "in_window": 157,
+   "kept": 1,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 2060,
+   "in_window": 445,
+   "kept": 4,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 60,
+   "kept": 1,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 150,
+   "kept": 13,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 49,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 131,
+   "kept": 3,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 37,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.mt.co.kr/tech/2026/11/19/2026111910024754364",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005443386?sid=105",
+   "title": "\"수능 끝나면 새 스마트폰\"…이통사, 수험생에 AI 쿠폰·SBS 인기가요 티...",
+   "desc": "SBS 가요대전 30주년 방청권과 500만원 여행상품권, 구글 제미나이 구독권까지 다양한 경품을 내걸었다.... 삼성전자 갤럭시 단말의 구글 AI '제미나이(Gemini)'를 활용해 여행·취미·자기계발 등 나만의 버킷리스트...",
+   "published": "2026-11-19T10:08+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111909532196850",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005844901?sid=105",
+   "title": "이통3사 \"수험생 잡아라\"…버킷리스트 챌린지·AI 지원 풍성",
+   "desc": "무료 AI 구독권 제공에 스마트폰 할인 혜택 KT는 이날부터 내달 31일까지 2006년생부터 2008년생을... 신청하면 '구글 AI 플러스(400GB)'를 1개월간 무료로 이용할 수 있다. 삼성전자 갤럭시 단말 구매 고객에게는 추가...",
+   "published": "2026-11-19T09:53+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1717058/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003157021?sid=105",
+   "title": "KT, 수능 마친 2006~2008년생 대상 'Y수능 페스타'…최대 20만원 할인",
+   "desc": "수험생활을 마치고 늘어난 여가 시간에 영상·콘텐츠 등을 부담 없이 즐길 수 있도록 구독 혜택도... 등 삼성전자가 마련한 수험생 대상 혜택도 동시에 받을 수 있다. 공식 온라인몰 KT 다이렉트샵 만의 단독...",
+   "published": "2026-11-19T09:49+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10942323?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002725561?sid=101",
+   "title": "‘어나드 범어’, 수입 주방가구·시스템 에어컨 등 기본 사양 적용",
+   "desc": "삼성전자 식기세척기와 전기오븐, 인덕션 등 빌트인 가전도 기본으로 포함됐다. 시스템 에어컨은 주택형에... 하우스키핑, 세탁, 방문세차 등 컨시어지 서비스와 헬스케어 서비스, 입주민 아카데미 등 주거 서비스도...",
+   "published": "2026-11-19T09:47+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 방문케어"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261119_0003874478",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014331968?sid=105",
+   "title": "\"수능 끝났으니 즐겨볼까\"…KT, AI부터 쇼핑·여행 혜택 마련",
+   "desc": "영상 콘텐츠와 생활 서비스를 묶은 KT 구독팩 가입자에게는 네이버페이 3000원권을 지급한다. 구독팩은... 등 삼성전자에서 제공하는 수험생 혜택도 받을 수 있다. KT 다이렉트샵에서는 특정 스마트폰 구매 시 추가...",
+   "published": "2026-11-19T09:43+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261119500198",
+   "naver_url": "https://www.viva100.com/article/20261119500198",
+   "title": "[통신업계 소식] SKT, 수능 마친 수험생 고객에 문화생활·AI·로밍 혜택...",
+   "desc": "수험생활을 마치고 늘어난 여가 시간에 영상·콘텐츠 등을 부담 없이 즐기도록 구독 혜택도 더했다.... 등 삼성전자가 마련한 수험생 대상 혜택도 동시에 받을 수 있다. 공식 온라인몰 ‘KT 다이렉트샵’ 만의 단독...",
+   "published": "2026-11-19T09:18+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/industry/business_info/2026/11/19/TWDS4ACIT5EVTNYEAAXAXHKX3A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001205854?sid=101",
+   "title": "삼성전자, ‘삼성 AI 구독’ 케어 서비스 세분화…방문케어 라이트 도입",
+   "desc": "대상’ 가전 구독 부문에서 대상을 받았다. 삼성전자는 제품 판매부터 배송·설치·사후관리까지 연계한 구독 서비스를 운영하고 있다. 2024년 ‘AI 구독클럽’으로 선보인 이 서비스는 올해 출시 2주년을 맞아 ‘삼성 AI...",
+   "published": "2026-11-19T09:01+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자 블루패스",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [
+    "도입",
+    "구독"
+   ],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, ‘삼성 AI 구독’ 케어 서비스 세분화…방문케어 라이트 도입 - 조선비즈",
+    "삼성전자, '삼성 AI 구독' 케어 서비스 세분화…방문케어 라이트 도입",
+    "삼성전자의 가전 구독 서비스 '삼성 AI 구독'이 '2026 대한민국 올해의 최고 브랜드 대상' 가전 구독 부문에서 대상을 받았다",
+    "삼성전자는 제품 판매부터 배송·설치·사후관리까지 연계한 구독 서비스를 운영하고 있다.",
+    "2024년 'AI 구독클럽'으로 선보인 이 서비스는 올해 출시 2주년을 맞아 '삼성 AI 구독'으로 이름을 바꾸고 고객별 케어 서비스를 강화했다",
+    "회사 자체 설문에서는 구독 고객의 75%가 향후 삼성 가전을 우선 고려하겠다고 답했다."
+   ],
+   "og_date": "2026-11-18T06:28:33.239Z"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116233?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004683820?sid=105",
+   "title": "갤럭시도 아이폰도 아닌데 210만원?…가성비 앞세우던 샤오미에 무슨 일...",
+   "desc": "국내에 출시한다. 삼성전자 ‘갤럭시 S26 울트라’보다 15만2000원 비싸고 애플 ‘아이폰18 프로맥스’보다는 9만1000원 저렴하다. 샤오미코리아는 18일 후면에 인공지능(AI) 디스플레이를 달고 라이카와 함께 만든...",
+   "published": "2026-11-19T08:51+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10942145?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002725501?sid=101",
+   "title": "“모니터·마우스가 공짜”…롯데하이마트, 19일부터 ‘수능패스’",
+   "desc": "삼성전자 ‘갤럭시탭 S12+’은 149만9900원, 레노버 ‘SLIM3 노트북’ 109만9000원 등 온라인 최저가 수준으로 선보인다. 애플 IT가전은 오는 12월 26일까지 할인 판매한다. 중·고등학생 및 대학생을 대상으로...",
+   "published": "2026-11-19T08:44+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/AKR20261119081532KvG",
+   "naver_url": "https://n.news.naver.com/mnews/article/422/0000927687?sid=101",
+   "title": "삼성전자, 이르면 내일 사장단 인사…메모리·MX 강화 관측",
+   "desc": "함께 맡고 있는 MX사업부장도 노 사장이 TV와 생활가전 등 부문 전반의 실적 개선에 집중할 수 있도록 새로 선임할 가능성이 제기됩니다. 전체 인사 규모는 크지 않을 것이라는 전망입니다. #삼성전자 #재계인사 #사장단",
+   "published": "2026-11-19T08:16+09:00",
+   "host": "www.yonhapnewstv.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://sports.donga.com/region/article/all/20261119/135051260/1",
+   "naver_url": "https://n.news.naver.com/mnews/article/382/0001305563?sid=102",
+   "title": "“프리미엄 숙면·힐링에 향긋한 커피 한 잔”… 신세계 센텀시티, 코웨...",
+   "desc": "연말 프로모션을 결합한 것이 특징이다. 행사의 핵심 무대인 센텀시티몰 지하 2층 팝업존에서는 코웨이를 대표하는 혁신 환경가전 라인업부터 비렉스의 최첨단 프리미엄 매트리스, 감각적인 디자인의 안마의자까지...",
+   "published": "2026-11-19T07:29+09:00",
+   "host": "sports.donga.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 매장 오픈",
+    "코웨이 비렉스",
+    "코웨이 팝업",
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kbmaeil.com/article/20261119500009",
+   "naver_url": "https://www.kbmaeil.com/article/20261119500009",
+   "title": "삼성전자 사장단 인사 임박…메모리·MX 새 수장 주목",
+   "desc": "삼성전자가 HBM4 판매 확대에 힘입어 올해 3분기 반도체 부문에서 역대 최대 분기 실적을 낸 가운데... 재계에서는 노 사장이 TV·생활가전 등 DX부문 전반에 집중하고, 스마트폰 사업은 별도 수장에게 맡길 가능성이...",
+   "published": "2026-11-19T06:56+09:00",
+   "host": "www.kbmaeil.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.mydaily.co.kr/page/view/2026111906501774595",
+   "naver_url": "https://n.news.naver.com/mnews/article/117/0004126275?sid=103",
+   "title": "롯데하이마트, 19일부터 ‘수능패스’ IT가전 할인…노트북·스마트폰·...",
+   "desc": "등을 할인 판매하는 ‘하이마트 수능패스’ 행사를 시작한다고 19일 밝혔다. 먼저 노트북과 조립 PC 구매... 주요 IT가전 특가도 마련했다. 삼성전자 ‘갤럭시탭 S12+’는 149만9900원, 레노버 ‘슬림3 노트북’은...",
+   "published": "2026-11-19T06:51+09:00",
+   "host": "www.mydaily.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116193?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004683781?sid=101",
+   "title": "컨콜 첫 등장한 ‘쿠다의 아버지’…‘포스트 젠슨 황’ 꿰차나 [갭 월...",
+   "desc": "삼성전자(005930)와 SK하이닉스(000660)는 엔비디아를 중심으로 고대역폭메모리(HBM) 사업을 확대하고 있다. 황... 갭 월드 코너와 기자페이지를 구독해주세요. 어떤 문의든 언제나 환영입니다. 제 메일로 연락주시면 후속...",
+   "published": "2026-11-19T06:30+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261118094300003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016450471?sid=101",
+   "title": "삼성전자 사장단 인사 임박…메모리·스마트폰 리더십 보강할듯",
+   "desc": "각 부문장 겸임 체제서 사업부장 신규 선임 가능성 삼성전자가 이르면 이번 주 사장단 인사를 단행한다.... 그러나 TV·생활가전·스마트폰 등 DX 부문 전반의 실적 악화로 노 사장이 부문 전반을 챙겨야 한다는 필요성이...",
+   "published": "2026-11-19T06:01+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000415",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487340?sid=101",
+   "title": "롯데하이마트, 수험생 겨냥 IT가전 할인전…노트북·태블릿 특가 판매",
+   "desc": "(IT) 가전 할인 행사를 진행한다. 롯데하이마트는 19일부터 전국 매장에서 IT가전 할인 행사 '하이마트... 주요 IT가전도 할인 가격에 선보인다. 삼성전자 '갤럭시탭 S12+'는 149만9900원, 레노버 'SLIM3 노트북'은...",
+   "published": "2026-11-19T06:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611184830g",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005355567?sid=101",
+   "title": "\"샤오미 vs 삼성 붙는다면\"…한국인들 속마음 보니 '깜짝' [트렌드시그널...",
+   "desc": "샤오미코리아 관계자는 \"현재 샤오미 18 폴드의 국내 출시 계획은 없다\"며 \"향후 출시를 검토할 가능성은 있지만 당장 정해진 일정은 없다\"고 말했다. 소비자들 마음은 어디로 향해 있을까. 어떤 브랜드에 시선을...",
+   "published": "2026-11-19T06:01+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111823103758446",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005844741?sid=101",
+   "title": "롯데하이마트 '수능패스'…노트북·태블릿 최저가",
+   "desc": "롯데하이마트는 19일부터 전국 매장에서 수험생과 학생을 대상으로 IT 가전 할인 행사 '하이마트... 삼성전자 '갤럭시탭 S12+'는 149만9900원, 레노버 '슬림3' 노트북은 109만9000원, LG전자 '울트라기어' 모니터는...",
+   "published": "2026-11-19T06:00+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261118_0003873823",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014331485?sid=101",
+   "title": "\"수능 끝, 노트북·테블릿 구입 적기\" 롯데하이마트, '수능패스'",
+   "desc": "삼성전자 '갤럭시탭 S12+' 149만9900원, 레노버 'SLIM3 노트북' 109만,000원, LG전자 '울트라기어' 모니터 30만9000원 등 행사상품은 온라인 최저가로 선보인다. 애플 IT가전은 내달 26일까지 혜택가에 제공한다. 중·고등학생...",
+   "published": "2026-11-19T06:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 구매 사은품 증정 이벤트",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sidae.com/article/2026111714594514642",
+   "naver_url": "https://n.news.naver.com/mnews/article/417/0001164837?sid=101",
+   "title": "엔비디아 생태계 파고드는 한국산 AI 칩",
+   "desc": "삼성SDS는 7월 RNGD를 활용한 구독형 클라우드 서비스를 출시했다. 포털 다음도 RNGD와 업스테이지의 AI 모델... 2030년까지 자동차·가전·로봇·드론용 칩 8종과 설계자산 2종을 개발·검증한다. 삼성전자...",
+   "published": "2026-11-19T05:20+09:00",
+   "host": "www.sidae.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.seoul.co.kr/news/economy/finance/2026/11/19/20261119031005?wlog_tag3=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/081/0003700965?sid=101",
+   "title": "가계빚 2030조… 가전 할인에 3분기 카드만 5조 긁었다",
+   "desc": "최근 가전업계에서는 삼성전자 ‘감사 페스티벌’, LG전자 ‘국가대표 가전 대축제’ 등 대규모 판촉 행사가 잇따랐다. 가계대출 증가세가 주춤했다고 가계부채 위험이 해소된 것도 아니다. 주택 관련 대출은 주택...",
+   "published": "2026-11-19T05:05+09:00",
+   "host": "www.seoul.co.kr",
+   "questions": [
+    "S1",
+    "S6",
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국",
+    "삼성전자 가전 판촉",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "가계빚 2030조… 가전 할인에 3분기 카드만 5조 긁었다 | 서울신문",
+    "주택 거래가 줄면서 대출 증가세는 둔화했지만, 가전업체들이 할인과 장기 할부 혜택을 내놓으면서 카드 결제대금 등이 대출보다 더 많이 늘었기 때문이다.",
+    "판매신용 증가를 이끈 건 가전업체들의 판촉 행사다",
+    "최근 가전업계에서는 삼성전자 ‘감사 페스티벌’, LG전자 ‘국가대표 가전 대축제’ 등 대규모 판촉 행사가 잇따랐다.",
+    "주택 거래 감소로 가계대출 증가세는 둔화했지만, 가전업체들의 할인과 장기 할부 혜택으로 판매신용이 5조원 늘어 더 크게 증가했다.",
+    "가계신용 2030조5000억원, 사상 최고치 경신 가계대출 증가 둔화, 판매신용 5조원 증가 가전 할인·장기 할부가 카드 결제대금 확대"
+   ],
+   "og_date": "2026-11-19T00:44:24+09:00"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261118_0003873944",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014331417?sid=101",
+   "title": "LG그룹, 오늘 인사단행 '안정 속 쇄신' 주목…삼성전자도 발표 임박",
+   "desc": "및 실적이 부진한 사업부를 중심으로 인적 쇄신이 이뤄질지가 관전 포인트다. 삼성전자는 통상 11월 말~12월... 별도의 MX사업부장을 선임하면 노 사장은 스마트폰을 비롯해 TV, 생활가전 등 완제품 사업 전반의 경쟁력...",
+   "published": "2026-11-19T05:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "발표"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261118_0003873836",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014331420?sid=101",
+   "title": "[단독] 中샤오미, 韓서 'SU7 등 전기차' 첫 상표권 신청 \"내년 글로벌 진...",
+   "desc": "앞서 샤오미의 한국 법인인 샤오미테크놀로지코리아는 사업 목적에 휴대폰, 휴대폰 액세서리, 태블릿... 루웨이빙 샤오미 그룹 사장도 지난 5월 실적발표회에서 \"공식 해외 출시는 2027년 3분기 또는 4분기로 계획돼...",
+   "published": "2026-11-19T05:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 실적",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sidae.com/article/2026111812244231274",
+   "naver_url": "https://n.news.naver.com/mnews/article/417/0001164834?sid=101",
+   "title": "외상 구매·주담대 늘어…가계빚 2030조 사상 최대",
+   "desc": "18일 한국은행이 발표한 '2026년 3분기 가계신용(잠정)'에 따르면 9월 말 가계신용 잔액은 2030조5000억원으로... 3분기 판매신용은 5조원 증가했다. 가전 환급 행사와 카드 장기 할부 혜택 등의 영향으로 1분기...",
+   "published": "2026-11-19T05:00+09:00",
+   "host": "www.sidae.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261118502411",
+   "naver_url": "https://n.news.naver.com/mnews/article/005/0001886082?sid=101",
+   "title": "가구·가전까지 파고드는 크리에이터 커머스",
+   "desc": "18일 CJ온스타일에 따르면 지난 9월 호주 프리미엄 주방가전 브랜드 브레빌과 리빙 크리에이터 ‘까사림’의... 글로벌 시장조사업체 그랜드뷰리서치는 국내 크리에이터 경제 시장 규모가 지난해 37억 달러에서 2033년...",
+   "published": "2026-11-19T02:34+09:00",
+   "host": "www.kmib.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12096022?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003059943?sid=105",
+   "title": "[미래포럼] “ESG도 버거운데 AI까지 준비해야하니… 답답하고 막막”",
+   "desc": "한국·중국·멕시코·베트남·폴란드 등 5개국에 8개의 공장을 가동하며 삼성전자·LG전자 등에 가전 부품을... 이처럼 업계 고통을 호소하던 CEO들은 ‘AI공존시대, ESG의 길을 묻다’ 미래포럼의 주제 발표와 강연을 통해...",
+   "published": "2026-11-18T20:00+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://sports.donga.com/economy/article/all/20261118/135042286/1",
+   "naver_url": "https://n.news.naver.com/mnews/article/382/0001305516?sid=101",
+   "title": "“온열 안마+난연 소재” 코웨이 ‘비렉스’로 겨울 숙면 잡는다",
+   "desc": "코웨이 ‘비렉스’가 겨울철 맞춤형 매트리스로 주목받고 있다. 온열 안마 기능을 탑재한 ‘비렉스 M시리즈 안마 매트리스’가 대표적이다. 강력한 전문 마사지 기술력으로 추운 날씨에 쉽게 경직되는 근육을 부드럽게...",
+   "published": "2026-11-18T19:45+09:00",
+   "host": "sports.donga.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10941792?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002725341?sid=101",
+   "title": "코웨이, 제품안전의 날 대통령표창…국제 공인시험소 14개 분야 확보",
+   "desc": "제품 출시 이후에는 자체 수거검사를 통해 국내외 판매 제품의 안전성을 점검하고 있다. 최인두 코웨이 1연구소장은 “제품 개발부터 사후관리까지 법적 요구 수준보다 강화된 자체 검증 기준을 적용하며 제품...",
+   "published": "2026-11-18T19:03+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2027878",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076365?sid=105",
+   "title": "샤오미, 후면 화면·2억 화소 카메라 갖춘 '18 프로 맥스' 국내 출시",
+   "desc": "샤오미코리아는 플래그십 스마트폰 '샤오미 18 프로 맥스'를 국내 출시하고 오는 23일까지 사전 판매를 진행한다고 18일 밝혔다. 신제품의 가장 큰 특징은 후면 카메라 옆에 배치된 72.62㎜ 크기의 아몰레드(AMOLED)...",
+   "published": "2026-11-18T18:34+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미, 후면 화면·2억 화소 카메라 갖춘 '18 프로 맥스' 국내 출시",
+    "[아이뉴스24 황세웅 기자] 샤오미가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 프리미엄 스마트폰을 앞세워 국내 시장 공략에 나섰다.",
+    "샤오미코리아는 플래그십 스마트폰 '샤오미 18 프로 맥스'를 국내 출시하고 오는 23일까지 사전 판매를 진행한다고 18일 밝혔다.",
+    "관련기사 샤오미, '미지아 스마트 공기청정기 6' 시리즈 국내 출시",
+    "배터리 용량은 7050mAh로 국내 출시 샤오미 시리즈 스마트폰 가운데 가장 크다",
+    "샤오미코리아 관계자는 \"후면 디스플레이가 스마트폰 혁신의 또 다른 방향이 될 수 있다고 보고 있다\"며 \"새로운 사용자 경험을 통해 국내 소비자들에게 스마트폰의 새로운 가능성을 제시하고자 한다\"고 말했다."
+   ],
+   "og_date": "2026-11-18T18:32:47+09:00"
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026111855081",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005355514?sid=101",
+   "title": "삼성·LG가 작정했다…하루 만에 20% 급등한 '이 주식' 정체",
+   "desc": "엔비디아의 3분기 실적 발표를 계기로 인공지능(AI) 인프라 수요가 재확인된 데다 내년 1월 열리는 세계 최대 IT·가전 전시회 ‘CES 2027’에서 삼성전자와 LG전자 등 국내 대기업이 휴머노이드 로봇을 공개할 것이란...",
+   "published": "2026-11-18T18:26+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026111855521",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005355511?sid=101",
+   "title": "백화점 1층 매장 파고든 '다이슨 뷰티'",
+   "desc": "다이슨코리아가 현대백화점 판교점 1층에 뷰티 특화 매장을 전면 리뉴얼해 재개장했다. 에어랩 등으로... 다이슨 뷰티’ 로고를 적용했다. 청소기 등 생활가전으로 시작한 다이슨은 2016년 헤어드라이어를 출시하며 뷰티...",
+   "published": "2026-11-18T18:25+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "O4"
+   ],
+   "queries": [
+    "다이슨코리아 신제품",
+    "다이슨코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026111855711",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005355494?sid=105",
+   "title": "엔비디아 \"투자 기업 엄격히 심사\"…'AI 중앙은행' 역할 축소하나",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 글로벌 투자 기사를 찾아볼 수 있습니다.... 업계 관계자는 “젠슨 황 스캔들 등으로 최근 AI 투자 축소 우려가 불거졌지만 삼성전자와 SK하이닉스의...",
+   "published": "2026-11-18T18:15+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026111855981",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005355463?sid=101",
+   "title": "젠슨 황 없는 엔비디아, 'AI투자 불안' 잠재웠다",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 글로벌 투자 기사를 찾아볼 수 있습니다. 가죽... 업계 관계자는 “젠슨 황 스캔들 등으로 최근 AI 투자 축소 우려가 불거졌지만 삼성전자와 SK하이닉스의...",
+   "published": "2026-11-18T17:51+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116097?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004683664?sid=101",
+   "title": "온열 안마기능에 화재 방지까지…코웨이, 프리미엄 매트리스 출격",
+   "desc": "코웨이 관계자는 “겨울철은 추위로 인해 근육이 쉽게 경직되고 전열기기 사용 등으로 침실 내 화재 안전성 확보가 필수적인 시기”라며 “코웨이 비렉스만의 차별화된 기술력으로 계절별 세분화된 수면 고민을 해결할...",
+   "published": "2026-11-18T17:48+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261118500285",
+   "naver_url": "https://www.news2day.co.kr/article/20261118500285",
+   "title": "코웨이·SK인텔릭스, 제품안전 역량 인정…생활가전 관리체계 고도화",
+   "desc": "코웨이는 신제품 개발부터 출시 이후까지 제품 안전성과 성능을 관리하기 위해 통합인증관리시스템(CICS)을 운영하고 있다. 개발 단계에서 인증 관련 위험 요소를 미리 점검하고, 생산 제품에 대해서도 정기적인 성능...",
+   "published": "2026-11-18T17:22+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "O1",
+    "O3"
+   ],
+   "queries": [
+    "SK매직 신제품",
+    "SK매직 인증 규제",
+    "SK매직 출시",
+    "SK인텔릭스 신제품",
+    "SK인텔릭스 인증 규제",
+    "SK인텔릭스 출시",
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1",
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261118500356",
+   "naver_url": "https://www.asiatime.co.kr/article/20261118500356",
+   "title": "코웨이, '제품안전의 날' 대통령표창…생활가전 안전관리 인정받아",
+   "desc": "개발부터 출시 후까지 통합 관리 14개 분야 공인 시험 자격 확보 코웨이가 제품 개발부터 사후관리까지 이어지는 품질·안전관리 체계를 구축해 생활환경가전의 안전성을 높인 공로로 대통령표창을 받았다. (오른쪽부터)...",
+   "published": "2026-11-18T17:00+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/18/2026111880186.html",
+   "naver_url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/18/2026111880186.html",
+   "title": "로보락, 국내 진공 물걸레 청소기 시장 1위…상반기 점유율 14.3%",
+   "desc": "2'를 출시했다. 신제품에는 'VaporFlow 2.0 터보 스팀 청소' 기술이 적용돼 고온 스팀을 분사하고 바닥에 눌어붙은 오염물을 제거한다. 로보락은 로봇청소기부터 진공 물걸레 청소기 'F25 시리즈', 무선 진공청소기 'H60...",
+   "published": "2026-11-18T16:32+09:00",
+   "host": "digitalchosun.dizzo.com",
+   "questions": [
+    "C1",
+    "X1"
+   ],
+   "queries": [
+    "로보락 신제품",
+    "로보락 점유율",
+    "로보락 출시",
+    "로봇청소기 점유율 국내"
+   ],
+   "also": [],
+   "cues": [
+    "점유율"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "로보락, 국내 진공 물걸레 청소기 시장 1위…상반기 점유율 14.3%-디지틀조선일보(디조닷컴 dizzo.com)",
+    "IT 로보락, 국내 진공 물걸레 청소기 시장 1위…상반기 점유율 14.3%",
+    "로보락, 로봇청소기 이어 진공 물걸레 청소기도 1위 / 로보락코리아 제공",
+    "로봇청소기 시장에서 입지를 다져온 로보락이 진공 물걸레 청소기 시장에서도 소매 판매액 기준 1위를 차지했다고 18일 밝혔다",
+    "글로벌 시장조사기관 유로모니터 인터내셔널의 상하이 법인 조사에 따르면 로보락은 2026년 상반기 국내 가정용 진공 물걸레 청소기 시장에서 소매 판매액 기준 점유율 14.3%를 기록했다",
+    "로보락은 로봇청소기 시장에서 축적한 기술력을 바탕으로 진공 물걸레 청소기 'F25 시리즈'를 국내에 선보이며 제품군을 확대해 왔다."
+   ]
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261118500383",
+   "naver_url": "https://www.asiatime.co.kr/article/20261118500383",
+   "title": "[산업 뉴스브리핑] 삼성전자 '더 프레임 프로', '오프라 윈프리 추천 선...",
+   "desc": "스마트폰 '샤오미 18 프로 맥스(Xiaomi 18 Pro Max)'를 국내 출시하고 사전 판매를 시작한다. 삼성전자 '더... 샤오미코리아 관계자는 \"샤오미 18 프로 맥스는 라이카 듀얼 2억 화소 카메라 시스템과 AI 후면 디스플레이를...",
+   "published": "2026-11-18T16:32+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000413",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487218?sid=101",
+   "title": "코웨이, '2026 제품안전의 날' 대통령표창 수상 영예",
+   "desc": "코웨이는 신제품 개발부터 출시 이후까지 제품 안전성과 성능을 체계적으로 관리하기 위해 통합인증관리시스템(CICS)을 구축·운영하고 있다. 개발 단계에서 인증 관련 위험 요소를 사전에 점검하고, 생산 제품에 대해서도...",
+   "published": "2026-11-18T16:27+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2027769",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076267?sid=101",
+   "title": "코웨이, 제품 안전관리 역량 인정받아 대통령표창 수상",
+   "desc": "코웨이는 신제품 개발부터 출시 이후까지 안전성과 성능을 관리하는 통합인증관리시스템(CICS)을 운영하고 있다. 제품 개발 단계에서 인증 관련 위험 요소를 사전에 점검하고, 생산 이후에도 정기적인 성능 모니터링과...",
+   "published": "2026-11-18T16:19+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2027796",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076264?sid=101",
+   "title": "로보락, 국내 진공 물걸레 청소기 시장 1위 기록",
+   "desc": "로보락이 국내 로봇청소기에 이어 진공 물걸레 청소기 시장에서도 소매판매액 기준 1위를 기록했다.... 올해 출시한 'F25 울트라'는 최대 150℃의 고온 스팀과 86℃의 고온수를 활용해 바닥 오염을 제거하며, 청소 후에는...",
+   "published": "2026-11-18T16:18+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "C1",
+    "X1"
+   ],
+   "queries": [
+    "로보락 신제품",
+    "로보락 점유율",
+    "로보락 출시",
+    "로봇청소기 점유율 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12212582",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005765634?sid=101",
+   "title": "\"저성장 파고 넘는다\" '인공지능·초개인화' 타고 광고 생태계 대전환",
+   "desc": "광고비 비중은 전체 시장의 60%를 웃돌며 중심축 역할을 더욱 공고히 하고 있다. 특히 온라인동영상서비... (생활가전), 익수제약 황진환(제약) 등 8개사가 금상을 받았다. 경제TV 부문 대상은 청호나이스의 'The M...",
+   "published": "2026-11-18T16:08+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12212541",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005765598?sid=101",
+   "title": "롯데하이마트, \"집안 모든 가전 수리해드려요\" 한달만에 가입 2만5천명 ...",
+   "desc": "가전수리올케어 서비스 출시 한 달 만에 가입자가 2만5000명을 넘어서는 등 가전 수리 분야에서 차별화된 서비스로 가전 케어 시장을 선도하고 있다는 평가다. 롯데하이마트는 로보락·쿠쿠·테팔·ASUS 등 직접 수리가...",
+   "published": "2026-11-18T16:02+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000237",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487199?sid=105",
+   "title": "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산",
+   "desc": "활용한 가전 제어가 확산하고 있다. 삼성전자는 챗GPT에서 이용할 수 있는 '삼성 스마트싱스(Labs)... 앞서 LG전자는 8월 챗GPT와 스마트홈 플랫폼 'LG 씽큐(ThinQ)'를 연동하는 서비스를 출시했다. 현재 에어컨과 공기청정기의...",
+   "published": "2026-11-18T16:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000045",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487193?sid=102",
+   "title": "[ET단상] 한국 팹리스와 추론용 AI 반도체",
+   "desc": "그러나 반도체 설계 전문 기업인 팹리스의 세계 시장에서 한국의 점유율은 1% 안팎에 머물러 있다. 정부와... 개발 인력과 자본이 부족한 중국의 중소 제조사들은 이를 활용해 제품 개발 기간을 줄일 수 있었다....",
+   "published": "2026-11-18T16:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.huffingtonpost.kr/article/262185",
+   "naver_url": "https://www.huffingtonpost.kr/article/262185",
+   "title": "이재용 삼성그룹 사장단 인사 '바꿀 곳만 바꾸나' : 삼성전자 '전영현·...",
+   "desc": "특히 삼성전자는 반도체와 완제품 사업의 실적이 크게 엇갈린 가운데 조직 운영의 효율성을 높이는 인사가... 메모리 가격 상승이 반도체 부문에는 호재였지만 스마트폰·가전 사업에는 원가 부담으로 작용한 것이다....",
+   "published": "2026-11-18T15:56+09:00",
+   "host": "www.huffingtonpost.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1716697/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003156761?sid=103",
+   "title": "수술로봇도 중국산이? '다빈치' 아성 넘보는 중국…국산은 '걸음마'",
+   "desc": "국내 시장의 경우 전기차, 가전과 같이 중국산이 파고들 경우 국내 수술로봇 기업들의 성장 기반이 무너질... 많다”며 “국내 시장 규모가 크지 않더라도 향후 10년, 20년을 내다보고 기업들이 꾸준히 성장할 수 있도록...",
+   "published": "2026-11-18T15:44+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 시장 규모 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12212503",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005765570?sid=105",
+   "title": "샤오미코리아 ‘샤오미 18 프로 맥스’ 국내 출시…사전 판매 시작",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억화소 카메라를 탑재한 프리미엄 스마트폰 ‘샤오미 18 프로 맥스’를 국내에 출시하고 사전 판매에 나섰다. 18일 샤오미코리아에 따르면 이번...",
+   "published": "2026-11-18T15:43+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "시작"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억화소 카메라를 탑재한 프리미엄 스마트폰 ‘샤오미 18 프로 맥스’를 국내에 출시하고 사전 판매에 나섰다.",
+    "18일 샤오미코리아에 따르면 이번 신제품은 스마트폰 뒷면에 72.62㎜ 크기의 아몰레드(AMOLED) 디스플레이를 탑재한 것이 특징이다.",
+    "# 디스플레이 # 스마트폰 # 프리미엄 # 샤오미코리아 # 삼성전자",
+    "샤오미코리아는 인공지능 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 '샤오미 18 프로 맥스'를 국내에 출시하고 사전 판매를 시작했다.",
+    "💰🛍️ 과거 가성비를 내세우던 샤오미가 최근에는 국내 프리미엄 스마트폰 시장을 겨냥해 삼성전자와 애플의 양강 구도에 도전장을 내밀고 있어요",
+    "과거 가성비를 앞세우던 샤오미가 최근에는 삼성전자와 애플이 치열하게 경쟁하는 국내 프리미엄 스마트폰 시장을 적극적으로 공략하는 모양새예요"
+   ],
+   "og_date": "2026-11-18T15:42:26+09:00"
+  },
+  {
+   "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890192.html",
+   "naver_url": "https://n.news.naver.com/mnews/article/448/0000651856?sid=101",
+   "title": "가계빚 2030조원 또 역대 최대…'빚투' 꺾여 증가 폭은 줄어",
+   "desc": "기업이 가전 관련 환급 행사를 했고, 장기 할부 혜택도 제공해 신용카드 판매액이 늘었다\"며 \"스마트폰 등도 많이 팔렸다\"고 설명했다. 삼성전자 등이 3분기 중 구매액 일부를 상품권으로 환급하는 등 판촉 행사...",
+   "published": "2026-11-18T15:39+09:00",
+   "host": "news.tvchosun.com",
+   "questions": [
+    "S1",
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국",
+    "삼성전자 가전 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921567",
+   "naver_url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921567",
+   "title": "가계빚 증가세 둔화 불구 부채 '부담 여전'... 가계부채 2030조 원 돌파 ...",
+   "desc": "한국은행이 18일 발표한 '2026년 3분기 가계신용(잠정)'에 따르면 9월 말 기준 가계신용 잔액은 2030조5000억... 2021년 4분기 이후 가장 큰 증가 폭이자 통계상 두 번째로 높은 수준이다. 일부 가전·스마트폰 판매업체의...",
+   "published": "2026-11-18T15:38+09:00",
+   "host": "www.chungnamilbo.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/18/2026111880152.html",
+   "naver_url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/18/2026111880152.html",
+   "title": "샤오미코리아, AI 후면 디스플레이 탑재한 '18 프로 맥스' 출시…사전 판...",
+   "desc": "샤오미코리아는 프리미엄 플래그십 스마트폰 '18 프로 맥스'를 국내 출시하고 사전 판매를 시작한다고 18일 밝혔다. 가장 큰 특징은 72.62㎜ 크기의 AMOLED 후면 디스플레이다. 전면과 동일한 샤오미 커스텀 M11 패널을...",
+   "published": "2026-11-18T15:36+09:00",
+   "host": "digitalchosun.dizzo.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미코리아, AI 후면 디스플레이 탑재한 '18 프로 맥스' 출시…사전 판매 돌입-디지틀조선일보(디조닷컴 dizzo.com)",
+    "IT 샤오미코리아, AI 후면 디스플레이 탑재한 '18 프로 맥스' 출시…사전 판매 돌입",
+    "샤오미코리아는 프리미엄 플래그십 스마트폰 '18 프로 맥스'를 국내 출시하고 사전 판매를 시작한다고 18일 밝혔다.",
+    "샤오미는 퀄컴 자료를 인용해 이전 세대 대비 CPU 성능은 최대 13%, GPU는 44%, NPU는 35% 향상됐다고 설명했다",
+    "샤오미코리아는 오는 23일까지 약 6일간 사전 판매를 진행한다",
+    "샤오미코리아 관계자는 \"18 프로 맥스는 라이카 듀얼 2억 화소 카메라 시스템과 AI 후면 디스플레이를 결합해 여행과 일상의 순간을 자신만의 방식으로 기록할 수 있도록 설계한 프리미엄 스마트폰\"이라며 \"스마트폰 시장에서 새로운 폼팩터를 통한 차별화가 중요해지는 가운데, 샤오미는 후면 디스플레이가 스마트폰 혁신의 또 다른 방향이 될 수 있다고 보고 있다\"고 말했다."
+   ]
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261118513823?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004176206?sid=101",
+   "title": "[포토] 샤오미코리아, AI 후면 디스플레이·Leica 2억 화소 카메라 무장...",
+   "desc": "샤오미코리아가 프리미엄 플래그십 스마트폰 ‘Xiaomi 18 Pro Max’를 국내에 출시하고,  11월 18일부터 사전 판매를 시작한다. Xiaomi 18 Pro Max는 국내 최초로 새로운 폼팩터의 AI 후면 디스플레이를...",
+   "published": "2026-11-18T15:27+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611180166",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611180166",
+   "title": "코웨이, ‘제품안전의 날’ 대통령표창…14개 분야 공인시험소 운영",
+   "desc": "출시 이후에는 국내외 판매 제품을 대상으로 자체 수거검사를 실시하고, 사후관리와 고객 서비스를 통해 안전성을 지속적으로 점검하고 있다. 최인두 코웨이 1연구소장은 “전 세계 고객이 코웨이 제품이라면 안심하고...",
+   "published": "2026-11-18T15:26+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261118151444579",
+   "naver_url": "https://www.ajunews.com/view/20261118151444579",
+   "title": "코웨이, 제품안전의 날 대통령표창…14개 분야 국제 공인시험 역량 확보",
+   "desc": "코웨이는 제품의 개발과 생산 및 출시 이후까지 안전성을 관리하는 통합인증관리시스템(CICS)을 운영하고 있다. 신제품 개발 단계에서 인증 관련 위험 요인을 점검하고 생산 과정에서도 성능과 안전성을 정기적으로...",
+   "published": "2026-11-18T15:24+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10941456?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002725229?sid=101",
+   "title": "주식 쇼크에 빚투도 위축…가계빚 증가폭 1년 반 만에 최소 [머니뭐니]",
+   "desc": "한국은행이 18일 발표한 ‘가계신용 잠정 통계’에 따르면 올해 3분기 말 기준 가계신용 잔액은... 김성준 팀장은 “일부 기업이 가전 관련 환급 행사를 했고, 장기 할부 혜택도 제공해 신용카드 판매액이...",
+   "published": "2026-11-18T15:24+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611180153",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611180153",
+   "title": "SK인텔릭스, 제품안전의 날 국무총리 표창…\"로봇 안전관리 성과\"",
+   "desc": "SK인텔릭스가 인공지능(AI) 웰니스 로봇의 개발부터 출시 이후 운영까지 전 과정에 걸친 안전관리 체계를 구축한 공로로 국무총리 표창을 받았다. SK인텔릭스는 지난 17일 열린 ‘2026 제품안전의 날’ 행사에서 제품...",
+   "published": "2026-11-18T14:50+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mediapen.com/news/view/1138242",
+   "naver_url": "https://www.mediapen.com/news/view/1138242",
+   "title": "삼성·LG가 휩쓴 CES 혁신상, 로봇은 중국에 뺏겨 \"쫓기는 미래 기술\"",
+   "desc": "생활가전(1개) 전 부문에서 고르게 상을 받았다. LG전자 또한 5년 연속 올레드 TV 최고혁신상을 수상한 데... 중국 기업들은 전체 수상 실적에서 한국에 못 미쳤으나 최고혁신상 4개를 따내며 삼성전자 단독 수상 수와...",
+   "published": "2026-11-18T14:24+09:00",
+   "host": "www.mediapen.com",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 비스포크 AI 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/photos/8220323",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009296325?sid=101",
+   "title": "Xiaomi 18 Pro Max, Leica 듀얼 2억 화소 카메라로 담는 여행과 일상의 순...",
+   "desc": "= 샤오미코리아가 프리미엄 플래그십 스마트폰 ‘Xiaomi 18 Pro Max’를 국내에 출시하고 11월 18일부터 사전 판매를 시작한다. Xiaomi 18 Pro Max는 2억 화소 Leica 메인 카메라와 2억 화소 Leica 망원 카메라...",
+   "published": "2026-11-18T14:15+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/it-science/mobile/6358076",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009296298?sid=105",
+   "title": "샤오미도 200만 원 넘었다…'샤오미18 프로맥스' 국내 출시",
+   "desc": "샤오미가 출고가 200만 원을 넘는 프리미엄 스마트폰 '샤오미18 프로맥스'를 국내 출시한다. 애플의 '아이폰18 프로맥스'와 불과 9만 1000원 차이 나는 가격을 책정했다. 샤오미코리아는 18일 인공지능(AI) 후면...",
+   "published": "2026-11-18T14:11+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미도 200만 원 넘었다…'샤오미18 프로맥스' 국내 출시 - 뉴스1",
+    "샤오미코리아, 샤오미18 프로맥스 국내 출시256GB 209만9000원·512GB 239만9000원AI 후면 디스플레이·라이카 듀얼 2억 화소 카메라 탑재",
+    "카카오톡 업데이트…공지 10개로 확대·톡보드 공동 편집·AI 번역도",
+    "네이버페이 'Npay 스타트업' KB증권·울산 VC 연결…20억 출자"
+   ],
+   "og_date": "2026-11-18T14:11:24+09:00"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2649715",
+   "naver_url": "https://www.etoday.co.kr/news/view/2649715",
+   "title": "반도체 호황, 대만선 서버·부품까지…삼성·SK 증설의 관건은 국내 발...",
+   "desc": "AI 반도체 주문이 늘면서 서버를 조립하고 부품을 만드는 업체까지 생산이 늘었다. 국내에서는 삼성전자와... 자동차와 가전·가구 등 고가품에서 차이가 두드러졌다. 같은 SK하이닉스 성과급에도 청주의 소비 반응은...",
+   "published": "2026-11-18T14:02+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "S1",
+    "X4"
+   ],
+   "queries": [
+    "가전 구매 조건 조사",
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://sateconomy.co.kr/news/view/1065586870262581",
+   "naver_url": "http://sateconomy.co.kr/news/view/1065586870262581",
+   "title": "한국은행, 가계빚 2030조원 역대 최대…카드 외상 5조원 급증",
+   "desc": "김 팀장은 판매신용 증가 배경으로 일부 기업의 가전제품 구매 환급 행사와 장기 할부 혜택을 꼽았다. 스마트폰 판매 증가도 신용카드 이용 확대에 영향을 미쳤다고 설명했다. 한국은행은 정부의 가계대출 관리...",
+   "published": "2026-11-18T13:22+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000233",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487035?sid=105",
+   "title": "[포토] 후면 디스플레이로 새로운 사용 경험…샤오미 18 프로 맥스 출시",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 플래그십 스마트폰 신제품 '샤오미 18 Pro Max'를 국내 공식 출시했다. 18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이...",
+   "published": "2026-11-18T13:19+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000232",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487034?sid=105",
+   "title": "[포토] 스마트폰 뒷면의 진화…AI 후면 디스플레이 탑재",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 플래그십 스마트폰 신제품 '샤오미 18 Pro Max'를 국내 공식 출시했다. 18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이...",
+   "published": "2026-11-18T13:18+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000228",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487031?sid=105",
+   "title": "[포토]후면 화면으로 셀피까지…샤오미 18 프로 맥스 공개",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 플래그십 스마트폰 신제품 '샤오미 18 Pro Max'를 국내 공식 출시했다. 18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이...",
+   "published": "2026-11-18T13:17+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "공개"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000227",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487033?sid=105",
+   "title": "[포토] 샤오미, AI 후면 디스플레이 탑재 신제품 국내 출시",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 플래그십 스마트폰 신제품 '샤오미 18 Pro Max'를 국내 공식 출시했다. 18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이...",
+   "published": "2026-11-18T13:17+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000229",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487029?sid=105",
+   "title": "[포토] 스마트폰 뒷면의 진화…AI 디스플레이로 차별화",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 플래그십 스마트폰 신제품 '샤오미 18 Pro Max'를 국내 공식 출시했다. 18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이...",
+   "published": "2026-11-18T13:17+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000230",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487032?sid=105",
+   "title": "[포토] 라이카 듀얼 2억 화소 카메라 탑재한 샤오미 신제품",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 플래그십 스마트폰 신제품 '샤오미 18 Pro Max'를 국내 공식 출시했다. 18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이...",
+   "published": "2026-11-18T13:17+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/173045",
+   "naver_url": "https://dealsite.co.kr/articles/173045",
+   "title": "[전자는 지금] 삼성전자 ‘더 프레임 프로’, 오프라 윈프리의 연말 선...",
+   "desc": "삼성전자는 라이프스타일 TV ‘더 프레임 프로’가미국 유명 라이프스타일 미디어 플랫폼 ‘오프라... ◆샤오미코리아, ‘샤오미 18 프로 맥스’ 국내 출시 글로벌 IT 기업 샤오미의 한국 법인 샤오미코리아가 AI 후면...",
+   "published": "2026-11-18T13:16+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "C1",
+    "C4",
+    "O4",
+    "S1",
+    "S3",
+    "S5",
+    "X1"
+   ],
+   "queries": [
+    "다이슨코리아 매장 오픈",
+    "다이슨코리아 출시",
+    "로보락 매장 오픈",
+    "로보락 점유율",
+    "로보락 출시",
+    "로봇청소기 점유율 국내",
+    "삼성 AI 가전 소비자 조사",
+    "삼성스토어 오픈",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 매장 오픈",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시",
+    "샤오미 코리아 가전 출시",
+    "샤오미 코리아 매장 오픈",
+    "샤오미 코리아 스토어 오픈",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S3",
+    "S5"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000226",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487028?sid=105",
+   "title": "[포토] 샤오미 18 프로 맥스 출시",
+   "desc": "샤오미코리아가 인공지능(AI) 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 플래그십 스마트폰 신제품 '샤오미 18 Pro Max'를 국내 공식 출시했다. 18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이...",
+   "published": "2026-11-18T13:16+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/photos/8220068",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009296130?sid=101",
+   "title": "‘촬영부터 실시간 대화 번역까지 지원하는 Xiaomi 18 Pro Max AI 후면 디...",
+   "desc": "= 샤오미코리아가 프리미엄 플래그십 스마트폰 ‘Xiaomi 18 Pro Max’를 국내에 출시하고 11월 18일부터 사전 판매를 시작한다. Xiaomi 18 Pro Max는 전면과 후면 디스플레이에 동일한 Xiaomi 커스텀 M11 패널을 적용했다....",
+   "published": "2026-11-18T13:11+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/photos/8220066",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009296132?sid=101",
+   "title": "후면 화면으로 구도를 확인하며 셀피를 촬영하는 ‘Xiaomi 18 Pro Max’",
+   "desc": "= 샤오미코리아가 프리미엄 플래그십 스마트폰 ‘Xiaomi 18 Pro Max’를 국내에 출시하고 11월 18일부터 사전 판매를 시작한다. Xiaomi 18 Pro Max는 72.62mm AMOLED AI 후면 디스플레이를 갖췄다. 후면 카메라로...",
+   "published": "2026-11-18T13:11+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/photos/8220069",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009296129?sid=101",
+   "title": "2nm Snapdragon과 7050mAh 대용량 배터리를 갖춘 ‘Xiaomi 18 Pro Max’",
+   "desc": "= 샤오미코리아가 프리미엄 플래그십 스마트폰 ‘Xiaomi 18 Pro Max’를 국내에 출시하고 11월 18일부터 사전 판매를 시작한다. Xiaomi 18 Pro Max는 2nm 공정 기반의 Snapdragon® 8 Elite Extreme Gen 6 모바일...",
+   "published": "2026-11-18T13:11+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/photos/8220065",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009296136?sid=101",
+   "title": "AI 후면 디스플레이와 Leica 듀얼 2억 화소 카메라 ‘Xiaomi 18 Pro Max’ 국...",
+   "desc": "= 샤오미코리아가 프리미엄 플래그십 스마트폰 ‘Xiaomi 18 Pro Max’를 국내에 출시하고 11월 18일부터 사전 판매를 시작한다. Xiaomi 18 Pro Max는 국내 최초로 새로운 폼팩터의 AI 후면 디스플레이를 적용했다....",
+   "published": "2026-11-18T13:11+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/photos/8220070",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009296127?sid=101",
+   "title": "‘Xiaomi 18 Pro Max’ 측면 시야를 제한하는 사생활 보호 디스플레이 적...",
+   "desc": "= 샤오미코리아가 프리미엄 플래그십 스마트폰 ‘Xiaomi 18 Pro Max’를 국내에 출시하고 11월 18일부터 사전 판매를 시작한다. Xiaomi 18 Pro Max는 Xiaomi HyperRGB 2.0 기반의 사생활 보호 디스플레이를 갖췄다....",
+   "published": "2026-11-18T13:11+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000224",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487026?sid=105",
+   "title": "샤오미18 프로맥스 국내 출시…프리미엄 라인업 확대",
+   "desc": "샤오미코리아는 샤오미18 프로맥스를 국내 출시하고 사전판매를 18일 시작했다. 국내 출고가는 12GB 램·256GB 저장용량 모델 기준 209만9000원이다. 512GB 모델은 239만9000원이다. 시작 가격은 전작인 샤오미17 울트라의 국내...",
+   "published": "2026-11-18T13:10+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시",
+    "확대"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미18 프로맥스 국내 출시…프리미엄 라인업 확대 - 전자신문",
+    "샤오미코리아는 샤오미18 프로맥스를 국내 출시하고 사전판매를 18일 시작했다",
+    "시작 가격은 전작인 샤오미17 울트라의 국내 출고가 189만9000원보다 20만원 높다.",
+    "샤오미는 오는 23일까지 사전판매를 진행한다",
+    "샤오미 입장에서는 200만원대 제품에서도 기존 중저가 제품에서 내세웠던 가격 경쟁력 대신 카메라와 성능, 사후지원 등 제품 자체 경쟁력으로 소비자를 끌어와야 하는 상황이다.",
+    "업계 관계자는 “샤오미가 국내에서 중저가 제품뿐 아니라 플래그십까지 제품군을 넓히고 있지만 고가 시장은 삼성전자와 애플의 영향력이 워낙 강하다”며 “신제품 출시와 오프라인 매장 확대가 브랜드 인지도를 높이는 데 얼마나 효과를 낼지가 중요할 것”이라고 말했다."
+   ],
+   "og_date": "2026-11-18T13:09:50+09:00"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2649728",
+   "naver_url": "https://www.etoday.co.kr/news/view/2649728",
+   "title": "\"삼전 환급행사에 카드결제 '쑥'\"⋯3분기 판매신용 증가폭 역대 2위",
+   "desc": "가전제품 관련 환급 판촉 행사를 크게 진행했고 스마트폰 판매도 늘어난 데다 카드사의 장기 할부 혜택까지 더해지면서 신용카드 이용액과 판매신용이 크게 늘었다\"고 설명했다. 특히 이 기간 진행된 삼성전자 대규모...",
+   "published": "2026-11-18T12:14+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "S1",
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국",
+    "삼성전자 가전 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261118104226588",
+   "naver_url": "https://www.ajunews.com/view/20261118104226588",
+   "title": "3분기 가계부채, 2030조원 '역대 최대'…증시 조정에 증가세 둔화",
+   "desc": "한국은행이 18일 발표한 '3분기 가계신용(잠정)' 통계에 따르면 올해 9월 말 가계신용 잔액은... 김 팀장은 \"계절적 요인보다는 장기 할부 혜택과 일부 기업의 가전제품 환급 행사 등 판촉 활동이 판매신용 증가에...",
+   "published": "2026-11-18T12:02+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611181105361051",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005606091?sid=101",
+   "title": "가계빚 2030조 시대..'빚투' 잠잠, 카드는 더 긁었다",
+   "desc": "판매신용 잔액은 3·4분기말 기준 133조7000억원으로 전 분기말보다 5조원 늘어났다. 역대 두번째 높은 증가 폭이다. 개인 신용카드 이용액은 2·4분기 208조3000억원에서 3·4분기 212조8000억원으로 늘어났다. 가전회사...",
+   "published": "2026-11-18T12:01+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261118077900002?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016448848?sid=101",
+   "title": "3분기 가계부채 증가폭 1년반 만에 최소…카드 외상은 급증",
+   "desc": "가전 환급 행사 등 영향\" 올해 3분기 주택 거래 감소, 증시 조정 등의 영향으로 가계부채 증가세가 모처럼 둔화한 것으로 나타났다. 판매신용은 역대 두 번째로 늘었다. 한국은행이 18일 발표한 가계신용 잠정 통계에...",
+   "published": "2026-11-18T12:00+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261118000562",
+   "naver_url": "https://www.newspim.com/news/view/20261118000562",
+   "title": "가계빚 2030조원 '역대 최대'…증시 조정에 '빚투' 줄며 증가세 주춤",
+   "desc": "김성준 한국은행 금융통계팀장은 \"3분기 가계신용 증가세가 둔화된 가장 큰 원인은 기타대출 감소\"라며... 기업의 가전제품 환급 행사와 장기 신용카드 할부 혜택 등이 영향을 미쳤다\"며 \"스마트폰 판매 증가도...",
+   "published": "2026-11-18T12:00+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/economy/2026/11/18/2026111809013532680",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005442889?sid=101",
+   "title": "집·주식 '빚투' 열풍 꺾였다…가계빚 증가폭 3분의 1로 '뚝'",
+   "desc": "18일 한국은행이 발표한 '2026년 3분기 가계신용(잠정)'에 따르면 3분기 말 가계신용 잔액은... 김 팀장은 \"계절적인 요인보다는 일부 기업의 가전 관련 환급 행사 등 판촉 행사와 스마트폰 판매 증가 등이 영향을...",
+   "published": "2026-11-18T12:00+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611180110",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611180110",
+   "title": "삼성전자 '더 프레임 프로', 美 연말 프리미엄 선물 리스트 선정",
+   "desc": "오프라 데일리는 벽면에 밀착할 수 있는 슬림한 디자인과 인공지능(AI) 기반 실시간 대화 번역 기능을... 삼성전자는 예술 작품 구독 서비스인 ‘삼성 아트 스토어’를 확대하며 라이프스타일 TV의 콘텐츠...",
+   "published": "2026-11-18T11:54+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.koreadaily.com/article/20261117184342124",
+   "naver_url": "https://www.koreadaily.com/article/20261117184342124",
+   "title": "[열린광장] 초연결 시대, 닮아가는 한국과 미국",
+   "desc": "한국 시장을 가늠하는 일상이 되었다. 병원 로비에서 만난 낯선 간병인조차 주식 이야기를 꺼냈다. 자신을 병원의 유일한 한국인 간병인이라고 소개한 그녀는 주식에 1억 원을 투자했는데 요즘은 무서워서 TV를 볼 수...",
+   "published": "2026-11-18T11:44+09:00",
+   "host": "www.koreadaily.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026111810563371339",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002249037?sid=105",
+   "title": "샤오미, 200만원대 스마트폰 샤오미 18 프로 맥스 韓 출시…삼성·애플 ...",
+   "desc": "샤오미코리아는 18일 프리미엄 플래그십 스마트폰 '샤오미 18 프로 맥스'를 국내 출시한다고 밝혔다. 지난 9월 중국에서 먼저 출시한 제품이다. ◆ 삼성 울트라보다 비싸다…샤오미의 프리미엄 승부수 가격은...",
+   "published": "2026-11-18T11:37+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미, 200만원대 스마트폰 샤오미 18 프로 맥스 韓 출시…삼성·애플 정조준 - 디지털데일리",
+    "가격 경쟁력을 앞세웠던 샤오미가 하드웨어 기술력을 전면에 내세워 삼성전자, 애플과 프리미엄 시장에서 정면 승부에 나서는 모양새다.",
+    "◆ 삼성 울트라보다 비싸다…샤오미의 프리미엄 승부수",
+    "샤오미 신제품은 삼성 제품보다 15만2000원 비싸고 애플 제품보다는 9만1000원 저렴하다.",
+    "삼성전자가 지난 10월 갤럭시 S26 시리즈의 출고가를 인상했음에도 샤오미 신제품의 가격이 더 높다.",
+    "샤오미는 삼성전자보다 한 세대 새로운 퀄컴 플래그십 AP를 국내 시장에 선보이게 됐다"
+   ]
+  },
+  {
+   "url": "https://www.imaeil.com/page/view/2026111811265572894",
+   "naver_url": "https://n.news.naver.com/mnews/article/088/0001040973?sid=101",
+   "title": "SK인텔릭스 국무총리 표창…AI 로봇 '나무엑스' 1만4700건 시험",
+   "desc": "이 체계는 설계 단계부터 출시 뒤 운영까지 제품의 전 생애주기에 걸쳐 있다. 제품안전의 날은 올해로... SK인텔릭스는 헬스 플랫폼 브랜드 'SK매직'의 정수기와 공기청정기에도 제품별 특성과 사용 환경에 맞춘 안전...",
+   "published": "2026-11-18T11:34+09:00",
+   "host": "www.imaeil.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 출시",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankookilbo.com/news/article/A2026111811130001046?did=NA",
+   "naver_url": "https://n.news.naver.com/mnews/article/469/0000966252?sid=105",
+   "title": "샤오미, 후면 디스플레이 탑재 '샤오미 18 프로 맥스' 국내 출시",
+   "desc": "샤오미가 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 프리미엄 스마트폰 '샤오미 18 프로 맥스'를 국내에 출시하고 23일까지 사전판매에 나선다. 18일 샤오미코리아에 따르면 신제품은 후면 카메라...",
+   "published": "2026-11-18T11:30+09:00",
+   "host": "www.hankookilbo.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미, 후면 디스플레이 탑재 '샤오미 18 프로 맥스' 국내 출시-경제ㅣ한국일보",
+    "18일 서울 영등포구 샤오미스토어 IFC몰점에서 모델이 스마트폰 '샤오미 18 프로 맥스'를 선보이고 있다",
+    "샤오미가 후면 디스플레이와 라이카 듀얼 2억 화소 카메라를 탑재한 프리미엄 스마트폰 '샤오미 18 프로 맥스'를 국내에 출시하고 23일까지 사전판매에 나선다.",
+    "18일 샤오미코리아에 따르면 신제품은 후면 카메라 옆에 72.62mm 크기 능동형 유기발광다이오드(AMOLED·아몰레드) 화면을 장착한 것이 특징이다",
+    "전·후면 화면에 번역문을 각각 표시하는 실시간 대화 번역도 한국어를 포함해 29개 언어를 지원한다.",
+    "샤오미 18 프로 맥스는 애플리케이션 프로세서(AP)로 퀄컴의 2나노(nm) 공정 칩 '스냅드래곤 8 엘리트 익스트림 6세대'를 탑재했다"
+   ],
+   "og_date": "2026-11-18T11:29:00+09:00"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20115859?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004683498?sid=101",
+   "title": "샤오미, 후면 화면으로 셀피 찍는 ‘Xiaomi 18 Pro Max’ 출시",
+   "desc": "샤오미코리아가 후면 화면을 활용한 셀피 및 실시간 번역 등을 앞세운 프리미엄 스마트폰 ‘Xiaomi 18 Pro Max’를 18일부터 23일까지 사전 판매를 실시한다. 2억 화소 Leica 메인 카메라와 2억 화소 Leica 망원...",
+   "published": "2026-11-18T11:26+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미, 후면 화면으로 셀피 찍는 ‘Xiaomi 18 Pro Max’ 출시 | 서울경제",
+    "18일 서울 샤오미스토어 IFC몰점에서 모델 샤오미 18프로 맥스모델들을 선보이고 있다",
+    "샤오미코리아가 후면 화면을 활용한 셀피 및 실시간 번역 등을 앞세운 프리미엄 스마트폰 ‘Xiaomi 18 Pro Max’를 18일부터 23일까지 사전 판매를 실시한다",
+    "2억 화소 Leica 메인 카메라와 2억 화소 Leica 망원 카메라, 5000만 화소 초광각 카메라를 갖춘 ‘Xiaomi 18 Pro Max’는 한국어 포함 29개 언어 대화를 실시간으로 번역할 수 있으며, 공식 판매 기간은 24일부터 내달 31일까지다",
+    "후면 화면에 번역 기능까지…샤오미 ‘Xiaomi 18 Pro Max’ 출격 샤오미, AI 후면 디스플레이 탑재한 ‘Xiaomi 18 Pro Max’ 국내 출시",
+    "수능 “사교육 유리 문항 배제…EBS 연계율 50%”"
+   ],
+   "og_date": "2026-11-18T11:25:36+09:00"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20115857?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004683497?sid=101",
+   "title": "샤오미, AI 후면 디스플레이 탑재한 ‘Xiaomi 18 Pro Max’ 국내 출시",
+   "desc": "샤오미코리아는 인공지능(AI) 후면 디스플레이와 라이카(Leica) 듀얼 2억 화소 카메라를 탑재한 프리미엄... 배터리 용량은 7050mAh로 국내 출시 샤오미 스마트폰 가운데 최대 규모다. 100W 유선 및 50W 무선...",
+   "published": "2026-11-18T11:25+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "샤오미, AI 후면 디스플레이 탑재한 ‘Xiaomi 18 Pro Max’ 국내 출시 | 서울경제",
+    "샤오미코리아는 인공지능(AI) 후면 디스플레이와 라이카(Leica) 듀얼 2억 화소 카메라를 탑재한 프리미엄 스마트폰 ‘Xiaomi 18 Pro Max’ 사전판매를 18일부터 시작한다",
+    "18일 서울 샤오미스토어 IFC몰점에서 모델이 샤오미 18프로 맥스를 선보이고 있다",
+    "샤오미코리아가 후면 화면을 활용한 셀피 및 실시간 번역 등을 앞세운 프리미엄 스마트폰 ‘Xiaomi 18 Pro Max’를 18일부터 23일까지 사전 판매를 실시한다",
+    "2억 화소 Leica 메인 카메라와 2억 화소 Leica 망원 카메라, 5000만 화소 초광각 카메라를 갖춘 ‘Xiaomi 18 Pro Max’는 한국어 포함 29개 언어 대화를 실시간으로 번역할 수 있으며, 공식 판매 기간은 24일부터 내달 31일까지다",
+    "후면 화면에 번역 기능까지…샤오미 ‘Xiaomi 18 Pro Max’ 출격 샤오미, 후면 화면으로 셀피 찍는 ‘Xiaomi 18 Pro Max’ 출시"
+   ],
+   "og_date": "2026-11-18T11:24:52+09:00"
+  },
+  {
+   "url": "https://news.tf.co.kr/read/photomovie/2390312.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000553125?sid=101",
+   "title": "샤오미 18 프로 맥스, 뒷면 화면·2억 화소 라이카 카메라 탑재 [TF사진관...",
+   "desc": "샤오미(Xiaomi)의 플래그십 스마트폰 '샤오미 18 프로 맥스(Xiaomi 18 Pro Max)' 출시 행사가 18일 오전 서울... 이날 샤오미코리아는 후면 디스플레이(BackStage Display)와 메인·망원 듀얼 2억 화소 라이카(Leica) 카메라가...",
+   "published": "2026-11-18T11:24+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.tf.co.kr/read/photomovie/2390293.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000553111?sid=101",
+   "title": "실시간 대화 번역 기능 갖춘 '샤오미 18 프로 맥스' [포토]",
+   "desc": "샤오미(Xiaomi)의 플래그십 스마트폰 '샤오미 18 프로 맥스(Xiaomi 18 Pro Max)' 출시 행사가 18일 오전 서울... 이날 샤오미코리아는 후면 디스플레이(BackStage Display)와 메인·망원 듀얼 2억 화소 라이카(Leica) 카메라가...",
+   "published": "2026-11-18T11:17+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://news.tf.co.kr/read/photomovie/2390292.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000553110?sid=101",
+   "title": "AI 후면 디스플레이 단 '샤오미 18 프로 맥스' [포토]",
+   "desc": "샤오미(Xiaomi)의 플래그십 스마트폰 '샤오미 18 프로 맥스(Xiaomi 18 Pro Max)' 출시 행사가 18일 오전 서울... 이날 샤오미코리아는 후면 디스플레이(BackStage Display)와 메인·망원 듀얼 2억 화소 라이카(Leica) 카메라가...",
+   "published": "2026-11-18T11:17+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113827",
+   "naver_url": "https://www.smarttoday.co.kr/ko-kr/articles/113827",
+   "title": "[구광모의 LG]①가전·전장·AI로 성장동력 강화…계열사별 경쟁력 다진...",
+   "desc": "가전·전장 등 기존 사업의 경쟁력을 다지는 한편 인공지능(AI)·로봇·데이터센터로 사업 영역을 넓히고... LG생활건강은 중국의 주요 온라인 쇼핑·동영상 플랫폼인 티몰·더우인 등의 공식 온라인 매장 중심으로...",
+   "published": "2026-11-18T11:02+09:00",
+   "host": "www.smarttoday.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sidae.com/article/2026111710373088106",
+   "naver_url": "https://n.news.naver.com/mnews/article/417/0001164739?sid=101",
+   "title": "대성산업, '아픈 손가락' 보일러 자회사 살리기 안간힘",
+   "desc": "생활가전은 삼성전자·LG전자가 주도하고 있다. 대성산업 관계자는 \"자본잠식이 신용등급과 영업활동에 영향을 주기 전에 재무구조를 안정시키려는 것\"이라며 \"미국 판매를 위한 보일러 신제품 사전 테스트를 진행하고...",
+   "published": "2026-11-18T10:55+09:00",
+   "host": "www.sidae.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261118000162",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003486963?sid=105",
+   "title": "쿠쿠, 황토볼·카본 열선 적용 '온열 흙 토퍼 매트' 출시",
+   "desc": "제품은 퀸과 슈퍼싱글(SS) 두 가지 크기로 출시된다. 쿠쿠전자 관계자는 “황토볼과 카본 열선을 결합해 온열 기능과 사용 편의성을 높였다”며 “앞으로도 소비자 생활환경에 맞춘 생활가전 제품을 선보이겠다”고...",
+   "published": "2026-11-18T10:52+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠, 황토볼·카본 열선 적용 '온열 흙 토퍼 매트' 출시 - 전자신문",
+    "쿠쿠가 국내산 황토볼과 카본 열선을 결합한 '쿠쿠 온열 흙 토퍼 매트'를 출시했다.",
+    "쿠쿠전자 관계자는 “황토볼과 카본 열선을 결합해 온열 기능과 사용 편의성을 높였다”며 “앞으로도 소비자 생활환경에 맞춘 생활가전 제품을 선보이겠다”고 말했다.",
+    "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산"
+   ],
+   "og_date": "2026-11-18T10:51:02+09:00"
+  },
+  {
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/18/DGO2GRSTW5FF3FXIDSWZMVPCEM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001205608?sid=105",
+   "title": "“209만원” 샤오미 18프로 맥스 출시…후면 디스플레이·라이카 2억 화...",
+   "desc": "샤오미코리아는 프리미엄 플래그십 스마트폰 ‘샤오미 18 프로 맥스(Xiaomi 18 Pro Max)’를 국내 출시하고 사전 판매를 시작한다고 18일 밝혔다. 제품은 12GB 램(RAM)과 256GB 저장용량 모델, 512GB 모델 등 두 가지로...",
+   "published": "2026-11-18T10:50+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 사전예약",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "“209만원” 샤오미 18프로 맥스 출시…후면 디스플레이·라이카 2억 화소 카메라 탑재 - 조선비즈",
+    "\"209만원\" 샤오미 18프로 맥스 출시…후면 디스플레이·라이카 2억 화소 카메라 탑재",
+    "샤오미가 200만원대 프리미엄 스마트폰을 국내 시장에 선보인다",
+    "라이카(Leica)와 공동 개발한 듀얼 2억 화소 카메라와 인공지능(AI) 후면 디스플레이를 앞세워 삼성전자와 애플이 주도하는 국내 프리미엄 스마트폰 시장 공략에 나선다.",
+    "샤오미코리아는 프리미엄 플래그십 스마트폰 '샤오미 18 프로 맥스(Xiaomi 18 Pro Max)'를 국내 출시하고 사전 판매를 시작한다고 18일 밝혔다.",
+    "샤오미는 오는 12월 무선 소프트웨어 업데이트(OTA)를 통해 후면 디스플레이에서 활용할 수 있는 AI 애플리케이션도 확대할 예정이다."
+   ],
+   "og_date": "2026-11-18T01:48:33.129Z"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261118103844573",
+   "naver_url": "https://www.ajunews.com/view/20261118103844573",
+   "title": "[오정근의 아주경제적 시선] 수출 1조 달러 이후 한국경제의 대응과제",
+   "desc": "한국은 반도체 증후군을 겪어서는 안된다. 반도체 LNG선 원전 방산 등 수출점유율이 증가하고 있는 부문은 글로벌 경쟁력과 시장을 지키야 한다. 이어 자동차(전기차) 조선 디스플레이 2차전지 등 중국추격이...",
+   "published": "2026-11-18T10:50+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/living/2026/11/18/2026111810351228723",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005442811?sid=101",
+   "title": "삼성전자와 손잡은 보람그룹, '상조 4.0'으로 라이프케어 전환 속도낸다",
+   "desc": "삼성전자·삼성카드와 협력해 출시한 'B&케어팩'이 대표적인 사례다. 삼성스토어에서 가전을 구매하거나 구독할 때 상조서비스를 함께 선택하는 제휴 상품으로, 가전 혜택과 상조서비스의 가치를 구분해 기존 결합상품의...",
+   "published": "2026-11-18T10:49+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111809161820955",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005844297?sid=105",
+   "title": "싼 맛에 쓰던 샤오미마저 삼성보다 비싸…\"이젠 돈 없으면 휴대폰도 못...",
+   "desc": "가성비 내세웠던 샤오미폰도 삼성·애플과 같은 가격대 18일 샤오미코리아는 플래그십 모델 '샤오미 18... 지난 9월 출시한 아이폰 18 프로와 프로맥스의 국내 가격은 256GB 기준 각각 199만원, 219만원으로 전작보다...",
+   "published": "2026-11-18T10:45+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 사전예약",
+    "샤오미 코리아 실적",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sportsseoul.com/news/read/1650580?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/468/0001281755?sid=101",
+   "title": "SK인텔릭스, ‘2026 제품안전의 날’ 국무총리 표창…AI 로봇 ‘나무엑...",
+   "desc": "SK인텔릭스는 나무엑스의 설계·개발부터 품질 검증, 출시 후 운영에 이르는 전 과정에 걸쳐 선제적인... SK인텔릭스는 헬스 플랫폼 브랜드 ‘SK매직’의 정수기와 공기청정기 등에도 제품별 특성과 사용 환경을 반영한...",
+   "published": "2026-11-18T10:44+09:00",
+   "host": "www.sportsseoul.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 출시",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/18/XG73462AQVAQTKIKP2FBN2U2HY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001205603?sid=105",
+   "title": "中 로보락, 韓 진공 물걸레 청소기 시장 1위… 상반기 점유율 14.3%",
+   "desc": "중국 기업 로보락이 올해 상반기 국내 가정용 진공 물걸레 청소기 시장에서 소매판매액 기준 1위를... 올해 출시한 ‘F25 울트라’는 최대 150℃의 고온 스팀과 86℃의 고온수를 활용해 바닥을 청소하는 제품이다. 청소 후...",
+   "published": "2026-11-18T10:42+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "C1",
+    "X1"
+   ],
+   "queries": [
+    "로보락 신제품",
+    "로보락 점유율",
+    "로보락 출시",
+    "로봇청소기 점유율 국내"
+   ],
+   "also": [],
+   "cues": [
+    "점유율"
+   ],
+   "q_title": [
+    "C1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "中 로보락, 韓 진공 물걸레 청소기 시장 1위… 상반기 점유율 14.3% - 조선비즈",
+    "중국 기업 로보락이 올해 상반기 국내 가정용 진공 물걸레 청소기 시장에서 소매판매액 기준 1위를 차지했다",
+    "로보락은 시장조사업체 유로모니터 인터내셔널 상하이 법인 조사에서 올해 상반기 국내 가정용 진공 물걸레 청소기 시장점유율 14.3%로 1위를 기록했다고 18일 밝혔다",
+    "로보락은 먼지 흡입과 물걸레 청소, 자동 세척 기능을 결합한 'F25 시리즈'를 중심으로 제품군을 확대해 왔다",
+    "로보락은 로봇청소기와 진공 물걸레 청소기 외에도 무선 진공청소기 'H60 시리즈' 등을 판매하며 국내 청소가전 제품군을 넓히고 있다.",
+    "로보락 관계자는 \"이번 성과는 로봇청소기에 이어 진공 물걸레 청소기 시장에서도 로보락의 기술력과 제품 경쟁력이 인정받고 있다는 점에서 의미가 크다\"며 \"앞으로도 혁신적인 기술과 사용자 중심의 제품 개발을 통해 국내 소비자들에게 더욱 편리하고 효율적인 청소 경험을 제공할 것\"이라고 말했다."
+   ],
+   "og_date": "2026-11-18T01:41:30.573Z"
+  },
+  {
+   "url": "https://www.etnews.com/20261118000144",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003486947?sid=105",
+   "title": "SK인텔릭스, '제품 안전의 날' 국무총리 표창",
+   "desc": "SK인텔릭스는 인공지능(AI) 웰니스 로봇 '나무엑스 A1' 설계·개발과 출시 이후 운영까지 제품 전 생애주기에서 선제적 안전 관리 체계를 구축한 점을 높게 평가받았다. SK인텔릭스는 제품 설계·개발 과정에서 고장 형태와...",
+   "published": "2026-11-18T10:40+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 15,
+  "B": 70,
+  "C": 16,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 15,
+  "ok": 15,
+  "실패": 0
+ }
+}
