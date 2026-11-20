@@ -1,0 +1,2148 @@
+{
+ "date": "2026-11-20",
+ "collected_at": "2026-11-20T10:16+09:00",
+ "lookback_days": 14,
+ "count": 81,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2000,
+   "in_window": 998,
+   "kept": 34,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 210,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 53,
+   "kept": 1,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 941,
+   "in_window": 39,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1022,
+   "in_window": 45,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1300,
+   "in_window": 421,
+   "kept": 0,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1281,
+   "in_window": 298,
+   "kept": 8,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1186,
+   "in_window": 128,
+   "kept": 1,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 16,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1075,
+   "in_window": 18,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1139,
+   "in_window": 146,
+   "kept": 2,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1056,
+   "in_window": 38,
+   "kept": 1,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1961,
+   "in_window": 39,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 2300,
+   "in_window": 1399,
+   "kept": 22,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1949,
+   "in_window": 163,
+   "kept": 1,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 2060,
+   "in_window": 456,
+   "kept": 2,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 57,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 148,
+   "kept": 3,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 50,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 142,
+   "kept": 5,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 39,
+   "kept": 1,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.newspim.com/news/view/20261120000346",
+   "naver_url": "https://www.newspim.com/news/view/20261120000346",
+   "title": "삼성 DX '분업'… 최원준 갤럭시 새 수장, 노태문은 로봇 집중",
+   "desc": "삼성전자는 이번 인사에서 사상 최대 실적을 낸 반도체(DS)부문에서만 사장 승진자 3명이 나왔으나... 최우선 과제는 DX부문의 실적 반등이다. 메모리 가격 상승으로 스마트폰 원가 부담이 커진 데다 TV·가전도 중국...",
+   "published": "2026-11-20T10:12+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.topdaily.kr/articles/113021",
+   "naver_url": "https://www.topdaily.kr/articles/113021",
+   "title": "코웨이, '코디' 모집 확대하는 까닭은",
+   "desc": "코디는 코웨이와 위임 계약을 맺고 실적에 따라 수수료를 받는 방문판매업자다. 코웨이 제품을 소개·판매하는 것은 물론 고객이 렌탈한 제품의 정기 점검과 필터 교체 등 관리 서비스를 제공한다. 이번 모집은 국내 렌탈...",
+   "published": "2026-11-20T10:11+09:00",
+   "host": "www.topdaily.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, '코디' 모집 확대하는 까닭은 변정인 기자 2026-11-20 10:11",
+    "코웨이가 이커머스시장 성장에도 방문판매 영업망을 확대하고 있어 배경에 관심이 쏠린다",
+    "코웨이는 정수기, 비데, 공기청정기와 같은 환경가전을 넘어 침구, 매트리스, 안마의자를 비롯해 벽걸이 에어컨, 세탁 건조기 등의 가정용 가전 전반으로 사업영역을 확대하고 있다",
+    "최근에도 코웨이는방문판매원 '코디'를 전국적으로 모집하고 있다",
+    "코웨이에 따르면 올해 3월 기준 코디의 월 평균 소득은 328만원이며, 최고 소득은 올린 코디는 1585만원으로 나타났다.",
+    "풀무원푸드앤컬처, 위탁급식 첫 해외 진출 外 코웨이, 3분기 글로벌 영토 확장…'외형·내실' 동반 성장 롯데백화점, 외국인 매출 1조 기록…절반 '명동'서 결제 外 LG전자, 폐배터리 자원순환 캠페인 ‘배터리턴’ 이어간다 外 ③ 제2 말레이시아 찾기…'영토 확장' 코웨이 vs '돌파구 찾는' 쿠쿠홈시스"
+   ]
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116830?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004684310?sid=101",
+   "title": "삼성 ‘전영현·노태문 투톱’ 유지…HBM·갤럭시 기술통 전진배치",
+   "desc": "삼성전자는 내년 1월 세계 최대 정보기술(IT)·가전 전시회 ‘소비자가전쇼(CES) 2027’에서 휴머노이드를... 다음달 10일 출시하는 첫 AI 안경 ‘인텔리전트 아이웨어’, 내년 출시가 예상되는 두 번 접는 폴더블폰...",
+   "published": "2026-11-20T10:10+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261120040151003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016453768?sid=101",
+   "title": "삼성전자, 메모리·갤럭시에 새 사령탑…황상준·최원준 전면에(종합)",
+   "desc": "기자 = 삼성전자가 반도체와 스마트폰· 가전사업을 이끄는 전영현·노태문 '투톱' 체제를 유지하며 조직... 조 사장은 2024년 12월부터 미주사업을 이끌며 역대 최대 실적을 달성했다. 삼성전자는 조 사장이 기술 전문성과...",
+   "published": "2026-11-20T10:02+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611200955146832",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607293?sid=101",
+   "title": "메모리·갤럭시 겸직 푼 삼성전자, 전영현은 파운드리·노태문은 로봇에...",
+   "desc": "스마트폰과 TV·생활가전에서 축적한 AI와 기기 연결 기술을 로봇에 어떻게 접목할지가 DX부문 차원의 과제로 꼽힌다. 한편, 삼성전자는 부사장 이하 2027년도 정기 임원인사와 조직개편도 이른 시일 내 확정해 발표할...",
+   "published": "2026-11-20T10:02+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116815?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004684301?sid=104",
+   "title": "‘AI 개별기업 성공’으로 끝난 2000조 신규 상장 [트럼프 스톡커]",
+   "desc": "삼성전자, 마이크론을 명시했다. 손정의(일본명 손 마사요시) 소프트뱅크그룹 회장은 오픈AI 투자에... 관련 현장 이야기와 현안 분석을 전달하는 코너입니다. 구독하시면 유익한 미국 소식을 받아보실 수 있습니다.",
+   "published": "2026-11-20T09:58+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080033.html",
+   "naver_url": "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080033.html",
+   "title": "[Invest]삼성전자 사장 승진자는 모두 반도체…전영현·노태문 미래사업...",
+   "desc": "삼성전자가 올해 정기 사장단 인사에서 신규 승진자 전원을 반도체(DS) 부문에서 배출했다. 역대 최대 실적을... 이번 인사에서는 DS부문의 독주가 두드러진 반면 스마트폰과 가전 등 세트사업을 담당하는 DX부문은 기존...",
+   "published": "2026-11-20T09:56+09:00",
+   "host": "www.investchosun.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2028514",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076881?sid=101",
+   "title": "삼성전자, 전영현·박학규·노태문 유임…사장 승진 3명 모두 반도체[종...",
+   "desc": "삼성전자가 전영현·노태문 두 부문장과 박학규 사업지원실장 체제를 유지하면서 반도체 리더십을... 부사장급인 김철기 생활가전사업부장의 거취는 후속 임원인사와 조직개편에서 확인될 전망이다. 전자 계열사...",
+   "published": "2026-11-20T09:56+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2650804",
+   "naver_url": "https://www.etoday.co.kr/news/view/2650804",
+   "title": "코웨이·교보문고, 고객 혜택 확대 맞손…전자책 1년 구독권 제공",
+   "desc": "전자책 구독 서비스를 활용한 공동 프로모션을 진행하고 장기적인 마케팅 협력체계를 구축할 계획이다. 코웨이는 교보문고와 마케팅 제휴 업무협약을 체결했다고 20일 밝혔다. 협약식은 19일 서울 구로구 지타워에서...",
+   "published": "2026-11-20T09:54+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "확대",
+    "구독"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "▲19일 서울 구로구 지타워에서 진행된 업무협약식에서 (왼쪽부터) 문석환 코웨이 사업관리실장, 이승은 교보문고 eBiz본부장이 기념 촬영을 하고 있다",
+    "코웨이는 교보문고와 마케팅 제휴 업무협약을 체결했다고 20일 밝혔다.",
+    "교보문고는 협약을 기념해 26일까지 코웨이 고객을 대상으로 이벤트를 진행한다",
+    "최고 65도 온열볼...코웨이, 온열·난연 매트리스로 겨울철 수면 시장 겨냥 코웨이, 3분기 영업익 2608억 '전년比 7.3%↑'...\"전 제품 판매 호조\" [오늘의 증시일정] 삼부토건·코웨이·LIG D&A 등 美 AI 신모델 출시 후 中 연관 지갑 결제 활동 증가",
+    "영업익 98%가 만든 삼성 인사…사장 승진 3명 모두 반도체 [종합]",
+    "美 반도체주 약세에 삼성전자 4%대·SK하이닉스 6%대 하락"
+   ],
+   "og_date": "2026-11-20T09:53:00+09:00"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261120050800030?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016453730?sid=103",
+   "title": "코웨이, 교보문고와 마케팅 제휴…고객에 전자책 구독 혜택",
+   "desc": "고객 500명 추첨해 전자책 1년 이용권·1만원 적립금 증정 코웨이는 교보문고와 고객 혜택 확대를 위한 마케팅 제휴 업무협약을 체결했다고 20일 밝혔다. 양사는 올해 하반기부터 진행해 온 공동 판촉 행사에 대한...",
+   "published": "2026-11-20T09:52+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 판촉"
+   ],
+   "also": [],
+   "cues": [
+    "제휴",
+    "구독"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 교보문고와 마케팅 제휴…고객에 전자책 구독 혜택 | 연합뉴스",
+    "(서울=연합뉴스) 구정모 기자 = 코웨이는 교보문고와 고객 혜택 확대를 위한 마케팅 제휴 업무협약을 체결했다고 20일 밝혔다.",
+    "교보문고는 이번 제휴를 기념해 26일까지 행사에 참여한 코웨이 고객 중 500명을 추첨해 전자책 구독 서비스 '샘'(sam)의 무제한 1년 이용권과 전자책 전용 적립금 1만원을 증정한다.",
+    "코웨이 공식 홈페이지에서 정회원 인증을 완료한 뒤 '코웨이 멤버스 클럽' 내 교보문고 행사 페이지에 읽고 싶은 책을 댓글로 남기면 참여할 수 있다.",
+    "이번 행사와 별도로 코웨이 고객은 누구나 교보문고 전자책 구독 서비스를 첫 달 무료로 이용하고 2∼3개월 차에는 월 100원에 구독할 수 있다.",
+    "코웨이 멤버스 클럽은 코웨이 제품을 이용하는 고객을 위한 멤버십 프로그램으로 건강·숙박·쇼핑·교육 등 다양한 분야의 27개 브랜드와 제휴해 상품 할인과 무료 체험 등의 혜택을 제공한다."
+   ],
+   "og_date": "2026-11-20T09:52:43+09:00"
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261120500033",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261120500033",
+   "title": "삼성전자, '투톱' 지키고 핵심 수장 바꿨다…반도체·모바일 대수술",
+   "desc": "삼성전자는 이번 인사에 대해 \"반도체 최대 실적 및 개발 경쟁력 제고를 주도한 부사장들의 사장 승진 및... 노 사장은 MX사업부의 실무 경영을 최 사장에게 맡기는 대신 스마트폰과 TV, 생활가전 등 완제품 사업 전반의...",
+   "published": "2026-11-20T09:50+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116803?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004684289?sid=101",
+   "title": "‘메이드 인 코리아’…韓 수출 사상 첫 1조 달러 돌파",
+   "desc": "잇달아 출시했다. 국내 상위 10개 생성형 AI 앱 사용자 수는 2026년 9월 기준 3075만 명으로 전년 대비 19... 요약: 삼성전자 DX(디바이스경험) 부문은 스마트폰 사업부 첫 적자를 비롯해 생활가전 역성장 등 2026년 실적...",
+   "published": "2026-11-20T09:47+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116799?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004684286?sid=101",
+   "title": "스페이스X 넘은 ‘앤트로픽’…글로벌 IPO 사상 최대 신기록",
+   "desc": "증대: 삼성전자 DX 부문이 MX 사업부 첫 적자, 가전 사상 초유 역성장을 공식 인정하며 헐값 판매 금지 등... DX 실적 개선 가시성은 단기간 내 확인하기 어렵지만, 자사주 매입·소각 계획은 주가 하방을 지지하는...",
+   "published": "2026-11-20T09:43+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116797?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004684284?sid=101",
+   "title": "앤트로픽, 143조 조달…스페이스X 넘어 역대 최대 IPO",
+   "desc": "스타트업도 AI 검색 속 브랜드 노출 전략을 세울 필요가 있다. ■ 삼성 DX 부문: 삼성전자(005930) DX 부문 경영진이 17일 경영회의에서 MX사업부 첫 적자와 가전 사업부의 올해 역성장을 인정하고, 헐값 판매 금지와...",
+   "published": "2026-11-20T09:42+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S1",
+    "X3"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/living/2026/11/20/2026112009374952342",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005444000?sid=101",
+   "title": "코웨이와 만나면 '교보문고 전자책'이 1년 무료",
+   "desc": "양사는 고객 대상 공동 마케팅과 프로모션을 이어가고, 임직원 제휴 혜택 등 협력 관계를 확대해 나갈 계획이다. 교보문고는 이번 제휴를 기념해 오는 26일까지 코웨이 고객을 대상으로 특별 이벤트를 진행한다. 기간 내...",
+   "published": "2026-11-20T09:41+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261120092411040",
+   "naver_url": "https://www.ajunews.com/view/20261120092411040",
+   "title": "[삼성 사장단 인사] 투톱 지키고 겸직 풀었다…전영현·노태문에 미래사...",
+   "desc": "모바일·가전(DX) 부문장(사장). [사진=연합뉴스] 삼성전자가 전영현 부회장과 노태문 사장의 2인 대표이사... 반도체 위기 속에 투입돼 메모리사업부를 직접 챙겨온 전 부회장이 DS부문의 실적이 정상 궤도에 오른 시점에...",
+   "published": "2026-11-20T09:38+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.kyeonggi.com/article/20261120580026",
+   "naver_url": "https://n.news.naver.com/mnews/article/666/0000132976?sid=101",
+   "title": "삼성전자, 전영현·노태문 ‘투톱’ 유지…메모리 황상준·MX 최원준 사...",
+   "desc": "삼성전자가 2027년 사장단 인사에서 반도체와 스마트폰·가전 사업을 이끄는 전영현·노태문 ‘투톱’... 이번 인사는 반도체 초호황에 힘입어 역대 최대 실적을 거두는 가운데 조직 체계에 큰 변화를 주지 않고 안정을...",
+   "published": "2026-11-20T09:36+09:00",
+   "host": "www.kyeonggi.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.peoplewatch.co.kr/article/view/ppw202611200003",
+   "naver_url": "https://www.peoplewatch.co.kr/article/view/ppw202611200003",
+   "title": "전영현·노태문 유임시킨 이재용…반도체·스마트폰 수장 바꿔 미래사업...",
+   "desc": "스마트폰 시장의 경쟁이 심화되고 TV·생활가전 사업의 비용 부담이 커지는 상황에서 로봇과 AI 투자를 새로운 수익원으로 연결해야 한다. 삼성전자는 이번 인사에 대해 반도체 최대 실적과 개발 경쟁력 제고를 주도한...",
+   "published": "2026-11-20T09:36+09:00",
+   "host": "www.peoplewatch.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026112009302445818",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005845485?sid=101",
+   "title": "코웨이, 교보문고와 제휴…전자책 구독 혜택 확대",
+   "desc": "양사는 고객 대상 공동 마케팅과 프로모션을 이어가고, 임직원 제휴 혜택 등으로 협력 범위를 확대할 계획이다. 교보문고는 이번 제휴를 기념해 오는 26일까지 코웨이 고객을 대상으로 이벤트를 진행한다. 참가자 중...",
+   "published": "2026-11-20T09:30+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "제휴",
+    "확대",
+    "구독"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 교보문고와 제휴…전자책 구독 혜택 확대",
+    "코웨이는 19일 교보문고와 마케팅 제휴 업무협약을 체결하고 전자책 구독 이벤트를 진행한다고 20일 밝혔다.",
+    "교보문고는 이번 제휴를 기념해 오는 26일까지 코웨이 고객을 대상으로 이벤트를 진행한다",
+    "참여를 원하는 고객은 코웨이 공식 홈페이지에서 정회원 인증을 마친 뒤 '코웨이 멤버스 클럽' 내 교보문고 이벤트 페이지에 가을에 읽고 싶은 책을 댓글로 남기면 된다",
+    "이와 별도로 코웨이 고객은 누구나 멤버스 클럽을 통해 교보문고 전자책 구독 서비스를 첫 달 무료로 이용할 수 있으며, 2~3개월 차에는 월 100원에 구독할 수 있다.",
+    "코웨이 관계자는 \"앞으로도 다양한 분야의 기업과 협력을 확대해 코웨이 고객만이 누릴 수 있는 경험과 혜택을 지속해서 넓혀 나가겠다\"고 했다."
+   ],
+   "og_date": "2026-11-20T09:30:25+0900"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261120040100003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016453610?sid=101",
+   "title": "삼성전자, 반도체 전영현·갤럭시 노태문 '투톱' 유지",
+   "desc": "기자 = 삼성전자가 올해 사장단 인사에서 반도체와 스마트폰·가전 사업을 이끄는 전영현·노태문 '투톱... 반도체 초호황으로 역대 최대 실적을 거두는 가운데 조직 체계에 큰 변화를 주지 않고 안정을 유지하는 데...",
+   "published": "2026-11-20T09:21+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [
+    {
+     "url": "https://www.viewsnnews.com/article?q=239829",
+     "host": "www.viewsnnews.com",
+     "published": "2026-11-20T09:32+09:00"
+    },
+    {
+     "url": "http://www.segyebiz.com/newsView/20261120504822?OutUrl=naver",
+     "host": "www.segyebiz.com",
+     "published": "2026-11-20T09:50+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12096289?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003060210?sid=101",
+   "title": "삼성전자, 반도체 전영현·갤럭시 노태문 ‘투톱’ 유지…‘안정과 연속...",
+   "desc": "삼성전자가 반도체와 스마트폰·가전 사업을 이끄는 전영현·노태문 ‘투톱’ 체제를 그대로 유지하며 조직... 이번 인사는 인공지능(AI) 발 반도체 초호황 속에 역대 최대 실적을 경신하고 있는 만큼, 대대적인 조직...",
+   "published": "2026-11-20T09:18+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://magazine.hankyung.com/business/article/202611209170b",
+   "naver_url": "https://n.news.naver.com/mnews/article/050/0000113532?sid=101",
+   "title": "COP31, 화석연료 퇴출 문구 삭제…탄소포집 부상 [ESG 뉴스 5]",
+   "desc": "글로벌 기업들의 한국 시장 진출도 활발해지고 있다. 중국 골드윈드와 덴마크 오스테드의 주요 경영진이... 19일 블룸버그에 따르면 국제에너지기구(IEA)는 '세계에너지전망 2026'에서 기온 상승과 소득 증가, 에어컨...",
+   "published": "2026-11-20T09:18+09:00",
+   "host": "magazine.hankyung.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 에어컨 한국 진출"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769976",
+   "naver_url": "https://www.mhns.co.kr/news/articleView.html?idxno=769976",
+   "title": "코웨이, 전국 단위 방문판매 전문가 '코디' 모집…활동 영역 확대",
+   "desc": "수수료는 개인의 판매 실적과 활동 성과에 따라 달라진다. 코웨이가 공개한 2026년 3월 기준 자료에 따르면 코디의 월평균 수수료 소득은 328만원이다. 상위 2,000명은 평균 648만원, 상위 100명은 1,106만원을 기록했으며 최고...",
+   "published": "2026-11-20T09:10+09:00",
+   "host": "www.mhns.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 전국 단위 방문판매 전문가 ‘코디’ 모집…활동 영역 확대 < 생활경제 < 생활 < 기사본문 - 더쎈뉴스(The CEN News)",
+    "코웨이가 사업 영역과 제품군 확대에 맞춰 전국 단위 방문판매 전문가 ‘코디(Cody)’ 모집에 나섰다",
+    "코디는 코웨이와 위임 계약을 맺고 제품 판매와 고객 관리 서비스를 수행하며, 판매 실적과 제품 점검 활동에 따라 수수료를 받는 독립적인 자유직업소득자다.",
+    "코웨이가 공개한 2026년 3월 기준 자료에 따르면 코디의 월평균 수수료 소득은 328만원이다",
+    "코웨이는 전국 15개 아카데미와 온라인 학습 플랫폼을 통해 제품 관리 방법과 세일즈 노하우 등 활동에 필요한 교육 콘텐츠도 제공하고 있다",
+    "ㆍ 코웨이, 전국 단위 방문판매 전문가 ‘코디’ 모집…활동 영역 확대 ㆍ 신천지예수교회, 수능 앞둔 지역 수험생에 응원 선물…전국서 격려 행사 이어져 ㆍ 태국 학생, IWPG 국제 평화그림대회서 대상 수상… 61개국 7,810명 참가"
+   ],
+   "og_date": "2026-11-20T09:09:48+09:00"
+  },
+  {
+   "url": "https://theopiniontimes.news/%eb%9d%bc%ec%9d%b4%ed%94%84-%ed%8f%ac%ec%bb%a4%ec%8a%a4-%ec%a0%88%ec%9e%84%eb%b0%b0%ec%b6%94%eb%b6%80%ed%84%b0-%ea%b9%80%ec%b9%98-%eb%b3%b4%ea%b4%80%ea%b9%8c%ec%a7%80%ea%b9%80/",
+   "naver_url": "https://theopiniontimes.news/%eb%9d%bc%ec%9d%b4%ed%94%84-%ed%8f%ac%ec%bb%a4%ec%8a%a4-%ec%a0%88%ec%9e%84%eb%b0%b0%ec%b6%94%eb%b6%80%ed%84%b0-%ea%b9%80%ec%b9%98-%eb%b3%b4%ea%b4%80%ea%b9%8c%ec%a7%80%ea%b9%80/",
+   "title": "[라이프 포커스] 절임배추부터 김치 보관까지…‘김치의 날’ 앞두고 알...",
+   "desc": "김장비용 조사에는 정부와 유통업체의 할인 혜택이 반영돼 있어 실제 구매 금액은 판매처와 시기에 따라 달라질 수 있다. 가격이 저렴하다고 무조건 좋은 재료는 아니다. 김장김치의 맛과 식감을 오래 유지하려면 배추와...",
+   "published": "2026-11-20T08:55+09:00",
+   "host": "theopiniontimes.news",
+   "questions": [
+    "X4"
+   ],
+   "queries": [
+    "가전 구매 조건 조사"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611200843230608",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607226?sid=101",
+   "title": "\"연말, 소비자와 직접 만난다\" 가전 팝업스토어 운영 '붐'",
+   "desc": "20일 관련 업계에 따르면 코웨이는 부산 해운대구 신세계 센텀시티몰에 브랜드 체험 및 판매 매장 '코웨이갤러리 팝업스토어'를 내년 상반기까지 운영한다. 매장은 비렉스 침대를 둔 침실부터 서재 형태 '비렉스 라운지...",
+   "published": "2026-11-20T08:46+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "팝업"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065596327369412",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065596327369412",
+   "title": "[SV 리포트] SK인텔릭스, 친환경 제조혁신 속도…3년 새 취수량 33.6% 줄...",
+   "desc": "<편집자주> ▲SK인텔릭스의 나무엑스/사진=SK인텔릭스 제공 SK인텔릭스(옛 SK매직)가 생활환경가전... 2015년에는 저수탱크를 제거한 직수형 정수기를 출시해 기존 제품 대비 부피를 약 41% 줄였으며, 2024년에는...",
+   "published": "2026-11-20T07:06+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 신제품",
+    "SK매직 실적",
+    "SK매직 출시",
+    "SK인텔릭스 신제품",
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ceoscoredaily.com/page/view/2026111916333815855",
+   "naver_url": "https://www.ceoscoredaily.com/page/view/2026111916333815855",
+   "title": "코웨이, 과천에 신규 R&D 센터 구축…시니어·헬스케어 사업 거점",
+   "desc": "테라솔은 요실금 치료 의료기기 등을 출시했다. 또 3월 개최된 정기 주주총회에서 정관을 개정해 사업 목적에 정형외과용·신체 보정용 기기 제조·판매업을 추가했다. 한편 코웨이의 모회사인 넷마블 역시 자회사...",
+   "published": "2026-11-20T07:02+09:00",
+   "host": "www.ceoscoredaily.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611196819g",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005356169?sid=101",
+   "title": "\"중국산 누가 사냐더니\"…신혼부부들 쓸어담는 가전의 정체 [테크로그]",
+   "desc": "삼성전자와 LG전자가 올해 3분기 세계 시장에 공급한 TV를 모두 합쳐도 중국 TCL과 하이센스의 출하량에... 서울의 한 가전매장 관계자는 \"신혼부부 등 젊은 세대가 오히려 중국 브랜드 수요가 많다\"고 귀띔했다....",
+   "published": "2026-11-20T07:01+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "C5",
+    "S1",
+    "S3",
+    "X1",
+    "X3"
+   ],
+   "queries": [
+    "TCL 한국 판촉",
+    "가전 온라인 비중",
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 가전 판촉",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1",
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261119500379",
+   "naver_url": "https://www.news2day.co.kr/article/20261119500379",
+   "title": "[N2 포커스] 지구 수십 바퀴 돈 4대 그룹 총수…해외 행보 키워드는 'AI ...",
+   "desc": "[그림=ChatGPT] ■ 이재용, AI 반도체 중심 고객 접점 확대 20일 업계에 따르면 이재용 삼성전자 회장의 올해... 현지 경제협력 일정에 참석하는 중에도 하노이의 대형 가전 유통매장 ‘디엔마이싸잉’을 별도로 찾아...",
+   "published": "2026-11-20T06:32+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "C4",
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 매장 오픈",
+    "샤오미 코리아 매장 오픈"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261119500689",
+   "naver_url": "https://www.viva100.com/article/20261119500689",
+   "title": "탄소그래핀에 황토볼까지⋯ 소재·기술 진화하는 ‘겨울철 온열 매트’",
+   "desc": "기업별로는 신일전자가 ‘에코프리 카본매트’에 특허받은 벌집 형태의 탄소그래핀 열선을 적용해 고른... 쿠쿠는 국내산 100% 황토볼을 담은 패드와 카본 열선을 결합한 ‘온열 흙 토퍼 매트’를 출시했다. 카본 열선이...",
+   "published": "2026-11-20T06:30+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 신제품",
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000347713?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000544849?sid=101",
+   "title": "[외신 헤드라인] 아모데이 \"안전 집착은 회사 DNA\"…속도조절 시사",
+   "desc": "◇ \"삼성전자·TSMC, 中고객사 반도체 출하중단 통보\" 젠슨황 스캔들을 계기로 미국의 중국 압박이 한층 더... 소비자 가전까지도 타깃으로 삼았는데요. 업계는 후자의 경우 수출 허가를 내줄 가능성이 높다면서도, 절차...",
+   "published": "2026-11-20T06:29+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261119500419",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261119500419",
+   "title": "코웨이, 부산 신세계 센텀시티몰에 팝업스토어 열어",
+   "desc": "내년 상반기까지 운영…부산 포함 영남권 고객 접점 확대 코웨이가 부산 해운대구 신세계 센텀시티몰 지하 2층에 브랜드 체험 및 판매 매장 '코웨이갤러리 팝업스토어'(사진)를 열었다. 20일 코웨이에 따르면 이번에 연...",
+   "published": "2026-11-20T06:22+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 매장 오픈",
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "팝업"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 부산 신세계 센텀시티몰에 팝업스토어 열어",
+    "산업>전기/전자 코웨이, 부산 신세계 센텀시티몰에 팝업스토어 열어",
+    "코웨이가 부산 해운대구 신세계 센텀시티몰 지하 2층에 브랜드 체험 및 판매 매장 '코웨이갤러리 팝업스토어'(사진)를 열었다.",
+    "20일 코웨이에 따르면 이번에 연 팝업스토어 규모는 약 125평으로 부산 지역 코웨이갤러리 가운데 가장 크다",
+    "매장은 비렉스 침대를 둔 침실부터 서재 형태의 '비렉스 라운지', 주방으로 꾸민 '코웨이 키친'까지 실제 주거 공간처럼 구역을 나눠 구성했다.",
+    "'코웨이 키친'은 아이콘 정수기 3·아이콘 얼음정수기 등 정수기와 제로 음식물 처리기, 노블 공기청정기 플러스 등이 실제 주방에 놓인 모습을 직관적으로 보여준다."
+   ]
+  },
+  {
+   "url": "https://biz.chosun.com/industry/business-venture/2026/11/20/T4KQ7RPIG5EOTAQ2YUALQ3OIZY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001206118?sid=101",
+   "title": "[스타트UP] 스튜디오랩 “제품만 있으면 촬영부터 상세페이지까지 AI가...",
+   "desc": "2021년 설립된 스튜디오랩은 삼성전자 사내벤처 프로그램 C랩에서 분사한 스타트업이다. 강성훈 대표는... 스튜디오랩은 세계 최대 IT·가전 전시회 CES에서 2024년 AI 부문을 시작으로 2025년 로보틱스 부문, 2026년 공간...",
+   "published": "2026-11-20T06:02+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S1",
+    "S4"
+   ],
+   "queries": [
+    "삼성전자 가전 팝업"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2028434",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076830?sid=101",
+   "title": "삼성전자 오늘 사장단 인사…전영현·노태문 유임 속 겸직 해소",
+   "desc": "가전(DA)사업부장의 거취에는 관심이 쏠린다. 사업지원실은 실장인 박학규 사장의 유임 속에 일부 팀장(사장급)의 보직 이동과 승진이 점쳐진다. 올해 사장단 인사는 지난해 11월 21일보다 하루 앞당겨졌다. 삼성전자는...",
+   "published": "2026-11-20T05:31+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/20/20261120030001?wlog_tag3=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/081/0003701389?sid=101",
+   "title": "가전제품도 인테리어… 디자인 궁합이 뜬다",
+   "desc": "삼성전자도 AI를 활용해 가전 구매 후 관리에 집중하고 있다. AI와 3차원(3D) 기술을 활용한 ‘맵뷰’는... AI 비서인 ‘알렉사’와 연동해 스마트홈 경험을 확장한다는 전략이다. 가전제품이 인테리어로 활용되면서...",
+   "published": "2026-11-20T05:05+09:00",
+   "host": "www.seoul.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000347702?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000544836?sid=104",
+   "title": "[글로벌 비즈 브리핑] 뭉칫돈 쏟아붓고 후회…머스크 \"나는 MAGA 아니다...",
+   "desc": "집행액 '0' ▲FT \"삼성전자·TSMC, 中 고객사에 반도체 출하 중단 통보\" ▲'경제 바로미터' 월마트, 호실적... 이 사안을 잘 아는 두 명의 관계자에 따르면 TSMC와 삼성은 소비자 가전 고객사들에도 출하 중단을...",
+   "published": "2026-11-20T04:54+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261119502274",
+   "naver_url": "https://n.news.naver.com/mnews/article/005/0001886337?sid=101",
+   "title": "“경영 안정·기술인재 중용”… LG그룹 임원 인사",
+   "desc": "생활가전 사업을 이끌던 백승태 HS사업본부장이 어려운 대내외 환경에서도 사업 성장을 이끈 공을... 삼성전자도 이르면 20일 정기 사장단 인사를 단행할 것으로 전해졌다. 통상 11월 말에서 12월 초 사장단 인사를...",
+   "published": "2026-11-20T00:18+09:00",
+   "host": "www.kmib.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261119_0003874272",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014334497?sid=101",
+   "title": "\"11월 말~12월 10일, 4500선 안 깨지길\"…수급 꼬인 변동성 장세 전망",
+   "desc": "지난 18일 구독자 273만 명을 보유한 유튜브 채널 '김작가 TV'에 출연한 무극선생 이승조 대표는 현재 증시 흐름과 관련해 \"오히려 우리 장은 삼성전자·SK하이닉스가 진바닥을 찍고 전체적으로 돌려야 가는 장이다\"라고...",
+   "published": "2026-11-20T00:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261119_0003875214",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014334483?sid=101",
+   "title": "\"삼성전자·SK하이닉스, 아직 본격 폭락 시작 안 됐다\" …이주완 박사의...",
+   "desc": "18일 구독자 11만명을 보유한 유튜브 '지식한끗' 채널에 출연한 이주완 박사는 메모리 가격 하락이 시작되면 삼성전자와 SK하이닉스의 이익 전망이 크게 낮아지면서 주가 폭락이 본격화할 수 있다고 내다봤다. 이 박사는...",
+   "published": "2026-11-20T00:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "q_title": [
+    "S7"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "\"삼성전자·SK하이닉스, 아직 본격 폭락 시작 안 됐다\" …이주완 박사의 경고 :: 공감언론 뉴시스 ::",
+    "[서울=뉴시스]이주완 박사가 삼성전자와 SK하이닉스의 주가 하락 가능성을 경고하며 메모리 가격 흐름을 주목해야 한다고 설명했다",
+    "[서울=뉴시스]김성은 인턴 기자 = 삼성전자와 SK하이닉스 주가가 조정을 받는 가운데, 메모리 가격 상승에 따른 실적 개선이 꺾일 경우 주가가 큰 폭으로 추가 하락할 수 있다는 전문가의 분석이 나왔다.",
+    "18일 구독자 11만명을 보유한 유튜브 '지식한끗' 채널에 출연한 이주완 박사는 메모리 가격 하락이 시작되면 삼성전자와 SK하이닉스의 이익 전망이 크게 낮아지면서 주가 폭락이 본격화할 수 있다고 내다봤다.",
+    "삼성전자, 오늘 사장단 인사 단행할 듯…메모리·스마트폰에 새 수장 발탁하나",
+    "2\"삼성전자·SK하이닉스, 아직 본격 폭락 시작 안 됐다\" …이주완 박사의 경고"
+   ],
+   "og_date": "2026-11-20T00:30:24+09:00"
+  },
+  {
+   "url": "https://www.inven.co.kr/webzine/news/?news=323624",
+   "naver_url": "https://m.sports.naver.com/esports/article/442/0000199052",
+   "title": "[인터뷰] Team NINJA, \"어려운 게임과 불합리한 게임은 다르다\"",
+   "desc": "'인왕'이 사무라이의 정적인 집중력과 순간적인 공격을 강조한다면, '와룡'은 중국 무술 특유의 유려하고... 앞으로도 한국 시장에 관심을 가지고 좋은 게임을 선보일 수 있도록 노력하겠습니다. 그리고 '인왕3'의 두 번째...",
+   "published": "2026-11-19T23:50+09:00",
+   "host": "www.inven.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261119182800083?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016453329?sid=104",
+   "title": "미중러 사상 첫 정상회담·한중 FTA 타결…中선전 APEC 폐막",
+   "desc": "중국중앙TV(CCTV)는 3국 정상이 한반도 문제에 관해서도 논의했다고 보도했으나 어떤 이야기가 오갔는지는... 다만 실제 한국 콘텐츠의 중국 시장 진입 확대 여부는 향후 제도 이행 과정에서 확인될 전망이다. 반면 다카이치...",
+   "published": "2026-11-19T22:45+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.tokenpost.kr/news/tech/440792",
+   "naver_url": "https://www.tokenpost.kr/news/tech/440792",
+   "title": "GTA 6 실물 상자엔 다운로드 코드…게임스톱 CEO 재판매권 강조",
+   "desc": "전년 동기 비중은 25.7%였고, 해당 부문 매출은 31.7% 감소했다. 이 부문은 중고 게임만 집계하지 않는다. 중고·리퍼비시 하드웨어와 실물 게임 소프트웨어, 액세서리, 가전제품, 보증 상품도 포함한다. 게임스톱은...",
+   "published": "2026-11-19T20:42+09:00",
+   "host": "www.tokenpost.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2028383",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076820?sid=105",
+   "title": "[수출 1조달러 시대] 수출 42.7%가 반도체…AI가 끌고 가격이 밀었다",
+   "desc": "실적을 거뒀다. 영업이익률은 79.7%로, 두 회사가 한 분기에 벌어들인 영업이익만 약 190조원에 이른다. 반도체는 웃는데 스마트폰·가전은 울상 반도체 사업과 달리 완제품 사업은 수익성 악화에 직면했다. 삼성전자...",
+   "published": "2026-11-19T20:20+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1",
+    "X3"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261119500391",
+   "naver_url": "https://www.news2day.co.kr/article/20261119500391",
+   "title": "[이태희의 JOB채(106)] LG 구광모의 정중동(靜中動) 행보, 새로운 서막 ...",
+   "desc": "삼성전자, SK그룹 등이 AI시대 반도체 초호황 덕분에 역사적인 영업이익을 거두는 상황에서 LG그룹은 정중동(靜中動) 행보를 보인다고 볼 수있다. 가전과 전자제품을 잘 만드는 전통적인 제조업에서 AI와 제조기술을...",
+   "published": "2026-11-19T18:48+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611191820508264",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607048?sid=101",
+   "title": "코웨이만 웃었다… 렌털가전 3분기 실적 '희비'",
+   "desc": "코웨이가 일군 3·4분기 호실적은 말레이시아, 미국 등 해외 시장이 이끌었다. 이 기간 해외 매출은 5918억원으로 전년 동기 대비 26.2% 증가했다. 국가별 매출은 △말레이시아 4280억원(21.5%) △미국 839억원(45.8...",
+   "published": "2026-11-19T18:22+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O1",
+    "O2",
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적",
+    "코웨이 실적",
+    "쿠쿠홈시스 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이만 웃었다… 렌털가전 3분기 실적 '희비' - 파이낸셜뉴스",
+    "코웨이(021240), 쿠쿠홈시스(284740)",
+    "코웨이는 올해 연간 사상 처음 매출 5조원, 영업이익 1조원 달성이 유력한 상황이다.",
+    "19일 관련 업계에 따르면 코웨이는 올해 3·4분기 매출이 전년 동기 대비 13.7% 늘어난 1조4261억원을 기록했다",
+    "코웨이 3·4분기 누적 매출과 영업이익은 각각 13.8%, 9.7% 늘어난 4조1981억원, 7650억원이었다.",
+    "#3분기실적 #렌털가전 #매출5조원 #영업이익1조원 #코웨이"
+   ],
+   "og_date": "2026-11-19T18:20:53+09:00"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20116628?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004684108?sid=101",
+   "title": "삼성 DX “역성장 끊자”…헐값 판매 금지·週 단위 관리 주문",
+   "desc": "삼성전자(005930) 디바이스경험(DX) 부문 경영진이 올해 실적 부진을 반성하며 경영 쇄신을 주문했다.... 김철기 생활가전(DA) 사업부장 부사장은 “올해 사상 초유의 역성장” 이라며 “제품·판매법인 정리에도 실적은...",
+   "published": "2026-11-19T18:02+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/19/20261119500294?wlog_tag3=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/081/0003701255?sid=101",
+   "title": "성능 넘어 판매까지… 가전업계, 생성형 AI로 공간 맞춤 마케팅",
+   "desc": "삼성전자도 AI를 활용해 가전 구매 이후의 생활까지 사후 관리를 확장하고 있다. 삼성전자가 AI와 3차원(3D)... AI 비서인 ‘알렉사’와 연동해 스마트홈 경험을 확장한다는 전략이다. 인테리어와 어울리는 가전제품이...",
+   "published": "2026-11-19T17:53+09:00",
+   "host": "www.seoul.co.kr",
+   "questions": [
+    "S1",
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중",
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611191704195934",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607014?sid=101",
+   "title": "LG, 주요 CEO 대부분 유임..주력사업 힘 싣고 R&D 인재 발탁",
+   "desc": "가전은 현 본부장에게 힘을 싣고, TV는 사업 현장과 그룹 전략에 모두 밝은 인물에게 맡긴 셈이다. LG전자... 한편, 삼성전자는 이르면 20일 정기 사장단 인사를 단행한다. 현재 부문장이 겸직하고 있는 메모리사업부장과...",
+   "published": "2026-11-19T17:28+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12213597",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005766314?sid=101",
+   "title": "“삼성·LG 사려다 깜짝이야”…中TCL, 쿠폰 뿌리니 98인치 TV가 200만원...",
+   "desc": "중국 가전 연말 가격 공세 삼성·LG 안방 시장 정조준 중국 가전업체 TCL이 연말을 맞아 국내 TV 시장에서... 시장조사업체 트렌드포스가 지난 16일 발표한 자료에 따르면 올해 3분기 세계 TV 출하량은 삼성전자가...",
+   "published": "2026-11-19T17:15+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1",
+    "S3",
+    "X1"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표",
+    "에어컨 점유율 국내"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S3",
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611190231",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611190231",
+   "title": "“침실부터 주방까지 매장에”…코웨이, 부산 센텀시티에 팝업 운영",
+   "desc": "코웨이는 부산 해운대구 신세계 센텀시티몰 지하 2층에 약 125평 규모의 '코웨이갤러리 팝업스토어'를 개장했다고 밝혔다. 부산 지역 코웨이갤러리 가운데 최대 규모로, 내년 상반기까지 운영한다. 매장은 침실과 서재...",
+   "published": "2026-11-19T17:06+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "팝업"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "“침실부터 주방까지 매장에”…코웨이, 부산 센텀시티에 팝업 운영",
+    "[서울경제TV=정준엽기자] 코웨이가 실제 가정집처럼 꾸민 체험형 매장을 부산 신세계 센텀시티몰에 선보였다.",
+    "코웨이는 부산 해운대구 신세계 센텀시티몰 지하 2층에 약 125평 규모의 '코웨이갤러리 팝업스토어'를 개장했다고 밝혔다",
+    "부산 지역 코웨이갤러리 가운데 최대 규모로, 내년 상반기까지 운영한다.",
+    "'코웨이 키친'에는 아이콘 정수기 3와 아이콘 얼음정수기, 제로 음식물처리기, 노블 공기청정기 플러스 등을 배치해 실제 주방에서 사용하는 모습을 보여준다.",
+    "한편, 코웨이는 올해 말까지 팝업스토어에서 제품을 구매한 고객에게 구매 금액에 따라 최대 20만원 상당의 신세계 상품권을 증정한다"
+   ]
+  },
+  {
+   "url": "https://www.socialvalue.kr/news/view/1065597094688423",
+   "naver_url": "https://www.socialvalue.kr/news/view/1065597094688423",
+   "title": "코웨이, 부산 체험 매장 확대…센텀시티몰서 침실·주방 구현",
+   "desc": "코웨이는 부산 해운대구 신세계 센텀시티몰 지하 2층에 ‘코웨이갤러리 팝업스토어’를 오픈했다고 19일 밝혔다. 약 125평으로 부산 지역 코웨이갤러리 가운데 가장 크다. 내년 상반기까지 운영하며 부산과 영남권 고객을...",
+   "published": "2026-11-19T16:14+09:00",
+   "host": "www.socialvalue.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 매장 오픈",
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이는 부산 해운대구 신세계 센텀시티몰 지하 2층에 ‘코웨이갤러리 팝업스토어’를 오픈했다고 19일 밝혔다",
+    "기자의 인기기사 전체보기 ▶ 삼성, 하반기 공채 GSAT 마무리…11월 면접 거쳐 신입 선발 신세계그룹, 30일부터 열흘간 쓱데이…18개 계열사 참여 코스피 급락에 10대 그룹 시총 1100조 증발…반도체·조선주 타격",
+    "[인사] 삼성전자해태제과, 산업통상부와 수출 1조달러 달성 응원…홈런볼 '대한민국 응원 에디션' 출시우리은행, 삼성 SSAFY와 모바일뱅킹 아이디어 경진대회…158개 팀 참가두산에너빌리티 터빈 단 야월해상풍력, 글로벌 보험 기준 'LEG 2' 적용…설계 결함 손해까지 보장삼성전자, 반도체 '성과' 3명 사장 승진…전영현·노태문 사업부장 겸직 해제",
+    "1[단독] KT M&S, 고객 개인정보 유출…협력사 해킹 여파 가능성2김용빈, 식을 줄 모르는 인기...'미스터트롯3' 진의 전성기는 현재진행형3속초 이병선-태백 이상호 ‘동반 하락’...K-브랜드지수 강원 지자체장 판도 변화4젠슨 황 퇴진 속 삼성 HBM…경쟁축은 '고객 맞춤 설계'로5도시정비 50조 돌파 '사상 최고'…현대·삼성 독주 속 10대 건설사 연말 총력전 예고"
+   ],
+   "og_date": "2026-11-19T16:11:22+09:00"
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026111964811",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005355891?sid=101",
+   "title": "롯데하이마트 \"아이폰 도난·분실까지 보장\"…가전 이어 모바일로 '평생...",
+   "desc": "국내에 정식 판매된 제품이면 모두 이용할 수 있어 출시 한 달 만에 가입자가 2만5000명을 넘었다. 수리 인프라도 탄탄하다. 롯데하이마트는 로보락·쿠쿠·테팔·에이수스 등 170여 개 브랜드 제품을 직접 수리한다. 전국...",
+   "published": "2026-11-19T16:06+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "C1"
+   ],
+   "queries": [
+    "로보락 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.viva100.com/article/20261119501086",
+   "naver_url": "https://www.viva100.com/article/20261119501086",
+   "title": "코웨이, 신세계 센텀시티몰에 125평 팝업스토어 오픈",
+   "desc": "코웨이는 부산 해운대구 신세계 센텀시티몰 지하 2층에 브랜드 체험·판매 매장인 ‘코웨이갤러리 팝업스토어’를 마련했다고 19일 밝혔다. 약 125평 규모로 부산 지역 코웨이갤러리 가운데 가장 크며, 내년 상반기까지...",
+   "published": "2026-11-19T15:54+09:00",
+   "host": "www.viva100.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 매장 오픈",
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "오픈",
+    "팝업"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 신세계 센텀시티몰에 125평 팝업스토어 오픈 - 브릿지경제",
+    "코웨이, 신세계 센텀시티몰에 125평 팝업스토어 오픈",
+    "코웨이가 부산 신세계 센텀시티몰에 침실과 서재, 주방 등 실제 주거 공간을 재현한 체험형 매장을 열었다",
+    "코웨이는 부산 해운대구 신세계 센텀시티몰 지하 2층에 브랜드 체험·판매 매장인 ‘코웨이갤러리 팝업스토어’를 마련했다고 19일 밝혔다",
+    "한편, 코웨이는 매장 개점을 기념해 올해까지 제품을 구매한 고객에게 구매 금액에 따라 최대 20만원 상당의 신세계 상품권을 제공한다.",
+    "LG화학 시가총액 16조6000억원은 소재 섹터 시가총액 차이의 약 58%에 해당한다"
+   ]
+  },
+  {
+   "url": "https://www.khan.co.kr/article/202611191549001",
+   "naver_url": "https://n.news.naver.com/mnews/article/032/0003483766?sid=103",
+   "title": "라이브 쇼핑, 저녁 8시에 보고 밤 11시에 산다…5060도 큰손으로",
+   "desc": "5060세대의 온라인 소비도 주목할 만하다. 전체 구매 고객 중 40대가 43.9%로 가장 큰 비중을 차지했지만... 뷰티(78.1%), 가전(70.9%)도 성장했다. 패션과 잡화에 집중됐던 라이브 쇼핑이 생활에 필요한 상품 전반으로...",
+   "published": "2026-11-19T15:49+09:00",
+   "host": "www.khan.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261119000352",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487665?sid=105",
+   "title": "코웨이, 신세계 센텀시티몰에 125평 규모 팝업스토어 개장",
+   "desc": "코웨이가 부산 해운대구 신세계 센텀시티몰 지하 2층에 '코웨이갤러리 팝업스토어'를 개장했다. 매장 규모는 약 125평으로 부산 지역 코웨이갤러리 가운데 가장 크다. 내년 상반기까지 운영하며 부산과 영남권 소비자를...",
+   "published": "2026-11-19T15:30+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "팝업"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 신세계 센텀시티몰에 125평 규모 팝업스토어 개장 - 전자신문",
+    "코웨이가 부산 해운대구 신세계 센텀시티몰 지하 2층에 '코웨이갤러리 팝업스토어'를 개장했다",
+    "매장 규모는 약 125평으로 부산 지역 코웨이갤러리 가운데 가장 크다",
+    "매장은 비렉스 침대를 체험할 수 있는 침실과 서재 형태의 '비렉스 라운지', 주방가전을 전시한 '코웨이 키친' 등으로 구성됐다",
+    "코웨이 키친에는 '아이콘 정수기 3', '아이콘 얼음정수기', '제로 음식물처리기', '노블 공기청정기 플러스' 등을 전시했다.",
+    "코웨이는 매장 개장을 기념해 올해 말까지 제품 구매 고객에게 구매 금액에 따라 최대 20만원 상당의 신세계 상품권을 증정한다."
+   ],
+   "og_date": "2026-11-19T15:29:09+09:00"
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261119001087",
+   "naver_url": "https://www.newspim.com/news/view/20261119001087",
+   "title": "코웨이, 부산 신세계 센텀시티몰에 팝업스토어 오픈",
+   "desc": "코웨이는 부산 해운대구 신세계 센텀시티몰에 브랜드 체험 및 판매 매장 '코웨이갤러리 팝업스토어'를 오픈했다고 19일 밝혔다. 규모는 약 125평으로 부산 지역 코웨이갤러리 가운데 가장 크다. 내년 상반기까지 운영하며...",
+   "published": "2026-11-19T15:27+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 매장 오픈",
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "오픈",
+    "팝업"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 부산 신세계 센텀시티몰에 팝업스토어 오픈",
+    "[서울=뉴스핌] 정탁윤 기자 = 코웨이는 부산 해운대구 신세계 센텀시티몰에 브랜드 체험 및 판매 매장 '코웨이갤러리 팝업스토어'를 오픈했다고 19일 밝혔다.",
+    "규모는 약 125평으로 부산 지역 코웨이갤러리 가운데 가장 크다",
+    "매장은 비렉스 침대를 둔 침실부터 서재 형태의 '비렉스 라운지', 주방으로 꾸민 '코웨이 키친'까지 실제 주거 공간처럼 구역을 나눠 구성했다.",
+    "코웨이 관계자는 \"침실과 주방 등 생활 공간을 그대로 구현해 제품을 집에서 쓰듯 비교해보고 우리 집에 맞는 제품을 고를 수 있도록 했다\"며 \"더 많은 고객이 코웨이를 가깝게 만날 수 있도록 오프라인 접점을 넓혀 나가겠다\"고 말했다.",
+    "코웨이, '2026 제품안전의 날' 대통령표창 수상코웨이, 장애·청년 예술인 '빛나눔 예술축제' 개최코웨이, 한국ESG기준원 평가서 '통합 A+등급' 획득"
+   ],
+   "og_date": "2026-11-19T15:27:00+09:00"
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261119500406",
+   "naver_url": "https://www.asiatime.co.kr/article/20261119500406",
+   "title": "다림질까지 넓어진 의류관리 가전…LG·삼성, 주름 관리 기술 차별화",
+   "desc": "기자] 가전업계가 다림질 부담을 줄이고 의류관리 편의성을 높이기 위한 기술 경쟁에 나섰다. 통합형 다림질 제품부터 옷을 걸어두는 방식의 자동 주름 관리 기술까지 제품별 차별화가 뚜렷해졌다. 삼성전자가 출시한...",
+   "published": "2026-11-19T15:24+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "S1",
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 가전 출시",
+    "삼성전자 비스포크 AI 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10942904?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002725828?sid=101",
+   "title": "닮았나요? 다른가요?… 코웨이 vs 쿠쿠, 정수기 분쟁 ‘특허권 심사’는...",
+   "desc": "코웨이가 ‘아이콘 얼음정수기’를 출시한 것은 2022년 6월이다. 같은 해 3월 디자인권을 출원해 2023년 2월 등록을 마쳤다. 쿠쿠는 이보다 늦은 2024년 4월 제로100 슬림 얼음정수기를 출시했다. 두 제품을 나란히 놓고 보면...",
+   "published": "2026-11-19T15:22+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "O1",
+    "O2"
+   ],
+   "queries": [
+    "코웨이 출시",
+    "쿠쿠홈시스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1",
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12213602",
+   "naver_url": "https://n.news.naver.com/mnews/article/024/0000109747?sid=101",
+   "title": "가성비는 옛말…‘샤오미’ 210만원 스마트폰 내놨다",
+   "desc": "샤오미코리아는 지난 18일 ‘샤오미 18 프로 맥스’를 선보였다. 가격은 램 12GB·저장용량 256GB 모델... 배터리 용량은 7050mAh로 국내 출시된 샤오미 스마트폰 중 가장 크다. 100W 유선 충전과 50W 무선 충전을...",
+   "published": "2026-11-19T15:15+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 신제품",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611191340248021",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005606903?sid=101",
+   "title": "삼성전자, 내일 사장단 인사 유력…메모리·스마트폰 수장 교체 주목",
+   "desc": "삼성전자가 이르면 내일 정기 사장단 인사를 단행할 전망이다. 현재 부문장이 겸직하고 있는... 하지만 TV와 생활가전, 스마트폰 등 DX부문 전반의 실적 개선이 과제로 떠오르면서 노 사장이 부문 전체의 경영에 집중할...",
+   "published": "2026-11-19T15:12+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026111914334276557",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002249221?sid=105",
+   "title": "래블업, 상장 후 첫 실적… 누적 매출 48.2%·영업익 36.4% 증가",
+   "desc": "회사에 따르면 엔비디아·AMD·인텔 제품과 국산 NPU 등 11종 이상의 AI 가속기를 지원하며 삼성전자·현대모비스·KT·신한은행 등 국내외 120곳 이상의 사업장에서 운영 중이다. 래블업은 연간 구독형 라이선스로...",
+   "published": "2026-11-19T15:02+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "실적",
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000347574?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000544720?sid=101",
+   "title": "쿠쿠, 코웨이 '판매 금지' 1심 승소…코웨이 \"항소·특허 소송\"",
+   "desc": "쿠쿠홈시스는 \"코웨이가 문제 삼은 제품은 철저한 디자인 검토를 거쳐 출시했으며 관련 지식재산권도 보유 중\"이라고 설명했습니다 이에 코웨이는 \"실제 소비자 관점에서 디자인적 오인 및 혼동이 발생하고 있음에도...",
+   "published": "2026-11-19T14:44+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "O1",
+    "O2"
+   ],
+   "queries": [
+    "코웨이 출시",
+    "쿠쿠홈시스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "소송"
+   ],
+   "q_title": [
+    "O1",
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠, 코웨이 '판매 금지' 1심 승소…코웨이 \"항소·특허 소송\" - SBS Biz"
+   ],
+   "og_date": "2026-11-19T14:39:00+09:00"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2650355",
+   "naver_url": "https://www.etoday.co.kr/news/view/2650355",
+   "title": "1조달러의 명암⋯반도체·대기업 쏠림에 내수는 '냉기'[수출 1조弗 달성...",
+   "desc": "올해 1~10월 누적 기준 자동차 수출은 2.3% 감소했으며 자동차 부품(-4.2%)과 가전(-9.2%) 수출 역시 마이너스... 대형마트 소매판매는 1.9% 줄며 2010년 통계 작성 이래 최장기간인 10분기 연속 감소세를 기록했다. 대면...",
+   "published": "2026-11-19T14:36+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950208.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950208.html",
+   "title": "“경영진 오판”·“단호히 대응” … 역대급 신경전 벌이는 코웨이 vs ...",
+   "desc": "코웨이는 2022년 아이콘 얼음정수기를 출시했으며, 관련 디자인권을 2023년 2월 등록했다. 코웨이는 2024년 8월, 쿠쿠에 내용증명을 보내면서 문제를 제기했다. 양사는 해당 사안에 대해 대화에 나섰지만 이견을 좁히지 못했고...",
+   "published": "2026-11-19T14:28+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.jtbc.co.kr/article/NB12328845?influxDiv=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/437/0000521483?sid=101",
+   "title": "\"시험 보느라 고생했어요\".. '수능 패스' 풍성! 노트북, 태블릿에 호텔...",
+   "desc": "주요 IT가전도 할인 가격에 선보이는데 삼성전자 '갤럭시탭 S12+'는 149만9900원, 레노버 'SLIM3 노트북'은... 이동통신 3사도 수험생 프로모션을 진행합니다. SK텔레콤은 신규 개통 혹은 기기 변경을 한 수험생 선착순...",
+   "published": "2026-11-19T13:37+09:00",
+   "host": "news.jtbc.co.kr",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611181853476199",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005606802?sid=101",
+   "title": "\"코웨이 독주체제 굳건\" 렌털 가전 3분기 실적 '희비 교차'",
+   "desc": "코웨이가 일군 3·4분기 호실적은 말레이시아, 미국 등 해외 시장이 이끌었다. 이 기간 해외 매출은 5918억원으로 전년 동기 대비 26.2% 증가했다. 국가별 매출은 △말레이시아 4280억원(21.5%) △미국 839억원(45.8...",
+   "published": "2026-11-19T13:30+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O1",
+    "O2",
+    "O3"
+   ],
+   "queries": [
+    "SK매직 실적",
+    "SK인텔릭스 실적",
+    "코웨이 실적",
+    "쿠쿠홈시스 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "\"코웨이 독주체제 굳건\" 렌털 가전 3분기 실적 '희비 교차' - 파이낸셜뉴스",
+    "코웨이(021240), 쿠쿠홈시스(284740)",
+    "코웨이는 올해 연간 사상 처음 매출 5조원, 영업이익 1조원 달성이 유력한 상황이다.",
+    "19일 관련 업계에 따르면 코웨이는 올해 3·4분기 매출이 전년 동기 대비 13.7% 늘어난 1조4261억원을 기록했다",
+    "코웨이 3·4분기 누적 매출과 영업이익은 각각 13.8%, 9.7% 늘어난 4조1981억원, 7650억원이었다.",
+    "#렌털가전 #3분기실적 #코웨이 #영업이익1조원 #매출5조원"
+   ],
+   "og_date": "2026-11-19T13:29:32+09:00"
+  },
+  {
+   "url": "https://www.munhwa.com/article/11632515?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/021/0002833978?sid=101",
+   "title": "삼성·LG ‘안정 속 변화’ 리더십… 연이어 사장단 인사",
+   "desc": "(VD)·생활가전(DA)사업부는 수익성이 악화됐는데, 수장을 교체한 지 각각 6개월, 1년 7개월밖에 지나지 않아 현 체제를 유지할 가능성도 있다. 삼성디스플레이·삼성전기·삼성SDI 등 주요 전자 계열사 CEO는 대부분 유임...",
+   "published": "2026-11-19T11:54+09:00",
+   "host": "www.munhwa.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261119115229764",
+   "naver_url": "https://www.ajunews.com/view/20261119115229764",
+   "title": "쿠쿠, 얼음정수기 판매 금지 소송 1심 승소…코웨이, 항소 제기",
+   "desc": "코웨이가 문제를 삼은 '제로100 슬림 얼음정수기'는 미니멀리즘 트렌드를 반영한 제품이다. 철저한 디자인 검토를 거쳐 출시했으며 관련 지적 재산권을 이미 보유하고 있다. 쿠쿠 관계자는 \"앞으로도 렌탈 업계가...",
+   "published": "2026-11-19T11:54+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O1",
+    "O2"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 출시",
+    "쿠쿠홈시스 렌탈 계정",
+    "쿠쿠홈시스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "소송"
+   ],
+   "q_title": [
+    "O1",
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠, 얼음정수기 판매 금지 소송 1심 승소…코웨이, 항소 제기 | 아주경제",
+    "법원, 코웨이 주장 모두 기각…코웨이, 즉각 항소심 제기 쿠쿠 \"경쟁사 성과 훼손하면 안 돼\" vs 코웨이 \"소비자 오해 발생\"",
+    "쿠쿠홈시스가 코웨이에서 제기한 얼음정수기 판매 금지 및 손해배상 청구 소송 1심에서 승소했다.",
+    "쿠쿠는 서울중앙지방법원이 지난달 15일 코웨이가 쿠쿠홈시스를 상대로 제기한 ‘제로100 슬림 얼음정수기’ 판매금지 및 손해배상청구 소송에서 원고의 청구를 모두 기각했다고 19일 밝혔다.",
+    "코웨이는 2025년 4월 쿠쿠 '제로100 슬림 얼음정수기’가 코웨이 ‘아이콘 얼음정수기’의 지식재산권(디자인권)을 침해하고, 부정경쟁행위에 해당한다는 등의 이유로 제품 생산·판매 금지와 폐기, 손해배상금을 청구하는 소송을 제기했다.",
+    "쿠쿠는 현재 누적 계정 수 328만(2026년 1분기 기준)을 기록하고 있으며, 정수기 시장에서 코웨이에 이어 2위권의 입지를 구축하고 있다."
+   ],
+   "og_date": "2026-11-19T11:53:35+09:00"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261119076500030?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016451680?sid=102",
+   "title": "쿠쿠 \"코웨이가 낸 판매 금지 소송 1심 승소…디자인 침해 아냐\"",
+   "desc": "쿠쿠홈시스는 \"코웨이가 문제 삼은 제품은 철저한 디자인 검토를 거쳐 출시했으며 관련 지식재산권도 보유하고 있다\"고 설명했다. 이에 코웨이는 \"실제 소비자 관점에서 두 제품 간 디자인적 오인 및 혼동이 발생하고...",
+   "published": "2026-11-19T11:42+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "O1",
+    "O2"
+   ],
+   "queries": [
+    "코웨이 출시",
+    "쿠쿠홈시스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "소송"
+   ],
+   "q_title": [
+    "O1",
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠 \"코웨이가 낸 판매 금지 소송 1심 승소…디자인 침해 아냐\" | 연합뉴스",
+    "(서울=연합뉴스) 이상서 기자 = 쿠쿠홈시스[284740]는 코웨이[021240]에서 제기한 얼음정수기 판매 금지 및 손해배상 청구 소송 1심에서 승소했다고 19일 밝혔다.",
+    "쿠쿠홈시스에 따르면 지난달 15일 서울중앙지방법원은 코웨이가 쿠쿠홈시스를 상대로 제기한 '제로100 슬림 얼음정수기' 판매금지 및 손해배상청구 소송에서 원고의 청구를 모두 기각했다.",
+    "앞서 코웨이는 지난해 4월 쿠쿠홈시스 '제로100 슬림 얼음정수기'가 코웨이 '아이콘 얼음정수기'의 지식재산권(디자인권)을 침해했다며 제품 생산·판매 금지와 폐기, 손해배상금을 청구하는 소송을 제기했다.",
+    "그러나 법원은 두 제품이 전체적으로 다른 심미감을 형성하고 있어 디자인권 침해에 해당하지 않는다고 판단하며 코웨이의 주장을 받아들이지 않았다고 쿠쿠홈시스는 설명했다.",
+    "쿠쿠홈시스는 \"코웨이가 문제 삼은 제품은 철저한 디자인 검토를 거쳐 출시했으며 관련 지식재산권도 보유하고 있다\"고 설명했다."
+   ],
+   "og_date": "2026-11-19T11:42:25+09:00"
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026111911320796070",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002249187?sid=105",
+   "title": "K콘텐츠 해외 플랫폼 의존 줄일까…국회서 'K-FAST' 활성화 논의",
+   "desc": "삼성전자와 LG전자 등 스마트TV 제조사의 플랫폼을 통해 별도 유료 구독 없이 방송 채널 형태의 콘텐츠를... 이어지는 종합토론에는 허드슨AI와 이스트소프트, 삼성전자와 LG전자, MBC·SBS·CJ ENM, 스마트미디어랩(SMR)...",
+   "published": "2026-11-19T11:36+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261119105320532",
+   "naver_url": "https://www.ajunews.com/view/20261119105320532",
+   "title": "쌀알 이어폰부터 단추형 카메라까지…수능날 살펴본 'AI 커닝' 장비 천태...",
+   "desc": "삼성전자와 메타 등이 내놓은 AI 안경은 일반 소비자의 촬영과 음성비서 이용이 목적이지만, 부정행위... S2W가 확인한 중국어권 판매 채널 가운데에는 구독자가 2만3000명을 넘는 곳도 있었다. 한국어 이용자가 참여하는...",
+   "published": "2026-11-19T11:10+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950118.html",
+   "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950118.html",
+   "title": "SK인텔릭스 ‘나무엑스’ 출시 1년 … 무난한 데뷔·인지도 향상은 과제",
+   "desc": "SK인텔릭스 관계자는 “출시 이후 나무엑스가 꾸준히 판매되고 있다”면서 “새로운 사업 기회 발굴은 물론 인지도를 확대하는 데 중점을 둘 것”이라고 말했다. 뉴데일리 김재홍",
+   "published": "2026-11-19T11:08+09:00",
+   "host": "biz.newdaily.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적",
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "출시"
+   ],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "SK인텔릭스 ‘나무엑스’ 출시 1년 … 무난한 데뷔·인지도 향상은 과제 | 뉴데일리",
+    "SK인텔릭스의 세계 최초 웰니스 로봇 ‘나무엑스(NAMUHX)’가 론칭한 지 1년이 지났다",
+    "SK인텔릭스는 현재까지의 누적 판매 대수, 판매 금액 등 구체적인 실적을 공개하지는 않고 있다",
+    "이같은 기류는 SK인텔릭스가 이달 3일 서울 종로구 본사에서 개최한 ‘로봇과 사는 시대: NAMUH X 론칭 1년 그리고 미래’ 설명회에서도 나타났다.",
+    "나무엑스의 론칭 이후 1년간의 성과를 돌아보고 향후 전략을 공유하는 설명회에서 김형진 SK인텔릭스 나무엑스사업본부장은 “경쟁력 향상을 위해 선택과 집중을 강화할 것”이라며 “특히 플랫폼 비즈니스 모델을 확장해 나가겠다”고 밝혔다.",
+    "'앤트로픽 쇼크'… 코스피 3%대 급락 '오천피' 붕괴, '검은 금요일' 삼성전자, 전영현·노태문 투톱 유지 … 메모리 황상준· MX 최원준 신임·시스템 LSI 조상연 사장 신규 선임 미래 사업 강화 나선 LG그룹 … 데이터센터 냉각·모빌리티 조직 확대, AI·R&D 인재 발탁 싸서 택한 변동금리의 역습 … 주담대 이자 부담 더 커진다"
+   ],
+   "og_date": "2026-11-19T11:06:56+0000"
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026111910224458560",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005844980?sid=110",
+   "title": "[사설]한중 FTA 타결, 기회는 우리 기업에만 오는 게 아니다",
+   "desc": "한국 기업과 경쟁할 역량을 갖추고 해외 진출까지 확대할 수 있다고 판단했을 가능성에 주목해야 한다. 한때 중국 시장에서 의미있는 점유율을 차지했던 자동차와 가전 등 제조업이 현지 기업에 밀려 고전한 경험을...",
+   "published": "2026-11-19T11:00+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.peoplewatch.co.kr/article/view/ppw202611190004",
+   "naver_url": "https://www.peoplewatch.co.kr/article/view/ppw202611190004",
+   "title": "삼성전자 사장단 인사 임박…전영현·노태문 '투톱' 겸직체제 바뀌나",
+   "desc": "인사가 발표되면 이르면 다음 주 초 후속 임원 인사와 조직개편이 이어질 것으로 보인다. 삼성전자와... 최 사장이 MX사업부장을 맡으면 노 사장은 스마트폰뿐 아니라 TV·생활가전 등 DX부문 전체의 사업 전략과 수익성...",
+   "published": "2026-11-19T10:46+09:00",
+   "host": "www.peoplewatch.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261119000146",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003487463?sid=105",
+   "title": "쿠쿠홈시스, 얼음정수기 손해배상 청구 소송 1심 승소…코웨이 항소 제...",
+   "desc": "거쳐 출시했으며 관련 지적 재산권을 이미 보유하고 있다”고 강조했다. 쿠쿠는 소송을 제기한 코웨이 측에 유감도 표명했다. 법적 분쟁 도중 렌털 업계 상생을 위해 코웨이에 간담회를 제안했으나, 실질적인 후속 조치가...",
+   "published": "2026-11-19T10:46+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "O1",
+    "O2"
+   ],
+   "queries": [
+    "코웨이 출시",
+    "쿠쿠홈시스 출시"
+   ],
+   "also": [],
+   "cues": [
+    "소송"
+   ],
+   "q_title": [
+    "O1",
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "쿠쿠홈시스, 얼음정수기 손해배상 청구 소송 1심 승소…코웨이 항소 제기 - 전자신문",
+    "쿠쿠와 코웨이간 얼음정수기 판매 금지 및 손해배상 청구 소송 1심에서 쿠쿠가 승소했다",
+    "코웨이는 1심 판결에 반발, 항소를 제기했다.",
+    "쿠쿠홈시스는 '제로100 슬림 얼음정수기' 소송에서 서울중앙지방법원이 원고 청구를 기각했다고 19일 밝혔다.",
+    "앞서 코웨이는 지난해 쿠쿠 제로100 슬림 얼음정수기가 코웨이 '아이콘 얼음정수기' 지적재산권을 침해, 부정경쟁행위에 해당한다는 이유로 제품 생산·판매 금지·폐기와 손해배상을 청구하는 소송을 제기했다.",
+    "쿠쿠는 소송을 제기한 코웨이 측에 유감도 표명했다"
+   ],
+   "og_date": "2026-11-19T10:44:58+09:00"
+  },
+  {
+   "url": "http://www.inews24.com/view/2028055",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076502?sid=105",
+   "title": "삼성전자, 에이전틱 AI 시대 서버 메모리로 '소캠2' 제시",
+   "desc": "삼성전자의 LPDDR5X 기반 소캠2는 최근 세계 최대 가전·정보기술(IT) 전시회 '소비자 가전쇼(CES) 2027' 혁신상을 수상했다. 향후 LPDDR6 기반으로 대역폭과 용량, 전력 효율을 높일 계획이다. AI 서버 시장 성장에 따라...",
+   "published": "2026-11-19T10:39+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S3"
+   ],
+   "queries": [
+    "삼성 AI 가전 소비자 조사"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2650242",
+   "naver_url": "https://www.etoday.co.kr/news/view/2650242",
+   "title": "삼성 사장단 인사 이르면 20일…‘투톱 유지·사업부장 분리’ 주목",
+   "desc": "삼성전자가 올해 3분기 사상 최대 실적을 기록하는 등 실적 개선세에 들어선 만큼 주요 경영진을 대거... 스마트폰뿐 아니라 TV와 생활가전 등 DX부문 전체 사업을 총괄하는 만큼 MX사업부장을 별도로 두고 사업별...",
+   "published": "2026-11-19T10:34+09:00",
+   "host": "www.etoday.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/19/2026111980042.html",
+   "naver_url": "https://www.dizzotv.com/site/data/html_dir/2026/11/19/2026111980042.html",
+   "title": "KT, 수험생 대상 ‘Y수능 페스타’ 개최...AI 한 달 무료·쇼핑 혜택",
+   "desc": "‘구글 AI 플러스(400GB)’를 한 달간 무료로 이용한다. 영상과 온라인 콘텐츠 소비를 위한 구독 혜택도... 삼성전자 갤럭시 단말 구매 고객에게는 별도 혜택이 추가된다. 개통 후 응모한 고객 가운데 500명을 추첨해...",
+   "published": "2026-11-19T10:34+09:00",
+   "host": "www.dizzotv.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.breaknews.com/1252177",
+   "naver_url": "http://www.breaknews.com/1252177",
+   "title": "KT, 수능 마친 수험생 대상 혜택 프로모션",
+   "desc": "유튜브, 티빙, 디즈니플러스 등 OTT와 커피·생활 혜택을 묶은 'KT 구독팩' 가입... 등 삼성전자가 마련한 혜택도 받을 수 있다. 김영걸 KT Customer부문 Customer사업본부장...",
+   "published": "2026-11-19T10:34+09:00",
+   "host": "www.breaknews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "프로모션"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611196798g",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005355723?sid=101",
+   "title": "\"최화정 효과 이 정도였어?\"…15분 만에 1000대 주문 '폭주'",
+   "desc": "삼성전자나 LG전자 제품이 아닌 중소 가전 브랜드의 김치냉장고가 홈쇼핑에서 15분 만에 1000대 넘는 주문을... 더 시프트는 미닉스가 지난해 10월 출시한 소형 김치냉장고다. 1~2인 가구를 중심으로 소량의 김치를...",
+   "published": "2026-11-19T10:31+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newswhoplus.com/news/articleView.html?idxno=74799",
+   "naver_url": "https://www.newswhoplus.com/news/articleView.html?idxno=74799",
+   "title": "[지스타 2026] 국내 최대 게임쇼 '지스타' 개막…韓 대형사 공백 속 中·...",
+   "desc": "게임백서'에서 한국의 세계 게임시장 점유율은 2016년 5.7%에서 2024년 7.2%로 상승했다. 중국의 점유율은 같은... 프리미어'와 '지스타 TV' 전 프로그램을 단독 송출한다. 현장에서는 '치지직 스테이지' 운영과 인플루언서...",
+   "published": "2026-11-19T10:24+09:00",
+   "host": "www.newswhoplus.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 19,
+  "B": 53,
+  "C": 9,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 19,
+  "ok": 19,
+  "실패": 0
+ }
+}
