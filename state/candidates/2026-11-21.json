@@ -1,0 +1,1920 @@
+{
+ "date": "2026-11-21",
+ "collected_at": "2026-11-21T09:47+09:00",
+ "lookback_days": 14,
+ "count": 72,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2000,
+   "in_window": 1053,
+   "kept": 31,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 211,
+   "kept": 1,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 53,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 941,
+   "in_window": 36,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1022,
+   "in_window": 42,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1300,
+   "in_window": 405,
+   "kept": 0,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1281,
+   "in_window": 301,
+   "kept": 9,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1186,
+   "in_window": 124,
+   "kept": 0,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 13,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1075,
+   "in_window": 17,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1139,
+   "in_window": 146,
+   "kept": 1,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1056,
+   "in_window": 44,
+   "kept": 2,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1961,
+   "in_window": 35,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 2100,
+   "in_window": 1114,
+   "kept": 12,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1964,
+   "in_window": 184,
+   "kept": 13,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 2060,
+   "in_window": 334,
+   "kept": 0,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 58,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 136,
+   "kept": 1,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 50,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 146,
+   "kept": 2,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 38,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.segye.com/newsView/20261121502556?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004176937?sid=101",
+   "title": "가습기 매출 128% 뛰었다…쿠첸·쿠쿠·위닉스·LG·발뮤다 겨울 가전 경...",
+   "desc": "쿠첸은 지난 9월 가열식과 초음파식 가습기 신제품 2종을 출시하며 제품군을 확대했다. 쿠쿠와 위닉스도 안전장치와 관리 편의성을 강화한 가습기를 선보였다. LG전자는 정수·살균 기술을 앞세운 프리미엄 제품을...",
+   "published": "2026-11-21T09:22+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 신제품",
+    "쿠쿠전자 출시"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "가습기 매출 128% 뛰었다…쿠첸·쿠쿠·위닉스·LG·발뮤다 겨울 가전 경쟁 | 세계일보",
+    "쿠쿠·위닉스, 화상 방지 설계와 대용량 수조로 차별화",
+    "LG전자 정수·살균, 발뮤다 디자인 강화…위생·편의성 경쟁",
+    "쿠쿠가 선보인 4L 대용량 자연기화식 가습기는 최대 32시간 연속 사용이 가능하다",
+    "LG전자에 따르면 정수 필터의 칼슘·마그네슘 제거율은 시험 조건에서 99% 이상이며, 고온 살균 과정에서 황색포도상구균과 폐렴간균, 녹농균 등 유해균 3종을 99.999% 제거하는 성능을 확인했다.",
+    "20261121502556 0101031100000 0 2026-11-21 09:20 0 가습기 매출 128% 뛰었다…쿠첸·쿠쿠·위닉스·LG·발뮤다 겨울 가전 경쟁 Cube 김현주 b9edde06-4f67-41f9-a1ea-097b0c103c2f hjk@segye.com"
+   ],
+   "og_date": "2026-11-21T09:20:00+09:00"
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611210848266883",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607620?sid=102",
+   "title": "\"김수현, '김새론 의혹' 품위유지 위반 맞다\"...8억7000만원 배상판결, ...",
+   "desc": "20일 서울중앙지법 민사합의25부(권기만 부장판사)는 쿠쿠전자와 렌탈 전문기업 쿠쿠홈시스, 쿠쿠홈시스의... 신뢰감 있는 이미지가 유지되지 못했다\"며 \"이로 인해 제품에 대한 판촉 활동을 할 수 없게 됐다\"고 판시했다.",
+   "published": "2026-11-21T09:18+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1717818/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003157872?sid=101",
+   "title": "1년 내내 대신 ‘딱 몇 달’…유통가 멤버십이 짧아지는 이유",
+   "desc": "삼성전자는 지난 9월 가전 구독을 개편하며 이사 후 가전 안심 점검과 설치·철거 시 가구장 원복을... 솔루션을 출시했다. 네이버, 상시 멤버십 위에 얹는 '생애주기 바우처'로 승부수 별도의 기간 한정 멤버십을...",
+   "published": "2026-11-21T09:00+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S1",
+    "S6",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 가전 출시",
+    "삼성전자 가전 혜택 포인트",
+    "삼성전자 구독 가전 이용"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ceoscoredaily.com/page/view/2026112016332242736",
+   "naver_url": "https://www.ceoscoredaily.com/page/view/2026112016332242736",
+   "title": "성장정체 ‘K-웹툰’, 생존공식 찾아라…네이버 ‘IP·2차창작 확대’ ...",
+   "desc": "캡콤·비비고 등 글로벌 브랜드와 광고 제휴를 확대하는 한편, 일본에서는 맥도날드 재팬·삼성전자 재팬과... 카카오의 통합 구독 서비스 ‘카카오멤버십’에 매월 카카오페이지 2000캐시 지급 혜택을 포함해 신규...",
+   "published": "2026-11-21T09:00+09:00",
+   "host": "www.ceoscoredaily.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611200133",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611200133",
+   "title": "삼성·LG, AI 보안·구독·프리미엄 전략으로 TV 판 바꾼다",
+   "desc": "원가 부담은 실적에 그대로 반영됐다. 삼성전자 VD·DA(TV·생활가전) 부문은 3분기 매출 13조 9000억 원에 영업손실 2000억 원을 내며 적자 흐름을 이어갔다. LG전자 MS(미디어엔터테인먼트솔루션) 사업본부는 매출 5조...",
+   "published": "2026-11-21T08:02+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "C5",
+    "S1",
+    "S3",
+    "S7",
+    "X3"
+   ],
+   "queries": [
+    "TCL 한국 실적",
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [
+    "구독"
+   ],
+   "q_title": [
+    "S1",
+    "S3",
+    "S7",
+    "X3"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성·LG, AI 보안·구독·프리미엄 전략으로 TV 판 바꾼다",
+    "중국 업체들이 미니LED와 초대형 등 고급형 제품군까지 출하량을 늘리며 물량 공세를 고급형 경쟁으로 확장한 가운데, 메모리 반도체와 LCD 패널 가격 상승이 겹치며 삼성전자와 LG전자의 TV 사업 수익성도 시험대에 올랐다",
+    "삼성전자 VD·DA(TV·생활가전) 부문은 3분기 매출 13조 9000억 원에 영업손실 2000억 원을 내며 적자 흐름을 이어갔다",
+    "국내 디스플레이 업체들이 LCD 사업을 접은 뒤 삼성·LG는 TV 원가의 40~50%를 차지하는 대형 LCD 패널을 BOE·TCL CSOT·HKC 등 중국 패널사로부터 조달하고 있다.",
+    "삼성전자는 마이크로 RGB TV 크기를 65·75·85·100·130형으로 세분화했고, LG전자도 지난 3월 ‘LG 마이크로 RGB 에보’를 선보이며 상단 라인업을 보강했다.",
+    "삼성전자는 ‘삼성 AI 구독’에 최대 6년 무상수리 혜택 등을 결합해 고가 TV 구매 장벽을 낮췄고, LG전자는 일반 소비자를 넘어 재건축 조합 등 B2B 영역으로 가전 구독 모델을 넓히며 수익 기반을 키우고 있다."
+   ]
+  },
+  {
+   "url": "https://magazine.hankyung.com/business/article/202611121751b",
+   "naver_url": "https://n.news.naver.com/mnews/article/050/0000113564?sid=101",
+   "title": "외환위기가 만든 렌털 신화…코웨이, 28년 연속 성장의 비밀",
+   "desc": "2011년 매트리스 렌털 사업에 진출하며 사업 영역을 가구로까지 넓힌 코웨이는 최근 수면과 휴식이라는 새로운 시장으로 사업의 무게중심을 넓히고 있다. 2022년 12월 선보인 슬립·힐링케어 브랜드 ‘비렉스(BEREX)’가...",
+   "published": "2026-11-21T07:49+09:00",
+   "host": "magazine.hankyung.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 비렉스"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://sateconomy.co.kr/news/view/1065539739999655",
+   "naver_url": "https://sateconomy.co.kr/news/view/1065539739999655",
+   "title": "삼성전자, 튀르키예 COP31서 UNDP와 AI 교육성과 발표…이탈리아서 제품...",
+   "desc": "한편 삼성전자 이탈리아법인은 같은 날 '2026 아키프로덕츠 디자인 어워드(Archiproducts Design Awards)'에서 제품 4종이 수상했다고 발표했다. 수상 제품은 비스포크 AI 세탁기 9㎏ 모델, 윈드프리 프리미에르 플러스...",
+   "published": "2026-11-21T06:40+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "S2"
+   ],
+   "queries": [
+    "삼성전자 비스포크 AI 실적"
+   ],
+   "also": [],
+   "cues": [
+    "발표"
+   ],
+   "q_title": [
+    "S2"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 튀르키예 COP31서 UNDP와 AI 교육성과 발표…이탈리아서 제품 4종 수상",
+    "히트펌프·3D 사이니지 등 이탈리아 디자인상 선정 ▲ 삼성전자와 UNDP 튀르키예가 COP31에서 진행한 AI 청년교육 관련 행사. [삼성전자 튀르키예]",
+    "삼성전자(대표 전영현·노태문)가 튀르키예에서 열린 제31차 유엔기후변화협약 당사국총회(COP31)에서 유엔개발계획(UNDP)과 공동으로 운영한 인공지능(AI) 교육 프로그램의 성과를 발표했다.",
+    "삼성전자 튀르키예법인은 20일 안탈리아 COP31 행사장에서 UNDP 튀르키예와 '이노베이션 캠퍼스(Innovation Campus)' 교육 프로그램을 소개했다고 밝혔다.",
+    "삼성전자는 프로그램 수료생의 90% 이상이 취업했다고 밝혔다",
+    "한편 삼성전자 이탈리아법인은 같은 날 '2026 아키프로덕츠 디자인 어워드(Archiproducts Design Awards)'에서 제품 4종이 수상했다고 발표했다."
+   ],
+   "og_date": "2026-11-21T06:38:43+09:00"
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611201430047494",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607576?sid=101",
+   "title": "\"6월 꿈같다, 구조대 오긴 하나요\"…5000선 또 무너진 코스피에 '한숨' ...",
+   "desc": "6월까지만 해도 이보다 더 행복할 수 없었는데…구조대가 오기는 할까요?\" 삼성전자와 SK하이닉스... 어려운 투자의 세계, 손뼉 치며 공감할 [개미의 세계]를 편하게 받아보시려면 기자페이지를 구독해주세요.",
+   "published": "2026-11-21T05:01+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.donga.com/news/Economy/article/all/20261120/135064160/2",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003764066?sid=101",
+   "title": "앤스로픽 호재 덮은 ‘AI 거품론’… 코스피 4900 붕괴",
+   "desc": "아시아태평양경제협력체(APEC) 정상회의가 열리는 중국 선전을 방문 중인 크리스탈리나 게오르기에바 국제통화기금(IMF) 총재는 이날 블룸버그TV와의 인터뷰에서 “AI 열기가 지나치게 높았기 때문에 IMF는 시장의...",
+   "published": "2026-11-21T01:41+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.joongang.co.kr/article/25480617",
+   "naver_url": "https://n.news.naver.com/mnews/article/353/0000057340?sid=102",
+   "title": "70년대생 3인 사장에…더 젊어진 삼성 반도체",
+   "desc": "반면 스마트폰·TV·가전 등을 담당하는 DX부문에서는 사장 승진자가 없었다. 삼성전자는 노 사장의... 전자업계 관계자는 “DX부문은 승진자가 없어 긍정적인 인사로 보기 어렵지만, 실적 부진에 업황의 영향이 큰 만큼...",
+   "published": "2026-11-21T01:02+09:00",
+   "host": "www.joongang.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kyeonggi.com/article/20261120580289",
+   "naver_url": "https://n.news.naver.com/mnews/article/666/0000133074?sid=102",
+   "title": "김수현 측, 쿠쿠에 8억7천만원 반환 판결…개인 책임은 기각",
+   "desc": "서울중앙지법 민사합의25부(부장판사 권기만)는 20일 쿠쿠전자와 렌탈 전문기업 쿠쿠홈시스, 쿠쿠홈시스... 있는 이미지가 유지되지 못했고, 이로 인해 제품에 대한 판촉 활동을 할 수 없게 됐다”며 배상 책임을 인정했다.",
+   "published": "2026-11-20T20:26+09:00",
+   "host": "www.kyeonggi.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261120514755?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004176882?sid=102",
+   "title": "법원 “김수현 소속사, 쿠쿠 측에 8억 7000여만 원 배상해야”",
+   "desc": "서울중앙지법 민사합의25부(권기만 부장판사)는 20일 쿠쿠전자와 렌탈 전문기업 쿠쿠홈시스, 쿠쿠홈시스의... 대한 판촉 활동을 할 수 없게 됐다”고 판시했다. 형사 혐의 벗기에도 불구하고 민사 소송에서 연달아 배상...",
+   "published": "2026-11-20T20:17+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026112019102818509",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002249426?sid=105",
+   "title": "K-콘텐츠 세계로 실어 나를 TV 7억대, 정작 돈은 못 번다?",
+   "desc": "◆ 구독 피로감에 FAST 시장 확대…K-콘텐츠 해외 진출 창구로 FAST(Free Ad-supported Streaming TV)는 이용자가... 이어 “삼성전자도 자체 AI 기술을 활용해 화질을 개선하기 위해 노력하고 있지만, 원본 콘텐츠의 화질이...",
+   "published": "2026-11-20T20:06+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112008637",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005356506?sid=102",
+   "title": "\"신뢰 파탄\"…김수현 소속사 '모델료 8억 반환' 판결 나왔다",
+   "desc": "20일 법조계에 따르면 서울중앙지법 민사합의25부(권기만 부장판사)는 쿠쿠전자와 쿠쿠홈시스, 말레이시아... 당시 재판부는 사생활 의혹으로 김수현의 긍정적이고 신뢰감 있는 이미지가 유지되지 못하면서 제품 판촉...",
+   "published": "2026-11-20T19:38+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261120500676",
+   "naver_url": "https://n.news.naver.com/mnews/article/005/0001886505?sid=102",
+   "title": "법원 “김수현 소속사, 쿠쿠에 8억원 지급” 판결",
+   "desc": "서울중앙지법 민사25부(재판장 권기만)는 20일 쿠쿠전자와 렌탈 전문기업 쿠쿠홈시스, 쿠쿠홈시스의... 긍정적이고 신뢰감 있는 이미지가 유지되지 못했다”며 “이후 원고는 제품 판촉 활동을 할 수 없게 됐다”고 밝혔다.",
+   "published": "2026-11-20T19:38+09:00",
+   "host": "www.kmib.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026112019122425888",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005845819?sid=102",
+   "title": "법원 \"김수현 소속사, 쿠쿠에 8억여원 배상해야\"",
+   "desc": "20일 연합뉴스에 따르면 서울중앙지법 민사합의25부(권기만 부장판사)는 쿠쿠전자와 렌털 전문기업... 신뢰감 있는 이미지가 유지되지 못했고, 이로 인해 제품에 대한 판촉 활동을 할 수 없게 됐다\"고 판결 이유를 설명했다.",
+   "published": "2026-11-20T19:24+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2028835",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001077140?sid=102",
+   "title": "\"김수현, 받은 모델료 돌려줘라\"…프롬바이오 이어 쿠쿠도 승소",
+   "desc": "서울중앙지법 민사합의25부(권기만 부장판사)는 20일 쿠쿠전자와 렌탈 전문기업 쿠쿠홈시스, 쿠쿠홈시스의... 이미지가 유지되지 못했고, 이로 인해 제품에 대한 판촉 활동을 할 수 없게 됐다\"며 원고 일부 승소로 판결했다.",
+   "published": "2026-11-20T18:55+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.tf.co.kr/read/life/2391723.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000554209?sid=102",
+   "title": "법원 \"김수현 소속사, 쿠쿠에 8억 배상해야\"",
+   "desc": "서울중앙지법 민사합의25부(권기만 부장판사)는 20일 쿠쿠전자와 쿠쿠홈시스, 쿠쿠홈시스의 말레이시아... 김수현을 광고모델로 한 이미지 삭제나 변경을 요구받는 등 제품 판촉 활동을 할 수 없게 됐다\"고 밝혔다.",
+   "published": "2026-11-20T18:31+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.joongang.co.kr/article/25480556",
+   "naver_url": "https://n.news.naver.com/mnews/article/025/0003566794?sid=102",
+   "title": "프롬바이오 11억 이어…법원 “김수현 측, 쿠쿠에 8억 배상하라”",
+   "desc": "대한 판촉 활동을 할 수 없게 됐다”며 원고 일부 승소로 판결했다. 다만 법원은 김수현 개인의 손해배상 책임을 인정하진 않았다. 쿠쿠전자는 지난해 초 고(故) 김새론이 미성년자였을 때부터 김수현과 교제했다는...",
+   "published": "2026-11-20T18:29+09:00",
+   "host": "www.joongang.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.donga.com/news/Economy/article/all/20261120/135060263/1",
+   "naver_url": "https://n.news.naver.com/mnews/article/020/0003764031?sid=101",
+   "title": "앤스로픽 상장도 못 깬 ‘AI 거품론’…코스피는 ‘검은 금요일’",
+   "desc": "블룸버그TV와 인터뷰에서 “AI 열기가 지나치게 높았기 때문에 IMF는 시장의 조정을 예상해 왔다”며 “추가 조정도 있을 것”이라고 경고했다. 한국 등 아시아 주식 시장을 덮친 ‘검은 금요일’ 충격은 앤스로픽...",
+   "published": "2026-11-20T18:23+09:00",
+   "host": "www.donga.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000347929?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000545026?sid=101",
+   "title": "삼성, 반도체에 보상·투톱엔 숙제",
+   "desc": "삼성전자가 전영현, 노태문 두 대표 체제를 유지하면서 역할을 조정했습니다. 대신 메모리와 스마트폰... 가전 등 완제품 부문에는 한 명도 없었습니다. 기대를 모았던 노 사장의 부회장 승진 역시 완제품 실적 부진 속에...",
+   "published": "2026-11-20T18:21+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112007211",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005356488?sid=101",
+   "title": "삼전닉스 'PER 2배' 극단적 저평가…1000조 벌어도 못 믿는다",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다. 인공지능(AI) 기반 투자정보 서비스 에픽AI에 따르면 이날 삼성전자와 SK하이닉스의 12개월 선행 주가수익비율(PER)은...",
+   "published": "2026-11-20T18:16+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112007221",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005356487?sid=101",
+   "title": "29만전자 vs 69만전자…160만닉스 vs 470만닉스",
+   "desc": "com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다. 삼성전자와 SK하이닉스의... 2028년 메모리 가격이 급락할 것이라는 우려와 인공지능(AI) 서버용 수요 증가에 따라 호황이 지속될 것이란...",
+   "published": "2026-11-20T18:15+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://it.donga.com/109970/",
+   "naver_url": "https://it.donga.com/109970/",
+   "title": "[화성 골드러시] ③ AI 옵티머스가 공장을 걷기 시작했다, 데이터로 돌아...",
+   "desc": "FSD 구독료는 월 99달러(약 13만 원)이고, 테슬라의 3분기 서비스 매출은 46억 달러(약 6조 1460억 원)로 1년 새 33... SK하이닉스와 삼성전자의 점유율 합계는 83%다. 세계 AI 데이터센터 상당수가 한국산 메모리로 돌아간다....",
+   "published": "2026-11-20T18:10+09:00",
+   "host": "it.donga.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "시작"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261120149251004?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016455291?sid=102",
+   "title": "법원 \"사생활 논란' 김수현 측, 쿠쿠에 모델료 8억원 돌려줘야\"(종합)",
+   "desc": "김수현은 10여년간 쿠쿠전자의 전속모델로 활동했다. 법원은 김수현 개인의 손해배상 책임을 인정하진... 있는 이미지가 유지되지 못했고, 이로 인해 제품에 대한 판촉 활동을 할 수 없게 됐다\"며 원고 일부 승소로 판결했다.",
+   "published": "2026-11-20T18:04+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [
+    {
+     "url": "https://www.imaeil.com/page/view/2026112018392557029",
+     "host": "www.imaeil.com",
+     "published": "2026-11-20T18:40+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611201630562235",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607539?sid=101",
+   "title": "삼성 베트남, 9개월 누적 매출 83조·순익 5조 돌파",
+   "desc": "(SDV) △삼성전자 호찌민 가전복합단지(SEHC) 등 베트남 4대 생산법인의 올해 1~9월 누적 합산 매출은 약... 이 가운데 SEVT가 4대 법인 전체 매출의 약 46%, 순이익의 약 46.5%를 차지하며 최대 실적 기여 법인...",
+   "published": "2026-11-20T17:53+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성 베트남, 9개월 누적 매출 83조·순익 5조 돌파 - 파이낸셜뉴스",
+    "【하노이(베트남)=김준석 특파원】삼성전자의 베트남 내 4대 주요 생산법인들이 올해 9개월간 누적 기준 총매출 83조원, 순이익 5조 원을 돌파하며 견조한 성장세를 이어갔다",
+    "삼성전자의 2026년 3·4분기 연결재무제표에 따르면 △삼성전자 베트남 타이응우옌(SEVT) △삼성전자 베트남(SEV) △삼성디스플레이 베트남(SDV) △삼성전자 호찌민 가전복합단지(SEHC) 등 베트남 4대 생산법인의 올해 1~9월 누적 합산 매출은 약 83조3967억원, 순이익은 약 5조664억원으로 집계됐다.",
+    "한편, 삼성은 현재 베트남 현지에 6개 생산공장을 비롯해 1개 연구·개발(R&D) 센터와 1개 판매법인을 운영하고 있다",
+    "아울러, 삼성전자는 타이응우옌성에 대규모 반도체 테스트 공장을 건설하는 사업을 추진하고 있으며 총투자액은 약 39억달러(약 5조2107억원)로 예상된다.[email protected] 김준석 기자",
+    "삼성·LG·롯데·CJ·오리온·한화 등 국내 주요 기업, '2026 베트남 100대 일하기 좋은 기업' 대거 선정 2026-11-19 12:57"
+   ],
+   "og_date": "2026-11-20T17:52:18+09:00"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20117072?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/011/0004684470?sid=101",
+   "title": "삼성 메모리·모바일 새 사령탑…황상준·최원준 전면에",
+   "desc": "폴더블폰 역대 최대 흥행을 기록한 ‘갤럭시 Z8’에 이어 다음 달 10일 출시하는 첫 AI 안경 ‘인텔리전트... 삼성전자는 지난 7월 RX사업추진실을 신설했으며 내년 1월 세계 최대 정보기술(IT)·가전 전시회...",
+   "published": "2026-11-20T17:42+09:00",
+   "host": "www.sedaily.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112007251",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005356450?sid=101",
+   "title": "\"2억7000만원이 1억 됐다\"…버티다 지친 삼전닉스 개미들",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다.... 에픽AI에 따르면 이날 삼성전자와 SK하이닉스의 12개월 선행 주가수익비율(PER)은 각각 2.58배, 2.14배로 사상 최저...",
+   "published": "2026-11-20T17:40+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12214860",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005766847?sid=102",
+   "title": "“김수현 소속사, 쿠쿠에 8억7500만원 배상”…법원 판결 나왔다",
+   "desc": "서울중앙지법 민사합의25부(부장판사 권기만)는 20일 쿠쿠전자와 렌탈 전문기업 쿠쿠홈시스, 쿠쿠홈시스의... 제품 판촉 활동을 할 수 없게 됐다”고 밝혔다. 위약금 책임을 인정하기보다는 광고를 활용하지 못한 기간의...",
+   "published": "2026-11-20T17:38+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.joongang.co.kr/article/25480550",
+   "naver_url": "https://n.news.naver.com/mnews/article/025/0003566790?sid=101",
+   "title": "반도체 호황에 기술통 세운 삼성, TV 흑자에 전략통 부른 LG",
+   "desc": "반면 스마트폰·TV·가전 등을 담당하는 DX부문에서는 사장 승진자가 없었다. 삼성전자는 노 사장의... 전자업계 관계자는 “DX부문은 승진자가 없어 긍정적인 인사로 보기 어렵지만, 실적 부진에 업황의 영향이 큰 만큼...",
+   "published": "2026-11-20T17:37+09:00",
+   "host": "www.joongang.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12214859",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005766846?sid=101",
+   "title": "물갈이 대신 안정 택한 재계 … 성과 보상·오너 장악력 강화",
+   "desc": "삼성그룹은 전영현 DS(반도체)부문장과 노태문 DX(갤럭시·가전·TV 등)부문장 체제를 유지하되 두 부문장이... 이날 삼성전자 인사에서 사장 승진자 3명 모두 DS부문에서 나왔다. 역대 최대 실적을 달성한 반도체 사업의...",
+   "published": "2026-11-20T17:37+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://newscham.net/130203/",
+   "naver_url": "https://newscham.net/130203/",
+   "title": "‘주가 5000’을 약속한 정부, 하루 5%는 개인이 떠안았다",
+   "desc": "서울에서는 삼성전자가 7.01%, SK하이닉스가 5.92% 빠졌다. 반도체 대형주에 기대어 오른 시장은 인공지능... 민중언론 참세상 뉴스레터를 구독하시면 매일 저녁 메일함에서 데일리 큐레이션 뉴스를 받아 보실 수...",
+   "published": "2026-11-20T17:36+09:00",
+   "host": "newscham.net",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12214831",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005766827?sid=102",
+   "title": "삼성전자, 70년대생 전진배치 … 메모리 황상준, 모바일 최원준",
+   "desc": "메모리 반도체 초호황과 DX(갤럭시·가전·TV 등)부문의 실적 부진이라는 상반된 상황 속에서 큰 폭의 변화를 주기보다 조직 안정에 무게를 뒀다는 평가도 나온다. 20일 삼성전자는 사장 승진 3명, 위촉업무 변경 3명...",
+   "published": "2026-11-20T17:32+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6867340_36932.html",
+   "naver_url": "https://n.news.naver.com/mnews/article/214/0001537021?sid=101",
+   "title": "\"K-콘텐츠 해외 시청을 FAST로\"‥국회 토론회 개최",
+   "desc": "더불어민주당 이광재·이주희 의원이 주최한 토론회에서는, 시청자가 구독료 없이 콘텐츠를 보고... 이번 토론회에는 삼성전자와 LG전자, MBC와 SBS 등 방송사, AI 기술 기업 관계자들이 참석했습니다.",
+   "published": "2026-11-20T17:27+09:00",
+   "host": "imnews.imbc.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [
+    "개최"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankookilbo.com/news/article/A2026112016420000218?did=NA",
+   "naver_url": "https://n.news.naver.com/mnews/article/469/0000966835?sid=102",
+   "title": "법원 \"배우 김수현, 쿠쿠 전자에 8억 7500만 원 지급해야\"",
+   "desc": "고(故) 김새론 관련 의혹에 휩싸였던 배우 김수현이 광고주였던 쿠쿠전자 측에 약 8억7,500만 원을 배상해야... 피고인을 광고 모델로 한 이미지 삭제나 변경을 요구받는 등 제품 판촉 활동을 할 수 없게 됐다\"고 밝혔다.",
+   "published": "2026-11-20T17:00+09:00",
+   "host": "www.hankookilbo.com",
+   "questions": [
+    "O2"
+   ],
+   "queries": [
+    "쿠쿠전자 판촉",
+    "쿠쿠홈시스 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O2"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.asiatime.co.kr/article/20261120500343",
+   "naver_url": "https://www.asiatime.co.kr/article/20261120500343",
+   "title": "삼성전자, 분기 이익 100조 시대…전영현·노태문 ‘투톱’ 체제 유지",
+   "desc": "삼성전자 2027년 사장단 인사, 반도체 3명 승진 외 현조직 유지 반도체 최대 실적…'성과주의' 철학 반영 및... 스마트폰·TV·가전을 맡는 디바이스경험(DX)부문은 3분기 매출 52조1000억원, 영업손실 8000억원을 냈다....",
+   "published": "2026-11-20T16:34+09:00",
+   "host": "www.asiatime.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080163.html",
+   "naver_url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080163.html",
+   "title": "패션·명품·가전 총출동…유통업계, 연말 ‘블프’ 쇼핑 대전 돌입",
+   "desc": "롯데리아와 무진장 버거 2종을 출시하고 성수동에서 수험생 대상 버거 트럭 행사를 여는 한편... 쿠팡은 오는 29일까지 가전·디지털 블랙프라이데이 기획전을 운영한다. 삼성전자 갤럭시 탭 S12와 LG전자 신형 가습기를...",
+   "published": "2026-11-20T16:32+09:00",
+   "host": "digitalchosun.dizzo.com",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 출시",
+    "삼성전자 가전 판촉",
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 세일 페스타"
+   ],
+   "also": [],
+   "cues": [
+    "돌입"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611200190",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611200190",
+   "title": "코웨이, 교보문고와 마케팅 제휴 협약…고객 대상 이벤트 진행",
+   "desc": "양사는 고객 대상 공동 마케팅과 프로모션을 이어가고 임직원 제휴 혜택 등으로 협력 관계를 확대할 계획이다. 교보문고는 제휴를 기념해 오는 26일까지 코웨이 고객 대상 이벤트를 연다. 기간 내 참여 고객 중 500명을...",
+   "published": "2026-11-20T16:32+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "진행",
+    "제휴",
+    "협약",
+    "이벤트"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 교보문고와 마케팅 제휴 협약…고객 대상 이벤트 진행",
+    "[서울경제TV=이혜준 인턴기자] 코웨이가 교보문고와 마케팅 제휴 업무협약을 맺고 고객 대상 이벤트를 진행한다고 20일 밝혔다.",
+    "교보문고는 제휴를 기념해 오는 26일까지 코웨이 고객 대상 이벤트를 연다",
+    "참여 방법은 코웨이 공식 홈페이지 코웨이닷컴에서 정회원 인증을 마친 뒤 ‘코웨이 멤버스 클럽’ 내 교보문고 이벤트 페이지에 가을에 읽고 싶은 책을 댓글로 남기는 것이다.",
+    "이벤트와 별도로 코웨이 고객은 코웨이 멤버스 클럽에서 교보문고 sam 전자책 구독 서비스를 첫 달 무료로, 2~3개월 차에는 월 100원에 이용할 수 있다",
+    "한편, 1989년 설립된 코웨이는 1998년 국내 처음으로 환경가전 렌탈 서비스를 도입했다"
+   ]
+  },
+  {
+   "url": "https://dealsite.co.kr/articles/173225",
+   "naver_url": "https://dealsite.co.kr/articles/173225",
+   "title": "[삼성전자 사장단 인사] 메모리·MX 내려놓은 전영현·노태문…다음 과...",
+   "desc": "증가로 실적 개선 흐름을 이어가는 중이다. 삼성전자는 올해 2나노 수주 과제 수가 전년 대비 2배 이상... 생활가전 역시 구독과 기업간거래(B2B) 사업 확대로 매출 기반을 넓히고 있지만 원자재와 물류비 상승 부담이...",
+   "published": "2026-11-20T16:20+09:00",
+   "host": "dealsite.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.huffingtonpost.kr/article/262265",
+   "naver_url": "https://www.huffingtonpost.kr/article/262265",
+   "title": "미국 중국의 반도체 우회 조달 통로 막자 삼성전자·TSMC 일부 출하 중단...",
+   "desc": "AI 기술기업 바이두의 반도체 개발 자회사 쿤룬과 틱톡 모회사 바이트댄스가 포함돼 있다. 두 기업 모두 반도체 공급처 다변화를 추진해 온 곳이다. 파이낸셜타임스가 인용한 관계자들에 따르면 삼성전자와 TSMC는 가전...",
+   "published": "2026-11-20T16:10+09:00",
+   "host": "www.huffingtonpost.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [
+    "중단"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자와 대만 TSMC가 중국 고객사에 일부 제품의 공급을 중단함에 따라 새로운 통제 조치가 실제 거래에 영향을 미치기 시작한 것이다.",
+    "미국의 수출통제 강화가 중국 기업들의 반도체 조달 경로를 좁히는 데 그치지 않고 삼성전자와 TSMC 등 글로벌 반도체 제조사들의 공급 전략까지 바꾸는 변수로 작용할지 주목된다.",
+    "19일(현지시각) 영국 파이낸셜타임스는 복수의 관계자를 인용해 삼성전자와 TSMC가 미국의 새로운 수출통제에 맞춰 중국 고객사에 일부 반도체 출하를 중단했다고 보도했다.",
+    "이 보도에 따르면 삼성전자와 TSMC는 최근 며칠 동안 중국 고객사에 특정 반도체의 출하를 멈추겠다고 통보했다",
+    "파이낸셜타임스는 이 규정이 AI 데이터센터에 필수인 고성능 반도체를 삼성전자와 TSMC에 위탁 생산해 온 중국 기업들의 공급 경로를 차단하는 것이라고 설명했다.",
+    "씨저널&경제 삼성생명 '청년희망터' 5년, 지원 받은 청년단체 94%는 지역 활동 이어갔다 : 홍원학 3년째 현장 찾아 지속 지원 강조"
+   ],
+   "og_date": "2026-11-20T16:05:35+09:00"
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611201501153558",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005607463?sid=103",
+   "title": "교보문고·코웨이 업무협약…고객 500명에 전자책 1년 이용권 제공",
+   "desc": "이승은 교보문고 eBiz본부장과 문석환 코웨이 사업관리실장 등이 참석했다. 두 회사는 올해 하반기부터 진행해 온 공동 판촉 행사를 이어가고 양사 임직원 대상 제휴 혜택도 늘릴 방침이다. 응모 기간은 오는 26일까지다....",
+   "published": "2026-11-20T15:10+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 판촉"
+   ],
+   "also": [],
+   "cues": [
+    "협약",
+    "업무협약"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "교보문고·코웨이 업무협약…고객 500명에 전자책 1년 이용권 제공 - 파이낸셜뉴스",
+    "[파이낸셜뉴스] 교보문고와 코웨이가 고객 혜택 확대와 공동 마케팅을 위한 업무협약을 맺었다",
+    "교보문고는 협약을 기념해 코웨이 고객 중 500명을 뽑아 전자책 구독 서비스 'sam(샘) 무제한' 1년 이용권을 준다.",
+    "20일 교보문고에 따르면 협약식은 19일 서울 구로구 코웨이 지타워에서 열렸다",
+    "이승은 교보문고 eBiz본부장과 문석환 코웨이 사업관리실장 등이 참석했다",
+    "코웨이 공식 홈페이지인 코웨이닷컴에서 정회원 인증을 마친 뒤 '코웨이 멤버스 클럽'의 교보문고 행사 페이지에서 가을에 읽고 싶은 책을 댓글로 남기면 된다"
+   ],
+   "og_date": "2026-11-20T15:09:41+09:00"
+  },
+  {
+   "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300391",
+   "naver_url": "https://www.datanet.co.kr/news/articleView.html?idxno=300391",
+   "title": "TCL, 성수 팝업 오픈 … 게이밍 체험부터 TV 화질 비교까지",
+   "desc": "TCL 관계자는 \"이번 팝업은 기술 사양을 소개하는 데 그치지 않고, 소비자들이 제품의 성능과 화질 차이를 직접 체감하는 데 중점을 뒀다\"며 \"TCL의 다양한 제품과 기술을 한국 소비자들에게 알리며 브랜드에...",
+   "published": "2026-11-20T14:54+09:00",
+   "host": "www.datanet.co.kr",
+   "questions": [
+    "C5"
+   ],
+   "queries": [
+    "TCL 한국 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "오픈",
+    "팝업"
+   ],
+   "q_title": [
+    "C5"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "TCL, 성수 팝업 오픈 … 게이밍 체험부터 TV 화질 비교까지 < 생활/문화 < 뉴스 < 기사본문 - 데이터넷",
+    "[데이터넷] 글로벌 가전 브랜드 TCL은 대형 TV, 게이밍 모니터 등 주요 제품을 직접 체험하고 미니 LED 기술에 따른 화질 차이까지 비교할 수 있는 팝업을 서울 성수동에 오픈했다.",
+    "11월 20일부터 22일까지 열리는 이번 팝업은 ‘나만의 플레이에 기술을 더하다’를 주제로, TCL의 디스플레이 기술과 제품 성능을 다양한 체험 콘텐츠를 통해 선보인다",
+    "‘생활 가전 존’에서는 TV부터 태블릿, 생활가전까지 TCL의 다양한 제품을 선보인다",
+    "‘미니 LED 존’에서는 TCL의 디스플레이 기술을 보다 자세히 살펴볼 수 있다",
+    "이와 함께 슈퍼 미니 LED 백라이트, 슈퍼 QLED, WHVA 2.0 울트라 패널 등 TCL의 핵심 디스플레이 기술도 살펴볼 수 있다."
+   ],
+   "og_date": "2026-11-20T14:54:06+09:00"
+  },
+  {
+   "url": "https://www.mt.co.kr/living/2026/11/20/2026112014361155170",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005444170?sid=101",
+   "title": "450만개 팔린 리엔케이 '선크림' 드디어 다이소에...\"K뷰티 확대\"",
+   "desc": "코웨이의 화장품 자회사 힐러비의 뷰티 브랜드 리엔케이(re:nk)가 다이소 온·오프라인 채널에 전용 제품 6종을 출시하며 본격적인 유통망 확대에 나선다고 20일 밝혔다. 이번 신제품은 베이스 메이크업 제품 2종과...",
+   "published": "2026-11-20T14:44+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mydaily.co.kr/page/view/2026112009472050390",
+   "naver_url": "https://n.news.naver.com/mnews/article/117/0004126741?sid=105",
+   "title": "삼성전자, 겸직 풀고 역할 나눴다…전영현은 파운드리·노태문은 로봇",
+   "desc": "삼성전자가 제시한 반도체 실적·개발 성과에 대한 보상과 함께 제품·고객·공정 경쟁력을 동시에... 노 사장은 TV·생활가전·스마트폰을 아우르는 DX부문의 사업 간 시너지와 로봇 등 신수종 사업 준비에 무게를 둔다....",
+   "published": "2026-11-20T14:39+09:00",
+   "host": "www.mydaily.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/finance/insurance-card/6360069",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009301410?sid=101",
+   "title": "카드 외상 5조 늘어 4년 9개월 만에 최대…카드사들 웃지 못하는 이유",
+   "desc": "한국은행은 가전제품 환급 행사와 장기할부 혜택, 스마트폰 판매 확대 등 기업들의 판촉 활동이 판매신용... 여신금융협회 신용카드 이용실적 통계에 따르면 지난해 신용판매 이용액은 1022조 2461억 원으로, 2024년(982조...",
+   "published": "2026-11-20T14:08+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 판매 통계 한국"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2028593",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001076993?sid=101",
+   "title": "'AI천하' 증시서 코웨이 주목한 해외 운용사…\"성장 대비 저평가\"",
+   "desc": "국내 렌탈 계정 확대와 해외 시장 성장이 투자 판단의 배경으로 읽힌다. 실제 코웨이의 올해 3분기 해외법인 매출은 5918억원으로 전년 동기보다 26.2% 증가했다. 미국이 45.8%, 태국이 38.0%, 말레이시아가 21.5% 성장했다....",
+   "published": "2026-11-20T14:07+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261120506412?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004176793?sid=101",
+   "title": "삼성전자 전영현·노태문 투톱체제 유지…반도체 3인방은 사장 승진",
+   "desc": "삼성전자가 반도체(DS)부문의 전영현 부회장, 모바일·가전(DX)부문의 노태문 사장이 이끄는 2인 CEO... 최대 실적을 달성한 반도체 부문에서 사장 승진자 3명을 모두 발탁하며 성과주의 인사 철학을 분명히 했다....",
+   "published": "2026-11-20T13:49+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.breaknews.com/1252585",
+   "naver_url": "http://www.breaknews.com/1252585",
+   "title": "코웨이, 방문판매원 '코디' 전국 모집",
+   "desc": "코디는 코웨이와 위임 계약을 맺고 실적에 따라 수수료를 받는 방문판매업자(자유직업소득자)다. 제품 소개·판매와 함께 렌탈 제품의 정기점검, 필터 교체 등 관리...",
+   "published": "2026-11-20T13:48+09:00",
+   "host": "www.breaknews.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 렌탈 계정",
+    "코웨이 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.topdaily.kr/articles/113031",
+   "naver_url": "https://www.topdaily.kr/articles/113031",
+   "title": "[TOP's Pick] [유통] 조항목 NS홈쇼핑 대표, 두 번째 연임 확정 外",
+   "desc": "양사는 고객 대상 공동 마케팅과 프로모션을 이어가고, 임직원 제휴 혜택 등 협력 관계를 확대해 나갈 계획. 교보문고는 이번 제휴를 기념해 오는 26일까지 코웨이 고객을 대상으로 특별 이벤트를 진행. 기간 내...",
+   "published": "2026-11-20T13:45+09:00",
+   "host": "www.topdaily.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://economist.co.kr/article/view/ecn202611200026",
+   "naver_url": "https://n.news.naver.com/mnews/article/243/0000105961?sid=105",
+   "title": "코웨이, 교보문고와 마케팅 업무협약 체결…고객 대상 전자책 구독 혜택...",
+   "desc": "양사는 고객 대상 공동 마케팅과 판촉을 이어가고 임직원 제휴 혜택 등으로 협력 관계를 넓혀 나갈 계획이다. 교보문고는 오는 26일까지 코웨이 고객을 대상으로 행사를 진행한다. 기간 내 행사에 참여한 코웨이 고객 중...",
+   "published": "2026-11-20T12:56+09:00",
+   "host": "economist.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 판촉"
+   ],
+   "also": [],
+   "cues": [
+    "협약",
+    "업무협약",
+    "구독"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "이코노미스트 - 코웨이, 교보문고와 마케팅 업무협약 체결…고객 대상 전자책 구독 혜택 제공",
+    "코웨이 멤버스 클럽서 댓글 이벤트…500명 추첨해 1년 이용권 등 증정",
+    "코웨이는 교보문고와 마케팅 제휴 업무협약을 체결하고 고객 대상 행사를 진행한다고 20일 밝혔다.",
+    "교보문고는 오는 26일까지 코웨이 고객을 대상으로 행사를 진행한다",
+    "기간 내 행사에 참여한 코웨이 고객 중 500명을 추첨해 ‘교보문고 전자책 구독 서비스 샘 무제한 1년 이용권’과 ‘전자책 전용 1만원 캐시’를 증정한다",
+    "또 코웨이 고객은 코웨이 멤버스 클럽에서 교보문고 샘 전자책 구독 서비스를 첫 달 무료로 이용하고 2~3개월 차에는 월 100원에 구독할 수 있다."
+   ],
+   "og_date": "2026-11-20T12:55:53+09:00"
+  },
+  {
+   "url": "https://www.munhwa.com/article/11632857?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/021/0002834316?sid=101",
+   "title": "삼성전자, ‘반도체 붐’ 주역 전진배치… 전영현·노태문 투톱 유지",
+   "desc": "삼성전자가 20일 역대 최대 실적을 이끈 반도체(DS) 부문에서 큰 성과를 낸 기술 전문가를 승진·발탁하는 2027년도 정기 사장단 인사를 단행했다. 반도체와 스마트폰·가전 사업을 이끄는 전영현·노태문 양대 부문장 겸...",
+   "published": "2026-11-20T11:50+09:00",
+   "host": "www.munhwa.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000347806?division=NAVER",
+   "naver_url": "https://n.news.naver.com/mnews/article/374/0000544924?sid=101",
+   "title": "삼성, 사장 승진도 반도체 싹쓸이…칩·폰 새 사령탑",
+   "desc": "삼성전자가 양대 축인 반도체와 모바일가전의 '투톱' 수장을 그대로 유지하고, 핵심 사업부장 자리에 신규... 삼성전자는 \"반도체 최대 실적과 개발 경쟁력 제고를 주도한 부사장들이 사장으로 승진됐다\"고 했습니다....",
+   "published": "2026-11-20T11:46+09:00",
+   "host": "biz.sbs.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10943963?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002726280?sid=101",
+   "title": "삼성 계열사 CEO들 유임 ‘안정 속 사업혁신’ [삼성전자 사장단 인사]",
+   "desc": "삼성전자가 반도체와 스마트폰· 가전사업을 이끄는 전영현·노태문 ‘투톱’ 체제를 유지하며 조직... 삼성전자 매출 비중 감소에도 삼성전기는 3분기 역대 최대 분기 실적을 달성했다. 3분기 삼성전기의 매출이...",
+   "published": "2026-11-20T11:43+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10943962?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002726279?sid=101",
+   "title": "이재용 회장, ‘부활’ 이끈 반도체 인재 대거 발탁 [삼성전자 사장단 ...",
+   "desc": "▶‘1인 다역’ 전영현·노태문, 겸직 해제…미래전략 수립 전념=삼성전자는 반도체와 완제품(세트)... 올해 모바일 사업의 첫 연간 적자가 예상되는 가운데 가전·TV 등 완제품 사업 전반에 닥친 부진을 빠르게...",
+   "published": "2026-11-20T11:43+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1717728/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003157637?sid=101",
+   "title": "코웨이, 교보문고와 제휴…고객 500명에 전자책 1년 이용권",
+   "desc": "양사는 올 하반기부터 진행해 온 공동 프로모션을 이어가고 임직원 대상 제휴 혜택도 확대할 계획이다. 이벤트는 오는 26일까지 진행된다. 코웨이닷컴에서 정회원 인증을 마친 뒤 '코웨이 멤버스 클럽'의 교보문고...",
+   "published": "2026-11-20T11:32+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "제휴"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 교보문고와 제휴…고객 500명에 전자책 1년 이용권",
+    "26일까지 코웨이닷컴서 응모…전자책 전용 1만원 캐시도 증정",
+    "지난 19일 서울 구로구 지타워에서 진행된 업무협약식에서 (왼쪽부터) 문석환 코웨이 사업관리실장, 이승은 교보문고 eBiz본부장이 기념 촬영을 하고 있다.ⓒ코웨이",
+    "교보문고가 코웨이 고객 500명을 추첨해 전자책 구독 서비스 'sam 무제한' 1년 이용권과 전자책 전용 캐시 1만원을 증정한다.",
+    "코웨이는 교보문고와 마케팅 제휴 업무협약을 체결했다고 20일 밝혔다",
+    "이벤트와 별도로 코웨이 고객은 멤버스 클럽을 통해 교보문고 sam을 첫 달 무료로 이용하고, 2~3개월 차에는 월 100원에 구독할 수 있다."
+   ],
+   "og_date": "2026-11-20T11:31:00+09:00"
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1717693/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003157630?sid=101",
+   "title": "삼성전자, 2년 만에 메모리 직할체제 종료…갤럭시도 새 수장(종합)",
+   "desc": "삼성전자는 반도체 최대 실적과 개발 경쟁력 향상에 기여한 인력을 전면에 배치했다고 설명했다. 두 새... 갤럭시 사업 운영을 최 사장에게 넘긴 노 사장은 스마트폰·TV·가전 등 DX부문 전체를 총괄하면서, 로봇...",
+   "published": "2026-11-20T11:29+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [
+    "종료"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자가 20일 정기 사장단 인사에서 약 2년간 이어진 메모리 직할체제를 풀고 갤럭시 사업에도 새 수장을 세웠다",
+    "삼성전자는 이날 사장 승진 3명과 위촉업무 변경 3명 등 총 6명 규모의 '2027년 정기 사장단 인사'를 발표했다",
+    "고대역폭메모리(HBM)와 서버용 제품 판매를 늘린 DS부문은 3분기 영업이익 106조5000억원을 내 삼성전자 전체 영업이익 107조4000억원의 대부분을 차지했다",
+    "삼성전자는 메모리 경쟁력 회복이 시급했던 2024년 11월 전 부회장에게 메모리사업부장을 겸임하도록 했다",
+    "삼성전자는 지난 2월 HBM4 양산 출하를 시작했고 5월에는 HBM4E 12단 샘플을 글로벌 고객사에 공급했다",
+    "삼성전자가 5월 공급한 HBM4E 12단 샘플에는 10나노급 6세대(1c) D램과 자체 파운드리 4나노 공정으로 만든 로직 다이가 함께 들어간다"
+   ],
+   "og_date": "2026-11-20T11:27:00+09:00"
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026112010204989181",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002249350?sid=105",
+   "title": "MX 겸직 내려놓은 노태문…삼성 DX 수익성 개선·로봇 육성에 집중",
+   "desc": "삼성전자가 반도체 사업에서 역대 최대 실적을 경신하는 동안 완제품 사업은 원가 상승 등의 여파로... 삼성전자는 AI 가전 판매 확대와 고수익 사업 육성 등을 통해 생활가전 사업의 수익성 개선을 추진하고 있다. TV...",
+   "published": "2026-11-20T11:22+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026112011100211497",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005845581?sid=101",
+   "title": "삼성전자, 전영현·노태문 '투톱' 유지…메모리·모바일 겸직 해소(종합...",
+   "desc": "두 대표는 각각 반도체와 모바일·가전 부문을 계속 총괄하되, 겸직하던 메모리사업부장과 모바일경험(MX)사업부장 자리는 후임에게 맡겨 중장기 전략과 미래 사업에 집중한다. 삼성전자는 20일 사장 승진 3명과 담당...",
+   "published": "2026-11-20T11:10+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10943852?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002726200?sid=101",
+   "title": "삼성 계열사 CEO들 유임…안정 속 사업혁신 가속",
+   "desc": "삼성전자가 반도체와 스마트폰· 가전사업을 이끄는 전영현·노태문 ‘투톱’ 체제를 유지하며 조직... 삼성전자 매출 비중 감소에도 삼성전기는 3분기 역대 최대 분기 실적을 달성했다. 3분기 삼성전기의 매출이...",
+   "published": "2026-11-20T11:07+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10943842?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002726194?sid=101",
+   "title": "이재용 회장, ‘부활’ 이끈 반도체 인재 발탁…1970년대생 전진배치",
+   "desc": "‘1인 다역’ 전영현·노태문, 겸직 해제…미래전략 수립 전념 삼성전자는 반도체와 완제품(세트)... 올해 모바일 사업의 첫 연간 적자가 예상되는 가운데 가전·TV 등 완제품 사업 전반에 닥친 부진을 빠르게 극복하는...",
+   "published": "2026-11-20T11:01+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6360621",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009300974?sid=101",
+   "title": "코웨이, 교보문고와 마케팅 제휴…전자책 구독 혜택 확대",
+   "desc": "코웨이가 교보문고와 마케팅 제휴 업무협약을 맺고 고객 대상 전자책 구독 혜택과 공동 프로모션을 확대한다. 20일 코웨이는 지난 19일 서울 구로구 지타워에서 교보문고와 업무협약을 체결했다고 밝혔다. 양사는 올해...",
+   "published": "2026-11-20T11:00+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "제휴",
+    "확대",
+    "구독"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 교보문고와 마케팅 제휴…전자책 구독 혜택 확대 - 뉴스1",
+    "코웨이·교보문고, 전자책 제휴 혜택 확대26일까지 500명 추첨, sam 무제한 1년권·1만원 캐시멤버스 클럽서 sam 첫 달 무료·2~3개월 월 100원",
+    "통인익스프레스·핑크퐁 등 27개 브랜드와 제휴",
+    "한샘, 삼성전자와 선보인 '한샘디자인파크 마포' 4년 만에 철수"
+   ],
+   "og_date": "2026-11-20T11:00:12+09:00"
+  },
+  {
+   "url": "https://www.khan.co.kr/article/202611201058001",
+   "naver_url": "https://n.news.naver.com/mnews/article/032/0003483982?sid=101",
+   "title": "삼성전자, 전영현·노태문 투톱 체제 유지…큰 변화 없이 계속 간다",
+   "desc": "삼성전자가 올해 사장단 인사에서 반도체 사업을 전영현 부회장이, 가전·모바일 사업을 노태문 사장이... 최근 분기마다 사상 최고 실적을 기록 중인 삼성전자는 내년에도 인공지능(AI) 메모리 수요 폭증과 공급...",
+   "published": "2026-11-20T10:58+09:00",
+   "host": "www.khan.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/20/XJYP23QKPFBHHL3FRNI7BVMIIE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "naver_url": "https://n.news.naver.com/mnews/article/366/0001206205?sid=105",
+   "title": "사장 승진자 ‘0명’ 삼성 DX… 스마트폰 내려놓은 노태문, 신사업 수익...",
+   "desc": "삼성전자 완제품 사업의 핵심인 스마트폰은 최 사장에게 맡기고, 노 사장은 TV·생활가전 사업의 수익성... 갤럭시 Z폴드8 등 프리미엄 스마트폰 신제품 출시 효과로 매출은 늘었지만 메모리 반도체를 비롯한 부품 가격...",
+   "published": "2026-11-20T10:42+09:00",
+   "host": "biz.chosun.com",
+   "questions": [
+    "S1",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 조직 개편 생활가전",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S7"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6360591",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009300926?sid=102",
+   "title": "삼성전자 '성과주의' 사장 승진 모두 'DS'…겸직 해제 '비상체제' 끝",
+   "desc": "TV·생활가전·스마트폰 등 DX부문 전반의 실적 향상을 추진하겠다는 계획이다. 역대급 실적 DS부문, 사장 승진 3명…성과·역량 검증 인사 전면 배치 삼성전자의 전통적인 성과주의 철학도 이번 사장단 인사에...",
+   "published": "2026-11-20T10:41+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/it-science/mobile/6360557",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009300924?sid=105",
+   "title": "와이드폴드 '돌풍' 주역 최원준, 삼성폰 새 사령탑…AI·폴더블 이끈다",
+   "desc": "기존 MX사업부장이었던 노 사장은 삼성전자 대표이사 겸 DX부문장과 RX사업추진실장직을 유지한다. MX사업부장 겸직을 해제하면서 모바일 사업의 직접적인 지휘는 최 사장에게 맡기고, TV와 생활가전 등 DX부문 전체의...",
+   "published": "2026-11-20T10:40+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261120060900003?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016453923?sid=101",
+   "title": "삼성전자 사장 승진 모두 반도체…기존 투톱에 성과·기술 방점",
+   "desc": "20일 삼성전자가 발표한 정기 사장단 인사는 전영현·노태문 대표이사 투톱 체제를 유지하되 초호황기를... 위한 전략이 핵심이 될 것으로 보인다. 노 사장은 스마트폰·가전·TV 등 세트 사업 전반의 실적 반등이라는...",
+   "published": "2026-11-20T10:40+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0102_202611201035140309",
+   "naver_url": "https://n.news.naver.com/mnews/article/052/0002435549?sid=101",
+   "title": "삼성전자, 반도체 전영현·스마트폰 노태문 '투톱' 유지",
+   "desc": "삼성전자가 올해 사장단 인사에서 반도체와 스마트폰·가전 사업을 이끄는 전영현·노태문 투톱 체제를... 삼성전자는 이번 인사에서 반도체 초호황으로 역대 최대 실적을 거두는 가운데 조직 체계에 큰 변화를 주지...",
+   "published": "2026-11-20T10:35+09:00",
+   "host": "www.ytn.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.tf.co.kr/read/economy/2391327.htm",
+   "naver_url": "https://n.news.naver.com/mnews/article/629/0000553923?sid=103",
+   "title": "\"BYD 다음은 우리\"…체리·샤오펑·샤오미까지 '中 전기차' 줄줄이 韓 노...",
+   "desc": "거론되지만 샤오미는 구체적인 한국 출시 일정 등을 공개하지 않았다. 또 다른 중국 전기차 업체 샤오펑은 한국법인 대표를 선임하고 국내 진출 준비에 속도를 내고 있다. 샤오펑의 한국법인 엑스펑모터스코리아는...",
+   "published": "2026-11-20T10:27+09:00",
+   "host": "news.tf.co.kr",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 실적",
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "C4"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mt.co.kr/industry/2026/11/20/2026112010020517102",
+   "naver_url": "https://n.news.naver.com/mnews/article/008/0005444050?sid=101",
+   "title": "삼성전자, 안정 속 성과보상...최대 실적 낸 반도체서만 사장 승진",
+   "desc": "삼성전자가 반도체(DS)부문은 전영현 부회장, 모바일·가전(DX)부문은 노태문 사장이 이끄는 '2인 CEO... 아울러 역대 최대 실적을 달성한 반도체 부문에서 사장 승진자 3명을 모두 발탁하며 성과주의 인사 철학을 분명히...",
+   "published": "2026-11-20T10:26+09:00",
+   "host": "www.mt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, 안정 속 성과보상...최대 실적 낸 반도체서만 사장 승진 - 머니투데이",
+    "삼성전자(183,100원 ▼13,800 -7.01%)가 반도체(DS)부문은 전영현 부회장, 모바일·가전(DX)부문은 노태문 사장이 이끄는 '2인 CEO(최고경영자) 체제'를 유지하며 경영 안정을 택했다",
+    "삼성전자는 20일 사장 승진 3명, 위촉업무 변경 3명 등 총 6명 규모의 '2027년 정기 사장단 인사'를 발표했다",
+    "삼성전자는 지난 3분기 영업이익 107조4000억원을 중 DS부문에서 106조5000억원이 발생했다.",
+    "삼성전자 관계자는 \" 2인 대표이사 체제를 유지하며 부문별 핵심사업 경쟁력과 사업간 시너지를 강화하는 동시에 미래사업 경쟁력 강화를 적극 추진할 것\"이라며 \"지속성장 가능한 기반 구축에 주력할 계획\"이라고 말했다.",
+    "한편 삼성전자는 부사장 이하 2027년도 정기 임원인사와 조직개편도 조만간 확정해 발표할 예정이다."
+   ],
+   "og_date": "2026-11-20T10:26:13+09:00"
+  },
+  {
+   "url": "https://www.betanews.net/article/view/beta202611190147",
+   "naver_url": "https://www.betanews.net/article/view/beta202611190147",
+   "title": "코웨이, 신세계 센텀시티몰에 '코웨이갤러리 팝업스토어' 오픈",
+   "desc": "베스트 라이프 솔루션 기업 코웨이(대표 서장원)가 부산 해운대구 신세계 센텀시티몰 지하 2층에 브랜드 체험 및 판매 매장 ‘코웨이갤러리 팝업스토어’를 오픈했다. 최근 백화점이 쇼핑을 넘어 다양한 브랜드와 콘텐츠를...",
+   "published": "2026-11-20T10:22+09:00",
+   "host": "www.betanews.net",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 매장 오픈",
+    "코웨이 비렉스",
+    "코웨이 팝업"
+   ],
+   "also": [],
+   "cues": [
+    "오픈",
+    "팝업"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 신세계 센텀시티몰에 '코웨이갤러리 팝업스토어' 오픈",
+    "베스트 라이프 솔루션 기업 코웨이(대표 서장원)가 부산 해운대구 신세계 센텀시티몰 지하 2층에 브랜드 체험 및 판매 매장 ‘코웨이갤러리 팝업스토어’를 오픈했다.",
+    "규모는 약 125평으로 부산 지역 코웨이갤러리 가운데 가장 크다",
+    "매장은 비렉스 침대를 둔 침실부터 서재 형태의 ‘비렉스 라운지’, 주방으로 꾸민 ‘코웨이 키친’까지 실제 주거 공간처럼 구역을 나눠 구성했다.",
+    "우리은행·삼성 SSAFY, 모바일뱅킹 개선 아이디어 발굴…158개 팀 참가",
+    "8년간 이어져 온 삼성의 관행, 원UI 9.5 베타 통해 깨졌다."
+   ],
+   "og_date": "2026-11-20T10:21:02+09:00"
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261120500107",
+   "naver_url": "https://n.news.naver.com/mnews/article/005/0001886432?sid=101",
+   "title": "삼성전자, 전영현·노태문 ‘투톱’ 유지…반도체 성과주의 인사",
+   "desc": "삼성전자가 반도체와 스마트폰·가전 사업을 이끄는 전영현 부회장과 노태문 사장의 2인 대표이사 체제를... 역대 최대 실적을 이끈 반도체 부문에서는 3명의 사장 승진자가 나왔다. 삼성전자는 20일 사장 승진 3명...",
+   "published": "2026-11-20T10:16+09:00",
+   "host": "www.kmib.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261118001202",
+   "naver_url": "https://www.newspim.com/news/view/20261118001202",
+   "title": "코웨이, '2026 제품안전의 날' 대통령표창 수상",
+   "desc": "제품이 시장에 출시된 이후에도 코웨이가 진행하는 사후 안전관리 활동은 어떠한가요? A4. 국내외 시장에 판매되는 제품을 대상으로 자체 수거검사를 실시해 안전성을 지속 점검하고, 체계적인 사후관리와 A/S 서비스를...",
+   "published": "2026-11-18T16:24+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 신제품",
+    "코웨이 인증 규제",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "B",
+   "similar": []
+  }
+ ],
+ "stats_triage": {
+  "A": 14,
+  "B": 55,
+  "C": 3,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 14,
+  "ok": 14,
+  "실패": 0
+ }
+}
