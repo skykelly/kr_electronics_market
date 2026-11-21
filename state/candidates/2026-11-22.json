@@ -1,0 +1,398 @@
+{
+ "date": "2026-11-22",
+ "collected_at": "2026-11-22T08:47+09:00",
+ "lookback_days": 14,
+ "count": 9,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2000,
+   "in_window": 1047,
+   "kept": 1,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 206,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 53,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 941,
+   "in_window": 36,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1022,
+   "in_window": 41,
+   "kept": 0,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1300,
+   "in_window": 400,
+   "kept": 1,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1281,
+   "in_window": 299,
+   "kept": 0,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1186,
+   "in_window": 123,
+   "kept": 1,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 13,
+   "kept": 0,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1075,
+   "in_window": 16,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1139,
+   "in_window": 146,
+   "kept": 0,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1056,
+   "in_window": 47,
+   "kept": 1,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1961,
+   "in_window": 33,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 2100,
+   "in_window": 1133,
+   "kept": 2,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1964,
+   "in_window": 181,
+   "kept": 0,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 2060,
+   "in_window": 326,
+   "kept": 0,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 53,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 142,
+   "kept": 2,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 50,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 146,
+   "kept": 0,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 39,
+   "kept": 1,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.sentv.co.kr/article/view/sentv202611200119",
+   "naver_url": "https://www.sentv.co.kr/article/view/sentv202611200119",
+   "title": "수능 끝나자 유통가 할인 경쟁…외식부터 IT가전까지",
+   "desc": "IT가전 할인 행사인 '하이마트 수능패스'를 진행하고 있다. 예비 대학생들이 선호하는 노트북과 태블릿... 삼성전자 '갤럭시탭 S12+'는 149만9900원, 레노버 'SLIM3 노트북'은 109만원에 판매한다. 애플 제품도 다음 달...",
+   "published": "2026-11-22T08:02+09:00",
+   "host": "www.sentv.co.kr",
+   "questions": [
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.metroseoul.co.kr/article/20261121500053",
+   "naver_url": "http://www.metroseoul.co.kr/article/20261121500053",
+   "title": "코웨이, 교보문고와 마케팅 제휴…대고객 이벤트",
+   "desc": "22일 코웨이에 따르면 이번 업무협약은 양사가 올 하반기부터 진행해 온 공동 프로모션에 고객들의 적극적인 참여와 긍정적 반응으로 상호 시너지를 강화하고 장기적인 협력 체계를 구축하기 위해 추진됐다. 교보문고는...",
+   "published": "2026-11-22T06:36+09:00",
+   "host": "www.metroseoul.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 프로모션"
+   ],
+   "also": [],
+   "cues": [
+    "제휴",
+    "이벤트"
+   ],
+   "q_title": [
+    "O1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "코웨이, 교보문고와 마케팅 제휴…대고객 이벤트",
+    "산업>경영 코웨이, 교보문고와 마케팅 제휴…대고객 이벤트",
+    "22일 코웨이에 따르면 이번 업무협약은 양사가 올 하반기부터 진행해 온 공동 프로모션에 고객들의 적극적인 참여와 긍정적 반응으로 상호 시너지를 강화하고 장기적인 협력 체계를 구축하기 위해 추진됐다.",
+    "교보문고는 이번 제휴를 기념해 오는 26일까지 코웨이 고객을 대상으로 특별 이벤트를 진행한다",
+    "기간 내 이벤트에 참여한 코웨이 고객 중 500명을 추첨해 '교보문고 전자책 구독 서비스 sam 무제한 1년 이용권'과 '전자책 전용 1만원 캐시'를 증정한다.",
+    "이벤트와 별도로 코웨이 고객이라면 누구나 코웨이 멤버스 클럽을 통해 교보문고 sam 전자책 구독 서비스를 첫 달 무료로 이용하고 2~3개월 차에는 월 100원에 구독할 수 있다."
+   ]
+  },
+  {
+   "url": "https://www.news1.kr/industry/general-industry/6361699",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009302973?sid=101",
+   "title": "'불확실성'에 빨라진 재계 인사…핵심 CEO 유임, 엔지니어 전진 배치",
+   "desc": "삼성전자가 올해 반도체 사업에서 역대 최대 실적을 기록하면서 성과에 기여한 인재들에게 핵심 보직을... LG전자에서는 백승태 생활가전(HS)사업본부장과 이상우 신임 미디어엔터테인먼트솔루션(MS)사업본부장이...",
+   "published": "2026-11-22T06:30+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "C",
+   "similar": []
+  },
+  {
+   "url": "https://www.etnews.com/20261120000247",
+   "naver_url": "https://n.news.naver.com/mnews/article/030/0003488154?sid=105",
+   "title": "유럽 가전 기업, 수입 제품 규제 추가 요구…“역내 생산 비중 감소”",
+   "desc": "APPLiA에 따르면 유럽에서 소비되는 가전제품 가운데 역내 생산 비중은 지난 10년간 80% 이상에서 71%로... EU 내 책임 사업자 지정과 폐전기전자제품(WEEE) 생산자 등록 여부를 통관 및 온라인 유통 과정에서 엄격하게...",
+   "published": "2026-11-22T06:01+09:00",
+   "host": "www.etnews.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12215325",
+   "naver_url": "https://n.news.naver.com/mnews/article/009/0005767050?sid=101",
+   "title": "주식만 떨어진 게 아니네…美 AI투자 지연 우려에 고점서 12% 넘게 빠진...",
+   "desc": "시장조사업체 CRU 자료에 따르면 최근 5년간 늘어난 구리 수요의 대부분은 미국을 중심으로 데이터센터와 전력망, 에너지저장장치(ESS)에서 나왔다. 과거엔 중국에서 주택을 얼마나 짓고 가전을 얼마나 생산하느냐가...",
+   "published": "2026-11-21T19:13+09:00",
+   "host": "www.mk.co.kr",
+   "questions": [
+    "X4"
+   ],
+   "queries": [
+    "가전 구매 조건 조사"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.bizwatch.co.kr/article/industry/2026/11/20/0035",
+   "naver_url": "https://n.news.naver.com/mnews/article/648/0000052851?sid=101",
+   "title": "미국서 1300억 따내고 베트남선 매출 2배…LS일렉트릭 질주",
+   "desc": "2013년 세계 최초로 OLED TV를 출시한 이후 글로벌 시장에서도 13년 연속 1위를 유지 중. LG전자는 화질 혁신과 현지 맞춤형 콘텐츠를 앞세워 프리미엄 TV 시장의 주도권을 이어갈 방침. 삼성D, 크래프톤과 손잡고 '게이머...",
+   "published": "2026-11-21T15:00+09:00",
+   "host": "news.bizwatch.co.kr",
+   "questions": [
+    "C1",
+    "S1",
+    "S3",
+    "X1",
+    "X2"
+   ],
+   "queries": [
+    "AI 표시 기준 가전",
+    "가전 시장 규모 국내",
+    "로보락 실적",
+    "로보락 점유율",
+    "로보락 출시",
+    "로봇청소기 점유율 국내",
+    "삼성 AI 가전 소비자 조사",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시"
+   ],
+   "also": [],
+   "cues": [
+    "매출"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1176525",
+   "naver_url": "https://www.wikitree.co.kr/articles/1176525",
+   "title": "넷마블 부스 없는 지스타 2026 찾은 방준혁 의장, 대학생 게임에 가장 오...",
+   "desc": "방준혁 넷마블·코웨이 의장이 '지스타 2026' 현장을 직접 찾았다. 넷마블이 올해 지스타에 독립 부스를... 넷마블은 올해 1분기 실적에서 넷마블에프앤씨가 개발한 '일곱 개의 대죄: 오리진'이 3월 17일 정식 출시됐다고...",
+   "published": "2026-11-21T13:28+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "O1"
+   ],
+   "queries": [
+    "코웨이 실적",
+    "코웨이 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.koreadaily.com/article/20261120200909314",
+   "naver_url": "https://www.koreadaily.com/article/20261120200909314",
+   "title": "\"설거지하고 나가세요\" 에어비앤비 20일부터 금지",
+   "desc": "숙소와 가구, 가전제품도 정상적으로 사용해야 하며, 시설을 파손하거나 전문적인 대청소가 필요할 정도로... 일반적으로 온라인 플랫폼을 통해 주택 전체나 일부를 28일 이하로 빌려주는 형태다. 이 수치에는 에어비앤비...",
+   "published": "2026-11-21T13:10+09:00",
+   "host": "www.koreadaily.com",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ddaily.co.kr/page/view/2026112017413532338",
+   "naver_url": "https://n.news.naver.com/mnews/article/138/0002249445?sid=105",
+   "title": "성수동 팝업 3배나 늘린 中 TCL…'SQD 미니 LED'에 집중하는 이유",
+   "desc": "삼성전자가 점유율 26%로 선두를 탈환할 것으로 전망했다. ◆ 가성비 넘어 프리미엄…한국서 종합가전... 이 가운데 세탁기·건조기 세트는 내년 상반기 국내 출시를 염두에 두고 물류 등을 준비하고 있다....",
+   "published": "2026-11-21T13:00+09:00",
+   "host": "www.ddaily.co.kr",
+   "questions": [
+    "C5",
+    "S1",
+    "S4",
+    "X1",
+    "X3"
+   ],
+   "queries": [
+    "TCL 한국 실적",
+    "TCL 한국 출시",
+    "TCL 한국 팝업",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 팝업",
+    "에어컨 점유율 국내",
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [
+    "팝업"
+   ],
+   "q_title": [
+    "C5"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "성수동 팝업 3배나 늘린 中 TCL…`SQD 미니 LED`에 집중하는 이유 - 디지털데일리",
+    "◆ 삼성·LG는 RGB…TCL의 기술 선택 기준은 '안정성'",
+    "삼성전자와 LG전자가 적색·녹색·청색(RGB) LED를 백라이트 광원으로 사용하는 마이크로 RGB TV를 확대하는 것과는 다른 접근법이다.",
+    "TCL은 TV 완제품 시장에서는 삼성전자·LG전자와 경쟁하지만, 그룹 내 CSOT는 양사에 TV용 패널을 공급하는 관계이기도 하다.",
+    "다만 삼성전자와 LG전자의 추격도 거세다",
+    "김 매니저는 \"한국 소비자들의 기준이 워낙 높다 보니 서비스를 어떻게 개선할지 고민하고 있다\"며 \"삼성이나 LG는 서비스 기반이 잘 돼 있고 초기 대응이 빠른 편이다"
+   ]
+  }
+ ],
+ "stats_triage": {
+  "A": 2,
+  "B": 6,
+  "C": 1,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 2,
+  "ok": 2,
+  "실패": 0
+ }
+}
