@@ -1,0 +1,968 @@
+{
+ "date": "2026-11-28",
+ "collected_at": "2026-11-28T10:59+09:00",
+ "lookback_days": 14,
+ "count": 34,
+ "stats": {
+  "S1": {
+   "queries": 13,
+   "api_items": 2200,
+   "in_window": 1142,
+   "kept": 14,
+   "errors": 0
+  },
+  "S2": {
+   "queries": 14,
+   "api_items": 1400,
+   "in_window": 194,
+   "kept": 0,
+   "errors": 0
+  },
+  "S3": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 64,
+   "kept": 0,
+   "errors": 0
+  },
+  "S4": {
+   "queries": 10,
+   "api_items": 941,
+   "in_window": 28,
+   "kept": 0,
+   "errors": 0
+  },
+  "S5": {
+   "queries": 11,
+   "api_items": 1022,
+   "in_window": 33,
+   "kept": 1,
+   "errors": 0
+  },
+  "S6": {
+   "queries": 11,
+   "api_items": 1100,
+   "in_window": 249,
+   "kept": 0,
+   "errors": 0
+  },
+  "S7": {
+   "queries": 11,
+   "api_items": 1281,
+   "in_window": 304,
+   "kept": 3,
+   "errors": 0
+  },
+  "C1": {
+   "queries": 12,
+   "api_items": 1186,
+   "in_window": 136,
+   "kept": 0,
+   "errors": 0
+  },
+  "C2": {
+   "queries": 12,
+   "api_items": 1048,
+   "in_window": 10,
+   "kept": 1,
+   "errors": 0
+  },
+  "C3": {
+   "queries": 12,
+   "api_items": 1075,
+   "in_window": 22,
+   "kept": 0,
+   "errors": 0
+  },
+  "C4": {
+   "queries": 12,
+   "api_items": 1239,
+   "in_window": 171,
+   "kept": 1,
+   "errors": 0
+  },
+  "C5": {
+   "queries": 12,
+   "api_items": 1057,
+   "in_window": 55,
+   "kept": 0,
+   "errors": 0
+  },
+  "C6": {
+   "queries": 40,
+   "api_items": 1998,
+   "in_window": 37,
+   "kept": 0,
+   "errors": 0
+  },
+  "O1": {
+   "queries": 13,
+   "api_items": 1800,
+   "in_window": 964,
+   "kept": 0,
+   "errors": 0
+  },
+  "O2": {
+   "queries": 22,
+   "api_items": 1965,
+   "in_window": 189,
+   "kept": 0,
+   "errors": 0
+  },
+  "O3": {
+   "queries": 22,
+   "api_items": 1967,
+   "in_window": 272,
+   "kept": 9,
+   "errors": 0
+  },
+  "O4": {
+   "queries": 12,
+   "api_items": 998,
+   "in_window": 27,
+   "kept": 0,
+   "errors": 0
+  },
+  "X1": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 212,
+   "kept": 2,
+   "errors": 0
+  },
+  "X2": {
+   "queries": 5,
+   "api_items": 500,
+   "in_window": 57,
+   "kept": 0,
+   "errors": 0
+  },
+  "X3": {
+   "queries": 5,
+   "api_items": 600,
+   "in_window": 172,
+   "kept": 3,
+   "errors": 0
+  },
+  "X4": {
+   "queries": 4,
+   "api_items": 400,
+   "in_window": 36,
+   "kept": 0,
+   "errors": 0
+  }
+ },
+ "items": [
+  {
+   "url": "https://www.fnnews.com/news/202611280926042651",
+   "naver_url": "https://n.news.naver.com/mnews/article/014/0005610996?sid=101",
+   "title": "삼성·LG전자, 美 블프 겨냥 가격 확 낮췄다",
+   "desc": "글로벌 가전 제조사들이 연간 판매 볼륨을 키울 수 있는 주요 분수령으로 꼽힌다. 삼성전자는 올해 출시한 주력 제품들의 가격 문턱을 낮춰 수요 공략에 나섰다. '85인치 마이크로 RGB TV(R95H)'는 종전 6499달러(약...",
+   "published": "2026-11-28T09:56+09:00",
+   "host": "www.fnnews.com",
+   "questions": [
+    "S1",
+    "S2",
+    "S6",
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 프로모션",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 비스포크 AI 실적",
+    "삼성전자 비스포크 AI 출시",
+    "삼성전자 비스포크 AI 프로모션"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2",
+    "S6"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261128501966?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004178773?sid=101",
+   "title": "붕어빵부터 겨울옷·가전까지 최대 99% 할인…이커머스 9곳 주말 할인전",
+   "desc": "11번가 겨울 간식 15% 할인…SSG닷컴 흑산도 홍어 특가 롯데온 최대 85%·W컨셉 80%…쿠팡은 가전·디지털 할인... 쿠팡은 29일까지 ‘가전·디지털 블랙프라이데이’ 기획전을 진행한다. 삼성전자와 LG전자, 인텔, HP, 쿠첸...",
+   "published": "2026-11-28T09:12+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "S5",
+    "S6"
+   ],
+   "queries": [
+    "삼성닷컴 기획전",
+    "삼성닷컴 기획전 가전",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [
+    "할인"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261127_0003886553",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014350445?sid=101",
+   "title": "\"최신 TV, 반값에 드립니다\"…삼성·LG, '美 블랙프라이데이' 연말 대목...",
+   "desc": "삼성전자와 LG전자가 연말을 맞아 TV·생활가전 등 주력 제품에 대한 대대적인 할인 공세에 나선다. 올해 출시한 고가의 프리미엄 신제품을 할인 대상에 포함해 미국 등 주력 시장에서 판매량 확보에 속도를 내고...",
+   "published": "2026-11-28T09:00+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1",
+    "S2",
+    "S6",
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 신제품",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 판촉",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 비스포크 AI 냉장고 신제품",
+    "삼성전자 비스포크 AI 신제품",
+    "삼성전자 비스포크 AI 실적",
+    "삼성전자 비스포크 AI 출시",
+    "삼성전자 비스포크 AI 판촉"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1",
+    "S2",
+    "S6",
+    "X1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261128018700091?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016468630?sid=104",
+   "title": "美블랙프라이데이 대목에도…AI 쇼핑 에이전트는 아직 '찬바람'",
+   "desc": "답한 비중은 23%에 그쳤다. 아메리칸 익스프레스의 조사에서도 식료품이나 저가 생필품 결제를 AI에 맡기겠다는 답변은 52%였던 데 비해, 블랙프라이데이 주력 상품인 가전이나 전자제품 결제도 위임하겠다는 답은 15%로...",
+   "published": "2026-11-28T08:41+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261128501927?OutUrl=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/022/0004178766?sid=101",
+   "title": "패딩부터 가전·먹거리까지…블랙프라이데이 주말, 어디서 얼마나 싸게...",
+   "desc": "크리스마스 팝업 미국 블랙프라이데이(11월 27일)를 맞아 국내 유통업계도 대규모 할인 경쟁에 나섰다. 겨울... 삼성전자와 LG전자, 인텔, HP, 쿠첸, TCL 등 국내외 가전 브랜드가 참여한다. 삼성전자 갤럭시 탭 S12 구매...",
+   "published": "2026-11-28T08:32+09:00",
+   "host": "www.segye.com",
+   "questions": [
+    "S1",
+    "S4",
+    "S5",
+    "S6"
+   ],
+   "queries": [
+    "삼성 강남 체험 공간 행사",
+    "삼성닷컴 기획전",
+    "삼성닷컴 기획전 가전",
+    "삼성전자 가전 팝업",
+    "삼성전자 가전 행사 할인",
+    "삼성전자 가전 혜택 포인트"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://view.asiae.co.kr/article/2026112623364230035",
+   "naver_url": "https://n.news.naver.com/mnews/article/277/0005849025?sid=104",
+   "title": "\"토네이도에 박살 났는데 오히려 대박?\"…블랙프라이데이 강자 된 '이 가...",
+   "desc": "이처럼 미국 최대 쇼핑 시즌에 소비자들이 즐겨 찾는 대표적인 가전매장이 있습니다. 바로 베스트바이(Best... 삼성전자는 2014년 베스트바이 매장에 커브드 UHD TV 등을 체험할 수 있는 전용 공간을 마련했는데요. 매장...",
+   "published": "2026-11-28T07:04+09:00",
+   "host": "view.asiae.co.kr",
+   "questions": [
+    "S1",
+    "S6"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 매장 오픈",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시",
+    "삼성전자 가전 행사 할인"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10952142?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/016/0002729706?sid=101",
+   "title": "로봇이 車 소개하고 9분 만에 충전…中 자동차, 기술 앞세워 韓 정조준...",
+   "desc": "볼보자동차코리아 임원을 한국법인 대표로 선임했다. 이르면 내년 1분기 국내 시장에 진입할 것으로 전망된다. 중형 전기 SUV G6와 대형 전기 미니밴 X9가 유력한 출시 후보로 거론된다. 인근 샤오미 부스에서는 전기...",
+   "published": "2026-11-28T07:01+09:00",
+   "host": "biz.heraldcorp.com",
+   "questions": [
+    "C4"
+   ],
+   "queries": [
+    "샤오미 코리아 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12097513?ref=naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/029/0003061584?sid=101",
+   "title": "[이상현의 전자수첩] 또 스멀스멀 고개드는 ‘메모리 고점론’",
+   "desc": "반도체부터 다양한 가전 신제품, 전자 산업 현장에서 보고 듣고 느낀 이야기들을 수첩에 옮기듯 기록하는... 젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식에 지난 24일 삼성전자와 SK하이닉스 주가는 각각 6.70%, 6.73...",
+   "published": "2026-11-28T06:00+09:00",
+   "host": "www.dt.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 신제품"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.economytalk.kr/news/articleView.html?idxno=425596",
+   "naver_url": "https://www.economytalk.kr/news/articleView.html?idxno=425596",
+   "title": "[진단] \"워라밸 옛말\"… 김홍극 체제 이마트, '조직 혁신' 고삐 죄는 까...",
+   "desc": "가전·문화(-29.1%), 가정·생활(-14.5%), 식품(-13.1%) 등 전 품목이 부진했다. 그 결과 전체 유통 매출에서 대형마트가 차지하는 비중은 7.7%까지 쪼그라들며 지난 6월 7.5% 이후 최저치로 주저앉았다. 반면 온라인 유통은 10.9...",
+   "published": "2026-11-28T06:00+09:00",
+   "host": "www.economytalk.kr",
+   "questions": [
+    "X1"
+   ],
+   "queries": [
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1178491",
+   "naver_url": "https://www.wikitree.co.kr/articles/1178491",
+   "title": "Sand.ai MAGI-2, 품질은 시댄스 2.5와 동률인데 가격은 7분의 1 수준",
+   "desc": "1080p 영상 1초당 API 가격은 0.08달러로, 비슷한 품질을 내는 경쟁 서비스의 약 7분의 1이다.출시 하루 만에... 보도에 따르면 MAGI-2는 드리미나 시댄스 2.5(Dreamina Seedance 2.5)와 통계적으로 같은 수준으로 순위를...",
+   "published": "2026-11-27T22:38+09:00",
+   "host": "www.wikitree.co.kr",
+   "questions": [
+    "C2"
+   ],
+   "queries": [
+    "드리미 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112754081",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005359170?sid=101",
+   "title": "\"없어서 못 판다더니 웬일\"…반도체 시장에 심상찮은 신호",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다.... 오문욱 삼성전자 부사장은 이날 대한전자공학회 추계학술대회 기조연설에서 “세계 AI 인프라 구축 규모가 예상을...",
+   "published": "2026-11-27T17:48+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112753921",
+   "naver_url": "https://n.news.naver.com/mnews/article/015/0005359167?sid=101",
+   "title": "바이오·로봇·배터리 급등…코스닥 간만에 웃었다",
+   "desc": "한경 프리미엄9(www.hankyung.com/premium9)을 구독하시면 더 많은 주식 투자 기사를 찾아볼 수 있습니다.... 유가증권시장에서도 외국인(1조4233억원)과 기관(1995억원)이 순매수하며 삼성전자(4.55%)와 SK하이닉스(5.41%)를...",
+   "published": "2026-11-27T17:46+09:00",
+   "host": "www.hankyung.com",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ceoscoredaily.com/page/view/2026112717172812043",
+   "naver_url": "https://www.ceoscoredaily.com/page/view/2026112717172812043",
+   "title": "인도서 몸집 키우는 삼성·LG ‘희비’ … 삼성, 스마트폰 정체 vs LG, 가...",
+   "desc": "반면 LG전자는 생활가전과 TV 등 주요 제품의 판매 호조에 힘입어 인도법인의 실적 개선세를 이어가고... 인도 경제지 이코노믹타임스에 따르면, 삼성전자 인도법인은 지난 9월 TV·생활가전 사업부문 직원 80~100명에게...",
+   "published": "2026-11-27T17:26+09:00",
+   "host": "www.ceoscoredaily.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2031387",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001079176?sid=101",
+   "title": "삼성증권發 보안 경고음…삼성전자도 주요 시스템 점검",
+   "desc": "다만 연말 인사와 조직개편, 내년도 사업계획 수립 등이 맞물려 있어 정식 경영진단으로 이어질지는 아직 미지수다. 삼성전자는 스마트폰과 TV, 생활가전 등 다양한 제품과 서비스를 통해 전 세계 고객의 개인정보를...",
+   "published": "2026-11-27T17:05+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=244431",
+   "naver_url": "https://news.skbroadband.com/news/articleView.html?idxno=244431",
+   "title": "17년 검역 빗장 뚫었다…중국 대륙 향하는 'K-단감'",
+   "desc": "한국산 단감이 이 중국 시장에 팔리기 시작했는데요. 식감과 맛에서 경쟁력이 있기 때문인데요. 17년간의... com] \"17년 만에 열린 중국 수출길, 이제 우리 단감 농가에 새로운 판로가 열리고 있습니다. B tv 뉴스...",
+   "published": "2026-11-27T16:50+09:00",
+   "host": "news.skbroadband.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 TV 한국 시장"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "X3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://newscham.net/130233/",
+   "naver_url": "https://newscham.net/130233/",
+   "title": "최저임금보다 낮은 기본급, 급식실이 멈춘 이유",
+   "desc": "이튿날 삼성전자는 30조 원 규모의 분기 배당을 지급했고, 이재용 회장 한 사람 몫이 세전 약 4488억 원이다.... 민중언론 참세상 뉴스레터를 구독하시면 매일 저녁 메일함에서 데일리 큐레이션 뉴스를 받아 보실 수...",
+   "published": "2026-11-27T16:42+09:00",
+   "host": "newscham.net",
+   "questions": [
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261127001218",
+   "naver_url": "https://www.newspim.com/news/view/20261127001218",
+   "title": "공기질과 인테리어를 동시에…SK매직 '올클린 디 아트 공기청정기' 주목",
+   "desc": "SK매직의 '올클린 디 아트(The Art) 공기청정기'는 실내 공기질 관리 기능과 디자인을 결합한 제품이다.... 공기 오염도에 따라 토출구 높이가 자동으로 바뀌는 3단계 청정 팝업 시스템도 탑재했다. 실내 오염 상태에 맞춰...",
+   "published": "2026-11-27T16:20+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK매직 팝업"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261127040751008?input=1195m",
+   "naver_url": "https://n.news.naver.com/mnews/article/001/0016468074?sid=101",
+   "title": "[특징주] 로봇주, 수요 확대 기대감에 급등…일부 상한가(종합)",
+   "desc": "김석환 미래에셋증권 연구원은 \"삼성전자가 내년 CES(세계 가전·IT 전시회)에서 자체 휴머노이드 로봇을... 이는 실적 추정치의 추가 상향 요인이 될 것\"이라고 봤다. 이어 \"현대차그룹의 스마트팩토리와 로봇 도입...",
+   "published": "2026-11-27T15:44+09:00",
+   "host": "www.yna.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "확대"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.topdaily.kr/articles/113177",
+   "naver_url": "https://www.topdaily.kr/articles/113177",
+   "title": "[TOP's Pick] [전자·IT] 네이버, ‘골프장 실시간 예약’ 기능 도입 外",
+   "desc": "특히 온라인 국민투표 결과가 50% 비중으로 반영됐으며 상생협력 제도 및 사업 추진 실적, 신사업 진출 성과, 자체 상생 프로그램 운영 실적 등을 종합적으로 평가. SK인텔릭스는 협력사와의 동반성장을 위한 다양한...",
+   "published": "2026-11-27T15:41+09:00",
+   "host": "www.topdaily.kr",
+   "questions": [
+    "O3",
+    "X1"
+   ],
+   "queries": [
+    "SK인텔릭스 실적",
+    "가전 온라인 비중"
+   ],
+   "also": [],
+   "cues": [
+    "도입"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://it.donga.com/110032/",
+   "naver_url": "https://it.donga.com/110032/",
+   "title": "스타트업 성과 공유하고 소통과 나눔의 가치 알린 “2026 SBA 커뮤니티 데...",
+   "desc": "지금이야 삼성전자와 LG전자가 가전 구독에 뛰어들어 대중에게 익숙해졌지만, 당시 가구 구독을 이야기하면... 일반 유통사로 보이지 않기 위해 '40단계 내부 오디션을 통과한 제품만 출시한다'는 서사를 발굴한 간편식...",
+   "published": "2026-11-27T15:26+09:00",
+   "host": "it.donga.com",
+   "questions": [
+    "S1",
+    "S4",
+    "S7"
+   ],
+   "queries": [
+    "삼성전자 AI 구독",
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 광고 캠페인",
+    "삼성전자 가전 영화 드라마 협업",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 출시",
+    "삼성전자 구독 가전 이용",
+    "삼성전자 방문케어",
+    "삼성전자서비스 만족도 수상 평가",
+    "삼성전자서비스 방문 점검 서비스 확대"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261127145133707",
+   "naver_url": "https://www.ajunews.com/view/20261127145133707",
+   "title": "공정위, 상생협력·하도급대금 연동 우수기업 64곳 표창",
+   "desc": "올해 하도급·가맹·유통·대리점 분야 268개 기업의 공정거래협약 이행실적을 평가해 최우수 등급을 받은... 하도급대금 연동 우수기업으로는 SK인텔릭스, LS전선, LG에너지솔루션, 이랜드월드, 카카오, 현대모비스...",
+   "published": "2026-11-27T15:16+09:00",
+   "host": "www.ajunews.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1720568/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003160320?sid=101",
+   "title": "공정위, 상생협력 최우수기업 57곳 표창…연동 우수 7곳 선정",
+   "desc": "공정거래위원회가 대·중소기업 간 상생협력 실적이 우수한 기업 57곳과 하도급대금 연동제 우수기업 7곳을... 하도급대금 연동제 우수기업으로는 SK인텔릭스, LS전선, LG에너지솔루션, 이랜드월드, 카카오, 현대모비스...",
+   "published": "2026-11-27T15:01+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH202611271415064A8",
+   "naver_url": "https://n.news.naver.com/mnews/article/422/0000930550?sid=101",
+   "title": "[CEO풍향계] 'KB 새 얼굴' 이재근…'AI 재도약' 김범수",
+   "desc": "한 세탁기 부품 협력사는 공정 자동화를 통해 불량률을 90% 낮추면서 생산성을 20% 높였고, 에어컨 부품... 2003년 중국을 시작으로 해외시장에 진출한 BBQ는 현재 전 세계 57개국에서 800여 개 매장을 운영하고 있는데요. 특히...",
+   "published": "2026-11-27T15:01+09:00",
+   "host": "www.yonhapnewstv.co.kr",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 신뢰 보안 논란",
+    "중국 에어컨 한국 진출"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news1.kr/economy/trend/6368466",
+   "naver_url": "https://n.news.naver.com/mnews/article/421/0009314446?sid=101",
+   "title": "공정위, 상생협력·하도급대금 연동 우수기업 64개 사 표창",
+   "desc": "하도급대금 연동 우수기업으로는 SK인텔릭스와 LS전선, LG에너지솔루션, 이랜드월드, 카카오, 현대모비스, 현대케피코 등 7곳을 선정했다. 연동계약 체결과 대금 조정 실적, 제도 확산 노력 등을 평가했다. 사례 발표에서는...",
+   "published": "2026-11-27T15:00+09:00",
+   "host": "www.news1.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261127000842",
+   "naver_url": "https://www.newspim.com/news/view/20261127000842",
+   "title": "공정위, 공정거래협약·하도급대금 연동 우수기업 64곳 선정",
+   "desc": "공정위는 올해 하도급·가맹·유통·대리점 분야 268개 기업을 대상으로 공정거래협약 이행실적을 평가해... 하도급대금 연동제를 모범적으로 실천하고 제도 확산에 기여한 SK인텔릭스, LS전선, LG에너지솔루션, 이랜드월드...",
+   "published": "2026-11-27T15:00+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [
+    "협약"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://sateconomy.co.kr/news/view/1065589809157724",
+   "naver_url": "https://sateconomy.co.kr/news/view/1065589809157724",
+   "title": "SK인텔릭스, 상생기업 대상 중기부 장관 표창…AI 표준화도 수상",
+   "desc": "설계부터 출시 이후 운영까지 제품 안전을 관리하는 절차를 마련한 점이 평가 대상에 포함됐다. SK인텔릭스는 협력사 지원 프로그램을 운영하는 한편, 국제표준에 기반한 품질관리 절차를 후속 AI 제품 개발에도...",
+   "published": "2026-11-27T14:50+09:00",
+   "host": "sateconomy.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 출시"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "http://www.inews24.com/view/2031261",
+   "naver_url": "https://n.news.naver.com/mnews/article/031/0001079082?sid=102",
+   "title": "2차전지 밀어낸 로봇주⋯치솟는 몸값, 실적 뒷받침 관건",
+   "desc": "삼성전자가 내년 1월 초 미국 라스베이거스에서 열리는 가전·정보기술(IT) 전시회'CES 2027'에서 자체 개발한... 산업 성장에 대한 기대가 실적으로 확인되기까지는 시간이 필요하기 때문이다. 레인보우로보틱스는 지난...",
+   "published": "2026-11-27T14:21+09:00",
+   "host": "www.inews24.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "실적"
+   ],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261127000588",
+   "naver_url": "https://www.newspim.com/news/view/20261127000588",
+   "title": "SK인텔릭스, '2026 올해의 상생기업 대상' 중기부 장관 표창 수상",
+   "desc": "온라인 국민투표 결과가 50% 비중으로 반영됐으며, 상생협력 제도 및 사업 추진 실적, 신사업 진출 성과, 자체 상생 프로그램 운영 실적 등을 종합적으로 평가했다. 권준호 SK인텔릭스 지속경영실장(왼쪽 첫번째)이...",
+   "published": "2026-11-27T13:58+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261127000495",
+   "naver_url": "https://www.newspim.com/news/view/20261127000495",
+   "title": "첫 수주 앞둔 LG전자 '로봇 관절'…美 관세 '최대 25%' 변수",
+   "desc": "중국산 로봇 부품에 대한 높은 관세는 후발주자인 LG전자에 미국 시장 진입 기회가 될 수 있다. 다만... USTR은 한국 정부가 추진하는 휴머노이드 로봇 세계 시장점유율 20% 달성 목표도 조사 보고서에 명시했다. 반도체와...",
+   "published": "2026-11-27T13:50+09:00",
+   "host": "www.newspim.com",
+   "questions": [
+    "X3"
+   ],
+   "queries": [
+    "중국 가전 한국 점유율"
+   ],
+   "also": [],
+   "cues": [],
+   "q_title": [],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.jasm.co.kr/news/view/326706/?sc=Naver",
+   "naver_url": "https://www.jasm.co.kr/news/view/326706/?sc=Naver",
+   "title": "삼성전자, M&A 전담조직 신설…미래 성장동력 확보 힘 싣는다",
+   "desc": "기존 생활가전 사업의 수익성을 개선하는 동시에 미래 성장동력으로 낙점한 냉난방공조 사업을 본격적으로 키우기 위한 조직 개편으로 풀이된다. 삼성전자는 올해 4월 가전사업 재편 방향을 제시하면서 고성장이...",
+   "published": "2026-11-27T13:38+09:00",
+   "host": "www.jasm.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [
+    "신설"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "삼성전자, M&A 전담조직 신설…미래 성장동력 확보 힘 싣는다 - 중앙신문",
+    "27일 업계에 따르면 삼성전자에서 스마트폰·가전 등을 담당하는 디바이스경험(DX) 부문은 이 같은 내용의 후속 인사와 조직개편을 확정하고 구성원을 대상으로 설명회를 했다.",
+    "삼성전자는 지난해 11월 그룹의 컨트롤타워 역할을 하는 사업지원태스크포스(TF)를 사업지원실로 개편하면서 산하에 M&A팀을 별도로 꾸린 바 있다.",
+    "삼성전자는 지난해 독일 냉난방공조 업체 플랙트그룹을 15억유로(약 2조5천억원) 인수하며 8년 만에 조 단위 M&A를 재개했다",
+    "삼성전자는 올해 4월 가전사업 재편 방향을 제시하면서 고성장이 예상되는 중앙공조 시장을 플랙트그룹과 함께 집중적으로 공략하겠다고 밝힌 바 있다.",
+    "'성과에 보상' 삼성전자, '역대 최대 실적' 반도체서 임원 70명 발탁 수정 2026.11.24 09:53"
+   ],
+   "og_date": "2026-11-27T13:38:03+09:00"
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1720554/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003160266?sid=101",
+   "title": "주주 소송에 노조 간 셈법도 복잡…삼성전자 성과급 갈등 2라운드",
+   "desc": "삼성전자가 올해 성과급 노사합의를 둘러싼 논란을 해소하지 못한 채 내년도 임금·단체협약(임단협)을... 지난해 실적 기준 OPI 지급률은 모바일경험(MX)사업부가 연봉의 50%에 달한 반면 영상디스플레이(VD)와 생활가전(DA)...",
+   "published": "2026-11-27T12:54+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 실적"
+   ],
+   "also": [],
+   "cues": [
+    "소송"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "주주 소송에 노조 간 셈법도 복잡…삼성전자 성과급 갈등 2라운드",
+    "27일 업계에 따르면 수원지방법원에서는 이날 오후 1시 민경권 대한민국주주운동본부 대표가 삼성전자와 초기업노동조합 삼성전자지부(초기업노조), 전국삼성전자노동조합(전삼노)을 상대로 제기한 단체협약 부존재확인 소송의 재판이 열린다.",
+    "삼성전자 주주인 민 대표가 문제 삼은 것은 지난 5월 20일 작성돼 같은 달 27일 조합원 찬반투표 가결로 효력이 발생한 '2026년 성과급 노사합의'다",
+    "지난 7월 경기도 수원시 영통구 삼성전자 수원사업장 앞에서 삼성전자노동조합 동행(동행노조) 조합원들이 성과급 격차 등에 반발하며 구호를 외치고 있다.ⓒ 연합뉴스",
+    "삼성전자와 SK그룹은 25만 달러로 책정된 최상위 후원 등급에 나란히 이름을 올렸다",
+    "인공지능(AI) 열풍에 메모리 반도체 품귀 현상이 심화하면서 세계적인 기업가 일론 머스크 테슬라 최고경영자(CEO)마저 삼성전자의 반도체를 확보하기 위해 진땀을 뺀 일화가 공개됐다.미 월스트리트저널(WSJ)은 25일(현지시간) 캐피털그룹의 칼 카와자 포트폴리오 매니저가 지난 6월 한 콘퍼런스에서 머스크 CEO와 나눴던 대화를 공개했다고 보도했다"
+   ],
+   "og_date": "2026-11-27T12:53:00+09:00"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261127_0003885886",
+   "naver_url": "https://n.news.naver.com/mnews/article/003/0014349174?sid=101",
+   "title": "삼성전자, M&A 전담조직 신설에…'로봇 빅딜' 기대감 솔솔",
+   "desc": "27일 업계에 따르면 삼성전자는 전날 조직개편을 통해 디바이스경험(DX)부문에 M&A를 담당하는 '코퍼레이트 디벨롭먼트(Corporate development)팀'을 신설하기로 했다. 최근 DX부문이 생활가전·TV 등 주요 사업에서 부진을 겪고...",
+   "published": "2026-11-27T11:46+09:00",
+   "host": "www.newsis.com",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [
+    "신설"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "[서울=뉴시스] 조성우 기자 = 8일 서울 강남구 코엑스에서 열린 삼성SDS '리얼 서밋 2026'에서 참가자들이 레인보우로보틱스의 AI 사족보행 로봇 시연을 지켜보고 있다",
+    "27일 업계에 따르면 삼성전자는 전날 조직개편을 통해 디바이스경험(DX)부문에 M&A를 담당하는 '코퍼레이트 디벨롭먼트(Corporate development)팀'을 신설하기로 했다.",
+    "[서울=뉴시스] 박나리 기자 = 27일 서울 서초구 삼성전자 서울R&D캠퍼스에 위치한 RX사업추진실 건물 앞.",
+    "삼성전자는 2024년 로봇팔 개발기업 레인보우로보틱스를 자회사로 편입했는데, 이번에는 로봇의 두뇌 역할을 하는 AI 모델이나 제어 소프트웨어 등 분야에서 유망 기업을 찾을 가능성이 있다.",
+    "삼성전자, 완제품부문 M&A 전담조직 신설…\"미래 먹거리 발굴 총력\" 메모리 반도체 다음은?…임원인사로 본 삼성전자 '미래 먹거리' 지형도 삼성전자, 여성 임원 승진 역대 최다…11명 중 7명 반도체 인재 갤럭시 지휘봉 내려놨다…삼성전자 노태문 사장, 로봇사업 '드라이브'",
+    "2030년에도 작년만큼 못 판다…폰 시장 '잃어버린 5년', 삼성·애플은?"
+   ],
+   "og_date": "2026-11-27T12:50:23+09:00"
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1720530/?sc=Naver",
+   "naver_url": "https://n.news.naver.com/mnews/article/119/0003160239?sid=101",
+   "title": "SK인텔릭스, '올해의 상생기업 대상' 중기부 장관 표창 수상",
+   "desc": "온라인 국민투표 결과가 50% 반영됐으며 상생협력 제도 및 사업 추진 실적, 신사업 진출 성과, 자체 상생 프로그램 운영 실적 등을 종합적으로 평가했다. SK인텔릭스는 동반성장 종합평가에서 전년 대비 320% 상승한 평가...",
+   "published": "2026-11-27T11:19+09:00",
+   "host": "www.dailian.co.kr",
+   "questions": [
+    "O3"
+   ],
+   "queries": [
+    "SK인텔릭스 실적"
+   ],
+   "also": [
+    {
+     "url": "https://www.sentv.co.kr/article/view/sentv202611270108",
+     "host": "www.sentv.co.kr",
+     "published": "2026-11-27T11:50+09:00"
+    }
+   ],
+   "cues": [],
+   "q_title": [
+    "O3"
+   ],
+   "tier": "B",
+   "similar": []
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261127500101",
+   "naver_url": "https://www.news2day.co.kr/article/20261127500101",
+   "title": "삼성전자, DX·DS 조직 재정비… 성장사업 중심 개편",
+   "desc": "3분기 실적 컨퍼런스콜에서도 이미 이 같은 전략 실행을 예고한 바 있다. 당시 삼성전자는 “2027년... 홈 AI팀은 스마트폰을 중심으로 TV와 생활가전 등 삼성전자 제품 간 연결성을 높이고 사업부 간 협업과 시너지...",
+   "published": "2026-11-27T11:12+09:00",
+   "host": "www.news2day.co.kr",
+   "questions": [
+    "S1"
+   ],
+   "queries": [
+    "삼성전자 가전 AI 가전 전략",
+    "삼성전자 가전 실적",
+    "삼성전자 가전 전략 발표",
+    "삼성전자 가전 조직 개편 생활가전"
+   ],
+   "also": [],
+   "cues": [
+    "개편"
+   ],
+   "q_title": [
+    "S1"
+   ],
+   "tier": "A",
+   "similar": [],
+   "fetch": "ok",
+   "excerpt": [
+    "27일 업계에 따르면 삼성전자는 후속 인사와 조직개편을 확정하고 구성원을 대상으로 설명회를 진행했다.",
+    "앞서 삼성전자는 지난해 11월 사업지원태스크포스(TF)를 사업지원실로 개편하면서 산하에 M&A팀을 신설한 바 있다.",
+    "당시 삼성전자는 “2027년 스마트폰 시장은 재료비 상승을 상쇄하기 위한 가격 인상으로 중저가 제품 중심의 판매량 감소 추세가 이어질 전망이다",
+    "삼성전자는 지난 4월 가전사업 재편 방향을 발표하면서 플랙트그룹과 협력해 성장성이 높은 중앙공조 시장을 공략하겠다는 계획을 제시한 바 있다.",
+    "특히 오스틴법인장 인사의 경우 삼성전자가 2027년 양산을 목표로 미국 텍사스주 테일러 파운드리 1공장의 장비 셋업과 시험 가동 준비를 진행하고 있는 만큼, 북미 첨단 파운드리 생산 거점 확대를 본격화하기 위한 현지 운영 체계 재정비 조치의 일환으로 풀이된다.",
+    "[관련기사] 삼성전자, DX·DS 조직 재정비… 성장사업 중심 개편 [투데이 Pick] '7개 노조'로 쪼개진 삼성전자… 내년 임단협 최대 변수 ‘노노 갈등’ [재계 인사이드] 삼성전자 고액 배당, 2차 수혜자는 이마트와 KCC [재계 인사이드] 인수 10년, 삼성전자 ‘하만(Harman)’에 무슨 일? [이태희의 JOB채(107)] 삼성전자의 AI시대 용인술, ‘새 피’보다 ‘경험’을 선택했다"
+   ]
+  }
+ ],
+ "stats_triage": {
+  "A": 4,
+  "B": 30,
+  "C": 0,
+  "similar": 0
+ },
+ "stats_excerpt": {
+  "대상": 4,
+  "ok": 4,
+  "실패": 0
+ }
+}
